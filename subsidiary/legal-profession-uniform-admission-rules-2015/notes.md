@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Legal Profession Uniform Admission Rules 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Legal Profession Uniform Admission Rules 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement/Applied in WA
 Legal Profession Uniform Admission Rules 2015 | 1 Jul 2015 p. nil (published on NSW legislation website) | 1 Jul 2022 (see WA 2022/9 s. 14)
@@ -8,9 +8,6 @@ Legal Profession Uniform General Amendment (Conditional Costs Agreements) Rule 2
 Legal Profession Uniform General Amendment (Interest Rate) Rule 2021 | 14 Jul 2022 p. 4127-30 | 1 Jul 2022 (see WA 2022/9 s. 14)
 Legal Profession Uniform General Amendment (Managed Investment Schemes) Rule 2021 | 14 Jul 2022 p. 4131-5 | 1 Jul 2022 (see WA 2022/9 s. 14)
 Legal Profession Uniform Admission Amendment (Qualifications) Rule 2025 | 20 May 2025 p. 667-72 | 1 Jul 2025 (see r. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
-Citation | Published | Commencement
 Legal Profession Uniform Admission Amendment (Administrative Review Tribunal) Rule 2025 | 9 Sep 2025 p. 1557-61 | 31 Oct 2025 (see r. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
