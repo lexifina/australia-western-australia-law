@@ -1,13 +1,17 @@
 ### Form 28Devolution
- | Form 28 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 102)
- |  | DEVOLUTIONNo.
- | (a)Type (b)Number (c)Mineral Field (d)Number of shares | Details of Mining Tenement (or application therefor) and interest (a)(b) (c)(d)
- | (e)Document from which title derived | (e)
- | (f)Full name and address of executor or administrator | (f)
- | *Copy of document to be attached | hereby applies to be registered as the holder of the above mentioned interest and *attached hereto is a copy of the document referred to in (e) above DATED this day of 20
- | (g)Signature of executor or administrator | (g) ...............................................................................................................
- | LODGING PARTY (h)Full name and address (for return of documents) | (h)
+Form 28 | WESTERN AUSTRALIA Mining Act 1978 (r. 102)
+ | DEVOLUTIONNo.
+(a)Type (b)Number (c)Mineral Field | Details of Mining Tenement (or application therefor) (a) (b) (c) (d)
+(d)Number of shares
+(e)Document from which title derived | (e)
+EXECUTOR OR ADMINISTRATOR (see Note 1) (f)Full name (g)ACN/ABN (if applicable) (h)Service address (i)Optional information (email address, telephone) (j)Designated Tenement Contact (see Note 2) (i)Full name (ii)Postal address (Street/Post Box/Locked Bag, Suburb, State, Postcode, Country) (iii)Email address (iv)Optional information (telephone) | (f), (g), (h) & (i) | (j)
+*Copy of document to be attached | applies to be registered as the holder of the above mentioned interest and *attached is a copy of the document referred to in (e) above.
+ | DATED this |  | day of |  | 20
+(k)Signature of executor or administrator | (k)..................................................................................................................
+LODGING PARTY (l)Full name and address (for return of documents) | (l)
 OFFICIAL USE
-Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ............................................................................................
+Received at ................................am/pm on .................................. 20..... with fee of $ ............................................................................................
 .................................................................... Mining Registrar
-[Form 28 amended: Gazette 2 Oct 1987 p. 3835; 31 May 1991 p. 2705-6; 3 Feb 2006 p. 528; 15 Jan 2010 p. 130; 9 Nov 2012 p. 5440-1.]
+Notes:1. The executor or administrator must include their full name (individual or company) and service address. The Mining Regulations 1981 regulation 84A(1) defines service address.
+2.The executor or administrator must include the full name (individual or company), postal address and email address of their designated tenement contact for the tenement or application, to be used for correspondence. The executor or administrator may only have 1 designated tenement contact for the tenement or application and may nominate themselves as the designated tenement contact.
+[Form 28 inserted: SL 2025/183 r. 31.]

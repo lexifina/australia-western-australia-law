@@ -11,4 +11,5 @@
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ ................................................................................................
 .................................................................... Mining Registrar
-[Form 14 inserted: Gazette 31 May 1991 p. 2701-2; amended: Gazette 15 Jan 2010 p. 123; 9 Nov 2012 p. 5422-3.]
+NOTE:The address for return of documents must be the holder’s principal place of business (or their agent’s) or residence (not a postal address).
+[Form 14 inserted: Gazette 31 May 1991 p. 2701-2; amended: Gazette 15 Jan 2010 p. 123; 9 Nov 2012 p. 5422-3; SL 2025/183 r. 23.]

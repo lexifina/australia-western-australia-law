@@ -14,4 +14,5 @@ OFFICIAL USE
 A NOTICE OF OBJECTION may be lodged at any mining registrar’s office on or before the .......... day of ............ 20....... and the hearing will take place on the ......... day of .......... 20........
 Received at ................................a.m./p.m. on .................................. 20..... with fee of $ .................................................................................................
 .................................................................... Mining Registrar
-[Form 18 inserted: Gazette 17 Jan 2003 p. 107-8; amended: Gazette 3 Feb 2006 p. 603; 15 Jan 2010 p. 123; 18 Mar 2011 p. 925; 9 Nov 2012 p. 5426-7; SL 2020/108 r. 8; SL 2022/118 r. 7.]
+NOTE:The address for service must be the holder’s principal place of business or residence, or their legal practitioner or agent’s principal place of business (not a postal address).
+[Form 18 inserted: Gazette 17 Jan 2003 p. 107-8; amended: Gazette 3 Feb 2006 p. 603; 15 Jan 2010 p. 123; 18 Mar 2011 p. 925; 9 Nov 2012 p. 5426-7; SL 2020/108 r. 8; SL 2022/118 r. 7; SL 2025/183 r. 26.]

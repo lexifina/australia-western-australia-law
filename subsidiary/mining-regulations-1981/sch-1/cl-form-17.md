@@ -12,5 +12,6 @@ OFFICIAL USE
 A NOTICE OF OBJECTION to this application may be lodged at any mining registrar’s office on or before the .............. day of .................................. 20........... and the hearing will take place on the .................... day of .................................. 20............
 Received at ................................a.m./p.m. on .................................. 20...... with fee of $.......... together with the outstanding rent of $............. for the period ending ...../...../.....
 .................................................................... Mining Registrar
-NOTE: If this form is signed by a person who is an employee of the applicant, the person must state the person’s full name and the position in which the person is employed.
-[Form 17 inserted: Gazette 2 Oct 1987 p. 3831-2; amended: Gazette 4 Apr 1997 p. 1780; 15 Jan 2010 p. 123; 18 Mar 2011 p. 925; 9 Nov 2012 p. 5424-5; SL 2022/118 r. 7.]
+NOTES:1.If this form is signed by a person who is an employee of the applicant, the person must state the person’s full name and the position in which the person is employed.
+2.The address for service must be the applicant’s principal place of business or residence, or the legal practitioner’s principal place of business (not a postal address).
+[Form 17 inserted: Gazette 2 Oct 1987 p. 3831-2; amended: Gazette 4 Apr 1997 p. 1780; 15 Jan 2010 p. 123; 18 Mar 2011 p. 925; 9 Nov 2012 p. 5424-5; SL 2022/118 r. 7; SL 2025/183 r. 25.]

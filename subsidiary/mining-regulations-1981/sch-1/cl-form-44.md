@@ -4,7 +4,7 @@ Form 44MINING ACT 1978
 Regulation 120E
 REPORT OF APPROVED SURVEYOR
 (To be lodged for each tenement surveyed)
-TENEMENT TYPE | TENEMENT NUMBER | HOLDER/APPLICANT | DATE OF MARKING | FIELD BOOK NUMBER
+TENEMENT TYPE | TENEMENT NUMBER | HOLDER/APPLICANT | DATE OF MARKING | FIELD RECORD NUMBER
  | YES | NO*
 1.I have surveyed the tenement boundaries in accordance with the regulations.
 2.The boundaries surveyed are in accordance with the Holder’s/Applicant’s/Agent’s markings.
@@ -15,4 +15,4 @@ TENEMENT TYPE | TENEMENT NUMBER | HOLDER/APPLICANT | DATE OF MARKING | FIELD BOO
 ............................................................. APPROVED SURVEYOR.
 NOTE: Any additional information relating to the conduct of this survey should be presented in a written report.
 ............./............/20..........
-[Form 44 inserted: Gazette 5 Jul 1991 p. 3359; amended: Gazette 15 Jan 2010 p. 134.]
+[Form 44 inserted: Gazette 5 Jul 1991 p. 3359; amended: Gazette 15 Jan 2010 p. 134; SL 2025/183 r. 33.]

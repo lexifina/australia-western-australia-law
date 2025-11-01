@@ -9,6 +9,8 @@ Form 9WESTERN AUSTRALIA Mining Act 1978 (Secs. 45, 61, 70E, 78, 88, 91A, 91B) (R
 OFFICIAL USE
 Received at................................am/pm on.................................. 20.....
 .................................................................... Mining Registrar
-NOTES: 1. Reporting obligations under the regulations must be complied with to enable consideration of this application.
+NOTES: 1.Reporting obligations under the regulations must be complied with to enable consideration of this application.
 2.If this application is for an extension of a prospecting licence or an exploration licence, or a renewal of a retention licence, any information or other material required by regulation 16B(2), 23A(2) or 23F(2) (whichever applies) must be lodged before the end of the period of 14 days from the day on which this application is lodged.
-[Form 9 inserted: Gazette 13 Dec 2019 p. 4238-9.]
+3.The holder must include their full name (individual or company) and address. The address must be the holder’s principal place of business or residence (not a postal address).
+4.If an agent of the holder is submitting this application, the agent must include their address. The address must be the agent’s principal place of business (not a postal address).
+[Form 9 inserted: Gazette 13 Dec 2019 p. 4238-9; amended: SL 2025/183 r. 20.]

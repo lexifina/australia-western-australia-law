@@ -6,4 +6,5 @@ Form 13 | WESTERN AUSTRALIA Mining Act 1978 (Reg. 45) NOTICE OF RE-MARKING (to b
 (e)Describe boundaries of retained portion (f)Area of retained portion | Portion Retained (e) (f)
 (g)Date and time of re-marking | (g)
 (h)Signature of holder | (h) ............................................................................................................
-[Form 13 amended: Gazette 15 Jan 2010 p. 122.]
+NOTE:The holder must include their full name (individual or company) and address. The address must be the holder’s principal place of business or residence (not a postal address).
+[Form 13 amended: Gazette 15 Jan 2010 p. 122; SL 2025/183 r. 22.]

@@ -168,6 +168,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt
 Mines and Petroleum Regulations Amendment (Transfer of Royalty Administration) Regulations 2025 Pt. 2 | SL 2025/153 28 Aug 2025 | 1 Sep 2025 (see r. 2(b))
 Mining Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/156 28 Aug 2025 | 9 Sep 2025 (see r. 2(b) and SL 2025/152 cl. 2)
 Mines and Petroleum Regulations Amendment (Geocentric Datum) Regulations 2025 Pt. 2 | SL 2025/172 2 Oct 2025 | 3 Oct 2025 (see r. 2(b))
+Mining Amendment Regulations 2025 | SL 2025/183 29 Oct 2025 | r. 1 and 2: 29 Oct 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2025 (see r. 2(b)(i))
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -192,6 +193,7 @@ Defined terms
 Defined termProvision(s)
 active58K(1)
 additional rent2
+address details84H(1)
 aerial photography120P
 agent137(1)
 allowed period84B(1)
@@ -199,17 +201,19 @@ another tenementSch. 3 cl. 7(5)
 application70A(1), 70BA(1), 70BB(1), 70BC(1), 70BD(1)
 approved surveyor116
 Australian Geodetic DatumSch. 3 cl. 1(1)
+authorised agent84A(1)
 block2, Sch. 3 cl. 1(1)
 CSch. 4 cl. 1
 Centrelink2
 clearing58F(1)
 closure risks58N
 combined mineral exploration report96(1)
-commencement daySch. 3 cl. 1(1)
+commencement day175, Sch. 3 cl. 1(1)
 contractor120P
 counselSch. 4 cl. 1
 date of application2
 date of issue4A
+deemed applicant89AC(1)
 determination137(1)
 Director116, 120P
 document59A(1)
@@ -258,6 +262,7 @@ objection137(1)
 officer137(1)
 operations report96(1)
 other tenementSch. 3 cl. 7(5)
+particulars2
 party137(1)
 permit4A
 permit holder4A
@@ -270,15 +275,18 @@ proceedings137(1)
 production report96(1)
 proprietor2
 registered native title body corporate2
+registered service address2
 release96(1), 96CA(1)
 release date23(2)
 relevant activities58B
 relevant depth101A(1)
 relevant EMA58K(1)
 relevant exploration licence4A
+relevant form84G(1), 89AC(1), 179(1)
 relevant mining activity58C
 relevant operations report58A(1)
 relevant period96CA(1)
+relevant provision180(1)
 reversion licence63A(1)
 riparian vegetation58F(1)
 SCSch. 4 cl. 1
@@ -286,12 +294,16 @@ section2
 senior counselSch. 4 cl. 1
 senior inspector120F(5)
 senior legal practitionerSch. 4 cl. 1
+service address2, 84A(1)
 site58B
 SLPSch. 4 cl. 1
 summons125(1a)
 tenement116
 term2
-working day2
+transitional application175
+transitional holder175
+transition period175
+working day2, 89AE(4)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.

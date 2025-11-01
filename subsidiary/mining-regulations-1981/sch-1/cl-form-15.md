@@ -15,10 +15,10 @@ Mining Registrar
 To the Mining Registrar,
 The date on which I intend to hear an application for forfeiture is ........../........../..........
 In accordance with regulation 49 of the Mining Regulations 1981 —
-(a)notify the holder by post
+(a)notify the holder
 (b)notify any registered mortgagee
 (c)post a notice on your notice board
 (d)publish a notice in the Government Gazette
 ...........................................................................
 Warden
-[Form 15 amended: Gazette 9 Mar 2007 p. 905; 15 Jan 2010 p. 123.]
+[Form 15 amended: Gazette 9 Mar 2007 p. 905; 15 Jan 2010 p. 123; SL 2025/183 r. 24.]

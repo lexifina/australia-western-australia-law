@@ -98,6 +98,9 @@ COPYRIGHT
 9.Each mineral-exploration report must show that written authorisation has been provided by the tenement holder(s), or any other person who is the owner of copyright for any data contained in the report, to allow the Minister to release all information in the report in accordance with regulation 96.
 EXEMPTION FROM EXPENDITURE CONDITIONS
 10.A tenement holder or an authorised agent can apply for an exemption from expenditure on a mining tenement in accordance with section 102 of the Act. Such application should be lodged at any mining registrar’s office.
+ADDRESS FOR SERVICE
+11.A tenement holder must include their full name (individual or company) and address. The address must be the holder’s principal place of business or residence (not a postal address).
+12.If an authorised agent is lodging the Form 5, the agent must include their address. The address must be the authorised agent’s principal place of business (not a postal address).
 ATTACHMENT 1
 SUMMARY OF MINERAL EXPLORATION AND/OR MINING ACTIVITIES
 (Complete in accordance with instructions on pages 3 and 4.)
@@ -143,4 +146,4 @@ Administration/Overheads/Native Title: | SUBTOTAL (E) | $
 (not to exceed 20% of the minimum expenditure commitment or total expenditure on the activities shown at subheadings (A) & (B), whichever is greater)
 TOTAL EXPENDITURE (add SUBTOTALS A to E) | $
 A copy of this page can be obtained by any person on the payment of the prescribed fee in accordance with regulation 96(3).
-[Form 5 inserted: Gazette 11 Jun 1999 p. 2546-51; amended: Gazette 15 Jan 2010 p. 120-1; 18 Mar 2011 p. 924-5; 9 Nov 2012 p. 5419.]
+[Form 5 inserted: Gazette 11 Jun 1999 p. 2546-51; amended: Gazette 15 Jan 2010 p. 120-1; 18 Mar 2011 p. 924-5; 9 Nov 2012 p. 5419; SL 2025/183 r. 19.]

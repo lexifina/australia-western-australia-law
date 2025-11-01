@@ -8,4 +8,5 @@ LODGING PARTY (g)Full name and address (for return of documents) | (g)
 OFFICIAL USE
 Received at ................................a.m./p.m. on .................................. 20.....
 .................................................................... Mining Registrar
-[Form 12 amended: Gazette 2 Oct 1987 p. 3831; 15 Jan 2010 p. 122; 9 Nov 2012 p. 5421-2.]
+NOTE:The address for return of documents must be the holder’s principal place of business (or their agent’s) or residence (not a postal address).
+[Form 12 amended: Gazette 2 Oct 1987 p. 3831; 15 Jan 2010 p. 122; 9 Nov 2012 p. 5421-2; SL 2025/183 r. 21.]
