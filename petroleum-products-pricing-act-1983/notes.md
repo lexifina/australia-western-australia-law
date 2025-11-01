@@ -23,10 +23,11 @@ Acts Amendment (Bankruptcy) Act 2009 s. 66 | 18 of 2009 | 16 Sep 2009 | 17 Sep 2
 Road Traffic Legislation Amendment Act 2012 Pt. 4 Div. 40 | 8 of 2012 | 21 May 2012 | 27 Apr 2015 (see s. 2(d) and Gazette 17 Apr 2015 p. 1371)
 Consumer Protection Legislation Amendment Act 2014 Pt. 9 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Petroleum Products Pricing Amendment Act 2020 | 4 of 2020 | 24 Mar 2020 | s. 1 and 2: 24 Mar 2020 (see s. 2(a)); Act other than s. 1 and 2: 25 Mar 2020 (see s. 2(b))
+Petroleum Retailers Rights and Liabilities Repeal Act 2025 Pt. 3 | 16 of 2025 | 31 Oct 2025 | 1 Nov 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 Now known as the Petroleum Products Pricing Act 1983; short title changed (see note under s. 1).
 The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 Div. 23 reads as follows:
@@ -79,6 +80,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 authorised person31A
+bulk storage3(1)
 business22H(1)
 Commissioner3(1)
 committee3(1)
