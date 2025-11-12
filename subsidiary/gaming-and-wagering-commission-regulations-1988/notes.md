@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Gaming and Wagering Commission Regulations 1988 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Gaming Commission Regulations 1988 | 29 Apr 1988 p. 1295-304 | 2 May 1988 (see r. 2)
@@ -81,6 +81,10 @@ Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
 Gambling Regulations Amendment Regulations (No. 2) 2025 Pt. 3 | SL 2025/30 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
 Gambling Regulations Amendment Regulations 2025 Pt. 5 | SL 2025/35 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 5 | SL 2025/187 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
 Other notes
 Under the Courts Legislation Amendment and Repeal Act 2004 s. 15(7), a reference in a written law to a stipendiary magistrate is, unless the contrary intention appears, to be construed as if it had been amended to be a reference to a magistrate. The reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Formerly referred to the Gaming Commission Act 1987 the short title of which was changed to the Gaming and Wagering Commission Act 1987 by the Racing and Gambling Legislation Amendment and Repeal Act 2003 s. 122. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
