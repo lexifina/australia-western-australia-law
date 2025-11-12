@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Racing Penalties (Appeals) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Racing Penalties (Appeals) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Racing Penalties (Appeals) Regulations 1991 | 12 Apr 1991 p. 1662-3 | 15 Apr 1991 (see r. 2 and Gazette 12 Apr 1991 p. 1597)
@@ -30,6 +30,10 @@ Racing Penalties (Appeals) Amendment Regulations 2022 | SL 2022/119 30 Jun 2022 
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 8 | SL 2022/144 12 Aug 2022 | 1 Jan 2023 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 8 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 2025/187 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
