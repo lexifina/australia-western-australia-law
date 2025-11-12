@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Casino Control (Burswood Island) (Licensing of Employees) Regulations 1985 | 16 Aug 1985 p. 2905-16 | 16 Aug 1985
@@ -46,6 +46,10 @@ Reprint 3: The Casino Control (Burswood Island) (Licensing of Employees) Regulat
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
  | Gambling Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/35 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2025/187 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
