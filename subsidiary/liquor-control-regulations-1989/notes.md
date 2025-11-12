@@ -170,7 +170,7 @@ Liquor Control Amendment Regulations (No. 2) 2025 | SL 2025/149 20 Aug 2025 | r.
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Liquor Control Amendment Regulations (No. 2) 2023 Pt. 4 | SL 2023/196 13 Dec 2023 | 14 Dec 2025 (see r. 2(d))
+Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 6 | SL 2025/187 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
@@ -181,6 +181,7 @@ The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are tran
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
 Disallowed on 13 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
+The Liquor Commission Amendment Regulations (No. 2) 2023 Pt. 4 will not come into operation because the Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 31 was deleted by the Liquor Control Amendment Act 2025 s. 128 before it purported to come into operation (see SL 2023/196 r. 2(d)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -275,4 +276,4 @@ works canteen9A(3)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
