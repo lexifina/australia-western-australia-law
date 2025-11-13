@@ -14,7 +14,8 @@
 10.Forest Products Commission established by the Forest Products Act 2000.
 [11.Deleted]
 12.Heritage Council of Western Australia established under the Heritage of Western Australia Act 1990.
-[13, 14.Deleted]
+13.Keystart established under the Keystart Act 2024 section 6(1).
+[14.Deleted]
 15.Legal Aid Commission of Western Australia established under the Legal Aid Commission Act 1976.
 16.Murdoch University established under the Murdoch University Act 1973.
 17.Parliamentary Commissioner for Administrative Investigations appointed under the Parliamentary Commissioner Act 1971.
@@ -25,4 +26,4 @@
 23.Western Australian Health Promotion Foundation mentioned in the Western Australian Health Promotion Foundation Act 2016 section 5.
 24.Western Australian Mint preserved and continued by the Gold Corporation Act 1987.
 25.Water Corporation established by the Water Corporation Act 1995.
-[Schedule 1 inserted: Gazette 11 Jun 2013 p. 2163-4; amended: Gazette 27 Dec 2013 p. 6472; 24 Jun 2016 p. 2311; 26 Aug 2016 p. 3653; SL 2025/114 r. 4.]
+[Schedule 1 inserted: Gazette 11 Jun 2013 p. 2163-4; amended: Gazette 27 Dec 2013 p. 6472; 24 Jun 2016 p. 2311; 26 Aug 2016 p. 3653; SL 2025/114 r. 4; SL 2025/189 r. 4.]
