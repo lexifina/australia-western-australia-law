@@ -6,7 +6,8 @@ Australian Consumer Law (WA) |  |  | 1 Jan 2011 (see Fair Trading Act 2010 s. 2(
 Australian Consumer Law (WA) |  |  | 1 Jan 2013 (see Fair Trading Amendment Act 2013 s. 5)
 Australian Consumer Law (WA) |  |  | 26 Oct 2018 (see Fair Trading Amendment Act 2019 s. 4)
 Australian Consumer Law (WA) |  |  | 1 Jun 2021 (see Fair Trading Amendment Act 2022 s. 5)
-Treasury Laws Amendment (More Competition, Better Prices) Act 2022 (Cth) | 54 of 2022 (Cth Act) | 9 Nov 2022 | 1 Jul 2023 (see Fair Trading Act (Amending Law) Proclamation 2023)
+Treasury Laws Amendment (More Competition, Better Prices) Act 2022 (Cth) | 54 of 2022 (Cth Act) | 9 Nov 2022 | 1 Jul 2023 (see Fair Trading Act (Amending Law) Proclamation 2023 WA SL 2023/97)
+Treasury Laws Amendment (Fairer for Families and Farmers and Other Measures) Act 2024 (Cth) Sch. 2 it. 4-28 | 136 of 2024 (Cth Act) | 10 Dec 2024 | 27 Nov 2025 (see Fair Trading Act (Amending Law) Proclamation 2025 WA SL 2025/190)
 Other notes
 The Australian Consumer Law text applies as a law of Western Australia under the Fair Trading Act 2010 and may be referred to as the Australian Consumer Law (WA). Section 19(1) of that Act provides that the Australian Consumer Law text consists of:
 (a)Schedule 2 to the Competition and Consumer Act 2010 (Commonwealth) (the Cth Act), as in force on 1 June 2021 and as amended by each provision that —
@@ -25,6 +26,7 @@ Under the Fair Trading Act 2010 s. 19A and 19C, the following Commonwealth amend
 Table of Commonwealth amending laws
 Act Name | Tabled in WA Parliament | Proclamation published in WA
 Treasury Laws Amendment (More Competition, Better Prices) Act 2022 (Cth) | 14 Feb 2023 | Fair Trading Act (Amending Law) Proclamation 2023
+Treasury Laws Amendment (Fairer for Families and Farmers and Other Measures) Act 2024 (Cth) | 17 Jun 2025 | Fair Trading Act (Amending Law) Proclamation 2025
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -37,7 +39,7 @@ adjusted turnover2(1)
 adverse publicity order2(1), 247(2)
 affected person2(1)
 agreement document2(1), 78(2)
-amending Schedule305(1)
+amending Schedule305(1), 306
 applicable industry code2(1)
 application law2(1)
 article2(1)
@@ -63,7 +65,7 @@ Commonwealth mandatory standard2(1)
 Commonwealth Minister2(1)
 Commonwealth recall notice126
 Competition and Consumer Act2(1)
-consumer2, 3(1) and (3)
+consumer2(1), 3(1) and (3)
 consumer contract2(1), 23(3)
 consumer goods2(1)
 consumer protection breach225(1)
@@ -84,7 +86,7 @@ defective goods action2(1)
 defendant157(4), 213, 227, 284(1)
 disclosed purpose2(1), 55(2)
 displayed price2(1), 47(2)
-document2
+document2(1)
 egg2(1), 137A(3)
 enforcement proceeding2(1)
 evidential burden2(1)
@@ -99,12 +101,14 @@ free range egg2(1), 137A(4)
 gift card2(1), 99A
 goods2(1)
 grown2(1), 255(7)
-GST2
+GST2(1)
+incorporated instrument104(5), 134(4)
 industry code2(1)
 information provider2(1), 19(5) and (6)
-information standard2(1), 134(1), 135(1)
+information standard2(1), 134(1)
 injured person237(1), 238(1), 243
 inner container2(1)
+interest2(1)
 interim ban2(1), 109(1) and (2)
 involved2(1)
 joint liability proceedings2(1)
@@ -112,8 +116,8 @@ label2(1)
 lay-by agreement2(1), 96(3)
 linked credit contract2(1), 278(2)
 linked credit provider2(1)
-loan contract2
-major failure2, 260(1) and (2), 268(1) and (2)
+loan contract2(1)
+major failure2(1), 260(1) and (2), 268(1) and (2)
 mandatory standard2(1)
 manufacturer2(1), 7(1)
 market2(1)
@@ -123,10 +127,10 @@ National Credit Code2(1)
 negotiated by telephone2(1), 78(3)
 negotiation2(1), 72
 new participant2(1), 45(2)
-non-linked credit contract287(5)
+non-linked credit contract2(1), 287(5)
 non-party2(1)
 original ban112(1) and (2)
-original consumer91(1) and (2), 184(1), 185
+original consumer91(1), 92, 184(1), 185
 original recall notice126
 original services11
 original supplier11, 91(2), 184(2)
@@ -135,7 +139,7 @@ participate2(1), 44(3)
 participation payment2(1), 45(1)
 permanent ban2(1), 114(1) and (2)
 plaintiff148(3)
-post-supply fee2, 99D(2)
+post-supply fee2(1), 99D(2)
 premises2(1)
 price2(1)
 prior negotiations or arrangements2(1)
@@ -147,8 +151,8 @@ publicised interests in land19(4), 38(4), 160(4)
 publish2(1)
 pyramid scheme2(1), 45(1)
 recalled goods126
-recall notice2, 122(1)
-recovery period2, 41(4)
+recall notice2(1), 122(1)
+recovery period2(1), 41(4)
 recruitment payment2(1), 45(1)
 regulations2(1)
 regulator2(1)
@@ -163,9 +167,11 @@ repairer103(2)
 respondent243, 243A(1), 243B(1)
 responsible Minister2(1)
 safety defect2(1), 9(1)
-safety standard2(1), 104(1), 105(1)
+safety standard2(1), 104(1)
 sale by auction2(1)
 send2(1)
+sender2(1)
+sent2(1)
 serious injury or illness2(1)
 services2(1)
 share2(1)
@@ -179,9 +185,7 @@ substantially transformed2(1), 255(2)
 substantiation notice2(1)
 substantiation notice compliance period2(1), 221(2)
 supplied2(1)
-supplier2(1), 22(1) and (2), 51(1), 52(1) and (3), 53(1) and (3), 55(1), 61(1)
-and (2), 62, 100(1) and (2), 101(1), 131(1), 132(1), 136(8), 137(3),
-259(1), 267(1), 270(1), 274(1) and (2), 276A(1), 278(2) and (5)
+supplier2(1), 22(1) and (2), 51(1), 52(1) and (3), 53(1) and (3), 55(1), 61(1) and (2), 62, 100(1) and (2), 101(1), 131(1), 132(1), 136(8), 137(3), 259(1), 67(1), 270(1), 274(1) and (2), 276A(1), 278(2), 287(5)
 suppliers66(1)
 supply2(1)
 supply of limited title2(1), 51(2)
@@ -199,7 +203,7 @@ unsolicited services2(1)
 upfront price2(1), 26(2)
 variation day290A(2), 305(4)
 warranty against defects2(1), 102(3)
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
