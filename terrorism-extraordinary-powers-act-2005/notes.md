@@ -8,6 +8,7 @@ Corruption and Crime Commission Amendment (Misconduct) Act 2014 s. 39 | 35 of 20
 Terrorism (Extraordinary Powers) Amendment Act 2015 | 39 of 2015 | 27 Nov 2015 | s. 1 and 2: 27 Nov 2015 (see s. 2(a)); Act other than s. 1 and 2: 28 Nov 2015 (see s. 2(b))
 Terrorism (Extraordinary Powers) Amendment Act 2018 | 11 of 2018 | 13 Jul 2018 | s. 1 and 2: 13 Jul 2018 (see s. 2(a)); Act other than s. 1 and 2: 14 Jul 2018 (see s. 2(b))
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 11 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
+Terrorism Legislation Amendment (Extension of Expiry) Act 2025 Pt. 2 | 17 of 2025 | 27 Nov 2025 | 28 Nov 2025 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -58,4 +59,4 @@ vehicle3
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
