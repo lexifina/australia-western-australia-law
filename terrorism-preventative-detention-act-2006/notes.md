@@ -11,6 +11,7 @@ Terrorism (Preventative Detention) Amendment Act 2019 | 23 of 2019 | 8 Oct 2019 
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 5 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 12 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
+Terrorism Legislation Amendment (Extension of Expiry) Act 2025 Pt. 3 | 17 of 2025 | 27 Nov 2025 | 28 Nov 2025 (see s. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -82,4 +83,4 @@ terrorist act4(1), 6(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
