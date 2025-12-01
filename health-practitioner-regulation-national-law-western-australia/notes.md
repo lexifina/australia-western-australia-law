@@ -5,7 +5,8 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (Western Australia) |  |  | 15 May 2024 (see WA Act No. 21 of 2024 s. 2(c))
 Health Practitioner Regulation National Law Application Act 2024 Pt. 3 | 21 of 2024 | 14 May 2024 | Pt. 3 (other than s. 29): 15 May 2024 (see s. 2(c)); s. 29: 1 Jul 2024 (see s. 2(b)(ii))
-Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022 Ch. 3 Pt. 7, 8, 13, 21 (other than section 93 to the extent it is already in force on 10 Oct 2023), Pt. 29 and 30 and s. 117(2), 124, 127 and 128 | Published on QLD legislation website |  | 1 Jul 2024 (see QLD SL 2024/93)
+Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022 (Qld) Ch. 3 Pt. 7, 8, 13, 21 (other than section 93 to the extent it is already in force on 10 Oct 2023), Pt. 29 and 30 and s. 117(2), 124, 127 and 128 | Published on QLD legislation website (22 of 2022 Qld Act) |  | 1 Jul 2024 (see QLD SL 2024/93)
+Health Practitioner Regulation National Law and Other Legislation Amendment Act 2025 (Qld) Pt. 1 and Pt. 3 (other than s. 16-21 and s. 23, to the extent it inserts s. 327 and 328) | Published on QLD legislation website (6 of 2025 Qld Act) |  | Pt. 1: 27 Nov 2025 (see WA SL 2025/192 cl. 3); Pt. 3 (other than s. 16-21 and s. 23, to the extent it inserts s. 327 and 328): 1 Dec 2025 (see QLD SL 2025/139)
 Other notes
 The Health Practitioner Regulation National Law (Western Australia) has been formatted in accordance with WA drafting style. Editorial notes have been inserted as part of producing this compilation.
 Defined terms
@@ -147,6 +148,7 @@ National Agency5
 National Board5, 284(5)
 National Register5
 national registration and accreditation scheme5
+non-disclosure agreement237B(3)
 Northern TerritorySch. 7 cl. 12(1)
 notifiable conduct140
 notification5
@@ -193,6 +195,7 @@ prohibited name131A(4)
 prohibited person159O(1)
 prohibition order5
 propertySch. 7 cl. 12(1)
+protected action237A(2)
 protected information214
 protected person236(3)
 provisionSch. 7 cl. 12(1) and 30(2)
@@ -215,7 +218,9 @@ relevant day306
 relevant event130(3)
 relevant fee5
 relevant health profession250
+relevant issue329
 relevant law55(2)
+relevant person237B(3)
 relevant provision5, 159B, 159P
 relevant section82(2), 102(3)
 repealSch. 7 cl. 12(1)
@@ -259,7 +264,7 @@ Victorian Government Printer245(5)
 voluntary notification5
 wordSch. 7 cl. 12(1)
 writingSch. 7 cl. 12(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
