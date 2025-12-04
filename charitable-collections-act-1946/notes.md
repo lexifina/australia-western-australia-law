@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Charitable Collections Act 1946 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Charitable Collections Act 1946 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
 Charitable Collections Act 1946 | 29 of 1946 (10 and 11 Geo. VI No. 29) | 24 Jan 1947 | 28 Mar 1947 (see s. 2 and Gazette 28 Mar 1947 p. 509)
@@ -19,6 +19,10 @@ Reprint 4: The Charitable Collections Act 1946 as at 4 Sep 2009 (includes amendm
 Standardisation of Formatting Act 2010 s. 51 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Consumer Protection Legislation Amendment Act 2019 Pt. 3 | 25 of 2019 | 24 Oct 2019 | 1 Jan 2020 (see s. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 14 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+Short title | Number and year | Assent | Commencement
+Charitable Collections Amendment Act 2025 s. 3-20 | 18 of 2025 | 4 Dec 2025 | 1 Aug 2026 (see s. 2(b) and SL 2026/152 cl. 2)
 Other notes
 Repealed by section 3 of this Act.
 Defined terms
@@ -35,3 +39,7 @@ Minister5
 resent war5
 securities for money5
 war fund5
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: ANDREW JONES, Government Printer
