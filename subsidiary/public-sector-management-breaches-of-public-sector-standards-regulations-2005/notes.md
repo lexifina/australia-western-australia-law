@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Public Sector Management (Breaches of Public Sector Standards) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Public Sector Management (Breaches of Public Sector Standards) Regulations 2005 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Public Sector Management (Breaches of Public Sector Standards) Regulations 2005 | 15 Jul 2005 p. 3325-49 | 1 Sep 2005 (see r. 2)
@@ -7,6 +7,10 @@ Public Sector Management (Breaches of Public Sector Standards) Amendment Regulat
 Public Sector Management (Breaches of Public Sector Standards) Amendment Regulations 2011 | 11 Feb 2011 p. 493-502 | r. 1 and 2: 11 Feb 2011 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Feb 2011 (see r. 2(b))
 Public Sector Management (Breaches of Public Sector Standards) Amendment Regulations 2014 | 11 Mar 2014 p. 584-6 | r. 1 and 2: 11 Mar 2014 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Mar 2014 (see r. 2(b))
 Public Sector Management Regulations Amendment Regulations (No. 2) 2025 Pt. 2 | SL 2025/122 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Public Sector Management (Breaches of Public Sector Standards) Amendment Regulations (No. 2) 2025 r. 3-8 | SL 2025/196 10 Dec 2025 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -40,4 +44,4 @@ WAIRC3(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
