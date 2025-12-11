@@ -155,6 +155,7 @@ Supreme Court Rules Amendment (Legal Profession) Rules 2022 Pt. 4 | SL 2022/74 1
 Supreme Court Amendment Rules 2023 | SL 2023/16 10 Mar 2023 | r. 1 and 2: 10 Mar 2023 (see r. 2(a)); Rules other than r. 1 and 2: 25 Mar 2023 (see r. 2(b) and SL 2023/21 cl. 2)
 Supreme Court Amendment Rules 2024 | SL 2024/38 26 Mar 2024 | r. 1 and 2: 26 Mar 2024 (see r. 2(a)); Rules other than r. 1 and 2: 9 Apr 2024 (see r. 2(b))
 Supreme Court Amendment Rules (No. 3) 2024 | SL 2024/165 7 Aug 2024 | r. 1 and 2: 7 Aug 2024 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2024 (see r. 2(b))
+Supreme Court Amendment Rules 2025 | SL 2025/197 10 Dec 2025 | r. 1 and 2: 10 Dec 2025 (see r. 2(a)); Rules other than r. 1 and 2: 11 Dec 2025 (see r. 2(b))
 Other notes
 Formerly referred to The Electoral Rules of 1908, the citation of which was changed to the Electoral Rules 1908 by the Electoral Amendment Rules 2009 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 This rule is merely declaratory of an Order in Council gazetted 16 Sep 1983 whereby the vacations of the Supreme Court are regulated.
@@ -168,9 +169,7 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 AO. 4A r. 2(2)(n)
-AccountantO. 1 r. 4(1)
 ActO. 1 r. 4(1), O. 38A r. 1(a), O. 39 r. 1(a), O. 39A r. 1(1), O. 44A r. 1(a), O. 46 r. 1, O. 75 r. 1, O. 76 r. 1, O. 80A r. 1, O. 81B r. 1(1), O. 81E r. 1, O. 81F r. 1(1), O. 81G r. 1(1), O. 81H r. 1, O. 85 r. 1(1)
-action for personal injuriesO. 36A r. 1
 additional authorityO. 11A r. 1
 addresseeO. 36B r. 1(1)
 Admiralty RulesO. 84 r. 9(1)
@@ -182,29 +181,31 @@ appeal noticeO. 65 r. 1
 applicantO. 11A r. 1, O. 52A r. 1, O. 52B r. 1, O. 75A r. 1
 application O. 56 r. 1(1)
 approved mediatorO. 4A r. 1
-arbitration lawO. 81D r. 1
-arbitratorO. 81D r. 1
+approved requestO. 24 r. 2 and 5
 Australian diplomatic or consular agentO. 1 r. 4(1)
+authorised userO. 1 r. 4(1)
 BO. 4A r. 2(2)(n)
 BoardO. 75A r. 1
 caseO. 1 r. 4(1), O. 4A r. 1, O. 9A r. 1
 case management directionO. 4A r. 1
-case management registrarO. 1 r. 4(1)
 case managerO. 1 r. 4(1), O. 4A r. 1
 Cause BookO. 1 r. 4(1)
+CCCO. 81FA r. 1
 Central AuthorityO. 11A r. 1
 Central OfficeO. 1 r. 4(1)
+CEOO. 81C r. 1
 certificate O. 39A r. 5(1A)
 certificate of service O. 11A r. 1
 certifying authorityO. 11A r. 1
 challenged conduct O. 56 r. 1(1)
 challenged decision O. 56 r. 1(1)
-chargeO. 62A r. 1(3)
 civil proceedingsO. 11A r. 1
-claimO. 81G r. 1(1)
+claimO. 66 r. 25(1), O. 81G r. 1(1)
+claimantO. 66 r. 25
 CMC ListO. 4A r. 1
 CMC List caseO. 4A r. 1
-CMC List judgeO. 4A r. 1
+commencement dayO. 4AA r. 4(1)
+complying documentO. 67A r. 1
 concludedO. 65 r. 1
 conduct O. 56 r. 1(1)
 conduct moneyO. 36B r. 1(1)
@@ -214,32 +215,34 @@ consular agentO. 1 r. 4(1)
 contemnorO. 55 r. 1
 Convention countryO. 1 r. 4(1)
 costsO. 1 r. 4(1)
-CourtO. 1 r. 4(2)
+CourtO. 1 r. 4(1)
 Court expertO. 40 r. 1
 court of renditionO. 81B r. 1(1)
 crime-used property substitution declarationO. 81C r. 1
 criminal benefits declarationO. 81C r. 1
 cross-vesting lawsO. 81E r. 1
 defendantO. 11A r. 1
+deliverO. 67A r. 1
 describedO. 52B r. 1
 descriptionO. 26A r. 1
 diplomatic agentO. 1 r. 4(1)
-Director GeneralO. 81C r. 1
 documentO. 26 r. 1A, O. 26A r. 1
 ECMSO. 1 r. 4(1)
 Electoral CommissionerO. 65C r. 1
 enforcementO. 81B r. 1(1)
 enforcement orderO. 4A r. 1
+entry periodO. 33 r. 2(1)
 examinerO. 38 r. 4(1)
 examination orderO. 81FA r. 1
 expertO. 40 r. 1
 fileO. 1 r. 4(1)
-filedO. 1 r. 4(1)
-filingO. 1 r. 4(1)
+filed documentO. 1 r. 4(1)
+file electronicallyO. 1 r. 4(1)
 first offerO. 24A r. 3(7)
 folioO. 1 r. 4(1)
 foreign judicial documentO. 11A r. 1
-form O. 1 r. 4(1)
+formO. 1 r. 4(1)
+former Order 62AO. 4AA r. 4(1)
 forwarding authorityO. 11A r. 1
 freezing noticeO. 81FA r. 1
 freezing orderO. 52A r. 1 and 2(1), O. 81FA r. 1
@@ -248,60 +251,66 @@ geographical addressO. 1 r. 4(1)
 grantO. 75 r. 1
 group memberO. 18A r. 1
 Hague ConventionO. 1 r. 4(1)
+hearingO. 67B r. 1(1)
+Inactive Cases ListO. 4A r. 21
 independent solicitorsO. 52B r. 6(1)
 initiating processO. 11A r. 1
 inspectionO. 26 r. 1A
-Inactive Cases ListO. 4A r. 21
 interested non-partyO. 9A r. 1
 interim orderO. 65 r. 1
 interstate confiscation declarationO. 81FA r. 1
 interstate freezing orderO. 81FA r. 1
-interstate lawyerO. 75A r. 1
 issuing officerO. 36B r. 1(1)
 issuing partyO. 36B r. 1(1)
 judgmentO. 52A r. 1
 landO. 53 r. 1
+legislationO. 67A r. 9, O. 67B r. 1(1)
 limitation period O. 56 r. 1(1)
 list of documentsO. 26 r. 5(3)
 local judicial documentO. 11A r. 1
-local rollO. 75A r. 1
 masterO. 1 r. 4(1)
-medical evidenceO. 36A r. 1
-medical reportO. 36A r. 1
+media managerO. 67B r. 1(1)
+media organisationO. 67B r. 1(1)
+media representativeO. 67B r. 1(1)
 monitoring orderO. 81FA r. 1
 monthO. 3 r. 1
-mortgageO. 62A r. 1(2) and (3)
+mortgageO. 4AA r. 1(1), O. 13 r. 7(1)
+mortgage actionO. 1 r. 4(1), O. 4AA r. 1(1)
+mortgageeO. 4AA r. 1(2), O. 13 r. 7(1)
+mortgagorO. 4AA r. 1(2), O. 13 r. 7(1)
 non-partyO. 26A r. 3(2) and 5(1)
 objectO. 4A r. 2(2)(n)
 objectionO. 81FA r. 1
-objectorO. 75A r. 2C
+objectorO. 75A r. 2C(1)
 officerO. 1 r. 4(1)
 official channelO. 11 r. 1
 originating processO. 10 r. 1
 originating summonsO. 1 r. 4(1)
+own costs orderO. 66 r. 25(1)
 partyO. 28 r. 1(6)
 person under disabilityO. 66 r. 24(1), O. 70 r. 1
 place of renditionO. 81B r. 1(1)
 plaintiffO. 25 r. 4
 possessionO. 26A r. 1
 potential partyO. 26A r. 3(1) and 4(1)
+Practice DirectionsO. 67A r. 1
 premisesO. 52B r. 1
 prescribed feeO. 1 r. 4(1)
 prescribed rateO. 51 r. 7(3)
 primary courtO. 65 r. 1
 primary court caseO. 65 r. 11(1)
 primary court’s transcriptO. 65 r. 1
-privilegeO. 36A r. 1
 probate actionO. 1 r. 4(1), O. 73 r. 1(2)
-proceedingO. 81E r. 1
+probate applicationO. 67B r. 1(1)
+proceedingO. 67B r. 1(1), O. 81E r. 1
 processO. 11 r. 1
 production orderO. 81FA r. 1
 proper officerO. 1 r. 4(1)
 provisional decisionO. 65 r. 7(2)
 receiverO. 1 r. 4(1)
-recordO. 52B r. 5(1)
+recordO. 52B r. 5(1), O. 67B r. 1(1)
 registrarO. 1 r. 4(1)
-RegistryO. 73 r. 1(3), O. 75 r. 1
+RegistryO. 36B r. 1(1), O. 73 r. 1(3), O. 75 r. 1
 remedy O. 56 r. 1(1)
 representative partyO. 18A r. 1
 representative proceedingO. 18A r. 1
@@ -310,10 +319,12 @@ represented personO. 70 r. 1
 request for service abroadO. 11A r. 1
 request for service in this jurisdictionO. 11A r. 1
 respondentO. 52A r. 1, O. 52B r. 1
+restricted documentO. 67A r. 9
+restricted informationO. 67A r. 9
 review orderO. 56A r. 1(1)
 reviewable conduct O. 56 r. 1(1)
 reviewable decision O. 56 r. 1(1)
-RTAO. 81C r. 1
+RT (AD) ActO. 81C r. 1
 rulesO. 1 r. 4(1)
 rules of CourtO. 1 r. 4(1)
 said ActO. 62 r. 1(1), O. 80 r. 1
@@ -324,6 +335,7 @@ service detailsO. 1 r. 4(1)
 settlementO. 70 r. 10(3)
 sham transaction orderO. 81FA r. 1
 special federal matterO. 81E r. 1
+specified sumO. 24 r. 2 and 5
 subpoenaO. 36B r. 1(1)
 subpoena to attend to give evidenceO. 36B r. 1(2)
 subpoena to produceO. 36B r. 1(3)
@@ -336,18 +348,21 @@ testamentary scriptO. 73 r 1(3)
 these rulesO. 1 r. 4(1)
 third partyO. 52A r. 5(5)
 this jurisdictionO. 11A r. 1
-to fileO. 1 r. 4(1)
+transcriptO. 67B r. 1(1)
+transitional proceedingsO. 4AA r. 4(1)
+translatorO. 10 r. 15(3)
 trialO. 1 r. 4(1)
 tribunalO. 31 r. 8(6)
+trust accountO. 24 r. 1
 unexplained wealth declarationO. 81FA r. 1
 willO. 73 r. 1(3)
 working dayO. 1 r. 4(1)
 writO. 1 r. 4(1), O. 56 r. 1(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
-© State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
+Attribute work as: © State of Western Australia 2025.
 By Authority: GEOFF O. LAWN, Government Printer
