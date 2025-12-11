@@ -10,7 +10,8 @@ Health Services (Health Service Provider Land) Amendment Order (No. 5) 2018 | 30
 Health Services (Health Service Provider Land) Amendment Order 2019 | 15 Jan 2019 p. 58 | cl. 1 and 2: 15 Jan 2019 (see cl. 2(a)); Order other than cl. 1 and 2: 16 Jan 2019 (see cl. 2(b))
 Health Services (Health Service Provider Land) Amendment Order 2021 | SL 2021/23 12 Feb 2021 | cl. 1 and 2: 12 Feb 2021 (see cl. 2(a)); Order other than cl. 1 and 2: 13 Feb 2021 (see cl. 2(b))
 Health Services (Health Service Provider Land) Amendment Order 2023 | 30 Jun 2023 p. 2213-20 | cl. 1 and 2: 1 Jul 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 2 Jul 2023 (see cl. 2(b))
-© State of Western Australia 2023.
+Health Services (Health Service Provider Land) Amendment Order 2025 | SL 2025/198 10 Dec 2025 | cl. 1 and 2: 10 Dec 2025 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Dec 2025 (see cl. 2(b))
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
