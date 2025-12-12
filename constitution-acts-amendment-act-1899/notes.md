@@ -327,8 +327,9 @@ Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 1
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
 Keystart Act 2024 s. 59(2) | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
-Local Government Amendment Act 2024 Pt. 3 Div. 1 | 47 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(1)(i))
+Local Government Amendment Act 2024 Pt. 3 Div. 1 | 47 of 2024 | 6 Dec 2024 | 1 Jan 2026 (see s. 2(1)(i) and SL 2025/203 cl. 2)
 Architects Amendment Act 2025 s. 31 | 2 of 2025 | 10 Jun 2025 | To be proclaimed (see s. 2(b))
+Liquor Control Amendment Act 2025 Pt. 5 Div. 1 | 20 of 2025 | 12 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 Footnote no longer applicable.
 Repealed by the Electoral Act 1904, which was repealed by the Electoral Act 1907.
@@ -433,4 +434,4 @@ Treasurer3
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
