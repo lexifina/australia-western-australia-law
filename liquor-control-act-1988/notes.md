@@ -62,14 +62,15 @@ Directors’ Liability Reform Act 2023 Pt. 3 Div. 36 | 9 of 2023 | 4 Apr 2023 | 
 Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 (other than Div. 3) | 25 of 2023 | 10 Nov 2023 | 14 Dec 2023 (see s. 2(b) and SL 2023/191 cl. 2)
 Health Practitioner Regulation National Law Application Act 2024 Pt. 6 Div. 1 | 21 of 2024 | 14 May 2024 | 15 May 2024 (see s. 2(c))
 Statutes (Repeals and Minor Amendments) Act 2025 s. 8 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Liquor Control Amendment Act 2025 Pt. 2 | 20 of 2025 | 12 Dec 2025 | 13 Dec 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 Div. 3 | 25 of 2023 | 10 Nov 2023 | 14 Dec 2025 (see s. 2(c))
 Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Liquor Control Amendment Act 2025 Pt. 3 | 20 of 2025 | 12 Dec 2025 | 1 Jul 2026 (see s. 2(c) and SL 2026/87 cl. 2)
 Other notes
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
@@ -79,6 +80,7 @@ Repealed by the Liquor Act 1970, which was repealed by this Act.
 Now known as the Liquor Control Act 1988; short title changed (see note under s. 1).
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
+The Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 Div. 3 was deleted by the Liquor Control Amendment Act 2025 s. 128 before it purported to come into operation.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -97,7 +99,6 @@ approved form of identification152ZF(1)
 approved manager102A, Sch. 1B cl. 1
 approved restricted manager3(1)
 approved unrestricted manager3(1)
-assessment3(1)
 AssociationSch. 2 cl. 1
 authorised officer3(1)
 authorised person3(1)
@@ -107,6 +108,7 @@ banned drinker order3(1), 152YB(1)
 banned drinkers register3(1), 152Y
 barring notice3(1), 115AA(2)
 beer3(1)
+business continuity order3(1), 87(1)
 buyer109(4A)
 casino3(1)
 casino complex3(1)
@@ -154,6 +156,7 @@ employee3(7), 95(1A), 165(4)
 excluded offender152NC, 152NZJ.(2)
 exclusion order152NC
 exclusion period152NC, 152NZJ.(4)
+existingSch. 1F cl. 1(2)
 extended exclusion order152NC, Sch. 1D cl. 1
 extended exclusion order respondent152NC
 extended trading permit3(1)
@@ -196,7 +199,7 @@ local packaged liquor requirements36B(1)
 lodger3(1)
 manager3(1)
 manager’s approval102A
-meal2(1)
+meal3(1)
 medical practitioner152YQ(1)
 member3(1)
 member of the family125(3)
@@ -204,6 +207,7 @@ metropolitan area3(1)
 modified penalty167(1)
 named juvenile152NZP, 152NZQ(3)
 named person152NZP, 152NZQ(4)
+newSch. 1F cl. 1(1)
 new ActSch. 1A cl. 1
 new exclusion order152NZH(3)
 nightclub licence3(1)
@@ -220,6 +224,7 @@ packaged liquor licence59A(1)
 packaged liquor outlet36A(1)
 packaged liquor premises36B(1), 77A(1)
 Parliamentary Commissioner152NZV(1)
+Part 2 commencement daySch. 1F cl. 1(1)
 party to proceedings3(1)
 permit3(1), Sch. 1 cl. 1(1)
 permitted hours3(1)
@@ -233,13 +238,11 @@ prescribed area36B(1), 77A(1)
 prescribed distance 36B(1)
 prescribed distance77A(1)
 prison152NZQ(1)
-producer129
 producer’s licence3(1)
 prohibition order152A
 proposed licensed premises36B(1)
 proprietary company3(1)
 protected entertainment precinct3(1)
-protection order3(1), 87(1)
 public authority3(1)
 public body37(1A)
 public event110(4B)
@@ -266,7 +269,7 @@ repealed ActSch. 1 cl. 1(1)
 responsible person3(1)
 restaurant3(1)
 restaurant licence3(1)
-restriction order152NZF
+restriction order152NZF(1)
 retail section36B(1), 77A(1)
 reviewable decision25(1A)
 sample3(1)
@@ -297,7 +300,6 @@ State ExecutiveSch. 2 cl. 1
 subject person152NC
 submission72A(1)
 subsequent police BDO152Y, 152YD(3)
-subsidy3(1)
 substance3(1)
 superintendent152NZQ(1)
 supplier59A(2)
@@ -311,10 +313,9 @@ transitional regulationsSch. 1A cl. 10(1)
 transitioned approvalSch. 1B cl. 3(1)
 Tribunal25A(1)
 trustee3(1)
-undertaking permitted travel152NZK(1)
+undertaking permitted travel152NZK(2)
 vehicle3(1), 109A(1)
 visitor48(2B)
-wholesaler129
 wholesaler’s licence3(1)
 wine3(1)
 wine producing region61A(1)
@@ -322,4 +323,4 @@ working day152NZR(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ANDREW JONES, Government Printer
