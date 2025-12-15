@@ -1,7 +1,7 @@
 Notes
-This is a compilation of the Sentence Administration (Community Corrections Centres) Notice 2008 and includes the amendments made by the other written laws referred to in the following table.
+This is a compilation of the Sentence Administration (Community Corrections Centres) Notice 2008 and includes amendments made by other written laws. For provisions that have come into operation, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Sentence Administration (Community Corrections Centres) Notice 2008 | 8 Aug 2008 p. 3504-10 | 8 Aug 2008
 Sentence Administration (Community Corrections Centres) Amendment Notice 2009 | 28 Jul 2009 p. 2976-8 | cl. 1 and 2: 28 Jul 2009 (see cl. 2(a)); Notice other than cl. 1 and 2: 29 Jul 2009 (see cl. 2(b))
 Sentence Administration (Community Corrections Centres) Amendment Notice (No. 2) 2009 | 28 Aug 2009 p. 3353 | cl. 1 and 2: 28 Aug 2009 (see cl. 2(a)); Notice other than cl. 1 and 2: 29 Aug 2009 (see cl. 2(b))
@@ -24,3 +24,8 @@ Sentence Administration (Community Corrections Centres) Amendment Notice 2017 | 
 Sentence Administration (Community Corrections Centres) Amendment Notice 2018 | 8 Jun 2018 p. 1835-9 | cl. 1 and 2: 8 Jun 2018 (see cl. 2(a)); Notice other than cl. 1 and 2: 9 Jun 2018 (see cl. 2(b))
 Sentence Administration (Community Corrections Centres) Notice (No. 2) 2019 | 5 Mar 2019 p. 579 (correction: 12 Mar 2019 p. 665) | cl. 1 and 2: 5 Mar 2019 (see cl. 2(a)); Notice other than cl. 1 and 2: 6 Mar 2019 (see cl. 2(b))
 Sentence Administration (Community Corrections Centres) Amendment Notice (No. 5) 2019 | 15 Nov 2019 p. 4031 | cl. 1 and 2: 15 Nov 2019 (see cl. 2(a)); Notice other than cl. 1 and 2: 16 Nov 2019 (see cl. 2(b))
+Sentence Administration (Community Corrections Centres) Amendment Notice 2025 | SL 2025/199 11 Dec 2025 | cl. 1 and 2: 11 Dec 2025 (see cl. 2(a)); Notice other than cl. 1 and 2: 15 Dec 2025 (see cl. 2(b))
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
