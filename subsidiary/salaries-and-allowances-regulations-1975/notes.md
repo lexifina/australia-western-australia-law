@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Salaries and Allowances Regulations 1975 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Salaries and Allowances Regulations 1975 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Salaries and Allowances Tribunal Act Regulations 1975 | 8 Aug 1975 p. 2862-3 | 8 Aug 1975
@@ -40,11 +40,14 @@ Salaries and Allowances Amendment Regulations 2018 | 6 Jul 2018 p. 2538-42 | r. 
 Salaries and Allowances Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2864-5 | r. 1 and 2: 10 Aug 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Aug 2018 (see r. 2(b))
 Salaries and Allowances Amendment Regulations 2022 | SL 2022/22 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Salaries and Allowances Amendment Regulations 2025 | SL 2025/112 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Salaries and Allowances Amendment Regulations (No. 2) 2025 r. 3 and 4 | SL 2025/206 17 Dec 2025 | 1 Jan 2026 (see r. 2(b))
 Other notes
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 Repealed by the Financial Legislation Amendment and Repeal Act 2006.
 Formerly referred to the Health Services (Conciliation and Review) Act 1995 the short title of which was changed to the Health and Disability Services (Complaints) Act 1995 by the Health and Disability Services Legislation Amendment Act 2010 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
-Formerly referred to the Occupational Health, Safety and Welfare Act 1984 the short title of which was changed to the Occupational Safety and Health Act 1984 by the Occupational Safety and Health Legislation Amendment Act 1995 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Now known as the Salaries and Allowances Regulations 1975; citation changed (see note under r. 1).
 The Solicitor-General Amendment Act 2006 s. 13(3) reads as follows:
 (3) This section does not prevent the Salaries and Allowances Regulations 1975 from being amended or repealed in accordance with the Salaries and Allowances Act 1975.
@@ -61,4 +64,4 @@ taxation ruling2
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
