@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Community Protection (Offender Reporting) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Community Protection (Offender Reporting) Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Community Protection (Offender Reporting) Regulations 2004 | 31 Dec 2004 p. 7025-39 | 1 Feb 2005 (see r. 2)
@@ -29,6 +29,10 @@ Community Protection (Offender Reporting) Amendment Regulations (No. 2) 2021 | S
 Community Protection (Offender Reporting) Amendment Regulations (No. 3) 2021 | SL 2021/192 19 Nov 2021 | r. 1 and 2: 19 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Nov 2021 (see r. 2(b))
 Police Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 2 | SL 2024/172 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Community Protection (Offender Reporting) Amendment Regulations (No. 2) 2025 | SL 2025/142 23 Jul 2025 | r. 1 and 2: 23 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jul 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Community Protection (Offender Reporting) Amendment Regulations (No. 3) 2025 r. 3-7 | SL 2025/213 17 Dec 2025 | 31 Dec 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -62,4 +66,4 @@ urine sampling equipment3, 26F(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
