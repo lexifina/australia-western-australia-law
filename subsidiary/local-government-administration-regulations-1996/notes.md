@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Administration) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Local Government (Administration) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Administration) Regulations 1996 | 24 Jun 1996 p. 2799-826 | 1 Jul 1996 (see r. 2)
@@ -37,6 +37,11 @@ Local Government Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/106 30 J
 Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 2 | SL 2023/158 18 Oct 2023 | Pt. 2 Div. 1: 19 Oct 2023 (see r. 2(c)); Pt. 2 Div. 2: 1 Jan 2024 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2025 Pt. 2 | SL 2025/7 22 Jan 2025 | 1 Feb 2025 (see r. 2(b))
 Local Government Regulations Amendment (Transitional Provisions) Regulations 2025 Pt. 2 | SL 2025/135 23 Jul 2025 | 24 Jul 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Local Government Regulations Amendment (Local Government Amendment Act 2024) Regulations 2025 Pt. 2 | SL 2025/208 17 Dec 2025 | 1 Jan 2026 (see r. 2(c))
+Local Government Regulations Amendment Regulations (No. 4) 2025 Pt. 2 | SL 2025/211 17 Dec 2025 | 1 Jan 2026 (see r. 2(b))
 Other notes
 The commencement date of 1 Jul 1996 is the commencement date of the principal regulations.
 The Local Government (Administration) Amendment Regulations 2005 r. 15 is a transitional provision that is of no further effect.
@@ -116,4 +121,4 @@ usual meeting place14G(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
