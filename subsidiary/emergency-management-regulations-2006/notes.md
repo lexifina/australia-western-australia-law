@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Emergency Management Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Emergency Management Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Emergency Management Regulations 2006 | 21 Apr 2006 p. 1582-4 | 21 Apr 2006
@@ -24,6 +24,10 @@ Emergency Management Amendment Regulations (No. 2) 2020 | SL 2020/31 3 Apr 2020 
 Emergency Management Amendment Regulations (No. 3) 2020 | SL 2020/165 25 Sep 2020 | r. 1 and 2: 25 Sep 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Emergency Management Amendment Regulations (No. 2) 2022 | SL 2022/176 2 Nov 2022 | Pt. 1: 2 Nov 2022 (see r. 2(a)); Pt. 2: 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2) Pt. 3: 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Emergency Management Amendment Regulations 2024 | SL 2024/294 21 Dec 2024 | r. 1 and 2: 21 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Emergency Management Amendment Regulations 2025 r. 3-8 | SL 2025/214 17 Dec 2025 | 1 Mar 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -46,4 +50,4 @@ weapon14
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
