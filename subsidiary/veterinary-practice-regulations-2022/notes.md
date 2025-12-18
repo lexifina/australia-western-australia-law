@@ -4,6 +4,7 @@ Compilation table
 Citation | Published | Commencement
 Veterinary Practice Regulations 2022 | SL 2022/84 17 Jun 2022 | 18 Jun 2022 (see r. 2 and SL 2022/81 cl. 2)
 Veterinary Practice Amendment Regulations 2025 | SL 2025/92 11 Jun 2025 | r. 1 and 2: 11 Jun 2025 (see r. 2(a)); Regulations other than r. 1, 2, 24 and 31: 12 Jun 2025 (see r. 2(d)); r. 31: 1 Jul 2025 (see r. 2(b)); r. 24: 11 Dec 2025 (see r. 2(c))
+Veterinary Practice Amendment Regulations (No. 2) 2025 | SL 2025/205 17 Dec 2025 | r. 1 and 2: 17 Dec 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

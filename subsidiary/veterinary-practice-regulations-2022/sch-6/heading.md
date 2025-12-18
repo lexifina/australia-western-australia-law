@@ -13,4 +13,5 @@ Item | Act
 9. | Spaying cattle using the webbing technique (passage approach), if performed in the pastoral region.
 10. | Certifying the sterilisation status of a cow that the person giving the certificate has spayed.
 11. | Rectal examination of cattle for pregnancy, if performed for payment.
-[Schedule 6 inserted: SL 2025/92 r. 30.]
+12. | Administering any of the following Schedule 4 poisons to an animal by injection, and possessing those poisons for the purposes of that administration — (a)non-steroidal anti-inflammatory drugs; (b)local anaesthetics; (c)sedatives; (d)tranquillisers; (e)euthanasia agents; (f)muscle relaxants; (g)reversal agents, in conjunction with sedatives or tranquillisers.
+[Schedule 6 inserted: SL 2025/92 r. 30; amended: SL 2025/205 r. 6.]
