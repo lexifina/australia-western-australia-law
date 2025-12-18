@@ -30,6 +30,7 @@ Child Protection Regulations Amendment (Fees) Regulations 2018 Pt. 3 | 22 Jun 20
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2019 Pt. 4 | 28 Jun 2019 p. 2477-9 | 1 Jul 2019 (see r. 2(b))
 Working with Children (Criminal Record Checking) Amendment Regulations 2021 | SL 2021/11 29 Jan 2021 | r. 1 and 2: 29 Jan 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jan 2021 (see r. 2(b))
 Working with Children (Criminal Record Checking) Amendment Regulations 2023 | SL 2023/101 30 Jun 2023 | r. 1 and 2: 30 Jun 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2023 (see r. 2(b))
+Working with Children (Screening) Amendment Regulations 2025 | SL 2025/200 17 Dec 2025 | r. 1 and 2: 17 Dec 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2025 (see r. 2(b))
 Other notes
 Formerly referred to the Water Corporation Act 1995, the short title of which was changed to the Water Corporations Act 1995 by the Water Services Legislation Amendment and Repeal Act 2012 s. 112. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Community Services Act 1972, Community Services (Child Care) Regulations 1988 and Community Services (Outside School Hours Care) Regulations 2002 were repealed by the Children and Community Services Act 2004 s. 250.
@@ -42,6 +43,7 @@ Now known as the Working with Children (Screening) Regulations 2005; citation ch
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+amendment day3D(1)
 application11A(1)
 Australian Crime Commission3
 child-related job10(4)
@@ -50,6 +52,7 @@ driver’s licence endorsed with extension F or T18(3)
 employee3C(1)
 employer21(3)
 exempt work3
+former TR Act3D(1)
 head of a relevant entity3C(1)
 national event3
 national tour3
@@ -62,7 +65,7 @@ SAT3D(1)
 section3
 Teacher Registration Board3
 TR Act3D(1)
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
