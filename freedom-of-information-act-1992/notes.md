@@ -59,11 +59,12 @@ Criminal Law (Mental Impairment) Act 2023 s. 410 | 10 of 2023 | 13 Apr 2023 | 1 
 Abortion Legislation Reform Act 2023 Pt. 4 Div. 4 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
 Information Commissioner Act 2024 Pt. 7 Div. 4 | 52 of 2024 | 6 Dec 2024 | 1 Jul 2025 (see s. 2(1)(c)(i) and (d) and SL 2025/102 cl. 2(a))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (ICWA) Act 1996 Sch. 1 it. 4 | 45 of 1996 | 25 Oct 1996 | To be proclaimed (see s. 2)
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 Privacy and Responsible Information Sharing Act 2024 Pt. 6 Div. 2 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 9 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 The State Government Insurance Corporation ceased to exist on 1 July 2012.
 Repealed by the Corruption and Crime Commission Amendment and Repeal Act 2003.
@@ -118,4 +119,4 @@ third party32(1), 33(1), Gl. cl. 1
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
