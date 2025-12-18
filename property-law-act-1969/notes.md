@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Property Law Act 1969 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Property Law Act 1969 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Property Law Act 1969 | 32 of 1969 | 19 May 1969 | 1 Aug 1969 (see s. 2 and Gazette 27 Jun 1969 p. 1873)
@@ -28,6 +28,10 @@ Standardisation of Formatting Act 2010 s. 26 and 51 | 19 of 2010 | 28 Jun 2010 |
 Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt. 3 Div. 3 | 42 of 2011 | 4 Oct 2011 | 30 Jan 2012 (see s. 2(c) and Cwlth Legislative Instrument No. F2011L02397 cl. 5 registered 21 Nov 2011)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 15 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 15 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 14 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 Repealed by the Interpretation Act 1984.
 Section 31A proclaimed 21 January 1972, see Gazette 21 January 1972 p 72.
@@ -104,3 +108,7 @@ under-lease81(5)
 under-lessee81(5)
 valuable consideration7
 will7, 100
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
