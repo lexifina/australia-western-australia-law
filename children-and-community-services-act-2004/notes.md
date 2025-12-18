@@ -41,6 +41,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA legi
 Short title | Number and year | Assent | Commencement
 Children and Community Services Amendment Act 2021 s. 15, 32, 39 and 40 | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(c))
 Evidence Act 2025 Pt. 12 Div. 7 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 3 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.
@@ -249,4 +250,4 @@ youth justice worker124A
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
