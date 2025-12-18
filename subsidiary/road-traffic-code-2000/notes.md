@@ -73,6 +73,7 @@ Road Traffic Code Amendment Regulations (No. 2) 2021 | SL 2021/87 22 Jun 2021 | 
 Road Traffic Code Amendment Regulations (No. 3) 2021 | SL 2021/184 5 Nov 2021 | r. 1 and 2: 5 Nov 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Nov 2021 (see r. 2(b))
 Road Traffic Code Amendment Regulations (No. 4) 2021 | SL 2021/200 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
 Road Safety Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/36 5 Feb 2025 | Pt. 3 (other than Div. 3): 6 Feb 2025 (see r. 2(b)); Pt. 3 Div. 3: 31 Mar 2025 (see r. 2(c))
+Road Traffic Code Amendment Regulations 2025 | SL 2025/216 17 Dec 2025 | r. 1 and 2: 17 Dec 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2025 (see r. 2(b))
 Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
@@ -131,6 +132,7 @@ continuous dividing line176(12)
 corresponding illuminated speed sign11A(1)
 dangerous goods184(4)
 default speed limit3(1)
+Deposited Plan282B(1)
 de-restriction sig3(1)
 dipped3(1)
 dipping device3(1)
@@ -224,9 +226,11 @@ prohibited road138A(1)
 protective helmet209A(1), 222(1), 223A(1), 223(3), 230A, 244(1)
 protective helmet (bicycle)223B(1)
 protective helmet (motor cycle)223B(1)
+provisional licence282B(1)
 public bus3(1), 59(2)
-rear fog light2(1)
+rear fog light3(1)
 red X lane3(1)
+registered training provider282B(1)
 relevant rider3(1)
 relevant time230
 required time141(2)
@@ -264,6 +268,7 @@ speed limit sign3(1)
 speed measuring and recording equipment18A(1)
 speed zone3(1)
 staff member230A
+St John Ambulance282B(1)
 stop3(1)
 stop line3(1)
 stop sign3(1)
@@ -295,6 +300,7 @@ turn line3(1)
 two-up driver230
 two-way carriageway3(1)
 unattended141(2), 163(2)
+unit of competency282B(1)
 unrestrained235A(1)
 use265(1)
 U turn3(1)
@@ -311,4 +317,4 @@ works zone3(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
