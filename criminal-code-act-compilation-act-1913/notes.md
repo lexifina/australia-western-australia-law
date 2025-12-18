@@ -211,6 +211,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA legi
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Evidence Act 2025 Pt. 12 Div. 10 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 5 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.
@@ -521,4 +522,4 @@ written or pictorial material76
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
