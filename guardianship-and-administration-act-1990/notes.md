@@ -47,9 +47,10 @@ Abortion Legislation Reform Act 2023 Pt. 4 Div. 5 | 20 of 2023 | 27 Sep 2023 | 2
 Guardianship and Administration Amendment (Medical Research) Act 2023 Pt. 2 | 32 of 2023 | 11 Dec 2023 | 12 Dec 2023 (see s. 2(b))
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 9 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Acts Amendment (Consent to Medical Treatment) Act 2008 Pt. 2 | 25 of 2008 | 19 Jun 2008 | s. 11 (to the extent that it inserts s. 110RA, 110ZAA, 110ZAB and 110ZAC) and s. 12: to be proclaimed (see s. 2)
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 10 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 1-3Footnotes no longer applicable.
 The Public Trustee Act 1941 s. 53 was deleted by the Public Trustee and Trustee Companies Amendment Act 2008 s. 31.
@@ -102,6 +103,7 @@ The Guardianship and Administration Amendment (Medical Research) Act 2020 s. 13 
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+abortion treatment decision110ZLD(1)
 act114(4)
 administration order3(1)
 administrator3(1)
@@ -113,7 +115,7 @@ corporate trustee3(1)
 Court18(1)
 Deputy President3(1)
 designated country67(5)
-determination3(1)
+determination3(1), 30(1A)
 donee102
 electroconvulsive therapy3(1)
 enduring guardian3(1)
@@ -131,7 +133,7 @@ independent medical practitioner110ZO
 lead researcher110ZO
 life sustaining measure3(1)
 medical practitioner110ZO
-medical research3(1), 3AA(1), (2), (3)
+medical research3(1), 3AA(1) (2) and (3)
 member3(1)
 mental disability3(1)
 National Statement110ZO
@@ -158,6 +160,7 @@ researcher110ZO
 review application110ZO
 reviewed decision110ZO
 substitute enduring guardian3(1)
+take abortion action110ZLD(1)
 take research action110ZX(1)
 take treatment action110ZK(1)
 treatment3(1)
