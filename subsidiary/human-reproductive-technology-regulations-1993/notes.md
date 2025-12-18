@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Human Reproductive Technology Regulations 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Human Reproductive Technology Regulations 1993 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Human Reproductive Technology (Licences and Registers) Regulations 1993 | 19 Mar 1993 p. 1642-6 | 19 Mar 1993
@@ -17,6 +17,10 @@ Human Reproductive Technology Amendment Regulations 2023 | SL 2023/5 27 Jan 2023
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 6 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 6 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 6 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Citation | Published | Commencement
+Assisted Reproductive Technology and Surrogacy Act 2025 s. 279(1)(c) assented to 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 Now known as the Human Reproductive Technology Regulations 1993; citation changed (see note under r. 1).
 Defined terms
@@ -26,4 +30,4 @@ Department1A
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
