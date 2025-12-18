@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Administration Act 1903 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Administration Act 1903 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Administration Act 1903 | 13 of 1903 (3 Edw. VII No. 13) | 31 Dec 1903 | 1 Jan 1904 (see s. 1)
@@ -76,6 +76,10 @@ Land Information Authority Act 2006 s. 120 | 60 of 2006 | 16 Nov 2006 | 1 Jan 20
  | Statutes (Minor Amendments) Act 2017 s. 3 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
  | COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 53 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
  | Administration Amendment Act 2022 | 5 of 2022 | 29 Mar 2022 | s. 1 and 2: 29 Mar 2022 (see s. 2(a)); Act other than s. 1 and 2: 30 Mar 2022 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 1 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 Repealed by section 2 of this Act.
 Part IV (Curator of Intestate Estates) as originally enacted, was repealed by the Curator of Intestate Estates Act 1918 (No. 9 of 1918). The Curator of Intestate Estates continued under the Curator of Intestate Estates Act 1918 and, on 1 July 1942, became the Public Trustee (see the Public Trustee Act 1941 s. 3).
@@ -121,7 +125,7 @@ relevant sums14B(1)
 specified item14(1A), 14A(1)
 Table14(1A)
 will3
-© State of Western Australia 2022.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2022.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
