@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fatal Accidents Act 1959 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Fatal Accidents Act 1959 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Fatal Accidents Act 1959 | 20 of 1959 (8 Eliz. II No. 20) | 8 Oct 1959 | 8 Oct 1959
@@ -15,6 +15,11 @@ Fatal Accidents Amendment Act 2008 | 20 of 2008 | 19 May 2008 | 19 May 2008 (see
 Reprint 3: The Fatal Accidents Act 1959 as at 17 Apr 2009 (includes amendments listed above)
 Standardisation of Formatting Act 2010 s. 4 and 58 | 19 of 2010 | 28 Jun 2010 | 11 Sep 2010 (see s. 2(b) and Gazette 10 Sep 2010 p. 4341)
 Statutes (Repeals and Minor Amendments) Act 2011 s. 5 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 8 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
+Other notes
 The Limitation Legislation Amendment and Repeal Act 2005 s. 13(2) reads as follows:
 (2) The Fatal Accidents Act 1959 section 7, as it was immediately before commencement day, continues to apply to causes of action that accrued before commencement day as if subsection (1) had not been enacted.
 Defined terms
@@ -25,3 +30,7 @@ commencement day5(3)
 court3(1)
 relative3(1)
 relative, Sch. 2 cl. 1
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
