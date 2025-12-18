@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Interpretation Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Interpretation Act 1984 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Interpretation Act 1984 | 12 of 1984 | 31 May 1984 | 1 Jul 1984 (see s. 2)
@@ -54,6 +54,10 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 19 | 26 of 2016 | 21 
 COVID-19 Response and Economic Recovery Omnibus Act 2020 Pt. 6 Div. 5 Subdiv. 1 | 34 of 2020 | 11 Sep 2020 | 12 Sep 2020 (see s. 2(b))
 Legislation Act 2021 Pt. 6 Div. 1 | 13 of 2021 | 24 Aug 2021 | 1 Jul 2023 (see s. 2(b) and SL 2023/58 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 10 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 12 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 Under s. 77(2), the Interpretation Act 1918 s. 11 continues to apply to Acts passed before 1 July 1984. Section 11 reads as follows:
 11.Exercise of statutory power between passing and coming into operation of an Act or any provision thereof.
@@ -223,7 +227,7 @@ words5
 writing5
 written law5
 year5
-© State of Western Australia 2023.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
