@@ -14,7 +14,8 @@ Statutes (Minor Amendments) Act 2017 s. 10 | 6 of 2017 | 12 Sep 2017 | 13 Sep 20
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 7 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 Repealed by the Guardianship of Children Act 1972 which was repealed by the Family Court Act 1975 (as amended by the Family Court Act Amendment and Acts Repeal Act 1979) which was repealed by the Family Court Act 1997.
 The Acts Amendment (Lesbian and Gay Reform) Act 2002 s. 82 reads as follows:
@@ -39,4 +40,4 @@ will4(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
