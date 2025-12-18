@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Human Tissue and Transplant Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Human Tissue and Transplant Act 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Human Tissue and Transplant Act 1982 | 116 of 1982 | 8 Dec 1982 | 1 Mar 1983 (see s. 2)
@@ -20,6 +20,10 @@ Public Health (Consequential Provisions) Act 2016 s. 102 | 19 of 2016 | 25 Jul 2
 Reprint 3: The Human Tissue and Transplant Act 1982 as at 19 May 2017 (includes amendments listed above)
 Human Tissue and Transplant Amendment Act 2022 | 41 of 2022 | 21 Nov 2022 | Pt. 2 Div. 1 and 2: 22 Nov 2022 (see s. 2(b)); Pt. 2 Div. 3: 19 Feb 2024 (see s. 2(c) and SL 2024/11 cl. 2)
 Therapeutic Goods Law Application Act 2024 Pt. 8 Div. 1 | 19 of 2024 | 14 May 2024 | 30 Aug 2024 (see s. 2(b) and SL 2024/177 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 16 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -62,7 +66,7 @@ Therapeutic Goods Act3(1)
 therapeutic use30A
 tissue3(1), 32(2)
 tissue bank29B(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
