@@ -17,6 +17,7 @@ Medicines and Poisons Amendment Regulations (No. 3) 2024 | SL 2024/218 30 Oct 20
 Medicines and Poisons Amendment Regulations (No. 2) 2024 | SL 2024/224 30 Oct 2024 | r. 1 and 2: 30 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2024 (see r. 2(b))
 Health Regulations Amendment (Medicines and Poisons) Regulations 2024 Pt. 2 | SL 2024/265 11 Dec 2024 | Pt. 2 (other than r. 10): 12 Dec 2024 (see r. 2(c)); r. 10: 12 Jun 2025 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 7 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Medicines and Poisons Amendment Regulations 2025 | SL 2025/212 17 Dec 2025 | r. 1 and 2: 17 Dec 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -96,7 +97,7 @@ patient15(1), 16A(1), 64(4)
 patient in a hospital3(1)
 PBS37
 PBS medicine37
-permitted purpose73(1), 79(1)
+permitted purpose74(1), 79(1)
 personal information18(1)
 pharmaceutical sample3(1)
 pharmacy intern88(1)
@@ -148,7 +149,8 @@ transdermal administration6A(1)
 unauthorised person22(1)
 vessel37
 veterinary nurse37
+VPB-authorised person37
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
