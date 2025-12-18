@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Human Reproductive Technology Act 1991 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Human Reproductive Technology Act 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Human Reproductive Technology Act 1991 | 22 of 1991 | 8 Oct 1991 | s. 1 and 2: 8 Oct 1991; Pt. 1 Div. 1 other than s. 1 and 2, Pt. 2, Pt. 6 and Sch.: 6 Mar 1992 (see s. 2 and Gazette 6 Mar 1992 p. 1107); Pt. 1 Div. 2, Pt. 3-5: 8 Apr 1993 (see s. 2)
@@ -29,6 +29,11 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 27 | 35 of 
 Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Reprint 4: The Human Reproductive Technology Act 1991 as at 10 Jan 2014 (includes amendments listed above)
 Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 16 and Pt. 5 Div. 10 | 19 of 2016 | 25 Jul 2016 | Pt. 3 Div. 16: 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165); Pt. 5 Div. 10: 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 11 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
+Other notes
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 The amendments to s. 29(3) in the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 525(1)(c) are not included because it was unclear where they were intended to be made. Section 525(1)(c) reads as follows:
 (c) by deleting “it” after “as and after “provided”” and inserting instead —
@@ -143,3 +148,7 @@ this Act3(1)
 treatment3(1)
 valuable consideration53Q(4)
 woman3(1)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
