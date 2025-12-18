@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Births, Deaths and Marriages Registration Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Births, Deaths and Marriages Registration Act 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Births, Deaths and Marriages Registration Act 1998 | 39 of 1998 | 30 Oct 1998 | s. 1 and 2: 30 Oct 1998; Act other than s. 1 and 2: 14 Apr 1999 (see s. 2 and Gazette 9 Apr 1999 p. 1433)
@@ -13,6 +13,10 @@ Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 6 | 35 of 2
 Health Services Act 2016 s. 284 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b)) and Gazette 24 Jun 2016 p. 2291)
 Births, Deaths and Marriages Registration Amendment (Change of Name) Act 2020 | 46 of 2020 | 9 Dec 2020 | s. 1-3: 9 Dec 2020 (see s. 2(1)(a)); Act other than s. 1-3: 1 Oct 2022 (see s. 2(1)(b) and SL 2022/155 cl. 2)
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 2 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 15 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
 Defined terms
@@ -68,4 +72,4 @@ supervisory authority36A, 36ZD
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
