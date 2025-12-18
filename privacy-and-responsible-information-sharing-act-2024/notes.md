@@ -8,6 +8,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA legi
 Short title | Number and year | Assent | Commencement
 Privacy and Responsible Information Sharing Act 2024 Pt. 2 (other than Div. 12), Pt. 3 (other than Div. 8), Pt. 6 and Sch. 1 and 2 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
 Evidence Act 2025 Pt. 12 Div. 17 | 15 of 2025 | 25 Sep 2025 | Immediately after the Privacy and Responsible Information Sharing Act 2024 s. 158 comes into operation (see s. 2(d)(ii))
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 13 | 19 of 2025 | 18 Dec 2025 | Immediately after the Privacy and Responsible Information Sharing Act 2024 s. 158 comes into operation (see s. 2(b)(ii))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -134,4 +135,4 @@ variation agreement4
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
