@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Wills Act 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Wills Act 1970 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Wills Act 1970 | 12 of 1970 | 29 Apr 1970 | 1 Jul 1970 (see s. 2 and Gazette 5 Jun 1970 p. 1521)
@@ -18,6 +18,10 @@ Inheritance (Family and Dependants Provision) Amendment Act 2011 s. 17 | 48 of 2
 Wills Amendment (International Wills) Act 2012 | 47 of 2012 | 29 Nov 2012 | s. 1 and 2: 29 Nov 2012 (see s. 2(1)(a)); Act other than s. 1 and 2: 11 Mar 2015 (see s. 2(1)(b) and Gazette 10 Mar 2015 p. 845)
 Reprint 5: The Wills Act 1970 as at 10 Jul 2015 (includes amendments listed above)
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 15 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 The Acts Amendment (Equality of Status) Act 2003 s. 211(2) reads as follows:
 (2) The repeal effected by subsection (1) applies to and in respect of the will of any person dying on or after the date of the commencement of this section, whether the will was made or executed before, on or after that date but does not apply to the will of a person who died before that date.
@@ -47,3 +51,7 @@ repeal17(1)
 statutory will48(1)
 this jurisdiction32A
 will4, 41(2)
+© State of Western Australia 2025.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
