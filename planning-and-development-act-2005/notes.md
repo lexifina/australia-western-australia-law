@@ -45,6 +45,7 @@ Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be 
 Community Titles Act 2018 s. 224-226 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Planning and Development Amendment Act 2020 Pt. 9 | 26 of 2020 | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
 Planning and Development Amendment Act 2023 Pt. 9 | 34 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(e))
+State Development Act 2025 Pt. 8 Div. 4 | 21 of 2025 | 19 Dec 2025 | To be proclaimed (see s. 2(e))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 4 Div. 2.
 If a modification is to:
@@ -376,4 +377,4 @@ warehouse269(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
