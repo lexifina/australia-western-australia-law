@@ -38,11 +38,12 @@ Duties Amendment (Off-the-Plan Concession and Foreign Persons Exemptions) Act 20
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Duties Amendment (First Home Owner Concessions) Act 2024 | 27 of 2024 | 30 Aug 2024 | s. 1 and 2: 30 Aug 2024 (see s. 2(a)); Act other than s. 1 and 2: 31 Aug 2024 (see s. 2(b))
 Duties Amendment Act 2025 | 5 of 2025 | 19 Jun 2025 | s. 1 and 2: 19 Jun 2025 (see s. 2(a)); Act other than s. 1 and 2: 20 Jun 2025 (see s. 2(b))
+Help to Buy (Commonwealth Powers) Act 2025 Pt. 4 Div. 1 | 22 of 2025 | 19 Dec 2025 | 19 Dec 2025 (see s. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Retirement Villages Amendment Act 2024 Pt. 3 | 42 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
+Retirement Villages Amendment Act 2024 Pt. 3 | 42 of 2024 | 13 Nov 2024 | 1 Sep 2026 (see s. 2(c) and SL 2026/172 cl. 2)
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
 If a modification is to:
@@ -199,7 +200,7 @@ exempt transaction9
 existing agreementSch. 3 cl. 65(1)
 existing building266G(3)
 exploration91K(1), Sch. 3 cl. 64(5)
-exploration amount91K(1), 91N(5)
+exploration amount91K, 91N(5)
 exploration licence91K(1)
 exploration requirement9, 91K(1), 91N(1)
 family257(1)
@@ -224,17 +225,17 @@ first home owner concessional rate141(1)
 first home owner concessional transaction141(1)
 first pre-amendment periodSch. 3 cl. 60(1)
 first transaction104
-fixed infrastructure3. 91A(1)
+fixed infrastructure3, 91A(1)
 fixed infrastructure access right3, 91A(1), (2) and (4)
 fixed infrastructure activity91D(1)
 fixed infrastructure control right3, 91A(1) and (4)
 fixed infrastructure statutory licence3, 91A(1) and (4)
 fixed infrastructure transaction91C(1)
 flag lifting agreement128(1)
-foreign acquirer205ZD(1), 205ZE(2), 205ZT
+foreign acquirer205ZC(1), 205ZE(2), 205ZT
 foreign corporation205A(1), 205C(2)
 foreign dutiable transaction3, 205H(1)
-foreign dutiable transactions205H(2)
+foreign dutiable transactions205H(1) and (2)
 foreign individual205A(1)
 foreign landholder acquisition205ZD(1), 205ZH(1)
 foreign landholder duty3
@@ -259,7 +260,9 @@ grant228
 GST3
 head entity259(1)
 heavy vehicle228
+Help to Buy arrangement9
 higher entity154A(1), 204D(2)
+Housing Australia9
 industrial association3
 insured person223(1)
 insurer206
@@ -297,13 +300,13 @@ majority shareholder3
 managed investment scheme9
 matrimonial instrument128(1)
 matrimonial property128(1)
-merging corporations12(4) and (5), 160A(2) and (3)
-metropolitan region141(1)
+merging corporations12(4) and (5), 160A(1) and (3)
+metropolitan region141
 minerals91K(1)
 mining91K(1)
 mining tenement3
 mining tenement conditional agreement9
-mining tenement fixture36A, 149A(1)
+mining tenement fixture36A(1), 149A(1)
 mining tenement land asset149A(3)
 mining tenement valuation provision91I(1)
 motor cycle244A(1)
@@ -311,7 +314,7 @@ motorised wheelchair244A(1)
 motor vehicle228
 multi-tiered scheme266E
 new agreement266F(2), 266FA(2), 266H(2)
-new dutiable property9, 17(1) and (2)
+new dutiable property9, 17(1), 17(2)
 new dwelling266E, 266G(1) and (2)
 new lease18
 new mining tenement91M(8), Sch. 3 cl. 74(2)
@@ -324,7 +327,7 @@ non-prospecting dutiable transaction91U(4) and (5)
 non-prospecting interest91U(1)
 non-prospecting mining tenement91U(1)
 notifiable event257(1), 264(2) and (3)
-notional transfer167(1) and (5), 168(1) and (5), 205ZM(1)(4)
+notional transfer167(1) and (5), 168(1) and (5), 205ZM(1) and (4)
 offshore risk insurance206
 Off-the-Plan Duty Rebate Scheme266E
 old lease18
@@ -336,7 +339,7 @@ order3
 original dutiable property123(2)
 original equipment239(2)
 original transaction96C(8)
-original transfer118(1), 120(1), 120A(1)
+original transfer118(1), 120, 120A(1)
 original transferee120B(1)
 original transferor120A(1), 120B(1)
 other entities155(4)
@@ -377,7 +380,7 @@ produce animals101A(1)
 professional association3
 promote trade, industry or commerce3
 property122(3), 266B(1), 266C(1)
-proprietor45(2)
+proprietor45(1)
 proprietor of a business178(1)
 prospecting farm-in transaction91U(1)
 prospecting licence91K(1)
@@ -405,8 +408,8 @@ relevant construction works266J(3)
 relevant derivative mining right91K(1), 91M(1)
 relevant entity126(1), 155(4), 156A(1), 264A(1), 266A(1)
 relevant exempt transaction or acquisitionSch. 3 cl. 76(1)
-relevant first home owner concessional transactionSch. 3 cl. 78,
-79(1) and (2), 81 and 82(1) and (2)
+relevant first home owner concessional transactionSch. 3 cl. 78, 79(1) and (2),
+81, 82(1) and (2)
 relevant fixed infrastructure91C(2), 204A(2), 204B(1)
 relevant interest177(1)
 relevant land assets167(1), 168(1)
@@ -495,7 +498,7 @@ tax avoidance scheme268(2)
 terminated on relevant grounds9
 terms contract141(1)
 trailer228
-transaction, Sch. 3 cl. 46(1)
+transaction3, Sch. 3 cl. 46(1)
 transaction group257(1)
 transaction record3
 transfer9
@@ -525,4 +528,4 @@ wound up3
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer

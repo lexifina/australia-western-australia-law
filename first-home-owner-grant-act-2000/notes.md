@@ -29,6 +29,7 @@ Finance Legislation Amendment (Emergency Relief) Act 2022 Pt. 3 | 1 of 2022 | 21
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Transfer of Land Amendment Act 2022 Pt. 3 Div. 5 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 | 33 of 2022 | 21 Oct 2022 | Pt. 2 Div. 2 Subdiv. 2: 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2); Pt. 3 Div. 2: 3 Nov 2024 (see s. 2(c) and SL 2022/175 cl. 2)
+Help to Buy (Commonwealth Powers) Act 2025 Pt. 4 Div. 2 | 22 of 2025 | 19 Dec 2025 | 19 Dec 2025 (see s. 2)
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 20 was deleted by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The First Home Owner Grant Amendment Act 2001 s. 7 is a savings provision of no further effect.
@@ -126,8 +127,10 @@ grant amount64A(2)
 grant relief declaration3(1), 64B(2)
 grant relief measure3(1), 64A(1)
 guardian3(1)
+Help to Buy arrangement13B(3)
 home3(1), 4
 home owner5
+Housing Australia13B(3)
 identity card3(1)
 interested person16(3)
 liable person54A(1)
@@ -169,7 +172,7 @@ the other grant11(1)
 total value3(1), 14AC(1)
 transaction3(1)
 unencumbered value3(1), 14AE(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
