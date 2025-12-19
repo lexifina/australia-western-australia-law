@@ -71,13 +71,14 @@ Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 28 | 23 of 2023
 Planning and Development Amendment Act 2023 Pt. 5 Div. 2 | 34 of 2023 | 11 Dec 2023 | 1 Mar 2024 (see s. 2(d))
 Environmental Protection Amendment Act 2024 Pt. 1-3, Pt. 4 (other than Div. 1 Subdiv. 2), Pt. 5 and Pt. 6 Div. 1 | 36 of 2024 | 22 Oct 2024 | Pt. 1: 22 Oct 2024 (see s. 2(1)(a)); Pt. 2 and 3, Pt. 4 Div. 2 and 3, Pt. 5 and Pt. 6 Div. 1: 23 Oct 2024 (see s. 2(1)(e)); Pt. 4 Div. 1 Subdiv. 1 and Div. 4: 28 Nov 2024 (see s. 2(1)(b) and (d) and SL 2024/239 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Waste Avoidance and Resource Recovery Act 2007 Sch. 4 cl. 2(3) | 36 of 2007 | 21 Dec 2007 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 366 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 Environmental Protection Amendment Act 2020 s. 4(2), (4) and (10), 34, 42, 59, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112 | 40 of 2020 | 19 Nov 2020 | s. 59: on the day on which s. 83 comes into operation (see s. 2(1)(c)); s 4(2), (4) and (10), 34, 42, 60, 63, 65-68, 71, 72, 83, 86, 87, 88(1), 92, 98, 104, 105, 106(3), 108(7), 110(2) and 112: to be proclaimed (see s. 2(1)(e))
 Environmental Protection Amendment Act (No. 2) 2020 s. 5 | 41 of 2020 | 19 Nov 2020 | Immediately after the Environmental Protection Amendment Act 2020 s. 92 comes into operation (see s. 2(1)(c))
 Environmental Protection Amendment Act 2024 Pt. 4 Div. 1 Subdiv. 2 | 36 of 2024 | 22 Oct 2024 | Immediately after the Environmental Protection Amendment Act 2020 s. 60 comes into operation (see s. 2(1)(c)(i))
+State Development Act 2025 Pt. 8 Div. 2 | 21 of 2025 | 19 Dec 2025 | To be proclaimed (see s. 2(e))
 Other notes
 Footnote no longer applicable.
 Repealed by the Acts Amendment and Repeal (Environmental Protection) Act 1986.
@@ -385,7 +386,7 @@ waters3(1)
 Western Australian Planning Commission3(1)
 wetland70(1), Sch. 5 cl. 2
 works approval3(1), 133F(1), 133I(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer
