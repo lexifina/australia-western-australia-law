@@ -22,9 +22,13 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 8C | 19D(1)(b) | Failing to display required lights when diving at night otherwise than from a vessel | 100
 9 | 19E(1) | Failing to maintain distance of 50 m between vessel and place or other vessel displaying diving flag or, during the hours of darkness, the appropriate signal, or failing to reduce speed of vessel to slowest navigable speed whilst passing within 50 m of that place or other vessel | 200
 10A | 19E(4A) | Failing to proceed at a safe speed or maintain a proper look out while in the vicinity of a place or vessel displaying a diving flag or appropriate signal, but at least 50 m clear of that place or vessel | 200
-10 | 42(a) | Anchoring or mooring vessel in fairway or channel when not in distress | 60
-11 | 42(c) | Placing cable or rope or other obstruction across fairway or channel without written permission of Department | 100
-12 | 43(a) | Obstructing channel or fairway with net or buoyed objects | 120
+10B | 40D(2)(a) | Causing or allowing vessel or other thing to be an obstruction referred to in regulation 40C(2)(b) or (c) | 400
+10C | 40D(3) | Placing crab drop net, fishing net, marker buoy or other buoyed object in channel, fairway or passage | 200
+10D | 40E(2) | Climbing on or accessing obstruction | 200
+10E | 40E(3) | Interfering with obstruction | 2 000
+10F | 40E(4) | Relevant person accessing or interfering with obstruction other than in accordance with remedy notice | 2 000
+10G | 40F(6)(a) | Failure to comply with remedy notice | 400
+[10-12deleted]
 13 | 45B(1)(a) | Using or having on navigable waters unregistered registrable vessel | 160
 14 | 45B(1)(b) | Failing to have current boat registration label properly affixed to vessel | 80
 15 | 45B(7) | Failing to have registrable vessel legibly marked with registration number | 80
@@ -74,7 +78,7 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 38E | 50B(6) (as read with (9)) | Master of a vessel failing to ensure that an appropriate lifejacket is worn by a person on the vessel | 200
 38F | 50B(7) (as read with (9)) | Master of a vessel failing to produce to officer of Department on demand a lifejacket being worn by a person on board who is under 12 and required to wear an appropriate lifejacket | 160
 39 | 51 | Using motor boat not fitted with efficient silencer approved by Department | 160
-40 | 51A | Causing or permitting motor boat to emit smoke or vapour causing danger, nuisance or annoyance . | 160
+40 | 51A | Causing or permitting motor boat to emit smoke or vapour causing danger, nuisance or annoyance | 160
 [40A, 41deleted]
 42 | 52A(2) | Failing to equip registrable vessel with required number of lifejackets | 200
 42A | 52A(3) | Failing to equip non-registrable vessel while outside protected waters and more than 400 m from any shore with required number of lifejackets | 200
@@ -87,13 +91,15 @@ Item | Navigable Waters Regulations 1958 | Description of offence | Modified pen
 46A | 52BB | Failing to maintain lifejacket worn on personal watercraft in serviceable condition | 200
 [47deleted]
 48 | 52G | Failing to display navigation lights on small motor boat as required | 200
+48A | 74(2) | Making endorsement on, or alteration to, infringement notice | 100
 Item | Western Australian Marine Act Section | Description of offence | Modified penalty $
+48B | 19(4) | Failure to comply with direction under section 19(1) or (2) | 400
 49 | 64A(1)(a) (as read with (3)) | Failing to stand by to render assistance after a marine incident | 500
 50 | 64A(1)(b) (as read with (3)) | Failing to render assistance after a marine incident | 500
 51 | 64A(1)(c) (as read with (3)) | Failing to give details after a marine incident | 500
 52 | 64B(2) (as read with (3C)) | Master or owner of a vessel failing to report a marine incident involving damage to the vessel | 200
 53 | 64B(4) | Master or owner of a vessel failing to give a written report of a marine incident involving an injury or death, or damage to the vessel, confirming any earlier report of the incident | 200
-[54-73 | deleted]
+[54-73deleted]
 74 | 66(3)(a) | Obstructing an authorised person in relation to an area closed to navigation | 200
 75 | 66(3)(b) | Navigating a vessel in an area closed to navigation | 200
 76 | 67(3) | Exceeding speed limit by —
@@ -105,7 +111,7 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
 79 | 75BF | Careless navigation of a vessel | 300
 80 | 75D(1) | A first offence of navigating or attempting to operate a vessel while BAC is 0.05 or above | 1 000
 81 | 75GF(5) | Failing to comply with a prohibition notice | 600
-[82-89 | deleted]
+[82-89deleted]
 90A | 79(2) | Failure of the master or person in charge of a vessel to comply with the Prevention of Collisions in State Waters Regulations 1983 | 300
 90 | 91(1) | Carrying dangerous goods without proper markings | 200
 91 | 97(1) | Carrying explosives on a passenger ship without proper protection | 200
@@ -116,4 +122,4 @@ Item | Western Australian Marine Act Section | Description of offence | Modified
 95 | 3.12.1 | Failing to notify the CEO of repairs or alterations to hire and drive vessel | 50
 96 | 3.13.2 | Failing to report an accident involving hire and drive vessel | 50
 97 | 4.2.2 | Overloading a hire and drive vessel | 100
-[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38; No. 135 of 2023 r. 39; SL 2024/61 r. 4; SL 2024/191 r. 48; SL 2025/68 r. 14.]
+[Schedule 1 inserted: Gazette 9 Jun 1992 p. 2381-2; amended: Gazette 30 Jun 1992 p. 2910; 7 May 1993 p. 2361-2; 31 Dec 1993 p. 6911-2; 14 Jun 1996 p. 2607; 30 May 1997 p. 2497-9; 27 Oct 1998 p. 5965; 11 Dec 1998 p. 6652; 17 Jun 2003 p. 2221; 23 Dec 2005 p. 6278-9; 10 Feb 2006 p. 666; 26 May 2006 p. 1880; 13 Nov 2009 p. 4538; 17 Nov 2009 p. 4631-2; 4 Jan 2013 p. 9; 3 Mar 2017 p. 1490-1; SL 2021/147 r. 38; No. 135 of 2023 r. 39; SL 2024/61 r. 4; SL 2024/191 r. 48; SL 2025/68 r. 14; SL 2025/215 r. 13.]

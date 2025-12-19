@@ -38,6 +38,7 @@ Transport Regulations Amendment (Mooring Control Areas) Regulations 2024 Pt. 3 |
 Transport Regulations Amendment (Marine Safety Equipment) Regulations 2024 Pt. 3 | SL 2024/191 18 Sep 2024 | 30 Sep 2024 (see r. 2(b))
 Mooring Amendment Regulations 2025 | SL 2025/18 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2025 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 4 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
+Transport Regulations Amendment (Removal of Obstructions) Regulations 2025 Pt. 3 | SL 2025/215 17 Dec 2025 | 19 Dec 2025 (see r. 2(b))
 Other notes
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
@@ -95,4 +96,4 @@ written instrument37
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer

@@ -34,6 +34,7 @@ Transport Regulations Amendment (Marine Safety Equipment) Regulations 2023 Pt. 3
 Western Australian Marine (Infringements) Amendment Regulations 2024 | SL 2024/61 1 May 2024 | 2 May 2024 (see r. 2)
 Transport Regulations Amendment (Marine Safety Equipment) Regulations 2024 Pt. 5 | SL 2024/191 18 Sep 2024 | 30 Sep 2024 (see r. 2(b))
 Transport Regulations Amendment (Prevention of Collisions in State Waters) Regulations 2025 Pt. 5 | SL 2025/68 30 Apr 2025 | 1 May 2025 (see r. 2(b))
+Transport Regulations Amendment (Removal of Obstructions) Regulations 2025 Pt. 4 | SL 2025/215 17 Dec 2025 | 19 Dec 2025 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -45,4 +46,4 @@ infringement notice5(2)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
