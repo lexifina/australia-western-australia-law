@@ -43,6 +43,7 @@ Land Tax Assessment Amendment Act 2022 | 42 of 2022 | 21 Nov 2022 | Pt. 2: deeme
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 7 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Land Tax Assessment Amendment (Residential Construction Exemptions) Act 2024 | 9 of 2024 | 26 Mar 2024 | s. 1 and 2: 26 Mar 2024 (see s. 2(a)); Act other than s. 1 and 2: 27 Mar 2024 (see s. 2(b))
 Land Tax Assessment (Build-to-Rent) Amendment Act 2024 | 22 of 2024 | 15 May 2024 | Act other than s. 1 and 2: deemed to have come into operation on 1 Jul 2023 (see s. 2(b)(ii)); s. 1 and 2: 15 May 2024 (see s. 2(a))
+Help to Buy (Commonwealth Powers) Act 2025 Pt. 4 Div. 4 | 22 of 2025 | 19 Dec 2025 | 19 Dec 2025 (see s. 2)
 Land Tax Assessment Amendment (Build-to-Rent) Act 2026 | 6 of 2026 | 25 Jun 2026 | Act other than s. 1 and 2: deemed to have come into operation on 1 Jul 2025 (see s. 2(b)); s. 1 and 2: 25 Jun 2026 (see s. 2(a))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 3 Div. 2.
@@ -88,7 +89,7 @@ caravan39A
 caravan or camp site39A
 care commencement date26B(1)
 clauseGl. cl. 1
-commencementSch. 1 cl. 10 and 16
+commencementSch. 1 cl. 10 and. 16
 commencement dateGl. cl. 1
 commencement daySch. 1 cl. 24(1)
 commencement yearSch. 1 cl. 24(1)
@@ -127,8 +128,10 @@ former ActSch. 1 cl. 16
 former section 20Sch. 1 cl. 8(1)
 former section 30Sch. 1 cl. 7(1)
 full-time care26B(2)
+Help to Buy arrangement45C(1)
 home lotGl. cl. 2(4)
 home unitGl. cl. 1
+Housing Australia45C(1)
 improvementsGl. cl. 1
 improvement schemeGl. cl. 1
 increased exemption development39E, Sch. 1 cl. 26B(1)
@@ -202,20 +205,20 @@ residence contract39(1)
 residential care38A(1)
 residential park39A
 residential premises39(1)
-residential tenancy agreement 39E
+residential tenancy agreement39E
 retirement village39(1), Gl. cl. 1
 retirement village scheme39(1)
 rural business land assessmentSch. 1 cl. 10
 rural land29
 shareholder30J
 short-stay site39A
-social housing premises 39E
+social housing premises39E
 sportGl. cl. 1
 sports associationGl. cl. 1
-strata lot 39E
+strata lot39E
 subdividedGl. cl. 1
 subdividing ownerGl. cl. 1
-substantial renovation 39F(2)
+substantial renovation39F(2)
 Swan Valley Planning SchemeGl. cl. 1
 taxable authorityGl. cl. 1
 taxable landGl. cl. 1
@@ -232,4 +235,4 @@ Y%15A(3A)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ANDREW JONES, Government Printer

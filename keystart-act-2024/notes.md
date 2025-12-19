@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Keystart Act 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Keystart Act 2024 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Keystart Act 2024 (other than Pt. 6, s. 59(2), Pt. 8 Div. 2, s. 68 and Pt. 8 Div. 7) | 44 of 2024 | 13 Nov 2024 | Part 1 (but only s. 1 and 2): 13 Nov 2024 (see s. 2(a)); s. 3-5, Pt. 2 (other than s. 12-14), Pt. 5, Pt. 7 (other than s. 47), Pt. 8 Div. 1 (other than s. 59(2)), 3, 4 and 5 (other than s. 68): 14 Nov 2024 (see s. 2(b)); s. 12-14, Pt. 3 and 4, s. 47 and Pt. 8 Div. 8: 1 Jul 2025 (see s. 2(c) and SL 2025/87 cl. 2(a)); Pt. 8 Div. 6: 2 Jul 2025 (see s. 2(c) and SL 2025/87 cl. 2(b))
+Help to Buy (Commonwealth Powers) Act 2025 Pt. 4 Div. 3 | 22 of 2025 | 19 Dec 2025 | 19 Dec 2025 (see s. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -33,6 +34,8 @@ expiring entity33
 financial assistance product4
 GTE Act4
 guidelines24(2)
+Help to Buy program28A(1)
+Housing Australia28A(1)
 Keystart4
 legacy product51(1)
 liability37
@@ -61,4 +64,4 @@ transitional regulations57(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
