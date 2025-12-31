@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Criminal Investigation (Identifying People) Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Criminal Investigation (Identifying People) Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Criminal Investigation (Identifying People) Act 2002 | 6 of 2002 | 4 Jun 2002 | s. 1 and 2: 4 Jun 2002; Act other than s. 1 and 2, Pt. 4-7 and Sch. 2 cl. 1, 3 and 5(2): 29 Jun 2002 (see s. 2 and Gazette 28 Jun 2002 p. 3037); Pt. 4-7 and Sch. 2 cl. 1, 3 and 5(2): 20 Nov 2002 (see s. 2 and Gazette 19 Nov 2002 p. 5505)
@@ -31,11 +31,7 @@ Liquor Control Amendment (Protected Entertainment Precincts) Act 2022 Pt. 3 | 44
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 8 and s. 409 and 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 3 (other than s. 34) | 25 of 2023 | 10 Nov 2023 | 14 Dec 2023 (see s. 2(b) and SL 2023/191 cl. 2)
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 6 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 1 | 35 of 2024 | 22 Oct 2024 | 28 Jul 2025 (see s. 2(b) and SL 2025/137 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 2 Subdiv. 2 | 35 of 2024 | 22 Oct 2024 | 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2)
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 2 Subdiv. 1 and Pt. 3 Div. 2 Subdiv. 2 | 35 of 2024 | 22 Oct 2024 | Pt. 2 Div. 2 Subdiv. 1: 28 Jul 2025 (see s. 2(b) and SL 2025/137 cl. 2); Pt. 3 Div. 2 Subdiv. 2: 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 8 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 34 was deleted by the Liquor Control Amendment Act 2025 s. 129 before it purported to come into operation.
@@ -103,4 +99,4 @@ WA Police3(1)
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer

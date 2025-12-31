@@ -52,11 +52,11 @@ Courts Legislation Amendment (Magistrates) Act 2022 Pt. 2 | 2 of 2022 | 28 Feb 2
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 2 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Abortion Legislation Reform Act 2023 Pt. 4 Div. 1 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 2 Subdiv. 1 | 35 of 2024 | 22 Oct 2024 | 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 2 Subdiv. 1 | 35 of 2024 | 22 Oct 2024 | 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 13 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 and those provisions may be amended by regulations under subsection (3) of that section.
@@ -70,7 +70,7 @@ Chief Magistrate3(1)
 child3(1)
 Children’s Court functions11(1), 54(1)
 commencement day54(2)
-Court2(1)
+Court3(1)
 court record51A(1)
 decision30(3)
 detention21(1)
@@ -85,9 +85,10 @@ President3(1)
 prohibited matter36A(1)
 reasons51A(1)
 registrar3(1)
+relevant decision40A(1)
 research project36AA(2)
 young offenders agency3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer

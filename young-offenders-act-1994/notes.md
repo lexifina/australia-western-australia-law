@@ -68,13 +68,13 @@ Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct
 Western Australian Marine Amendment Act 2023 s. 39 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Criminal Code Amendment Act 2024 s. 9 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (see s. 2(b) and SL 2024/125 cl. 2)
 Police Legislation Amendment Act 2024 Pt. 4 | 33 of 2024 | 26 Sep 2024 | 20 Dec 2024 (see s. 2(1)(b) and SL 2024/277 cl. 2)
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 2 Subdiv. 4 | 35 of 2024 | 22 Oct 2024 | 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 36 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 Pt. 3 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 2 Subdiv. 4 | 35 of 2024 | 22 Oct 2024 | 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2)
 Young Offenders and Prisons Legislation Amendment Act 2024 Pt. 3 | 48 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 22 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
@@ -215,7 +215,7 @@ work3(1)
 written reasons120(3)
 young person3(1)
 youth community based order3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2025.
+By Authority: ROGER JACOBS, Acting Government Printer

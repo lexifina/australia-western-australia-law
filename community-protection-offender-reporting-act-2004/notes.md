@@ -20,41 +20,46 @@ Criminal Law (Unlawful Consorting and Prohibited Insignia) Act 2021 Pt. 6 Div. 1
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 3 and s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 29 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 2 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 1 | 35 of 2024 | 22 Oct 2024 | 28 Jul 2025 (see s. 2(b) and SL 2025/137 cl. 2)
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 2 Div. 1 and Pt. 3 Div. 1 | 35 of 2024 | 22 Oct 2024 | Pt. 2 Div. 1: 28 Jul 2025 (see s. 2(b) and SL 2025/137 cl. 2); Pt. 3 Div. 1: 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Community Protection (Offender Reporting) Act 2004 s. 12 and Sch. 3 | 72 of 2004 (as amended by No. 29 of 2008 s. 25(4)) | 8 Dec 2004 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 29 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Community Protection (Offender Reporting) Amendment Act 2024 Pt. 3 Div. 1 and Pt. 4 | 35 of 2024 | 22 Oct 2024 | Pt. 3 Div. 1: 31 Dec 2025 (see s. 2(b) and SL 2025/201 cl. 2); Pt. 4: to be proclaimed (see s. 2(b))
-Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Community Protection (Offender Reporting) Amendment Act 2024 Pt. 4 | 35 of 2024 | 22 Oct 2024 | To be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 5 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-agency official82(1A)
+agency official82
 animosity towards85L(1)
 application110A(1)
 approved place3
-APS employee82(1A)
+APS employee82
 authorised person3
 authorised police officer85
 change of name application80A
 child3
 child protection order85
+child welfare officer15D(1)
 Class 1 offence3
 Class 2 offence3
 Class 3 offence3
-commencement day3, 119
+commencement day3, 119, 127
 Commissioner3
 community order3
 conduct85
 corresponding Act3
+corresponding juvenile offender exemption order3
+corresponding juvenile offender non-registration order3
+corresponding juvenile offender reporting order3
+corresponding juvenile scheme jurisdiction3
 corresponding offender reporting order3
 corresponding protection order85
-corresponding registrar2(2)
-corresponding reportable offence2(2)
+corresponding registrar3
+corresponding reportable offence3
 corresponding reportable offender3
 court3, 14, 68(1), 85
 court record17(4), 86(4)
@@ -83,10 +88,12 @@ immigration detention3
 incidental communication application26(5)
 information85GA(2), 85K(1)
 in person5(2)
-interim protection order85M(2)
+interim protection order85
 Internet carriage service26(1a)
 Internet service provider26(1a)
 interstate Registrar80A
+juvenile offender exemption order3
+juvenile offender reporting order3
 locality85A
 management110A(1)
 new order90(4)
@@ -96,11 +103,13 @@ non-contact period33D(1)
 non-intimate identifying procedure3
 offender reporting order3
 parole3
-past offender19(1), 20A(1)
+past offender14, 15
 past offender reporting order3
 personal details3, 85F(1)
 personal information3
 photograph85A
+pre-commencement juvenile offence128(1)
+pre-commencement offence131(1)
 premises3
 prescribed3
 prescribed offence85G(1)
@@ -112,21 +121,25 @@ public place85L(1)
 publish85A, 85M(1)
 recognised foreign reporting period49(1)
 Register3
-registrar14, 85
+registrar15C, 85
 Registration Act80A
 Registration Act Register80F(1)
+relevant applicant15C
+relevant application15C
 relevant authority54(1)
+relevant court15C
 relevant day115A(1), 115B(1)
 relevant offence115A(1), 115B(1)
+relevant respondent15C
 reportable contact3, 4A(1)
 reportable contact details3, 4B(1)
 reportable information84(1)
-reportable offence3
+reportable offence3, 9
 reportable offender3
 reporting obligations3
 reporting order3
 reporting period3
-respondent14A, 85
+respondent85
 restraining order107(1)
 senior police officer3
 sentence3
@@ -134,6 +147,7 @@ serious reportable offender108A(1)
 serious sexual offence85A
 specified113(1), 118(1)
 specified person85J(1)
+stage 2 commencement day14E(1)
 strict government custody3
 supervising authority3
 thing relevant to an offence108F(1)
@@ -146,4 +160,4 @@ young reportable offender3
 © State of Western Australia 2025.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ROGER JACOBS, Acting Government Printer
