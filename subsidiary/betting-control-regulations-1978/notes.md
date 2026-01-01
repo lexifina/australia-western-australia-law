@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Betting Control Regulations 1978 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Betting Control Regulations 1978 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
  | Betting Control Regulations 1978 | 22 Jun 1978 p. 1991-2014 | 22 Jun 1978
@@ -79,10 +79,7 @@ Citation | Published | Commencement
  | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
  | Gambling Regulations Amendment Regulations (No. 2) 2025 Pt. 2 | SL 2025/30 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
  | Gambling Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/35 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/187 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
+ | Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/187 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -166,7 +163,7 @@ WATA harness race105A(1)
 Western Australian Greyhound Racing Association3(1)
 Western Australian Trotting Association3(1)
 win bet3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Control Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Liquor Control Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -167,9 +167,6 @@ Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 
 Liquor Control Amendment Regulations 2025 | SL 2025/9 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2025 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 2) 2025 Pt. 4 | SL 2025/143 6 Aug 2025 | 7 Aug 2025 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2025 | SL 2025/149 20 Aug 2025 | r. 1 and 2: 20 Aug 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 6 | SL 2025/187 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -273,7 +270,7 @@ wholesaler3A(1)
 wine produced by a producer21A(3)
 worker9A(3)
 works canteen9A(3)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ROGER JACOBS, Acting Government Printer

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Racing and Wagering Western Australia Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Racing and Wagering Western Australia Regulations 2003 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Racing and Wagering Western Australia Regulations 2003 | 29 Jul 2003 p. 3273-91 | 1 Aug 2003 (see r. 2 and Gazette 29 Jul 2003 p. 3259)
@@ -39,9 +39,6 @@ Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 7 | SL 2023/156 18 Oct 2023 | 1 Jan 2024 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/213 16 Oct 2024 | 1 Jan 2025 (see r. 2(b))
 Gambling Regulations Amendment Regulations 2025 Pt. 6 | SL 2025/35 5 Feb 2025 | 6 Feb 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 7 | SL 2025/187 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
 Other notes
 The Racing and Wagering Western Australia Amendment Regulations (No. 2) 2004 r. 5 reads as follows:
@@ -80,7 +77,7 @@ ticket3(1)
 unit3(1)
 wagering account3(1)
 warning off notice72(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
