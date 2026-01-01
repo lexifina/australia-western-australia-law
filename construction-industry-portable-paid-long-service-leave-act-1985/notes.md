@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Construction Industry Portable Paid Long Service Leave Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Construction Industry Portable Paid Long Service Leave Act 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
  | Construction Industry Portable Paid Long Service Leave Act 1985 | 72 of 1985 | 13 Dec 1985 | s. 1 and 2: 13 Dec 1985; Act other than s. 1 and 2: 19 Dec 1986 (see s. 2 and Gazette 19 Dec 1986 p. 4860)
@@ -24,11 +24,7 @@ Short title | Number and year | Assent | Commencement
  | Public Sector Reform Act 2010 s. 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
  | Industrial Legislation Amendment Act 2011 Pt. 2 | 53 of 2011 | 11 Nov 2011 | 1 Apr 2012 (see s. 2(b) and Gazette 16 Mar 2012 p. 1246)
  | Reprint 4: The Construction Industry Portable Paid Long Service Leave Act 1985 as at 8 Nov 2013 (includes amendments listed above)
- | Construction Industry Portable Paid Long Service Leave Amendment Act 2025 Pt. 1-4 and 6 | 12 of 2025 | 28 Aug 2025 | Pt. 1: 28 Aug 2025 (see s. 2(a)); Pt. 2-4 and 6: 29 Aug 2025 (see s. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Construction Industry Portable Paid Long Service Leave Amendment Act 2025 Pt. 5 | 12 of 2025 | 28 Aug 2025 | 1 Jan 2026 (see s. 2(b) and SL 2025/170 cl. 2)
+ | Construction Industry Portable Paid Long Service Leave Amendment Act 2025 Pt. 1-6 | 12 of 2025 | 28 Aug 2025 | Pt. 1: 28 Aug 2025 (see s. 2(a)); Pt. 2-4 and 6: 29 Aug 2025 (see s. 2(c)); Pt. 5: 1 Jan 2026 (see s. 2(b) and SL 2025/170 cl. 2)
 Other notes
 The Construction Industry Portable Paid Long Service Leave Amendment Act 1989 s. 13 and 14 read as follows:
 13.Transitional
@@ -45,7 +41,7 @@ The Standardisation of Formatting Act 2010 s. 51 Table item 14, the amendment to
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-amendment ActSch. cl. 4 and 7(1)
+amendment ActSch. cl. 4, 7(1) and 12
 appointed day3(1)
 apprentice3(1)
 approved form3(1)
@@ -53,7 +49,7 @@ Board3(1)
 books3(1)
 break in service21(3)
 chief executive officer3(1)
-commencement daySch. cl. 3(7) and 7(1)
+commencement daySch. cl. 3(7), 7(1) and 12
 construction industry3(1), 29A(1)
 corresponding law29A(1)
 corresponding public employer in this State29A(1)
@@ -62,32 +58,38 @@ employee3(1)
 employees register3(1)
 employer3(1)
 employers register3(1)
+formerSch. cl. 13(1)
 industrial instrument3(1)
 inspector3(1)
 labour hire agency3(1)
 medical practitioner22(1B)
 member3(1)
-offshore area3A(1)
+offshore area3(1)
 on workers compensation3(1) and (3C)
-on workers compensation (1981 Act)Sch. cl. 7(1) and (2)
+on workers compensation (1981 Act)Sch. cl. 7(1) and 7(2)
+operate3(1)
 ordinary pay3(1), 21(3), 51(2)
-original decisionSch. cl. 11(1)
+original decisionSch. cl. 11(1) and 17(1)
 person A3(1)
 person B3(1)
 pre-commencement periodSch. cl. 8(1)
 prescribed3(1)
 publication daySch. cl. 6(1)
+relevant daySch. cl. 12 and 13(2)
 relevant party22(2C)
 reviewable decision50(1)
+self-propelled vessel3(1)
 specifiedSch. cl. 6(1)
 stood down3(1) and (3B)
 training contract3(1)
 transitional matterSch. cl. 6(1)
 transitional regulationsSch. cl. 4
 union3(1)
+vessel3(1)
+vessel-related personSch. cl. 12 and 13(2)
 WAIRC3(1)
 year of service3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
