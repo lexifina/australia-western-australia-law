@@ -64,7 +64,7 @@ Compilation table
  | Graffiti Vandalism Act 2016 Pt. 6 Div. 2 | 16 of 2016 | 11 Jul 2016 | 12 Oct 2016 (see s. 2(b) and Gazette 11 Oct 2016 p. 4531)
  | Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 18 | 19 of 2016 | 25 Jul 2016 | 24 Jan 2017 (see s. 2(1)(c) and Gazette 10 Jan 2017 p. 165)
  | Local Government Legislation Amendment Act 2016 Pt. 2 | 26 of 2016 | 21 Sep 2016 | Pt. 2 (other than s. 4, 6-9, 11 and 17): 12 Nov 2016 (see s. 2(b) and Gazette 11 Nov 2016 p. 5035); s. 4, 6-9, 11 and 17: 21 Jan 2017 (see s. 2(b) and Gazette 20 Jan 2017 p. 648)
- | Local Government Amendment (Auditing) Act 2017 (other than s. 4(2) and 7(2)) | 5 of 2017 | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(a)); Act other than s. 1, 2, 4(2) and 7(2): 28 Oct 2017 (see s. 2(b) and Gazette 27 Oct 2017 p. 5413)
+ | Local Government Amendment (Auditing) Act 2017 | 5 of 2017 (as amended by 2023/011 s. 103) | 1 Sep 2017 | s. 1 and 2: 1 Sep 2017 (see s. 2(1)(a)); Act other than s. 1, 2, 4(2) and 7(2): 28 Oct 2017 (see s. 2(1)(b) and Gazette 27 Oct 2017 p. 5413); s. 4(2) and 7(2): 1 Jan 2026 (see s. 2(1)(c) and SL 2025/210 cl. 2)
  | Strata Titles Amendment Act 2018 Pt. 3 Div. 12 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
  | Local Government Amendment (Suspension and Dismissal) Act 2018 | 31 of 2018 | 19 Nov 2018 | s. 1 and 2: 19 Nov 2018 (see s. 2(b)); Act other than s. 1 and 2: 20 Nov 2018 (see s. 2(b))
  | Local Government Legislation Amendment Act 2019 Pt. 2 | 16 of 2019 (as amended by No. 47 of 2024 s. 174) | 5 Jul 2019 | s. 3-4, 6-12, 18, 19, 21, 23, 45-47, 52-56, 58-60, 62, 63, 69-73: 6 Jul 2019 (see s. 2(c)); s. 15: 10 Aug 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 61: 16 Sep 2019 (see s. 2(b) and Gazette 9 Aug 2019 p. 3019); s. 26 to 38, 39(1), 40 to 44, 67 and 74(3): 19 Oct 2019 (see s. 2(b) and Gazette 18 Oct 2019 p. 3673); s. 5, 13, 14, 16, 17, 20, 24, 57, 64-66, 68 and 74(1) and (2): 7 Nov 2020 (see s. 2(b) and SL 2020/212 cl. 2); s. 22, 25 and 48-51: 3 Feb 2021 (see s. 2(b) and SL 2021/13 cl. 2)
@@ -77,14 +77,13 @@ Compilation table
  | Local Government Amendment Act 2023 Pt. 2 (other than s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85) | 11 of 2023 | 18 May 2023 | s. 3, 60, 86, 87 and 99: 19 May 2023 (see s. 2(1)(b)); s. 5(2) and (4), 7-11, 13-16, 19(1)-(3), 24 and 89: 21 Jun 2023 (see s. 2(1)(d) and SL 2023/77 cl. 2); s. 4, 5(1) and (3), 6, 12, 18, 19(4), 20, 21, 25 to 28, 31(2) and (3), 33 to 39, 40(1) and (2), 42 to 54, 56, 57, 71, 76(2), 77(3), 88 and 90 to 98: 1 Jul 2023 (see s. 2(1)(d) and SL 2023/92 cl. 2(a)); s. 58, 66, 70, 79(1) and 82: 19 Oct 2023 (see s. 2(1)(d) and SL 2023/157 cl. 2(a)); s. 17, 29, 30, 31(1), 32, 40(3), 41, 79(2) and 80: 1 Jan 2024 (see s. 2(1)(d), SL 2023/92 cl. 2(b) and SL 2023/157 cl. 2(b)); s. 23: 1 Jul 2024 (see s. 2(1)(d) and SL 2023/92 cl. 2(c))
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 10 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 4 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
-Local Government Amendment Act 2024 Pt. 2 (other than s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 27, 36, 40, 44-49, 51-53, 55-57, 59(1), 60, 61, 64-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142, and 155-157) | 47 of 2024 | 6 Dec 2024 | s. 3, 4(3), 5-7, 14(1) and (3), 15, 18-26, 28-31, 34, 35, 37-39, 41-43, 50, 58, 59(2), 72(2), 84, 89, 115(2), 126-128, 130, 132, 135, 138, 141, 144, 152-154 and 159-161: 7 Dec 2024 (see s. 2(1)(b)); s. 8(2), 9, 10, 32, 33, 54, 62, 63, 145 and 158: 1 Feb 2025 (see s. 2(1)(i) and SL 2025/8 cl. 2); s. 143 and 146-151: 24 Jul 2025 (see s. 2(1)(i) and SL 2025/140 cl. 2)
+Local Government Amendment Act 2024 Pt. 2 (other than s. 27, 46-49, 51, 52(2), 53, 60, 65, 73, 76-83, 85, 88 and 137) | 47 of 2024 | 6 Dec 2024 | s. 3, 4(3), 5-7, 14(1) and (3), 15, 18-26, 28-31, 34, 35, 37-39, 41-43, 50, 58, 59(2), 72(2), 84, 89, 115(2), 126-128, 130, 132, 135, 138, 141, 144, 152-154 and 159-161: 7 Dec 2024 (see s. 2(1)(b)); s. 8(2), 9, 10, 32, 33, 54, 62, 63, 145 and 158: 1 Feb 2025 (see s. 2(1)(i) and SL 2025/8 cl. 2); s. 143 and 146-151: 24 Jul 2025 (see s. 2(1)(i) and SL 2025/140 cl. 2); s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 36, 40, 44, 45, 52(1), 55-57, 59(1), 61, 64, 66-71, 72(1) and (3), 74, 75, 86, 87, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 139, 140, 142 and 155-157: 1 Jan 2026 (see s. 2(1)(e)(ii), (f)(ii) and (i) and (2), SL 2025/203 cl. 2 and SL 2025/207 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Local Government Amendment (Auditing) Act 2017 s. 4(2), 7(2) and 22 | 5 of 2017 (as amended by No. 11 of 2023 s. 103) | 1 Sep 2017 | s. 4(2), 7(2): to be proclaimed (see s. 2(1)(c)); s. 22: 1 Jan 2026 (see s. 2(1)(c) and SL 2025/210 cl. 2)
 Local Government Amendment Act 2023 s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85 | 11 of 2023 (as amended by No. 47 of 2024 s. 172) | 18 May 2023 | To be proclaimed (see s. 2(1)(d), (2) and (3))
 Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
-Local Government Amendment Act 2024 s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 27, 36, 40, 44-49, 51-53, 55-57, 59(1), 60, 61, 64-71, 72(1) and (3), 73-83, 85-88, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 137, 139, 140, 142 and 155-157 and Pt. 3 Div. 4 | 47 of 2024 | 6 Dec 2024 | s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 36, 40, 44, 45, 52(1), 55-57, 59(1), 61, 66-71, 72(1) and (3), 74, 75, 86, 87, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 139, 140, 142, 155-157: 1 Jan 2026 (see s. 2(1)(i) and (2), SL 2025/203 cl. 2 and SL 2025/207 cl. 2); s. 27, 46-49, 51, 52(2), 53, 60, 64, 65, 73, 76-83, 85 and 88, 137, Pt. 3 Div. 4: to be proclaimed (see s. 2(1)(c), (d), (e), (f), (h), (i) and (3))
+Local Government Amendment Act 2024 s. 27, 46-49, 51, 52(2), 53, 60, 65, 73, 76-83, 85, 137 and Pt. 3 Div. 4 | 47 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(1)(c), (d), (h) and (i))
 Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
@@ -256,26 +255,10 @@ the LG Act means the Local Government Act 1995.
 (2) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.77 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.77.
 (3) If a local government receives, before the commencement day, a notice in accordance with the LG Act section 6.78 (as in force when the notice was received by the local government) but does not before the commencement day refer the decision referred to in the notice to a Land Valuation Tribunal as an appeal, on and after the commencement day the local government must refer the notice to the State Administrative Tribunal and the notice is to be taken to be an application to the Tribunal for a review of the decision under the LG Act section 6.78.
 References to the Executive Director were replaced by references to the Departmental CEO, see the Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 12 Div. 3. Section 454 of that Act is a general transitional provision that applies to references to the Executive Director in written laws.
-The Local Government Amendment (Auditing) Act 2017 s. 22 reads as follows:
-22.Superseded provisions to be deleted
-(1) In this section —
-superseded provisions means the following provisions of the Local Government Act 1995 —
-(a)section 5.43(c);
-(b)in section 7.1, the definitions of approved auditor, disqualified person, qualified person and registered company auditor;
-(c)Part 7 Division 2;
-(d)Part 7 Division 3;
-(e)section 7.12AA;
-(f)section 7.12AF;
-(g)section 7.13(1)(ab)(i), (ac), (a)-(e), (g) and (h).
-(2) The superseded provisions are deleted on a day fixed by proclamation.
-(3) A proclamation cannot be made under subsection (2) unless the Minister is satisfied that there is no reason for the superseded provisions to remain in operation.
-(4) This section is deleted immediately after the superseded provisions are deleted.
-Note for Part 7:
-The description at the beginning of Part 7 is to be altered by:
-(a)deleting “the financial accounts of”;
-(b)deleting paragraph (a) and inserting:
-(a)the establishment of audit committees; and
-The Local Government Legislation Amendment Act 2019 s. 39(2) had not come into operation when it was deleted by the Local Government Amendment Act 2024 s. 174.
+The superseded provisions as defined in the Local Government Amendment (Auditing) Act 2017 s. 22(1) were deleted on 1 Jan 2026 (see s. 22(2) and SL 2025/210 cl. 2).
+The Local Government Legislation Amendment Act 2019 s. 39(2) had not come into operation when it was deleted 7 Dec 2024 by the Local Government Amendment Act 2024 s. 174.
+The Local Government Amendment Act 2023 s. 81 and 85 had not come into operation when they were deleted on 1 Jan 2026 by the Local Government Amendment Act 2023 (see s. 2 as amended by the Local Government Amendment Act 2024 s. 172).
+The Local Government Amendment Act 2024 s. 88 had not come into operation when it was deleted on 1 Jan 2026 by the Local Government Amendment Act 2024 (see s. 2(3) and SL 2025/210 cl. 2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -289,34 +272,36 @@ acquire3.59(1)
 action report7.13(1)
 additional purpose6.8(1a)
 address5.74(1)
+adjudicator1.4
+adopted code of conduct8A.2(1)
 Advisory Board1.4
 affected electorsSch. 2.1 cl. 1, Sch. 2.2 cl. 1
 affected local governmentSch. 2.1 cl. 1
 affected person9.2
-agreement7.13(1)
-alleged offender3.38
+alleged offender3.38, 9.22A
 amending ActSch. 9.3 cl. 14A(1), 42, 45
 amending provisionSch. 9.3 cl. 44
 amendment daySch. 9.3 cl. 58(1), 59(1), 61(1), 65(1), 66(1), 67(1), 68(1), 69(1), 70(1), 71(1), 72(1), 77(1), 78(1), 79(1), 80(1)
 amount misapplied8.35(3)
-an authorised person8.3(6)
 annual budget6.1
 annual return5.74(1)
-approved auditor7.1
 audit7.1
-audit committee7.1
 audit contract7.1, Sch. 9.3 cl. 49
 auditor1.4
 Auditor General Act7.1
 audit report7.1
-audit, risk and improvement committeeSch. 9.3 cl. 69(1)
+audit, risk and improvement committee7.1, Sch. 9.3 cl. 69(1)
 authorisation9.2
 authorised employee9.31
+authorised inspectorate officer9.22A
 authorised land officer9.69(1)
-authorised person8.1, 8.35(3), 9.10(5), 9.13(1), 9.15
+authorised officer1.4, 8B.42
+authorised person8.35(3), 9.10(5), 9.13(1), 9.15
+authorised purpose8B.42
 Authority9.69(1)
 ballot paperSch. 4.1 cl. 7
-breach5.102A
+behavioural breach1.4, 8A.2(2)
+breach complaint8A.1
 budget deficiency6.1
 candidate5.102A, Sch. 4.1A cl. 5(2), 11(2)
 candidate A4.81(4), Sch. 2.3 cl. 12(4)
@@ -331,9 +316,12 @@ commencement day7.1, Sch. 9.3 cl. 1, 49, 56(1)
 commissioner1.4
 committee5.1
 committee member5.100(1)
-complaints officer5.102A
+complainant5.105(1), 5.130(2), 8A.1
+complaint5.130(1), 5.130(2), 8A.8(1), 8A.32(1), 8A.36(1)
+compliance notice8B.61(1)
 concurrent electionSch. 4.1B cl. 1(1)
 conditions5.44(5)
+conduct breach1.4, 8A.3(1)
 continuing authoritySch. 9.3 cl. 1
 continuing candidateSch. 4.1A cl. 8(2), Sch. 4.1B cl. 4(1), Sch. 4.1 cl. 7
 contravention that can lead to impounding3.38
@@ -342,6 +330,7 @@ council1.4
 councillor1.4
 councillor mayor or president1.4
 council meeting5.23A(1)
+council member6.14A(1)
 council proceedings9.57A(1)
 court3.26(5)
 Crown lands1.4
@@ -350,11 +339,13 @@ Crown lessee1.4
 current inquirySch. 9.3 cl. 77(1)
 DAP function9.69B(1)
 DAP regulations9.69B(1)
+dealt with by infringement notice8A.1
 debt5.85(3)
 deceptive material4.88(4)
-decision5.125(2), 9.2
+decision9.2
 Department1.4
 Departmental CEO1.4
+Deputy Adjudicator1.4
 designated employee5.74(1), Sch. 9.3 cl. 1
 determined5.98(1A), 5.100(1)
 detriment4.85(4)
@@ -363,10 +354,10 @@ dispose3.58(1), 3.59(1)
 disposition of real property5.86(3)
 disqualification offence8.15D
 disqualified2.27(1)
-disqualified person7.1, 7.4(2)
 district1.4
 districtsSch. 2.1 cl. 8(1)
 disused materialSch. 3.1
+document8B.14(1)
 early vote4.67
 elected candidateSch. 4.1 cl. 9(1), 10(1)
 election2.16A, 4.1, 4.36(2), Sch. 2.3 cl. 10, Sch. 4.1A cl. 8(2), 11(2), Sch. 9.3 cl. 59(1)
@@ -388,10 +379,11 @@ electors5.26
 electronic broadcasting5.23A(1)
 eligible body5.49(1)
 emergency3.73(1), 9.63A(1)
-employee1.4, 5.48(1), 5.70(1), 7.10(2)
+employee1.4, 5.48(1), 5.70(1)
 enrolment eligibility claimSch. 9.3 cl. 71(1)
 enrolment information4.46A(1)
 entitled person6.67(3)
+entry warrant8B.42, 8B.50(1)
 establishment agreement3.61(2)
 event5.90A(1)
 excluded candidateSch. 4.1 cl. 5(2)
@@ -400,7 +392,6 @@ existing audit committeeSch. 9.3 cl. 69(1)
 existing authorisationSch. 9.3 cl. 80(1)
 existing committeeSch. 9.3 cl. 66(1), 67(1)
 existing deputy presiding memberSch. 9.3 cl. 68(1)
-existing rollSch. 9.3 cl. 12(1)
 extension order8.15F(3)
 extent5.59
 extraordinary election1.4, 4.8(3)
@@ -421,6 +412,7 @@ former section 5.89A(7)Sch. 9.3 cl. 56(1)
 former valuationSch. 6.1 cl. 1(2)
 FY17/18 auditSch. 9.3 cl. 51(1)
 FY19/20 auditSch. 9.3 cl. 52(1)
+general complaint8A.1, 8A.28(4)
 general funds6.21(4)
 general rate6.1
 gift5.57
@@ -431,21 +423,32 @@ gross rental value6.25
 group self-insurer licence5.49(1)
 inaugural election1.4, 4.2(2)
 income5.80(4)
+Independent Inquiry1.4
 indictable penalty2.22(3)
+information8B.14(1)
 inquiry8.1
-Inquiry Panel1.4, Sch. 9.3 cl. 78(1)
+Inquiry PanelSch. 9.3 cl. 78(1)
+Inspector1.4
+inspectorate officer1.4
+Inspector’s report8.1
+Inspector’s website1.4
+insurance policy6.14A(1)
 interest5.79(3), 5.84(2)
 interest relating to a gift5.59
 interim valuation6.25
 invalidity complaint4.80(2), Sch. 2.3 cl. 11(2)
+investigator1.4
 judicial proceedings9.69(1)
 land transaction3.59(1), 3.73(1)
 last countSch. 4.1A cl. 8(2), Sch. 4.1B cl. 4(1)
 later transferSch. 4.1 cl. 15(3)
 law9.10(1)
 lease6.60(1)
+legal matter6.14A(1)
 lessee6.60(1)
 lessor6.60(1)
+liability6.14A
+liable8B.55(3)
 local government1.4, 9.15
 local government audit7.1
 local government property1.4
@@ -461,9 +464,12 @@ member1.4, 5.59, Sch. 2.5 cl. 1, Sch. 5.1 cl. 1
 member of a parliament2.20(2)
 metropolitan area1.4
 minimum payment6.1
-minor breach5.102A
+misconduct8B.6(2), 8B.25(2)
 model code 5.102A
 model standards5.39B(1)
+monitor1.3(2)
+monitoring assignment8B.36
+monitoring officer8B.36
 municipal fund1.4
 new ordinary election day provisionsSch. 9.3 cl. 14A(1)
 new Part 7 Division 1ASch. 9.3 cl. 69(1)
@@ -472,9 +478,11 @@ new section 5.12(1)Sch. 9.3 cl. 67(1)
 new section 5.12(2)Sch. 9.3 cl. 68(1)
 new valuationSch. 6.1 cl. 1(2)
 nomination place4.47(2)
+non-disclosure notation8B.46(1), 8B.47(1)
 non-perishable goods3.38
 noticeSch. 2.1 cl. 1, Sch. 9.3 cl. 51(3)
 notice recipient3.26(2)
+notification requirement8A.37(1)
 occupier1.4, 2.19(2B)
 offence2.22(3)
 officeSch. 2.3 cl. 1, 6
@@ -492,7 +500,7 @@ ordinary election day2.16A, Sch. 9.3 cl. 59(1)
 ordinary elections day1.4
 original declaration4.81(5)
 original former memberSch. 4.1A cl. 14
-original order8.15G(1)
+original order8.15CA(1), 8.15G(1)
 original vacancySch. 4.1A cl. 14
 original valuationsSch. 6.1 cl. 2(2)
 other person5.9(1)
@@ -502,7 +510,6 @@ parkSch. 9.1 cl. 1(1)
 parking facilitiesSch. 9.1 cl. 1(1)
 parking regionSch. 9.1 cl. 1(1)
 participants3.61(1)
-party5.102A
 performance audit7.1
 personal information5.92(5)
 person having an interest3.51(1)
@@ -520,9 +527,12 @@ preference vote4.73(6), Sch. 4.1 cl. 1
 prescribed1.4, 9.13(1), 9.15
 prescribed development application9.69B(1)
 prescribed financial market5.84(2)
+prescribed offence9.22A
 preserved CEOSch. 9.3 cl. 43(1)
+presiding member8.20(1)
 primary return5.74(1)
-primary standards panel5.102A, 5.122(1), Sch. 9.3 cl. 76(1)
+primary standards panelSch. 9.3 cl. 76(1)
+Principal Adjudicator1.4
 print4.87(3), 4.88(4)
 private landSch. 9.1 cl. 7(1)
 private thoroughfareSch. 3.1, Sch. 9.1 cl. 7(1)
@@ -530,18 +540,18 @@ proceedings9.29(1)
 property3.58(1)
 proposalSch. 2.1 cl. 1
 proposal land5.60B(2)
+protected person8B.54(1)
 public facility9.46(4)
 publish4.88(4), 5.90(2)
-qualified person7.1
 quotaSch. 4.1 cl. 7
 rate9.40(3)
 rate record6.25
-recording5.23A(1)
-recurrent breach5.102A
+recording5.23AA(5), 5.23A(1)
+recurrent breach1.4, 8A.3(4)
+recurrent suspension event2.25A(2)
 regional local government1.4
 regional purpose3.62(2)
 regional subsidiary1.4, 3.69(1)
-registered company auditor7.1
 regulations7.1
 reinstatement8.15D
 relative5.74(1)
@@ -550,35 +560,41 @@ relevant election1.4A(2)
 relevant gift 5.71B(1)
 relevant information4.52(1)
 relevant interest6.29(1)
+relevant matter8B.58(2)
 relevant officialSch. 2.1 cl. 12(1)
 relevant period4.88(4)
-relevant person5.59, 5.74(1), 5.99E(1)
+relevant person5.59, 5.74(1), 5.99E(1), 8A.28(1)
 relevant pre-amendment periodSch. 9.3 cl. 65(1)
 relevant rateable property4.32(3D)
-remuneration5.99B(1)
+remote communication8B.42
+remuneration5.99B(1), 8B.2(1)
 required way3.12(6A)
+respondent5.105(1), 8A.1
 return5.74(1)
 returnable amount5.99E(2)
 return period5.74(1)
 reviewSch. 2.2 cl. 1
 reward4.85(4)
-rule of conduct5.102A
+rule of conduct5.102A, 8A.1
 second placed candidateSch. 4.1A cl. 5(2), 8(2), Sch. 4.1B cl. 4(1)
 second unelected candidateSch. 4.1A cl. 11(2)
 secrecy provision5.92(5)
 senior employee1.4
-serious breach5.102A
 serious local government offence2.22(3)
 service charge6.1, 6.42, 6.54, 6.63
+shared committee7.1CB(1)
 show cause notice8.15B(1)
 significant act3.73(1)
 specified3.38, 4.1C(2), 4.1D(2), 9.10(1), Sch. 9.3 cl. 54(1), 62(1), 81(1)
 specified area rate6.1
+specified breach1.4, 8A.4(1)
+specified offence8A.4(2)
 standSch. 9.1 cl. 1(1)
-standards panel5.102A, Sch. 9.3 cl. 72(1)
+standards panelSch. 9.3 cl. 72(1)
 start day5.74(1)
 Statewide public notice1.4
 statutory provision administered by the local government9.28(2)
+subject person8B.45(1)
 submissionSch. 2.2 cl. 1
 superannuation contribution payment 5.99B(1)
 supplementary audit7.1
@@ -586,9 +602,8 @@ supplied copy4.42(3)
 supply4.46A(1)
 surplus fractionSch. 4.1 cl. 10(3)
 surplus votesSch. 4.1 cl. 7
-suspended order5.117(2)
+suspension event2.25A(2)
 termination dateSch. 9.3 cl. 51(3)
-the authorised person8.3(6)
 third placed candidateSch. 4.1A cl. 5(2), 8(2)
 this Act4.1
 this Part4.1
@@ -621,7 +636,7 @@ ward1.4
 WCIM Act5.49(1)
 WorkCover WA5.49(1)
 working daySch. 4.1A cl. 1
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
