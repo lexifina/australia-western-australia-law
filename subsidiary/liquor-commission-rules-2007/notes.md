@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Commission Rules 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Liquor Commission Rules 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Liquor Commission Rules 2007 | 5 Oct 2007 p. 5313-23 | r. 1 and 2: 5 Oct 2007 (see r. 2(a)); Rules other than r. 1 and 2: 6 Oct 2007 (see r. 2(b))
@@ -14,10 +14,7 @@ Liquor Commission Amendment Rules (No. 2) 2022 | SL 2022/218 23 Dec 2022 | r. 1 
 Liquor Commission Amendment Rules 2023 | SL 2023/160 24 Oct 2023 | r. 1 and 2: 24 Oct 2023 (see r. 2(a)) Rules other than r. 1 and 2: 1 Jan 2024 (see r. 2(b))
 Liquor Commission Amendment Rules (No. 2) 2023 (other than Pt. 3) | SL 2023/198 13 Dec 2023 | Pt. 1: 13 Dec 2023 (see r. 2(a)); Pt. 2: 14 Dec 2023 (see r. 2(b))
 Liquor Commission Amendment Rules 2024 | SL 2024/204 1 Oct 2024 | r. 1 and 2: 1 Oct 2024 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Liquor Commission Amendment Rules 2025 r. 3 and 4 | SL 2025/185 7 Nov 2025 | 1 Jan 2026 (see r. 2(b))
+Liquor Commission Amendment Rules 2025 | SL 2025/185 7 Nov 2025 | r. 1 and 2: 7 Nov 2025 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jan 2026 (see r. 2(b))
 Other notes
 The Liquor Commission Amendment Rules (No. 2) 2023 Pt. 3 will not come into operation because the Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 31 was deleted by the Liquor Control Amendment Act 2025 s. 128 before it purported to come into operation (see SL 2023/198 r. 2(c)).
 Defined terms
@@ -33,7 +30,7 @@ proceedings3
 record3
 repealed rules16(3)
 reviewable decision5(1A)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ROGER JACOBS, Acting Government Printer
