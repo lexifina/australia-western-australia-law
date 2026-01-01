@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Vocational Education and Training (Colleges) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Vocational Education and Training (Colleges) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Vocational Education and Training Regulations 1996 | 27 Dec 1996 p. 7167-84 | 1 Jan 1997 (see r. 2 and Gazette 12 Nov 1996 p. 6301)
@@ -55,11 +55,7 @@ Vocational Education and Training (Colleges) Amendment Regulations 2022 | SL 202
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2022 | SL 2022/203 2 Dec 2022 | r. 1 and 2: 2 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2022 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations 2024 | SL 2024/1 10 Jan 2024 | r. 1 and 2: 10 Jan 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jan 2024 (see r. 2(b))
 Vocational Education and Training (Colleges) Amendment Regulations (No. 2) 2024 | SL 2024/230 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2025 (see r. 2(b))
-Vocational Education and Training (Colleges) Amendment Regulations 2025 (other than r. 5) | SL 2025/186 12 Nov 2025 | r. 1 and 2: 12 Nov 2025 (see r. 2(a)); r. 3, 4 and 6: 13 Nov 2025 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Vocational Education and Training (Colleges) Amendment Regulations 2025 r. 5 | SL 2025/186 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
+Vocational Education and Training (Colleges) Amendment Regulations 2025 | SL 2025/186 12 Nov 2025 | r. 1 and 2: 12 Nov 2025 (see r. 2(a)); r. 3, 4 and 6: 13 Nov 2025 (see r. 2(c)); Regulations other than 1-4 and 6: 1 Jan 2026 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 Formerly referred, incorrectly, to the Student and Youth Allowances Act 1973 of the Commonwealth. The correct short title of the Act was the Student and Youth Assistance Act 1973. That short title was changed to the Student Assistance Act 1973 by the Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 of the Commonwealth. The reference was changed under the Reprints Act 1984 s. 7(3)(h).
@@ -96,7 +92,7 @@ unenrolled secondary school aged person12(1)
 unforeseen circumstances24A
 unit3(1)
 unit fee11(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
