@@ -46,8 +46,8 @@ Element 2.2.1 — Supervision
 At all times, reasonable precautions and adequate supervision ensure children are protected from harm and hazard.
 Element 2.2.2 — Incident and emergency management
 Plans to effectively manage incidents and emergencies are developed in consultation with relevant authorities, practised and implemented.
-Element 2.2.3 — Child protection
-Management, educators and staff are aware of their roles and responsibilities to identify and respond to every child at risk of abuse or neglect.
+Element 2.2.3 — Child safety and protection
+Management, educators and staff are aware of their roles and responsibilities regarding child safety, including the need to identify and respond to every child at risk of abuse or neglect.
 Quality area 3 — Physical environment
 The physical environment is safe, suitable and provides a rich and diverse range of experiences which promote children’s learning and development.
 Standard 3.1 — Design
@@ -111,13 +111,13 @@ Effective partnerships support children’s access, inclusion and participation 
 Element 6.2.3 — Community engagement
 The service builds relationships and engages with its community.
 Quality area 7 — Governance and leadership
-Effective leadership contributes to sustained quality relationships and environments that facilitate children’s learning and development. Well documented policies and practices that are developed and regularly evaluated in partnership with educators, co-ordinators, staff members and families contribute to the ethical management of the service. There is a focus on continuous improvement.
+Effective leadership contributes to sustained quality relationships and environments that facilitate children’s learning and development. Well documented policies and practices that are developed and regularly evaluated in partnership with educators, co-ordinators, staff members and families contribute to the ethical management of a quality service that is child safe. There is a focus on continuous improvement.
 Standard 7.1 — Governance
-Governance supports the operation of a quality service.
+Governance supports the operation of a quality service that is child safe.
 Element 7.1.1 — Service philosophy and purpose
 A statement of philosophy guides all aspects of the service’s operations.
 Element 7.1.2 — Management systems
-Systems are in place to manage risk and enable the effective management and operation of a quality service.
+Systems are in place to manage risk and enable the effective management and operation of a quality service that is child safe.
 Element 7.1.3 — Roles and responsibilities
 Roles and responsibilities are clearly defined and understood, and support effective decision-making and operation of the service.
 Standard 7.2 — Leadership
@@ -128,4 +128,4 @@ Element 7.2.2 — Educational leadership
 The educational leader is supported and leads the development and implementation of the educational program and assessment and planning cycle.
 Element 7.2.3 — Development of professionals
 Educators’, co-ordinators’ and staff members’ performance is regularly evaluated and individual plans are in place to support learning and development.
-[Schedule 1 inserted: Gazette 23 Jan 2018 p. 251-7.]
+[Schedule 1 inserted: Gazette 23 Jan 2018 p. 251-7; amended: SL 2025/150 r. 11.]
