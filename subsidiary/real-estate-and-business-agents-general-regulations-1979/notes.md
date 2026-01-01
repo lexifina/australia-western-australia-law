@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Real Estate and Business Agents (General) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Real Estate and Business Agents (General) Regulations 1979 | 31 Aug 1979 p. 2616-18 | 1 Sep 1979
@@ -98,11 +98,7 @@ Commerce Regulations Amendment (Property Licensing) Regulations 2023 Pt. 3 | SL 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 15 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Real Estate and Business Agents (General) Amendment Regulations 2024 | SL 2024/152 24 Jul 2024 | r. 1 and 2: 24 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Sep 2024 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 16 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
-Commerce Regulations Amendment (Real Estate, Business and Settlement Agents) Regulations 2025 Pt. 2 (but only r. 3, 12 and 22) | SL 2025/194 26 Nov 2025 | 27 Nov 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
-Citation | Published | Commencement
-Commerce Regulations Amendment (Real Estate, Business and Settlement Agents) Regulations 2025 Pt. 2 (other than r. 3, 12 and 22) | SL 2025/194 26 Nov 2025 | 1 Jan 2026 (see r. 2(c))
+Commerce Regulations Amendment (Real Estate, Business and Settlement Agents) Regulations 2025 Pt. 2 | SL 2025/194 26 Nov 2025 | r. 3, 12 and 22: 27 Nov 2025 (see r. 2(b)); r. 4-11, 13-21 and 23-25: 1 Jan 2026 (see r. 2(c))
 Other notes
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.
@@ -110,30 +106,32 @@ The Real Estate and Business Agents (General) Amendment Regulations 2003 r. 4(2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-activity2(1)
 applicant4AB(1)
-approved CPD activity2(1)
+approved CPD provider2(1)
+approved CPD topic2(1)
 authorised financial institution6C
 business6E(2)
-calendar year2(1)
 commencement day16(1), 18(1)
-continuing professional development2(1)
+Commissioner’s website2(1)
+CPD activity2(1)
 CPD subject2(1)
+CPD year2(1)
 educational activity2(1)
 former regulation 4AA16(1)
 holding fee4A(1)
-mandatory CPD activity2(1)
+mandatory CPD topic2(1)
+money record6H(1A)
+point2(1), 4AC(1)
 point value2(1)
-record2(1)
-register2(1)
-registered training provider2(1)
 regulated person2(1)
 relevant bank accepted bills rate6F(2)
+required number of points2(1)
 restricted certificate (property management)2(1)
 restricted certificate (sales)2(1)
+topic2(1)
 unrestricted certificate2(1)
 working day2(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ROGER JACOBS, Acting Government Printer

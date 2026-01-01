@@ -9,3 +9,4 @@ Item | Column 1 Description of fee | Column 2 Fee ($)
 5. | Renewal of triennial certificate (Act s. 31(2)) | 885.00
 6. | Issue of duplicate licence or duplicate triennial certificate (Act s. 41A) | 35.00
 [Schedule 1 inserted: SL 2025/89 r. 47.]
+[Schedule 1A deleted: SL 2025/194 r. 45.]

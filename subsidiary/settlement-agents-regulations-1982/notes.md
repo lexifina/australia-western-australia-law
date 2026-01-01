@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Settlement Agents Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Settlement Agents Regulations 1982 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Settlement Agents Regulations 1982 | 19 Mar 1982 p. 886-7 | 19 Mar 1982
@@ -70,11 +70,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 17 | SL 2
 Commerce Regulations Amendment (Transfer of Land) Regulations 2023 Pt. 3 | SL 2023/116 26 Jul 2023 | 7 Aug 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 17 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 18 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
-Commerce Regulations Amendment (Real Estate, Business and Settlement Agents) Regulations 2025 Pt. 3 (but only r. 26, 35 and 44) | SL 2025/194 26 Nov 2025 | 27 Nov 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Commerce Regulations Amendment (Real Estate, Business and Settlement Agents) Regulations 2025 Pt. 3 (other than r. 26, 35 and 44) | SL 2025/194 26 Nov 2025 | 1 Jan 2026 (see r. 2(c))
+Commerce Regulations Amendment (Real Estate, Business and Settlement Agents) Regulations 2025 Pt. 3 | SL 2025/194 26 Nov 2025 | r. 26, 35 and 44: 27 Nov 2025 (see r. 2(b)); r. 27-34, 36-43 and 45-47: 1 Jan 2026 (see r. 2(c))
 Other notes
 Schedule 2 clause 2(fa) was deleted by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 59.
 Repealed by the Personal Property Securities (Consequential Repeals and Amendments) Act 2011 s. 32(1).
@@ -92,21 +88,28 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 applicant4C(1)
-approved educational activity2
+approved CPD provider2
+approved CPD topic2
 commencement day18(1), 19(1)
-core professional development subject2
+Commissioner’s website2
+CPD activity2
+CPD subject2
+CPD year2
 educational activity2
 former regulation 4C18(1)
 holding fee4A(1)
+mandatory CPD topic2
+money record6F(1A)
+point2, 4D(1)
 point value2
-professional development subject2
 public training provider6(1)
-record2
 register2
 registered training provider6(1)
 relevant bank accepted bills rate6D(2)
+required number of points2
+topic2
 working day2
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ROGER JACOBS, Acting Government Printer

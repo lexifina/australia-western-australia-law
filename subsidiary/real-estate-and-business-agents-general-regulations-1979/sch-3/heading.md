@@ -21,5 +21,7 @@ s. 142 | Failing to display official details on all correspondence and documents
 s. 142 | Failing to display official details on all correspondence and documents from branch office under section 41(2)(b) | $400
 s. 142 | Failing to notify Commissioner of commencing or ceasing employment, or acting, as a sales representative under section 51(1) | $400
 Offence under Real Estate and Business Agents (General) Regulations 1979 | Modified penalty
+r. 4AJ(1) | Failing to keep evidence | $200
+r. 4AJ(4) | Failing to produce evidence | $200
 r. 8 | Failing to notify Commissioner of change in particulars | $200
-[Schedule 3 inserted: Gazette 28 Aug 2009 p. 3351-2; amended: Gazette 30 Jun 2011 p. 2670; 23 Oct 2012 p. 5055; SL 2020/257 r. 12.]
+[Schedule 3 inserted: Gazette 28 Aug 2009 p. 3351-2; amended: Gazette 30 Jun 2011 p. 2670; 23 Oct 2012 p. 5055; SL 2020/257 r. 12; SL 2025/194 r. 25.]

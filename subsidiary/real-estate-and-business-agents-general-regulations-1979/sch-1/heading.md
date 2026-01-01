@@ -12,3 +12,4 @@ Item | Column 1 Description of fee | Column 2 Fee ($)
 8. | Grant of certificate of registration under section 47 of the Act | 270.00
 9. | Renewal of certificate of registration under section 48 of the Act | 223.00
 [Schedule 1 inserted: SL 2025/89 r. 42.]
+[Schedule 1A deleted: SL 2025/194 r. 23.]
