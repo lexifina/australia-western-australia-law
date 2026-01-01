@@ -37,3 +37,4 @@ and
 first-preference vote has the meaning given in Schedule 4.1 clause 1;
 votes has the meaning given in Schedule 4.1 clause 7.
 [Schedule 4.2 amended: No. 9 of 2007 s. 6; No. 15 of 2009 s. 6; No. 11 of 2023 s. 93-98; No. 47 of 2024 s. 160.]
+[Schedule 5.1 deleted: No. 47 of 2024 s. 155.]
