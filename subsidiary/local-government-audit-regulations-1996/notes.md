@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Audit) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Local Government (Audit) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Audit) Regulations 1996 | 24 Jun 1996 p. 2827-32 | 1 Jul 1996 (see r. 2)
@@ -22,25 +22,23 @@ Local Government Regulations Amendment (Gifts) Regulations 2019 Pt. 3 | 18 Oct 2
 Local Government (Model Code of Conduct) Regulations 2021 r. 6 | SL 2021/15 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Local Government Amendment (Employee Code of Conduct) Regulations 2021 Pt. 3 | SL 2021/16 2 Feb 2021 | 3 Feb 2021 (see r. 2(b) and SL 2021/13 cl. 2)
 Local Government Regulations Amendment (Financial Management and Audit) Regulations 2022 Pt. 2 | SL 2022/88 17 Jun 2022 | 1 Jul 2022 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Local Government Regulations Amendment (Local Government Amendment Act 2024) Regulations 2025 Pt. 3 | SL 2025/208 17 Dec 2025 | Immediately after Local Government Regulations Amendment Regulations (No. 4) 2025 Pt 3 comes into operation (see r. 2(b))
+Local Government Regulations Amendment (Local Government Amendment Act 2024) Regulations 2025 Pt. 3 | SL 2025/208 17 Dec 2025 | 1 Jan 2026 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 4) 2025 Pt. 3 | SL 2025/211 17 Dec 2025 | 1 Jan 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-audit committee3
 audit document9A(1)
+audit, risk and improvement committee3
 Australian Accounting Standards9(1)
-CEO’s report16
-certified15(2)
-compliance audit3
+compliance audit3, 14(1)
+financial audit3
 former provisions18(1)
-relevant person6(3)
+period15A(1)
+prescribed statutory requirement15A(1)
 section3
-value6(3)
-© State of Western Australia 2025.
+shared committee3
+shared committee agreement4(1)
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ROGER JACOBS, Acting Government Printer

@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Administration) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Local Government (Administration) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Administration) Regulations 1996 | 24 Jun 1996 p. 2799-826 | 1 Jul 1996 (see r. 2)
@@ -37,9 +37,6 @@ Local Government Regulations Amendment Regulations 2023 Pt. 3 | SL 2023/106 30 J
 Local Government Regulations Amendment Regulations (No. 3) 2023 Pt. 2 | SL 2023/158 18 Oct 2023 | Pt. 2 Div. 1: 19 Oct 2023 (see r. 2(c)); Pt. 2 Div. 2: 1 Jan 2024 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2025 Pt. 2 | SL 2025/7 22 Jan 2025 | 1 Feb 2025 (see r. 2(b))
 Local Government Regulations Amendment (Transitional Provisions) Regulations 2025 Pt. 2 | SL 2025/135 23 Jul 2025 | 24 Jul 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Local Government Regulations Amendment (Local Government Amendment Act 2024) Regulations 2025 Pt. 2 | SL 2025/208 17 Dec 2025 | 1 Jan 2026 (see r. 2(c))
 Local Government Regulations Amendment Regulations (No. 4) 2025 Pt. 2 | SL 2025/211 17 Dec 2025 | 1 Jan 2026 (see r. 2(b))
 Other notes
@@ -52,6 +49,7 @@ ActSch. 2 cl. 2(1)
 activity involving a local government discretion19AA
 additional performance criteriaSch. 2 cl. 2(1)
 adopted standards18FB(1), 18FC(1)
+advance payment period36A(6)
 annual return29C(1)
 applicantSch. 2 cl. 2(1)
 associated person19AA
@@ -65,6 +63,7 @@ committee3(1)
 contract of employmentSch. 2 cl. 2(1)
 contractual performance criteriaSch. 2 cl. 2(1)
 corporate business plan19BA
+declaration period36A(2)
 electronic meeting14E(1), 14G(1)
 final annual remuneration19A(2)
 former Form 428B(1)
@@ -81,7 +80,6 @@ interest19AA
 job description formSch. 2 cl. 2(1)
 local governmentSch. 2 cl. 2(1)
 local government employee19AA, 19AB(1), 19AC(1)
-local law as to conduct34D(1)
 major land transaction19BC(1)
 major trading undertaking19BB(1)
 meeting14C(1), 14CA(1), 14D(1)
@@ -90,15 +88,18 @@ meeting details12(1)
 natural disaster14C(1)
 nature classification19BC(1)
 negotiated contractSch. 2 cl. 12(1)
-oversight entity29C(1)
+non-compliance period36A(5)
+non-compliant member36A(5)
+oversight entity29E(1)
 performance issuesSch. 2 cl. 22(2)
 plan for the future19DB(1)
+pre-amendment information40(4)
 pre-commencement period38(1)
 primary return29C(1)
 prohibited gift19AA
 proposed meeting14C(3), 14D(2A)
 public health emergency3(1)
-publicly available14G(1), (2), and (3)
+publicly available14G(1), (2) and (3)
 recording14G(1)
 recording technology14G(1)
 relevant period14C(1), 14D(1), 34AE(1)
@@ -107,6 +108,7 @@ remuneration19B(1), 38(1)
 renew19BE(1)
 replace19BE(1)
 resources of the local government19AE(1)
+sanctioned person34AF(1)
 Schedule3(1)
 section3(1)
 selection criteriaSch. 2 cl. 2(1)
@@ -118,7 +120,7 @@ threshold amount19AA
 trading undertaking19BB(1)
 transitional period34ACA(5)
 usual meeting place14G(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ROGER JACOBS, Acting Government Printer

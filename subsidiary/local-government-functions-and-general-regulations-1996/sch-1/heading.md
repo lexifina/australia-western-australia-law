@@ -125,7 +125,7 @@ of (2) .........................................................................
 in the State of Western Australia, Justice of the Peace, being satisfied that the entry is reasonably required but —
 (3)(a)entry has been refused or is opposed or prevented;
 (3)(b)entry cannot be obtained; or
-(3)(c)notice cannot be given under section (3) 3.32 / 8.6(3)(b) of the Act without unreasonable difficulty or without unreasonably delaying entry,
+(3)(c)notice cannot be given under section 3.32 of the Act without unreasonable difficulty or without unreasonably delaying entry,
 hereby authorise (4) .................................................................(3) by its employees,
 together with (5) ......................................................................................................
 or any police officer to enter (6) ..............................................................................
@@ -141,3 +141,4 @@ Dated ..............................................
 (5)name or description of any person authorised to assist in executing the warrant
 (6)address or description of land, premises, or thing to be entered
 (7)purpose for which entry may be made
+[Form 6 amended: SL 2025/208 r. 40.]

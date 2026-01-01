@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Local Government (Functions and General) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Local Government (Functions and General) Regulations 1996 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Local Government (Functions and General) Regulations 1996 | 24 Jun 1996 p. 2771-97 | 1 Jul 1996 (see r. 2)
@@ -32,9 +32,6 @@ Local Government (Functions and General) Amendment Regulations 2021 | SL 2021/75
 Local Government Regulations Amendment Regulations 2022 Pt. 4 | SL 2022/177 2 Nov 2022 | Pt. 4 (other than Div. 3): 3 Nov 2022 (see r. 2(b) and SL 2022/175 cl. 2); Pt. 4 Div. 3: 3 Nov 2024 (see r. 2(c) and SL 2022/175 cl. 2)
 Local Government (Functions and General) Amendment Regulations 2023 | SL 2023/47 19 May 2023 | r. 1 and 2: 19 May 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 20 May 2023 (see r. 2(b))
 Local Government Regulations Amendment Regulations (No. 2) 2023 Pt. 5 | SL 2023/102 30 Jun 2023 | 1 Jul 2024 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Local Government Regulations Amendment (Local Government Amendment Act 2024) Regulations 2025 Pt. 5 | SL 2025/208 17 Dec 2025 | 1 Jan 2026 (see r. 2(c))
 Other notes
 The Local Government Act 1995 came into operation on 1 July 1996.
@@ -63,7 +60,7 @@ regional price preference24B(1)
 regional tenderer24B(1)
 state of emergency declaration11(1A)
 transferee30(2)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ROGER JACOBS, Acting Government Printer
