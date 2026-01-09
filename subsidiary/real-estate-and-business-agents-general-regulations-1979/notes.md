@@ -99,6 +99,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 15 | SL 2
 Real Estate and Business Agents (General) Amendment Regulations 2024 | SL 2024/152 24 Jul 2024 | r. 1 and 2: 24 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Sep 2024 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 16 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Commerce Regulations Amendment (Real Estate, Business and Settlement Agents) Regulations 2025 Pt. 2 | SL 2025/194 26 Nov 2025 | r. 3, 12 and 22: 27 Nov 2025 (see r. 2(b)); r. 4-11, 13-21 and 23-25: 1 Jan 2026 (see r. 2(c))
+Real Estate and Business Agents (General) Amendment Regulations 2026 | SL 2026/1 8 Jan 2026 | r. 1 and 2: 8 Jan 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2026 (see r. 2(b))
 Other notes
 The commencement date in r. 2 was of no effect as it was before the date of gazettal.
 The Miscellaneous Regulations (Validation) Act 1985 applied to these regulations. It deemed the regulations not to have ceased to have effect as a result of the failure to comply with section 42(1) of the Interpretation Act 1984, subject to their being laid before the Legislative Assembly.
