@@ -1,8 +1,9 @@
 Notes
-This is a compilation of the Mining (Royalties) Regulations 2025. For provisions that have come into operation see the compilation table.
+This is a compilation of the Mining (Royalties) Regulations 2025 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Mining (Royalties) Regulations 2025 | SL 2025/154 28 Aug 2025 | Pt. 1: 28 Aug 2025 (see r. 2(a)); Regulations other than Pt. 1: 1 Sep 2025 (see r. 2(b))
+Mining (Royalties) Amendment Regulations 2026 | SL 2026/2 8 Jan 2026 | r. 1 and 2: 8 Jan 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -72,15 +73,16 @@ relevant period26(3)
 REO41(1)
 return51(1)
 royalty return3
-royalty value3, 14(2), 30(2), 37(2), 38(2), 40(2) and (3), 41(2)
+royalty value3, 14(2), 30(2), 37(2), 38(2), 40(2) and (3), 41(2), 41A(2)
 sale3
 shipment day3
 shipping costs3
 sold3
 specified form16(3)
+specified vanadium product3
 supply5(1)
 treatment facility3
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer

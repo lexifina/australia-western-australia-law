@@ -55,7 +55,7 @@ Lead
 — sold in concentrate form | 5%
 — sold in metallic form | 2.5%
 Leucoxene sold in concentrate form | 5%
-Lithium sold in concentrate form | 5%
+Lithium in concentrate form | 5%
 Manganese
 — crushed or screened | 7.5%
 — beneficiated by the producer in the State | 5%
@@ -71,16 +71,18 @@ Spongolite | 5%
 Tantalum — sold in concentrate form | 5%
 Tin — sold in metallic form | 2.5%
 Uranium sold as a uranium oxide concentrate | 5%
+Vanadium
+— sold as a specified vanadium product | 2.5%
+— used as feedstock to produce vanadium electrolyte | 2.5%
 Zinc
 — sold in concentrate form | 5%
 — sold in metallic form | 2.5%
 Zircon sold in concentrate form | 5%
+[Division 2 amended: SL 2026/2 r. 8(1) and (2).]
 ## Division 3 — Percentage of value other than royalty value
 Table
 Mineral | Percentage | Form of mineral for working out value
 Tantalum — sold in processed form beyond concentrate form | 5% | Tantalum in concentrate form
 Tin — sold as tin containing material | 2.5% | The tin metal contained in the material
-Vanadium
-— sold in concentrate form (vanadium oxide) | 5% | Vanadium pentoxide price
-— sold in metallic form (ferrovanadium) | 2.5% | Ferrovanadium price
-— for vanadium not realised on contained vanadium from a product (such as magnetite) where the average grades of vanadium are over 0.275% V2O5 in the ore and a vanadium circuit is not installed | 5% | Vanadium pentoxide price
+Vanadium — for vanadium not realised on contained vanadium from a product (such as magnetite) where the average grades of vanadium are over 0.275% V2O5 in the ore and a vanadium circuit is not installed | 5% | Vanadium pentoxide price
+[Division 3 amended: SL 2026/2 r. 8(3).]
