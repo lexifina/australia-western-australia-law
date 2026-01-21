@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Parks (Long-stay Tenants) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Residential Parks (Long-stay Tenants) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Residential Parks (Long-stay Tenants) Regulations 2007 | 1 Aug 2007 p. 3837-985 | r. 1 and 2: 1 Aug 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Aug 2007 (see r. 2(b) and Gazette 1 Aug 2007 p. 3835)
@@ -9,6 +9,10 @@ Commerce Regulations Amendment (Family Violence) Regulations 2019 Pt. 3 | 9 Apr 
 Reprint 1: The Residential Parks (Long-stay Tenants) Regulations 2007 as at 16 Aug 2019 (includes amendments listed above)
 Residential Parks (Long-stay Tenants) Amendment Regulations 2021 | SL 2021/205 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Jan 2022 (see r. 2(b) and SL 2021/195 cl. 2)
 Residential Parks (Long-stay Tenants) Amendment Regulations 2025 | SL 2025/188 12 Nov 2025 | r. 1 and 2: 12 Nov 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 13 Nov 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Residential Tenancies and Residential Parks) Regulations 2026 Pt. 2 | SL 2026/4 21 Jan 2026 | 28 Mar 2026 (see r. 2(b) and SL 2026/31 cl. 2(f))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -47,7 +51,7 @@ tenant’s lawful enjoymentSch. 1, Sch. 2
 Unclaimed Security Bond Account19(1)
 urgent repairsSch. 1, Sch. 2
 voluntary sharing arrangementSch. 1, Sch. 2
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
