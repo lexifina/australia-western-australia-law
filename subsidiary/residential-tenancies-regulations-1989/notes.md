@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Residential Tenancies Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Residential Tenancies Regulations 1989 | 9 Aug 1989 p. 2563-85 (erratum 18 Aug 1989 p. 2751) | 1 Oct 1989 (see r. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -57,6 +57,10 @@ Residential Tenancies Amendment Regulations (No. 2) 2023 | SL 2023/206 20 Dec 20
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 16 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Residential Tenancies Amendment Regulations (No. 2) 2024 | SL 2024/149 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jul 2024 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 17 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Residential Tenancies and Residential Parks) Regulations 2026 Pt. 3 | SL 2026/4 21 Jan 2026 | 28 Mar 2026 (see r. 2(b) and SL 2026/31 cl. 2(f))
 Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
@@ -88,7 +92,7 @@ specified power5(2), 5D(2)
 St Thomas More College5AAA(1)
 Unclaimed Security Bond Account15(7)
 water-efficient shower head7I(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
