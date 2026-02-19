@@ -14,6 +14,7 @@ Planning and Development Amendment Regulations 2019 | 31 Dec 2019 p. 4653-4 | r.
 Planning Regulations Amendment Regulations 2020 Pt. 3 | SL 2020/252 18 Dec 2020 | 15 Feb 2021 (see r. 2(c))
 Planning and Development Amendment Regulations 2021 | SL 2021/78 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
 Planning and Development Amendment Regulations 2024 | SL 2024/293 21 Dec 2024 | r. 1 and 2: 21 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
+Planning and Development Amendment (State Development) Regulations 2026 | SL 2026/10 18 Feb 2026 | r. 1 and 2: 18 Feb 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Feb 2026 (see r. 2(b) and SL 2026/13 cl. 2)
 Other notes
 Repealed by the Planning and Development (Repeal) Regulations 2009.
 Defined terms
@@ -45,7 +46,7 @@ sign16(1)
 structure plan46
 take15(1)
 warden5
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
