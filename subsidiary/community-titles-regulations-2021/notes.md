@@ -13,11 +13,12 @@ Lands Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/
 Lands Regulations (Community and Strata Titles) Amendment Regulations (No. 3) 2024 Pt. 2 | SL 2024/209 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/85 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Lands Regulations (Community and Strata Titles) Amendment Regulations 2025 Pt. 2 | SL 2025/182 29 Oct 2025 | 30 Oct 2025 (see r. 2(b))
+Community Titles Amendment (State Development) Regulations 2026 | SL 2026/12 18 Feb 2026 | r. 1 and 2: 18 Feb 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Feb 2026 (see r. 2(b) and SL 2026/13 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-2025101D(1)
 2025 commencement day101
+2025 transitional period101D(1)
 adequate insurance cover99(2)
 administrator3
 advisory service108
@@ -44,13 +45,13 @@ criminal record statement90, 94(1)
 diminished capacity to cope136(2)
 diminished capacity to respond136(4)
 diminished capacity to understand136(6)
-Diploma of Property (Agency Management - Strata)96(1)
+Diploma of Property (Agency Management - Strata)95(1)
 easement area3, 30(2)
 enduring power of attorney83(1)
 enduring power of guardianship83(1)
 energy46(1)
 exclusive40(1), 44(1)
-extension application15
+extension application15(1)
 former regulations101
 full proposal period108
 generating works46(1)
@@ -66,10 +67,10 @@ industry experience97(1)
 infrastructure76(1)
 interested person23(1)
 local legal practitioner3
-merged improvements57(1)
+merged improvements57
 national criminal record check90
 National Register90
-non-exclusive40(1), 44
+non-exclusive40(1), 44(1)
 personal information108
 photograph85(1)
 prescribed educational qualification90
@@ -89,7 +90,7 @@ relevant local government15(1)
 relevant partnership90, 93(1)
 relevant person108
 relevant property76(1)
-remaining community titles scheme117(1)
+remaining community titles scheme118(1)
 representation service108
 required insurance69(1)
 residence contract83(1)
@@ -112,7 +113,7 @@ summary of the contract107(1)
 superseding qualification90
 Survey Regulations3
 termination proposal process3, 108
-transitional period101A(1), 101D(1)
+transitional period101A(1)
 TribunalSch. 1 cl. 1(2)
 Tribunal confirmation period108
 trust108, 166
@@ -121,9 +122,9 @@ unit96(1)
 vacant lot57(1)
 voting notice126(1)
 voting right restriction104(1)
-vulnerable person3, 136
+vulnerable person3, 136(1)
 works46(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
