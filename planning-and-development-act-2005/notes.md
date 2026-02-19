@@ -38,6 +38,7 @@ Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 31 | 23 of 2023
 Planning and Development Amendment Act 2023 Pt. 2-4, Pt. 5 Div. 1, Pt. 6 and 7, Pt. 8 Div. 1, Pt. 10 Div. 1, Pt. 11 and 12 | 34 of 2023 | 11 Dec 2023 | Pt. 4, 6 and 7, Pt. 10 Div. 1, Pt. 11 (other than s. 76) and Pt. 12: 12 Dec 2023 (see s. 2(c)); Pt. 2 and 3 and Pt. 5 Div. 1 and s. 76: 1 Mar 2024 (see s. 2(b), (d) and (e) and SL 2024/15 cl. 2 and SL 2024/16 cl. 2); Pt. 8 Div. 1: 1 Jul 2024 (see s. 2(e) and SL 2024/98 cl. 2)
 Planning and Development Amendment (Metropolitan Region Scheme) Act 2024 Pt. 3 | 41 of 2024 | 29 Oct 2024 | 31 Mar 2025 (see s. 2(b) and SL 2024/251 cl. 2)
 Statutes (Repeals and Minor Amendments) Act 2025 s. 30 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+State Development Act 2025 Pt. 8 Div. 4 | 21 of 2025 | 19 Dec 2025 | 19 Feb 2026 (see s. 2(e) and SL 2026/13 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
@@ -45,7 +46,6 @@ Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be 
 Community Titles Act 2018 s. 224-226 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
 Planning and Development Amendment Act 2020 Pt. 9 | 26 of 2020 | 7 Jul 2020 | To be proclaimed (see s. 2(1)(b))
 Planning and Development Amendment Act 2023 Pt. 9 | 34 of 2023 | 11 Dec 2023 | To be proclaimed (see s. 2(e))
-State Development Act 2025 Pt. 8 Div. 4 | 21 of 2025 | 19 Dec 2025 | To be proclaimed (see s. 2(e))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 4 Div. 2.
 If a modification is to:
@@ -209,12 +209,12 @@ business arrangement15(5)
 CEO257C(1)
 chairperson4(1)
 chief executive officer4(1)
-commencement day175(2B), 181(16C), 289(1), 290(1), 291(1), 292(1),
-293(1), 298(1)
+commencement day175(2B), 181(16C), 289(1), 290(1), 291(1), 292(1), 293(1), 298(1)
 Commission4(1)
-committee302(1), 304(1), 305(1), 307(1)
+committee302(1), 303(1), 304(1), 305(1), 307(1)
 conflict171ZE, 171ZI(2)
 conflicts171ZI(1)
+Coordinator General4(1)
 cost of providing a road159(3)
 COVID-19 emergency start date287
 CPI159(2)
@@ -249,7 +249,7 @@ former Part 17 Division 3298(1)
 function266(1)
 Government agreement4(1)
 Heritage Council4(1)
-improvement plan4(1)
+improvement plan4
 improvement scheme4(1)
 improvement scheme area4(1), 122A(2)
 information18(4)
@@ -257,11 +257,11 @@ instructions39(1)
 interim development order4(1)
 issue261(1)
 JDAP289(1)
-judicial member237
+judicial member236(5)
 land4(1), 136(3)
 later subdivider159(1)
 LDAP289(1)
-legal instrument269(1)
+legal instrument269
 licence261(1)
 licence to use or occupy136(3)
 licensed valuer155(1)
@@ -280,7 +280,7 @@ Metropolitan Region Scheme4(1)
 mining269(1)
 Minister245(5)
 Minister for Lands267A(1)
-Minister for the Environment4(1)
+Minister for the Environment4
 minor modification267B(1)
 minor region planning scheme amendment56A
 model provision257A(1)
@@ -311,14 +311,14 @@ party237
 planning code4(1)
 planning control area4(1)
 planning instrument171A(1), 267B(1)
-planning markings267B(1)
+planning markings267B
 planning matter261(1)
 planning scheme4(1), 236(1)
 pollution217(1)
 preparation and approval process290(1)
 prescribed development application171A(1)
 prescribed development approval functions257C(2)
-prescribed offence226
+prescribed offence226(6)
 prescribed significant development171H(1), 171I(1), 171ZE
 President237
 procedural provision171H(1)
@@ -344,7 +344,7 @@ relevant land190(2), 191(1A)
 relevant legal instrument171ZE
 relevant planning scheme175(2B)
 remote communication235A
-removed land122E(1), 122G(1)
+removed land122E(1), 122EA(1), 122G(1)
 repeal day122B(7), 308
 repealed section 66(2)309(1)
 repealed section 93310(1)
@@ -358,10 +358,16 @@ significant development application171H(1)
 single house257C(1)
 single house development257C(1)
 spatial data267B(1)
-specified99(3), 103(3), 294(1), 312(1)
+specified99(3), 103(3), 294(1), 313(1)
 start day122D(1)
+State development area4(1)
+State development area declaration4(1)
+State development area improvement scheme4(1)
+State development area plan4(1)
+State Development Minister4(1)
 State planning policy4(1)
 subdivision4(1)
+subsequent improvement scheme122EA(1), 122EB(1)
 substantially commenced171H(1), 269(1)
 Swan Valley4(1)
 Swan Valley approval138A(2)
@@ -374,7 +380,7 @@ utility services4(1)
 vehicle offence225(1)
 WALGA4(1)
 warehouse269(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ROGER JACOBS, Acting Government Printer

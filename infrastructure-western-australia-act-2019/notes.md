@@ -1,12 +1,9 @@
 Notes
-This is a compilation of the Infrastructure Western Australia Act 2019. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Infrastructure Western Australia Act 2019 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Infrastructure Western Australia Act 2019 | 13 of 2019 | 24 Jun 2019 | Pt. 1: 24 Jun 2019 (see s. 2(a)); Act other than Pt. 1, s. 8(1)(b) and Pt. 3 Div. 2 and 3: 24 Jul 2019 (see s. 2(c)); s. 8(1)(b) and Pt. 3 Div. 3: 1 Jan 2022 (see s. 2(b) and SL 2021/145 cl. 2(a)); Pt. 3 Div. 2: 1 Jan 2023 (see s. 2(b) and SL 2021/145 cl. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
-Short title | Number and year | Assent | Commencement
-State Development Act 2025 Pt. 8 Div. 3 | 21 of 2025 | 19 Dec 2025 | To be proclaimed (see s. 2(e))
+State Development Act 2025 Pt. 8 Div. 3 | 21 of 2025 | 19 Dec 2025 | 19 Feb 2026 (see s. 2(e) and SL 2026/13 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -39,7 +36,7 @@ State agency3
 State Infrastructure Programme3
 State Infrastructure Strategy3
 unable to act3
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ROGER JACOBS, Acting Government Printer

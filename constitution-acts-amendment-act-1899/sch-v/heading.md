@@ -30,6 +30,7 @@ Clerk of the Legislative Council.
 Commissioner and Deputy Commissioner appointed under the Corruption, Crime and Misconduct Act 2003.
 Commissioner for Children and Young People appointed under the Commissioner for Children and Young People Act 2006.
 Commissioner of Police appointed under the Police Act 1892.
+Coordinator General appointed under the State Development Act 2025.
 Director of Public Prosecutions and Deputy Director of Public Prosecutions appointed under the Director of Public Prosecutions Act 1991.
 Director of the Health and Disability Services Complaints Office appointed under the Health and Disability Services (Complaints) Act 1995.
 Electoral Commissioner or Deputy Electoral Commissioner appointed under the Electoral Act 1907.
@@ -44,7 +45,7 @@ An office —
 (a)referred to in the Salaries and Allowances Act 1975 section 6(1)(d) or (e); or
 (b)held by a person specified in column 2 of Schedule 2 to that Act for a Government entity as defined in section 7C(1) of that Act, whether or not the person is an executive officer as defined in that subsection.
 Solicitor-General appointed under the Solicitor-General Act 1969.
-[Division 2 inserted: No. 32 of 1994 s. 9(a); amended: No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 Sch. 2 cl. 6(1); No. 75 of 2003 s. 56(1); No. 48 of 2006 s. 65; No. 77 of 2006 Sch. 1 cl. 30; No. 33 of 2010 s. 55; No. 39 of 2010 s. 73; No. 35 of 2014 s. 39; No. 46 of 2016 s. 11; No. 5 of 2024 s. 28; No. 47 of 2024 s. 163; No. 52 of 2024 s. 47.]
+[Division 2 inserted: No. 32 of 1994 s. 9(a); amended: No. 57 of 1997 s. 70; No. 43 of 1999 s. 20; No. 55 of 2000 s. 10; No. 20 of 2002 s. 109; No. 67 of 2003 Sch. 2 cl. 6(1); No. 75 of 2003 s. 56(1); No. 48 of 2006 s. 65; No. 77 of 2006 Sch. 1 cl. 30; No. 33 of 2010 s. 55; No. 39 of 2010 s. 73; No. 35 of 2014 s. 39; No. 46 of 2016 s. 11; No. 5 of 2024 s. 28; No. 47 of 2024 s. 163; No. 52 of 2024 s. 47; No. 21 of 2025 s. 98.]
 [Division 3 deleted: No. 32 of 1994 s. 9(a).]
 ## Part 2 — Offices or places vacated on election
 [Heading inserted: No. 19 of 2010 s. 14(5).]
