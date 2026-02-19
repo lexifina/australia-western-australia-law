@@ -13,6 +13,7 @@ Work Health and Safety (General) Amendment Regulations (No. 2) 2024 | SL 2024/13
 Work Health and Safety (General) Amendment Regulations (No. 4) 2024 | SL 2024/227 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Work Health and Safety Regulations Amendment (E-cigarettes) Regulations 2025 Pt. 2 | SL 2025/61 16 Apr 2025 | 17 Apr 2025 (see r. 2(b))
 Work Health and Safety (General) (Fees) Amendment Regulations 2025 | SL 2025/88 11 Jun 2025 | r. 1 and 2: 11 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
+Work Health and Safety Regulations Amendment Regulations (No. 2) 2026 Pt. 2 | SL 2026/14 18 Feb 2026 | 19 Feb 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -138,6 +139,7 @@ entry5
 essential services5
 excavation5
 excavation work5
+exception period246(2B)
 exposure standard5
 exposure standard for noise5, 56(1)
 external review5, 683(1)
@@ -337,7 +339,7 @@ work box5
 workers’ accommodation55D(1A)
 work positioning system5
 work time184C
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer

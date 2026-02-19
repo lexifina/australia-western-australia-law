@@ -10,6 +10,7 @@ Work Health and Safety (Mines) Regulations 2022 with editorial changes as at 26 
 Work Health and Safety Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 3 | SL 2024/135 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Work Health and Safety (Mines) Amendment Regulations (No. 2) 2024 | SL 2024/233 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Work Health and Safety Regulations Amendment (E-cigarettes) Regulations 2025 Pt. 3 | SL 2025/61 16 Apr 2025 | 17 Apr 2025 (see r. 2(b))
+Work Health and Safety Regulations Amendment Regulations (No. 2) 2026 Pt. 3 | SL 2026/14 18 Feb 2026 | 19 Feb 2026 (see r. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
@@ -163,6 +164,7 @@ equivalent position742(1)
 essential services5
 excavation5
 excavation work5
+exception period246(2B)
 exemption period718(3)
 exploration manager5
 exploration operations5, 741(1)
@@ -454,7 +456,7 @@ work box5
 worker monitoring plan641I(1)
 workers’ accommodation55D(1A)
 work positioning system5
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
