@@ -41,6 +41,7 @@ Salaries and Allowances Amendment Regulations (No. 2) 2018 | 10 Aug 2018 p. 2864
 Salaries and Allowances Amendment Regulations 2022 | SL 2022/22 11 Mar 2022 | r. 1 and 2: 11 Mar 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
 Salaries and Allowances Amendment Regulations 2025 | SL 2025/112 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Salaries and Allowances Amendment Regulations (No. 2) 2025 | SL 2025/206 17 Dec 2025 | r. 1 and 2: 17 Dec 2025; (see r. 2(a)) Regulations other than r. 1 and 2: 1 Jan 2026 (see r. 2(b))
+Salaries and Allowances Amendment (State Development) Reglations 2026 | SL 2026/9 18 Feb 2026 | r. 1 and 2: 18 Feb 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Feb 2026 (see r. 2(b) and SL 2026/13 cl. 2)
 Other notes
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Environment and Conservation is to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
 Repealed by the Financial Legislation Amendment and Repeal Act 2006.
