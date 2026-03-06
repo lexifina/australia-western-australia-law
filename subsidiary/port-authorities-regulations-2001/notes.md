@@ -57,6 +57,7 @@ Transport Regulations Amendment (Pilotage) Regulations 2018 Pt. 2 | 11 May 2018 
 Port Authorities Amendment Regulations 2021 | SL 2021/52 7 May 2021 | r. 1 and 2: 7 May 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b) and SL 2021/50 cl. 2)
 Port Authorities Amendment Regulations (No. 2) 2021 | SL 2021/82 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b), SL 2021/52 r. 2(b) and SL 2021/50 cl. 2)
 Port Authorities Amendment Regulations 2022 | SL 2022/205 2 Dec 2022 | r. 1 and 2: 2 Dec 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Dec 2022 (see r. 2(b))
+Port Authorities Amendment Regulations 2026 | SL 2026/17 5 Mar 2026 | r. 1 and 2: 5 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2026 (see r. 2(b))
 Other notes
 Under the Financial Management (Transitional Provisions) Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
 Repealed by the Tobacco Products Control Act 2006.
@@ -110,7 +111,6 @@ obstructionSch. 1 cl. 27(1) and 92(1)
 offence79(6)
 offender115(1)
 Outer HarbourSch. 1 cl. 66
-overdraft reference rate119(2)
 over-length vehicle110
 owner9(4)
 parking area100
@@ -133,3 +133,7 @@ unclaimed goods66(1)
 vehicle3
 water ski98(2), Sch. 1 cl. 1A
 water ski areaSch. 1 cl. 106(4)
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
