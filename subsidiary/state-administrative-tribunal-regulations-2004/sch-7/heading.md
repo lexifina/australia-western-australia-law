@@ -11,7 +11,6 @@ Debt Collectors Licensing Act 1964 s. 10(1c) or 11(2)
 Employment Agents Act 1976 s. 25(1)
 Equal Opportunity Act 1984 s. 85, 90(2), 93(1), 107(1), 126 or 135(1), (2) or (6)(b)
 Fair Trading Act 2010 s. 42(2), 47(1), 53(1)(c) or 83(1)
-Finance Brokers Control Act 1975 s. 82
 Fire and Emergency Services Act 1998 s. 36ZF
 Guardianship and Administration Act 1990
 Heritage of Western Australia Act 1990 s. 60(1)(b)
@@ -28,4 +27,4 @@ Taxation Administration Act 2003 s. 38(5)
 Teacher Registration Act 2012 s. 21(2), 26(4), 53(1)(e), 61(1)(a) or 80(1)(c)
 Valuation of Land Act 1978 s. 33(2) or 35(2)
 Voluntary Assisted Dying Act 2019 s. 84(1)
-[Schedule 7 inserted: Gazette 26 Jun 2007 p. 2994-5; amended: Gazette 22 Jul 2011 p. 3018; 6 Aug 2013 p. 3655-6; 14 Nov 2013 p. 5069; 29 Dec 2015 p. 5180; 13 Jan 2017 p. 352; 31 Dec 2019 p. 4660; SL 2020/136 r. 4; SL 2021/102 r. 7; SL 2025/139 r. 4.]
+[Schedule 7 inserted: Gazette 26 Jun 2007 p. 2994-5; amended: Gazette 22 Jul 2011 p. 3018; 6 Aug 2013 p. 3655-6; 14 Nov 2013 p. 5069; 29 Dec 2015 p. 5180; 13 Jan 2017 p. 352; 31 Dec 2019 p. 4660; SL 2020/136 r. 4; SL 2021/102 r. 7; SL 2025/139 r. 4; SL 2026/20 r. 5.]
