@@ -42,6 +42,7 @@ Building Services (Registration) Amendment Regulations 2024 | SL 2024/190 18 Sep
 Commerce Regulations Amendment (Building Services) Regulations 2024 Pt. 3 | SL 2024/255 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 5 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Building Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/144 6 Aug 2025 | 1 Sep 2025 (see r. 2(b))
+Building Services (Registration) Amendment Regulations 2026 | SL 2026/19 5 Mar 2026 | r. 1 and 2: 5 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2026 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
 Citation | Published | Commencement
@@ -113,7 +114,7 @@ small commercial building22
 storey3
 technical engineering work28L(1)
 townsiteSch. 3 cl. 1, Sch. 4 cl. 1
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
