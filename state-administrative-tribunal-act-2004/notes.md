@@ -22,16 +22,17 @@ Legal Profession Act 2008 s. 706 | 21 of 2008 | 27 May 2008 | 1 Mar 2009 (see s.
 Medical Practitioners Act 2008 Sch. 3 cl. 53 | 22 of 2008 | 27 May 2008 | 1 Dec 2008 (see s. 2 and Gazette 25 Nov 2008 p. 4989)
 Reprint 2: The State Administrative Tribunal Act 2004 as at 16 Jan 2009 (includes amendments listed above except those in the Legal Profession Act 2008)
 Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 120 | 8 of 2009 | 21 May 2009 | 22 May 2009 (see s. 2(b))
+Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | 6 Mar 2026 (see s. 2(b) and SL 2026/18 cl. 2)
 Pharmacy Act 2010 Pt. 8 Div. 2 | 32 of 2010 | 26 Aug 2010 | 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5076)
 Health Practitioner Regulation National Law (WA) Act 2010 Pt. 5 Div. 47 | 35 of 2010 | 30 Aug 2010 | s. 156 and 157(1) and (2): 18 Oct 2010 (see s. 2(b) and Gazette 1 Oct 2010 p. 5075-6); s. 157(3): 1 Jul 2012 (see s. 2(b) and Gazette 19 Jun 2012 p. 2631)
 Public Sector Reform Act 2010 s. 84 and 89 | 39 of 2010 | 1 Oct 2010 | 1 Dec 2010 (see s. 2(b) and Gazette 5 Nov 2010 p. 5563)
 Acts Amendment (Fair Trading) Act 2010 s. 183 | 58 of 2010 | 8 Dec 2010 | 1 Jan 2011 (see s. 2(c) and Gazette 24 Dec 2010 p. 6805)
-Reprint 3: The State Administrative Tribunal Act 2004 as at 1 Apr 2011 (includes amendments listed above except those in the Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3))
+Reprint 3: The State Administrative Tribunal Act 2004 as at 1 Apr 2011 (includes amendments listed above except those in the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 and the Health Practitioner Regulation National Law (WA) Act 2010 s. 157(3))
 Building Services (Registration) Act 2011 s. 158 | 19 of 2011 | 22 Jun 2011 | 29 Aug 2011 (see s. 2(b) and Gazette 26 Aug 2011 p. 3475-6)
 Teacher Registration Act 2012 s. 170 | 16 of 2012 | 3 Jul 2012 | 7 Dec 2012 (see s. 2(b) and Gazette 16 Nov 2012 p. 5637)
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 Pt. 3 Div. 19 | 20 of 2013 | 4 Nov 2013 | 25 Nov 2013 (see s. 2(b) and Gazette 22 Nov 2013 p. 5391)
 Travel Agents Amendment and Expiry Act 2014 s. 9 | 21 of 2014 | 29 Aug 2014 | 25 Jan 2017 (see s. 2(c) and Gazette 24 Jan 2017 p. 741)
-Reprint 4: The State Administrative Tribunal Act 2004 as at 4 Dec 2015 (includes amendments listed above except those in the Travel Agents Amendment and Expiry Act 2014)
+Reprint 4: The State Administrative Tribunal Act 2004 as at 4 Dec 2015 (includes amendments listed above except those in the Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 and the Travel Agents Amendment and Expiry Act 2014)
 Statutes (Minor Amendments) Act 2017 s. 13 | 6 of 2017 | 12 Sep 2017 | 13 Sep 2017 (see s. 2(b))
 Transport (Road Passenger Services) Act 2018 s. 327 | 26 of 2018 | 30 Oct 2018 | s. 327(2): 28 Feb 2019 (see s. 2(b) and Gazette 26 Feb 2019 p. 449-50); s. 327(1): 2 Jul 2019 (see s. 2(b) and Gazette 28 Jun 2019 p. 2473)
 Veterinary Practice Act 2021 s. 236 | 19 of 2021 | 27 Oct 2021 | 18 Jun 2022 (see s. 2(b) and SL 2022/81 cl. 2)
@@ -40,9 +41,8 @@ Towing Services Act 2024 Pt. 11 Div. 5 | 37 of 2024 | 29 Oct 2024 | 10 Jan 2025 
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Credit (Commonwealth Powers) (Transitional and Consequential Provisions) Act 2010 s. 82 | 14 of 2010 | 25 Jun 2010 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 371 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The amendments in the Taxi Drivers Licensing Act 2014 Pt. 10 Div. 4 are not included because the Act was repealed by the Transport (Road Passenger Services) Act 2018 s. 304 before it purported to come into operation.
 Defined terms
@@ -105,7 +105,7 @@ vexatiously3(1)
 vocational Act3(1)
 vocational regulatory body3(1)
 witness3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
