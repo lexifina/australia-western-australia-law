@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Aboriginal Heritage Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Aboriginal Heritage Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Aboriginal Heritage Act Regulations 1974 | 26 Apr 1974 p. 1407-8 | 26 Apr 1974
@@ -9,6 +9,13 @@ Reprint of the Aboriginal Heritage Regulations 1974 as at 2 Oct 1996 (includes a
 Reprint 2: The Aboriginal Heritage Regulations 1974 as at 9 Jan 2004 (includes amendments listed above)
 Aboriginal Heritage Amendment Regulations 2023 | SL 2023/173 1 Nov 2023 | 15 Nov 2023 (see r. 2 and SL 2023/161 cl. 2)
 Aboriginal Heritage Amendment Regulations 2026 | SL 2026/15 20 Feb 2026 | r. 1 and 2: 20 Feb 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Feb 2026 (see r. 2(b))
+Aboriginal Heritage Regulations 1974 with editorial changes as at 16 Mar 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 5(1)(a), 6(a) and (b) and 10(a) to (d), (e)(i), (ii) and (iv) and (f) | s. 32 | 16 Mar 2026
+s. 47(3) | s. 34(2) (s. 34(1) minor error para (f))
 Other notes
 Now known as the Aboriginal Heritage Regulations 1974; citation changed (see note under r. 1).
 The Aboriginal Cultural Heritage Act 2021 s. 311 (repealing these Regulations) was repealed by the Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 3(1) before it came into operation.
