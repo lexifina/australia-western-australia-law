@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Authorisation to Drive) Regulations 2014 | 23 Dec 2014 p. 5011-101 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -37,6 +37,10 @@ Transport Regulations Amendment (Identity Matching Services) Regulations 2023 Pt
 Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/58 1 May 2024 | 1 Jul 2024 (see r. 2(c))
 Transport Regulations Amendment (Road Traffic) Regulations 2024 Pt. 3 | SL 2024/237 27 Nov 2024 | 1 Dec 2024 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2025/65 30 Apr 2025 | 1 Jul 2025 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Road Traffic (Authorisation to Drive) Amendment Regulations 2026 r. 3-6 | SL 2026/32 18 Mar 2026 | 1 Apr 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -129,3 +133,7 @@ trailer3
 transition day93(1)
 trigger69A
 working day27(1)
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
