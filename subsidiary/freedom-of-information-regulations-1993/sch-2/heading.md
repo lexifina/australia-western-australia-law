@@ -225,8 +225,6 @@ Department of Housing and Works | Aboriginal Housing and Infrastructure Council
 Architects Board of Western Australia
 Building and Construction Advisory Council
 Building Regulations Advisory Committee
-Country Housing Authority
-Keystart Board of Directors
 Municipal Building Surveyors Qualifications Committee
 Public Housing Review Panel
 Regional Appeals Committee
@@ -345,4 +343,4 @@ Land Surveyors Licensing Board
 Pastoral Board
 Valuer General’s Office
 WorkCover Western Australia Authority (Workcover WA) | Dispute Resolution Directorate
-[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956; SL 2021/61 r. 4; SL 2021/127 r. 4; SL 2022/5 r. 4; SL 2022/27 r. 6; SL 2022/97 r. 4; SL 2024/173 r. 4.]
+[Schedule 2 inserted: Gazette 28 Dec 2007 p. 6415-23; amended: Gazette 6 Mar 2012 p. 893 and 896; 7 Dec 2012 p. 5993; 5 Feb 2013 p. 837; 24 Sep 2013 p. 4388-9; 26 Jul 2019 p. 2956; SL 2021/61 r. 4; SL 2021/127 r. 4; SL 2022/5 r. 4; SL 2022/27 r. 6; SL 2022/97 r. 4; SL 2024/173 r. 4; SL 2026/30 r. 4.]
