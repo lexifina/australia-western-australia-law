@@ -54,11 +54,9 @@
 6AB.Busselton Water Corporation established under the Water Corporations Act 1995
 6a.Chemistry Centre (WA) established by the Chemistry Centre (WA) Act 2007
 7.Commissioner of Main Roads appointed under the Main Roads Act 1930
-[8. deleted]
+[8.deleted]
 9.Construction Industry Long Service Leave Payments Board established under Construction Industry Portable Paid Long Service Leave Act 1985
-[10. deleted]
-11.Country Housing Authority established under the Country Housing Act 1998
-[12-17. deleted]
+[10-17.deleted]
 17A.Electricity Generation and Retail Corporation established by the Electricity Corporations Act 2005
 17B.Electricity Networks Corporation established by the Electricity Corporations Act 2005
 18.Family Court of Western Australia continued by the Family Court Act 1997
@@ -111,4 +109,4 @@
 [67.deleted]
 68.WorkCover WA established by the Workers Compensation and Injury Management Act 2023
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended: Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; Act No. 43 of 2006 s. 7; Gazette 13 Apr 2007 p. 1610; Act No. 10 of 2007 s. 43; No. 28 of 2008 s. 16; Gazette 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; 8 Nov 2019 p. 4006; SL 2021/181 r. 5; SL 2022/173 r. 5; SL 2024/133 r. 20; SL 2025/28 r. 4; SL 2025/59 r. 28.]
+[Division 2 amended: Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; Act No. 43 of 2006 s. 7; Gazette 13 Apr 2007 p. 1610; Act No. 10 of 2007 s. 43; No. 28 of 2008 s. 16; Gazette 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; 8 Nov 2019 p. 4006; SL 2021/181 r. 5; SL 2022/173 r. 5; SL 2024/133 r. 20; SL 2025/28 r. 4; SL 2025/59 r. 28; SL 2026/29 r. 4.]

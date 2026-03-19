@@ -74,6 +74,7 @@ State Superannuation Amendment Regulations 2025 | SL 2025/28 5 Feb 2025 | r. 1 a
 State Superannuation Amendment Regulations (No. 2) 2025 | SL 2025/59 16 Apr 2025 | r. 1 and 2: 16 Apr 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Apr 2025 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 3) 2025 | SL 2025/113 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 4) 2025 | SL 2025/131 9 Jul 2025 | r. 1 and 2: 9 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jul 2025 (see r. 2(b))
+State Superannuation Amendment Regulations 2026 | SL 2026/29 18 Mar 2026 | r. 1 and 2: 18 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2026 (see r. 2(b) and SL 2026/28 cl. 2)
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
 Footnote no longer applicable.
@@ -342,7 +343,7 @@ West State Super Scheme3(1)
 withheld amount49A(6), 81A(6)
 worker3(1)
 WSS withdrawal benefit50(1), Sch. 3 cl. 2
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
