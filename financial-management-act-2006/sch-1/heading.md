@@ -10,7 +10,6 @@ Combat Sports Commission
 Commissioner of Main Roads
 Construction Industry Long Service Leave Payments Board
 Corruption and Crime Commission
-Country Housing Authority
 Curtin University
 Disability Services Commission
 Economic Regulation Authority
@@ -81,4 +80,4 @@ Western Australian Treasury Corporation
 Wheatbelt Development Commission
 WorkCover WA
 Zoological Parks Authority
-[Schedule 1 amended: No. 77 of 2006 Sch. 1 cl. 63; No. 10 of 2007 s. 43; Gazette 13 Jul 2007 p. 3454; No. 24 of 2007 s. 36; No. 38 of 2007 s. 195; Gazette 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; Gazette 20 Aug 2010 p. 4072; No. 33 of 2010 s. 56; No. 45 of 2011 s. 138; No. 54 of 2011 s. 5; No. 37 of 2011 s. 56; No. 22 of 2012 s. 125; No. 25 of 2012 s. 212; Gazette 7 Dec 2012 p. 5998; 9 Jul 2013 p. 3048; No. 23 of 2013 s. 77; Gazette 11 Nov 2014 p. 4262; No. 3 of 2015 s. 16; No. 6 of 2015 s. 55; Gazette 12 May 2015 p. 1641; No. 40 of 2015 s. 55; No. 11 of 2016 s. 289; No. 22 of 2016 s. 15; No. 32 of 2016 s. 181; No. 41 of 2016 s. 22; Gazette 8 Sep 2017 p. 4698; No. 13 of 2019 s. 75(2); No. 24 of 2020 s. 62; No. 15 of 2021 s. 75(2) and (3); No. 12 of 2022 s. 16; No. 19 of 2022 s. 21(2); SL 2022/169 r. 4; No. 21 of 2023 s. 628.]
+[Schedule 1 amended: No. 77 of 2006 Sch. 1 cl. 63; No. 10 of 2007 s. 43; Gazette 13 Jul 2007 p. 3454; No. 24 of 2007 s. 36; No. 38 of 2007 s. 195; Gazette 4 Jan 2008 p. 29; 8 Feb 2008 p. 323; No. 28 of 2008 s. 13; No. 16 of 2009 s. 69; Gazette 20 Aug 2010 p. 4072; No. 33 of 2010 s. 56; No. 45 of 2011 s. 138; No. 54 of 2011 s. 5; No. 37 of 2011 s. 56; No. 22 of 2012 s. 125; No. 25 of 2012 s. 212; Gazette 7 Dec 2012 p. 5998; 9 Jul 2013 p. 3048; No. 23 of 2013 s. 77; Gazette 11 Nov 2014 p. 4262; No. 3 of 2015 s. 16; No. 6 of 2015 s. 55; Gazette 12 May 2015 p. 1641; No. 40 of 2015 s. 55; No. 11 of 2016 s. 289; No. 22 of 2016 s. 15; No. 32 of 2016 s. 181; No. 41 of 2016 s. 22; Gazette 8 Sep 2017 p. 4698; No. 13 of 2019 s. 75(2); No. 24 of 2020 s. 62; No. 15 of 2021 s. 75(2) and (3); No. 12 of 2022 s. 16; No. 19 of 2022 s. 21(2); SL 2022/169 r. 4; No. 21 of 2023 s. 628; No. 44 of 2024 s. 61.]
