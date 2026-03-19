@@ -12,6 +12,7 @@ Biosecurity and Agriculture Management Regulations Amendment Regulations 2019 Pt
 Biosecurity and Agriculture Management Regulations Amendment (Industry Funding Schemes) Regulations 2020 Pt. 5 | SL 2020/255 24 Dec 2020 | 25 Dec 2020 (see r. 2(b))
 Biosecurity and Agriculture Management Amendment Regulations 2021 | SL 2021/129 16 Jul 2021 | r. 1 and 2: 16 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2021 (see r. 2(b) and SL 2021/124 cl. 2)
 Agriculture and Food Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 6 | SL 2022/98 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Biosecurity and Agriculture Management Amendment Regulations 2026 | SL 2026/26 18 Mar 2026 | r. 1 and 2 18 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2026 (see r. 2(b)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -98,3 +99,7 @@ take43(1)
 terrestrial vertebrate3
 trap41
 vessel3
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
