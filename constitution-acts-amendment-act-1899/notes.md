@@ -316,7 +316,7 @@ Marine Safety (Domestic Commercial Vessel National Law Application) Act 2023 Pt.
 Corruption, Crime and Misconduct Amendment Act 2024 Pt. 3 Div. 1 | 5 of 2024 | 14 Mar 2024 | 15 Mar 2024 (see s. 2(b))
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 3 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
 Industrial Relations Legislation Amendment Act 2024 s. 156 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
-Keystart Act 2024 Pt. 8 Div. 1 (other than s. 59(2)) | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
+Keystart Act 2024 Pt. 8 Div. 1 | 44 of 2024 | 13 Nov 2024 | Pt. 8 Div.1 (other than s. 59(2)): 14 Nov 2024 (see s. 2(b)(v)); s. 59(2): 19 Mar 2026 (see s. 2(c) and SL 2026/28 cl. 2)
 Local Government Amendment Act 2024 Pt. 3 Div. 1 | 47 of 2024 | 6 Dec 2024 | 1 Jan 2026 (see s. 2(1)(i) and SL 2025/203 cl. 2)
 Information Commissioner Act 2024 Pt. 7 Div. 1 | 52 of 2024 | 6 Dec 2024 | 1 Jul 2025 (see s. 2(1)(d) and SL 2025/102 cl. 2(a))
 Salaries and Allowances Amendment Act 2025 Pt. 3 | 3 of 2025 | 19 Jun 2025 | 20 Jun 2025 (see s. 2(b))
@@ -328,9 +328,8 @@ Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 2) | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Aquatic Resources Management Act 2016 s. 364 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
 TAB (Disposal) Act 2019 s. 146 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Keystart Act 2024 s. 59(2) | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
 Architects Amendment Act 2025 s. 31 | 2 of 2025 | 10 Jun 2025 | To be proclaimed (see s. 2(b))
-Liquor Control Amendment Act 2025 Pt. 5 Div. 1 | 20 of 2025 | 12 Dec 2025 | To be proclaimed (see s. 2(c))
+Liquor Control Amendment Act 2025 Pt. 5 Div. 1 | 20 of 2025 | 12 Dec 2025 | 1 Jul 2026 (see s. 2(c) and SL 2026/87 cl. 2)
 Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 4 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
 Footnote no longer applicable.

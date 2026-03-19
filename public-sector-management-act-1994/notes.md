@@ -114,14 +114,13 @@ Work Health and Safety Act 2020 Pt 15 Div. 4 Subdiv. 7 | 36 of 2020 | 10 Nov 202
 Arts and Culture Trust Act 2021 s. 76 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 15 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 4 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
-Keystart Act 2024 Pt. 8 Div. 5 (other than s. 68) | 44 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b)(v))
+Keystart Act 2024 Pt. 8 Div. 5 | 44 of 2024 | 13 Nov 2024 | Pt. 8 Div. 5 (other than s. 68): 14 Nov 2024 (see s. 2(b)(v)); s. 68: 19 Mar 2026 (see s. 2(c) and SL 2026/28 cl. 2)
 Public Sector Management (Act Amendment) Regulations 2025 (SL 2025/121) | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 59(a) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
 TAB (Disposal) Act 2019 s. 152 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Keystart Act 2024 s. 68 | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
 Other notes
 Under the Alteration of Statutory Designations Order (No. 2) 1997 a reference in any law to the Police Department shall be read and construed as a reference to the department in the Public Service designated as the Police Service.
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39, but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26.
@@ -180,7 +179,7 @@ public sector notice3(1)
 public sector standard3(1)
 Public Service3(1)
 public service officer3(1)
-reasonable excuseSch. 3 cl. 3.(5) and 4.(3)
+reasonable excuseSch. 3 cl. 3(5) and 4(3)
 redeployment direction breach of discipline80A
 registered employee94(1A), 95A(1)
 registrable employee94(1A)
@@ -207,7 +206,7 @@ term officer3(1)
 this Act3(1)
 transitional matterSch. 7 cl. 12(2), Sch. 8 cl. 6(2)
 Tribunal57(2)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer

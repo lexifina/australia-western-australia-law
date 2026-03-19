@@ -41,11 +41,11 @@ Reprint 6: The Statutory Corporations (Liability of Directors) Act 1996 as at 23
 Statutory Corporations (Liability of Directors) (Act Amendment) Regulations 2018 published in Gazette 27 Jul 2018 p. 2690 | r. 1 and 2: 27 Jul 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jul 2018 (see r. 2(b))
 Arts and Culture Trust Act 2021 s. 78 | 15 of 2021 | 9 Sep 2021 | 1 Jul 2022 (see s. 2(b) and SL 2022/77 cl. 2)
 Government Trading Enterprises Act 2023 Pt. 12 Div. 8 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
+Keystart Act 2024 Pt. 8 Div. 7 | 44 of 2024 | 13 Nov 2024 | 19 Mar 2026 (see s. 2(c) and SL 2026/28 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 TAB (Disposal) Act 2019 s. 157 | 21 of 2019 | 18 Sep 2019 | To be proclaimed (see s. 2(1)(b)(xiii))
-Keystart Act 2024 Pt. 8 Div. 7 | 44 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
 Other notes
 The State Government Insurance Corporation ceased to exist on 1 July 2012.
 Formerly referred to the State Government Insurance Commission Act 1986 the short title of which was changed to the Insurance Commission of Western Australia Act 1986 by the Acts Amendment (ICWA) Act 1996 s. 5. The reference was substituted under the Reprints Act 1984 s. 7(3)(gb).
@@ -60,7 +60,7 @@ director4, 7(1)
 governing body16(1)
 GTE4
 responsible Minister15(2), 16(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ROGER JACOBS, Acting Government Printer
