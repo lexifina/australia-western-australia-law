@@ -26,6 +26,7 @@ Education and Care Services National Amendment Regulations (No. 4) 2023 | SL 202
 Education and Care Services National Amendment Regulations 2024 | SL 2024/48 17 Apr 2024 | r. 1 and 2: 17 Apr 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Apr 2024 (see r. 2(b))
 Education and Care Services National Amendment Regulations (No. 2) 2024 | SL 2024/220 30 Oct 2024 | r. 1 and 2: 30 Oct 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Oct 2024 (see r. 2(b))
 Education and Care Services National Amendment Regulations 2025 | SL 2025/150 20 Aug 2025 | r. 1 and 2: 20 Aug 2025 (see r. 2(a)); r. 3-10 and 12: 1 Sep 2025 (see r. 2(b)) Regulations other than r. 1-10 and 12: 1 Jan 2026 (see r. 2(c))
+Education and Care Services National Amendment Regulations 2026 | SL 2026/27 18 Mar 2026 | r. 1 and 2: 18 Mar 2026 (seer. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2026 (see r. 2(b))
 Other notes
 The short title of the Administrative Decisions Tribunal Act 1997 was changed to the Administrative Decisions Review Act 1997 by the Civil and Administrative Tribunal Amendment Act 2013 (NSW) Sch. 2.
 Defined terms
