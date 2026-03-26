@@ -8,6 +8,7 @@ Police Force (Member Testing) Amendment Regulations (No. 2) 2018 | 17 Aug 2018 p
 Police Force (Member Testing) Amendment Regulations (No. 3) 2018 | 13 Nov 2018 p. 4435-6 | r. 1 and 2: 13 Nov 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Dec 2018 (see r. 2(b))
 Reprint 1: The Police Force (Member Testing) Regulations 2011 as at 15 Feb 2019 (includes amendments listed above)
 Police Force (Member Testing) Amendment Regulations 2021 | SL 2021/99 25 Jun 2021 | r. 1 and 2: 25 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(c))
+Police Force (Member Testing) Amendment Regulations 2026 | SL 2026/34 25 Mar 2026 | r. 1 and 2: 25 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 26 Mar 2026 (see r. 2(b))
 Other notes
 The Police Regulations Amendment (Poisons) Regulations 2016 Pt. 3 (published 17 Jan 2017 p. 412-17) is of no effect as those amending regulations were made by the Governor. Regulations made under the Police Act 1892 section 9 must be made by the Commissioner of Police with the approval of the Minister. The amendments in the Police Regulations Amendment (Poisons) Regulations 2016 Pt. 3 are therefore not included in the compilation of the principal regulations.
 Defined terms
@@ -37,7 +38,7 @@ sample type6(1A)
 selected member3(1)
 self-testing analysing equipment3(2)
 targeted drug3(1)
-© State of Western Australia 2021.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2021.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
