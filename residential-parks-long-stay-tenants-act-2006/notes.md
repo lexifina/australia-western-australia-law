@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Parks (Long-stay Tenants) Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Residential Parks (Long-stay Tenants) Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Parks (Long-stay Tenants) Act 2006 | 32 of 2006 | 4 Jul 2006 | s. 1 and 2: 4 Jul 2006; Act other than s. 1 and 2: 3 Aug 2007 (see s. 2 and Gazette 1 Aug 2007 p. 3835)
@@ -11,11 +11,7 @@ Water Services Legislation Amendment and Repeal Act 2012 s. 227 | 25 of 2012 | 3
 Consumer Protection Legislation Amendment Act 2014 Pt. 11 | 23 of 2014 | 9 Oct 2014 | 19 Nov 2014 (see s. 2(b) and Gazette 18 Nov 2014 p. 4315)
 Residential Tenancies Legislation Amendment (Family Violence) Act 2019 Pt. 3 | 3 of 2019 | 26 Feb 2019 | 15 Apr 2019 (see s. 2(b) and Gazette 9 Apr 2019 p. 1041-2)
 Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 2 | 28 of 2020 | 9 Jul 2020 | s. 3 and 80: 10 Jul 2020 (see s. 2(1)(b)); s. 6, 81-83 and 86: 30 Sep 2020 (see s. 2(1)(c) and SL 2020/174 cl. 2); s. 4, 5, 7-79, 84 and 85: 31 Jan 2022 (see s. 2(1)(c) and SL 2021/195 cl. 2)
-Residential Tenancies Amendment Act 2024 Pt. 3 (other than s. 63) | 11 of 2024 | 22 Apr 2024 | 16 May 2024 (see s. 2(b) and SL 2024/75 cl. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Residential Tenancies Amendment Act 2024 s. 63 | 11 of 2024 | 22 Apr 2024 | 28 Mar 2026 (see s. 2(b) and SL 2026/31 cl. 2(h))
+Residential Tenancies Amendment Act 2024 Pt. 3 | 11 of 2024 | 22 Apr 2024 | s. 62, 64 and 65: 16 May 2024 (see s. 2(b) and SL 2024/75 cl. 2(b)); s. 63: 28 Mar 2026 (see s. 2(b) and SL 2026/31 cl. 2(h))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -122,7 +118,7 @@ urgent repairs32M(1)
 validation period117(1)
 voluntary sharing arrangement3
 working day3
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
