@@ -48,4 +48,5 @@ r. 7(2) | Park operator failing to complete and give property condition report |
 r. 7(4) | Tenant failing to complete and give property condition report | $1 000
 r. 7(5) | Failing to complete and give property condition report after termination of the tenancy | $1 000
 r. 7(6) | Providing false or misleading information in property condition report | $1 000
-[Division 2 inserted: SL 2021/205 r. 20.]
+r. 18B(5) | Unlawfully asking or requiring tenant to sign security bond release application | $1 000
+[Division 2 inserted: SL 2021/205 r. 20; amended: SL 2026/4 r. 11.]

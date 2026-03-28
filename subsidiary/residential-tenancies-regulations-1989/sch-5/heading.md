@@ -48,6 +48,7 @@ s. 71AB(4) | Lessor failing to ensure information referred to in s. 71AB(2) is k
 s. 79(3) | Failing to give notice that abandoned goods have been stored | $1 000
 s. 80A(6) | Failing to give reclaimed document to person | $1 000
 s. 80 | Entering leased premises to recover possession without court order | $4 000
+s. 81C(5) | Unlawfully asking or requiring tenant to sign security bond release application | $1 000
 s. 82C(2) | Failing to give written notice of usual use of residential tenancy database | $1 000
 s. 82D(2) | Failing to give written notice of personal information in residential tenancy database | $1 000
 s. 82E(1) | Listing personal information in residential tenancy database contrary to section 82E(1) | $1 000
@@ -59,4 +60,4 @@ s. 82I(2) | Database operator failing to give copy of personal information in re
 s. 82K(2) | Keeping personal information in residential tenancy database longer than permitted | $1 000
 s. 93(1) | Failing to take reasonable steps to ensure security bond is transferred to bond administrator when required | $1 000
 s. 96(2) | Failing to pay bond, or part of bond, when required | $1 000
-[Schedule 5 inserted: Gazette 3 May 2013 p. 1832-5; amended: Gazette 9 Apr 2019 p. 1052; SL 2024/149 r. 20.]
+[Schedule 5 inserted: Gazette 3 May 2013 p. 1832-5; amended: Gazette 9 Apr 2019 p. 1052; SL 2024/149 r. 20; SL 2026/4 r. 34.]
