@@ -16,6 +16,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 s. 7 and 8, Pt. 6, 7 and 10, s. 295 and 296 and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -208,7 +209,7 @@ vessel4(1)
 welfare services188(1)
 working day4(1)
 World Health Organization299(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
