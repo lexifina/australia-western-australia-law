@@ -11,6 +11,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Privacy and Responsible Information Sharing Act 2024 Pt. 6 Div. 1 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
+Education and Care Services National Law Application Act 2026 s. 76(1) | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
 Other notes
 See the Education and Care Services National Law (Transitional) Regulations 2012 published in Gazette 25 Jul 2012 p. 3413-15 made under the Education and Care Services National Law (WA) Act 2012 section 19.
 Defined terms
@@ -202,7 +203,7 @@ working with children check5(1)
 working with children law5(1)
 working with vulnerable people law5(1)
 writingSch. 1 cl. 12(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
