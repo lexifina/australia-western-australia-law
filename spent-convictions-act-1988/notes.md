@@ -73,6 +73,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Evidence Act 2025 Pt. 12 Div. 19 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 5 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
 Other notes
 The Criminal Code s. 19, 661, 662 and 669 were repealed by the Sentencing (Consequential Provisions) Act 1995 s. 26.
 The Offenders Community Corrections Act 1963 was repealed by the Sentencing (Consequential Provisions) Act 1995 s. 77.
@@ -104,7 +105,7 @@ official criminal record28(1A)
 principal17(1)
 serious conviction9
 spent conviction3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
