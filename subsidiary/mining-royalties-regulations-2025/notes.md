@@ -4,6 +4,7 @@ Compilation table
 Citation | Published | Commencement
 Mining (Royalties) Regulations 2025 | SL 2025/154 28 Aug 2025 | Pt. 1: 28 Aug 2025 (see r. 2(a)); Regulations other than Pt. 1: 1 Sep 2025 (see r. 2(b))
 Mining (Royalties) Amendment Regulations 2026 | SL 2026/2 8 Jan 2026 | r. 1 and 2: 8 Jan 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2026 (see r. 2(b))
+Mining (Royalties) Amendment Regulations (No. 2) 2026 | SL 2026/36 1 Apr 2026 | r. 1 and 2: 1 Apr 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -56,6 +57,7 @@ net GST5(1)
 net input tax credit5(4)
 nickel by-product3
 non-metallic minerals input price index26(4)
+other tenements22(3)
 payable gold metal content29
 price16(3)
 produced3
@@ -70,6 +72,7 @@ refinery29
 related corporation3
 relevant decision47(1)
 relevant period26(3)
+relevant tenements22(3)
 REO41(1)
 return51(1)
 royalty return3
@@ -85,4 +88,4 @@ treatment facility3
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
-By Authority: ROGER JACOBS, Acting Government Printer
+By Authority: ANDREW JONES, Government Printer
