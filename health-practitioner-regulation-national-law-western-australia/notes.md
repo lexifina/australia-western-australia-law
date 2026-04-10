@@ -1,14 +1,15 @@
 Notes
-This is a compilation of the Health Practitioner Regulation National Law (Western Australia). The Health Practitioner Regulation National Law (as enacted by the Health Practitioner Regulation National Law Act 2009 (Queensland) Schedule) is applied and modified as a law of Western Australia by or under the Health Practitioner Regulation National Law Application Act 2024 (the WA Application Act). This is a version of the Health Practitioner Regulation National Law as it applies in Western Australia (as modified) as at the date specified below.
-This version also includes any amendments to the Health Practitioner Regulation National Law made by Queensland Acts where those amendments have effect and have commenced in Western Australia under sections 8 and 9 of the WA Application Act. See the compilation table.
+This is a compilation of the Health Practitioner Regulation National Law (Western Australia). The Health Practitioner Regulation National Law (as set out in the Health Practitioner Regulation National Law Act 2009 (Queensland) Schedule) is applied and modified as a law of Western Australia by or under the Health Practitioner Regulation National Law Application Act 2024 (the WA Application Act). This is a version of the Health Practitioner Regulation National Law as it applies in Western Australia (as modified) as at the date specified below.
+This version also includes amendments to the Health Practitioner Regulation National Law made by Queensland Acts that have effect and have commenced in Western Australia under sections 8 and 9 of the WA Application Act. See the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law (Western Australia) |  |  | 15 May 2024 (see WA Act No. 21 of 2024 s. 2(c))
 Health Practitioner Regulation National Law Application Act 2024 Pt. 3 | 21 of 2024 | 14 May 2024 | Pt. 3 (other than s. 29): 15 May 2024 (see s. 2(c)); s. 29: 1 Jul 2024 (see s. 2(b)(ii))
-Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022 (Qld) Ch. 3 Pt. 7, 8, 13, 21 (other than section 93 to the extent it is already in force on 10 Oct 2023), Pt. 29 and 30 and s. 117(2), 124, 127 and 128 | Published on QLD legislation website (22 of 2022 Qld Act) |  | 1 Jul 2024 (see QLD SL 2024/93)
-Health Practitioner Regulation National Law and Other Legislation Amendment Act 2025 (Qld) Pt. 1 and Pt. 3 (other than s. 16-21 and s. 23, to the extent it inserts s. 327 and 328) | Published on QLD legislation website (6 of 2025 Qld Act) |  | Pt. 1: 27 Nov 2025 (see WA SL 2025/192 cl. 3); Pt. 3 (other than s. 16-21 and s. 23, to the extent it inserts s. 327 and 328): 1 Dec 2025 (see QLD SL 2025/139)
+Health Practitioner Regulation National Law and Other Legislation Amendment Act 2022 (Qld) Ch. 3 Pt. 7, 8, 13, 21 (other than section 93 to the extent it is already in force on 10 Oct 2023), Pt. 29 and 30 and s. 117(2), 124, 127 and 128 | Published on Qld legislation website (22 of 2022 Qld Act) |  | 1 Jul 2024 (see Qld SL 2024/93)
+Health Practitioner Regulation National Law and Other Legislation Amendment Act 2025 (Qld) Pt. 1 and Pt. 3 | Published on Qld legislation website (6 of 2025 Qld Act) |  | Pt. 1: 27 Nov 2025 (see WA SL 2025/192 cl. 3); Pt. 3 (other than s. 16-21 and s. 23, to the extent it inserts s. 327 and 328): 1 Dec 2025 (see Qld SL 2025/139); s. 16-21 and 23 (to the extent it inserts s. 327 and 328): 10 Apr 2026 (automatic commencement under Acts Interpretation Act 1954 (Qld) s. 15DA(2))
 Other notes
 The Health Practitioner Regulation National Law (Western Australia) has been formatted in accordance with WA drafting style. Editorial notes have been inserted as part of producing this compilation.
+Schedule 1 to the Health Practitioner Regulation National Law was not included in the first WA compilation of the National Law as that Schedule was repealed by Qld Act No. 22 of 2022 s. 41 before the application of the National Law as a law of WA took effect on 15 May 2024.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -20,6 +21,7 @@ accreditation standard5
 accredited program of study5
 ActSch. 7 cl. 12(1)
 additionalSch. 7 cl. 30(3)
+additional information225A(4)
 adjudication body5, 292(3)
 adultSch. 7 cl. 12(1)
 affidavitSch. 7 cl. 12(1)
@@ -70,6 +72,7 @@ date of assentSch. 7 cl. 12(1)
 decision206(4)
 definitionSch. 7 cl. 12(1)
 Diploma of Paramedical Science306, 312(5)
+disqualified person5
 dissolved Board31(2)
 division5
 documentSch. 7 cl. 12(1)
@@ -212,6 +215,7 @@ registration standard5
 registration status5
 regulated health service133(4)
 regulatory body5
+reinstatement order5
 related health professionals258(3)
 relevant action5
 relevant day306
@@ -222,7 +226,7 @@ relevant issue329
 relevant law55(2)
 relevant person237B(3)
 relevant provision5, 159B, 159P
-relevant section82(2), 102(3)
+relevant section82(2), 102(3), 225A(9)
 repealSch. 7 cl. 12(1)
 repealed Law250
 replacement Board31(2)
@@ -264,7 +268,7 @@ Victorian Government Printer245(5)
 voluntary notification5
 wordSch. 7 cl. 12(1)
 writingSch. 7 cl. 12(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: ROGER JACOBS, Acting Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
