@@ -1,11 +1,15 @@
 Notes
-This is a compilation of the Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Waste Avoidance and Resource Recovery (Container Deposit Scheme) Regulations 2019 | 18 Apr 2019 p. 1177-205 | r. 1 and 2: 18 Apr 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Apr 2019 (see r. 2(b) and Gazette 18 Apr 2019 p. 1157)
 Waste Avoidance and Resource Recovery (Container Deposit Scheme) Amendment Regulations 2019 | 17 Dec 2019 4279-358 | r. 1 and 2: 17 Dec 2019 (see r. 2(a)) Regulations other than r. 1 and 2: 18 Dec 2019 (see r. 2(b))
 Waste Avoidance and Resource Recovery (Container Deposit Scheme) Amendment Regulations 2020 | SL 2020/191 9 Oct 2020 | r. 1 and 2: 9 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Oct 2020 (see r. 2(b))
 Environment Regulations Amendment (Work Health and Safety) Regulations 2022 Pt. 3 | SL 2022/25 11 Mar 2022 | 31 Mar 2022 (see r. 2(b) and SL 2022/18 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Waste Avoidance and Resource Recovery (Container Deposit Scheme) Amendment Regulations 2026 r. 3-39 | SL 2026/43 15 Apr 2026 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -90,3 +94,7 @@ website annual report18(1)
 whole container4C(1)
 wine3B(3)
 wine-based beverage3B(1)
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
