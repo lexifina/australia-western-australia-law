@@ -9,7 +9,7 @@ Bassendean | Whole district
 Bayswater | Whole district
 Belmont | Whole district
 Beverley | Whole district
-Boddington | All townsites and areas zoned residential, special residential, rural residential or special use by a local planning scheme
+Boddington | All townsites and areas zoned residential, rural residential or special use by a local planning scheme
 Bridgetown-Greenbushes | Whole district
 Brookton | Whole district
 Bunbury | Whole district
@@ -34,8 +34,9 @@ Fremantle | Whole district
 Gingin | Whole district
 Gosnells | Whole district
 Greater Geraldton | Whole district except areas in Mullewa Ward that are not townsites
-Hall’s Creek | All townsites and area subject to the Shire of Halls Creek local planning scheme
-Harvey | All townsites and area zoned special residential or special rural in the Shire of Harvey local planning scheme
+Halls Creek | All townsites and area subject to the Shire of Halls Creek local planning scheme
+Harvey | All townsites and areas zoned residential or rural residential in the Shire of Harvey local planning scheme
+Irwin | Whole district
 Jerramungup | Whole district except areas zoned rural by a local planning scheme
 Joondalup | Whole district
 Kalamunda | Whole district
@@ -87,4 +88,4 @@ Wyalkatchem | Whole district
 Wyndham-East Kimberley | Whole district
 York | Whole district
 All other districts | All townsites
-[Schedule 5 amended: Gazette 24 Apr 2014 p. 1141; 22 Dec 2017 p. 5974-5.]
+[Schedule 5 amended: Gazette 24 Apr 2014 p. 1141; 22 Dec 2017 p. 5974-5; SL 2026/44 r. 8(1), (3) and (4).]

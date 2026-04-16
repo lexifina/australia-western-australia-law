@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Building Regulations 2012 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Building Regulations 2012 | 13 Mar 2012 p. 1055-137 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b) and Gazette 13 Mar 2012 p. 1033)
@@ -50,6 +50,11 @@ Building Amendment Regulations 2024 | SL 2024/49 17 Apr 2024 | r. 1 and 2: 17 Ap
 Short-Term Rental Accommodation Regulations 2024 r. 19 | SL 2024/123 26 Jun 2024 | 1 Jul 2024 (see r. 2 and SL 2024/88 cl. 2(a))
 Building Amendment Regulations 2025 | SL 2025/34 5 Feb 2025 | r. 1 and 2: 5 Feb 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2025 | SL 2025/62 16 Apr 2025 | r. 1 and 2: 16 Apr 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Apr 2025 (see r. 2(b))
+Building Amendment Regulations (No. 2) 2026 (other than r. 4-7 and 8(2)) | SL 2026/44 15 Apr 2026 | r. 1 and 2: 15 Apr 2026 (see r. 2(a)); r. 3 and 8(1), (3) and (4): 16 Apr 2026 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Building Amendment Regulations (No. 2) 2026 r. 4-7 and 8(2) | SL 2026/44 15 Apr 2026 | r. 4, 5 and 6: 1 May 2026 (see r. 2(c)); r. 7 and 8(2): 15 Apr 2027 (see r. 2(d))
 Other notes
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
@@ -163,7 +168,7 @@ unit55(1)
 work54A(1)
 WorkSafe Commissioner14A(1)
 young child48
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
