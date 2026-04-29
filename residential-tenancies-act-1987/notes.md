@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Residential Tenancies Act 1987 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Residential Tenancies Act 1987 | 128 of 1987 | 21 Jan 1988 | s. 1 and 2: 21 Jan 1988; Act other than s. 1 and 2: 1 Oct 1989 (see s. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -44,6 +44,12 @@ Residential Parks (Long- stay Tenants) Amendment Act 2020 Pt. 3 | 28 of 2020 | 9
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Residential Tenancies Amendment Act 2024 Pt. 2 | 11 of 2024 | 22 Apr 2024 | s. 3-10, 17, 19-23, 24(1), 32, 34, 36, 44, 45 and 47-55): 16 May 2024 (see s. 2(b) and SL 2024/75 cl. 2(a)); s. 11, 12, 13(1), 14, 15(1), 18, 25-31, 33, 35, 37, 39-42 and 46: 29 Jul 2024 (see s. 2(b) and SL 2024/143 cl. 2); s. 13(2), 15(2), 16, 24(2)-(5), 38, 43 and 56-61: 28 Mar 2026 (see s. 2(b) and SL 2026/31 cl. 2(a)-(g)))
 Statutes (Repeals and Minor Amendments) Act 2025 s. 35 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Residential Tenancies Act 1987 with editorial changes as at 29 Apr 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 81D(2)(b) | s. 34(2) (s. 34(1) minor error para (f)) | 29 Apr 2026
 Other notes
 The provisions in this Act amending those Acts have been omitted under the Reprints Act 1984 s. 7(4)(f).
 The Acts Amendment (Ministry of Justice) Act 1993 Pt. 19 is a savings and transitional provision that is of no further effect.
