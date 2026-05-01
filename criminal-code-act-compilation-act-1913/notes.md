@@ -206,13 +206,13 @@ Criminal Code Amendment Act 2024 Pt. 2 | 16 of 2024 | 14 May 2024 | 1 Jul 2024 (
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 4 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Criminal Code Amendment (Prohibition on Display of Nazi Symbols or Gesture) Act 2024 Pt. 2 | 29 of 2024 | 17 Sep 2024 | 1 Mar 2025 (see s. 2(b) and SL 2025/25 cl. 2)
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 4 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 30 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Evidence Act 2025 Pt. 12 Div. 10 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Evidence Act 2025 Pt. 12 Div. 10 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 5 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
-Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
 Other notes
 Footnote no longer applicable.
 The Criminal Law Amendment Act 1996 s. 5(2) is a transitional provision.

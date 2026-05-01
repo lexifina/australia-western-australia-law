@@ -1,7 +1,7 @@
 Notes
 This is a compilation of the Health (Miscellaneous Provisions) Act 1911 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
-Short title | Number and year | Assent | Commencement
+ | Short title | Number and year | Assent | Commencement
 Health Act 1911 | 34 of 1911 (1 Geo. V No. 45) | 16 Feb 1911 | 1 Jun 1911 (see s. 1 and Gazette 3 Mar 1911 p. 961)
 Health Act Amendment Act 1911 | 3 of 1912 (2 Geo. V No. 11) | 9 Jan 1912 | 9 Jan 1912
 Health Act Amendment Act 1912 | 28 of 1912 (3 Geo. V No. 9) | 27 Sep 1912 | 27 Sep 1912
@@ -139,20 +139,20 @@ Reprint 16: The Health Act 1911 as at 6 Dec 2013 (includes amendments listed abo
 Medicines and Poisons Act 2014 Pt. 11 Div. 1 | 13 of 2014 | 2 Jul 2014 | 30 Jan 2017 (see s. 2(b) and Gazette 17 Jan 2017 p. 403)
 Statutes (Repeals and Minor Amendments) Act 2014 s. 23 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Health Services Act 2016 s. 291 | 11 of 2016 | 26 May 2016 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291)
- | Public Health (Consequential Provisions) Act 2016 Pt. 2, Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-15 and Div. 16 (s. 272, 274 and 276) | 19 of 2016 | 25 Jul 2016 | Pt. 2: 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165); Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880); Pt. 4 Div. 15 and s. 276: 12 Jan 2019 (see s. 2(1)(c) and Gazette 11 Jan 2019 p. 23)
- | Reprint 17: The Health (Miscellaneous Provisions) Act 1911 as at 15 Dec 2017 (includes amendments listed above except those listed in the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 15 and s. 276)
- | Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
- | Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
- | Major Events Act 2023 s. 110 | 12 of 2023 | 22 May 2023 | 23 May 2023 (see s. 2(b))
- | Abortion Legislation Reform Act 2023 Pt. 4 Div. 6 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
- | Health (Miscellaneous Provisions) (Offensive Trades) Proclamation 2024 Pt. 2 (SL 2024/53) | 4 Jun 2024 (see cl. 2(b))
- | Local Government Amendment Act 2024 Pt. 3 Div. 3 | 47 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(1)(g))
- | Statutes (Repeals and Minor Amendments) Act 2025 s. 26 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Public Health (Consequential Provisions) Act 2016 Pt. 2, Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-15 and Div. 16 (s. 272, 274 and 276) | 19 of 2016 | 25 Jul 2016 | Pt. 2: 24 Jan 2017 (see s. 2(1)(b) and Gazette 10 Jan 2017 p. 165); Pt. 4 Div. 1, Div. 2 (s. 207), Div. 3 (s. 212 and 213), Div. 10 (s. 240, 242 and 243), Div. 12-14 and Div. 16 (s. 272 and 274): 20 Sep 2017 (see s. 2(1)(c) and Gazette 19 Sep 2017 p. 4880); Pt. 4 Div. 15 and s. 276: 12 Jan 2019 (see s. 2(1)(c) and Gazette 11 Jan 2019 p. 23)
+Reprint 17: The Health (Miscellaneous Provisions) Act 1911 as at 15 Dec 2017 (includes amendments listed above except those listed in the Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 15 and s. 276)
+Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 111 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
+Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 4 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Major Events Act 2023 s. 110 | 12 of 2023 | 22 May 2023 | 23 May 2023 (see s. 2(b))
+Abortion Legislation Reform Act 2023 Pt. 4 Div. 6 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
+Health (Miscellaneous Provisions) (Offensive Trades) Proclamation 2024 Pt. 2 (SL 2024/53) | 4 Jun 2024 (see cl. 2(b))
+Local Government Amendment Act 2024 Pt. 3 Div. 3 | 47 of 2024 | 6 Dec 2024 | 7 Dec 2024 (see s. 2(1)(g))
+Statutes (Repeals and Minor Amendments) Act 2025 s. 26 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed and Subsidiary legislation as made on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 4 Div. 2 (s. 208 and 209), Div. 3 (s. 210, 211, 214-222), Div. 4-9, Div. 10 (s. 239 and 241), Div. 11 and Div. 16 (s. 249-271, 273 and 275) | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
 Other notes
 Footnote no longer applicable.
 The Licensing Act 1911 was repealed by the Liquor Act 1970, which was repealed by the Liquor Control Act 1988.

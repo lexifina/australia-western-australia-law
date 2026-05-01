@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Civil Liability Act 2002 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Civil Liability Act 2002 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Civil Liability Act 2002 | 35 of 2002 | 20 Nov 2002 | s. 1 and 2: 20 Nov 2002; Act other than s. 1 and 2: 1 Jan 2003 (see s. 2 and Gazette 17 Dec 2002 p. 5905)
@@ -36,11 +36,11 @@ Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 4 | 9 of 2022 | 14
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 1 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Civil Liability Amendment (Provisional Damages for Dust Diseases) Act 2024 Pt. 2 | 32 of 2024 | 26 Sep 2024 | 1 Dec 2024 (see s. 2(d) and SL 2024/238 cl. 2)
 Statutes (Repeals and Minor Amendments) Act 2025 s. 16 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
-Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

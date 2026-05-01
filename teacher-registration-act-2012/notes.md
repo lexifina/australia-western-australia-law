@@ -8,11 +8,11 @@ Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 20
 Working with Children (Criminal Record Checking) Amendment Act 2022 s. 53 | 47 of 2022 | 7 Dec 2022 | 1 Jul 2023 (see s. 2(b) and SL 2023/90 cl. 2)
 Teacher Registration Amendment Act 2023 | 3 of 2023 | 1 Mar 2023 | s. 1 and 2: 1 Mar 2023 (see 2(a)); Act other than s. 1 and 2: 19 Dec 2023 (see s. 2(b) and SL 2023/195 cl. 2)
 Statutes (Repeals and Minor Amendments) Act 2025 s. 36 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Evidence Act 2025 s. 492 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
-Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
 Other notes
 The Teacher Registration Act 2012 s. 166 was deleted by the Statutes (Repeals and Minor Amendments) Act 2025 s. 36(2) before it purported to come into operation.
 Defined terms

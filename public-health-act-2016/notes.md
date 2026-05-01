@@ -12,11 +12,11 @@ Public Health Amendment (Safe Access Zones) Act 2021 | 9 of 2021 | 17 Aug 2021 |
 Emergency Management Amendment (Temporary COVID-19 Provisions) Act 2022 | 33 of 2022 | 21 Oct 2022 | Pt. 2 Div. 2 Subdiv. 5: 3 Nov 2022 (see s. 2(b) and SL 2022/175 cl. 2); Pt. 3 Div. 3: 3 Nov 2024 (see s. 2(c) and SL 2022/175 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 51 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Abortion Legislation Reform Act 2023 Pt. 3 | 20 of 2023 | 27 Sep 2023 | 27 Mar 2024 (see s. 2(b) and SL 2024/21 cl. 2)
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health Act 2016 s. 7 and 8, Pt. 6, 7 and 10, s. 295 and 296 and Pt. 20 (s. 313-320) | 18 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(c))
-Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
