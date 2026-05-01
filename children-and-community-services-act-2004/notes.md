@@ -36,13 +36,13 @@ Firearms Amendment Act 2022 s. 82 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see 
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 1 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
 Police Legislation Amendment Act 2024 Pt. 5 Div. 1 | 33 of 2024 | 26 Sep 2024 | 20 Dec 2024 (see s. 2(1)(b) and SL 2024/277 cl. 2)
 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Act 2024 Pt. 4 Div. 1 | 31 of 2024 | 26 Sep 2024 | 30 May 2025 (see s. 2(b) and SL 2025/80 cl. 2)
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Children and Community Services Amendment Act 2021 s. 15, 32, 39 and 40 | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(c))
-Evidence Act 2025 Pt. 12 Div. 7 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Evidence Act 2025 Pt. 12 Div. 7 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 3 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
-Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
 Other notes
 The provision in this Act amending these Acts has been omitted under the Reprints Act 1984 s. 7(4)(e).
 The Child Care Services Act 2007 Pt. 6 contains transitional provisions relating to the repealed Pt. 8 of this Act.

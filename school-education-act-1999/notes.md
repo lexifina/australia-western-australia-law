@@ -29,11 +29,11 @@ Compilation table
  | School Boarding Facilities Legislation Amendment and Repeal Act 2016 Pt. 3 | 41 of 2016 | 28 Nov 2016 | 1 Jul 2017 (see s. 2(b) and Gazette 23 Jun 2017 p. 3173)
 Public Health Amendment (Immunisation Requirements for Enrolment) Act 2019 Pt. 3 | 14 of 2019 | 5 Jul 2019 | s. 13: 5 Jul 2019 (see s. 2(a)); s. 14-22: 22 Jul 2019 (see s. 2(b) and Gazette 19 Jul 2019 p. 2841)
 School Education Amendment Act 2024 | 13 of 2024 | 22 Apr 2024 | s. 1 and 2: 22 Apr 2024 (see s. 2(a)); Act other than s. 1 and 2: 1 Jul 2024 (see s. 2(b) and SL 2024/111 cl. 2)
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 School Education Act 1999 s. 182(3) and 208 | 36 of 1999 | 2 Nov 1999 | To be proclaimed (see s. 2)
-Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
 Other notes
 The provisions in this Act amending the other Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 Repealed by the Children and Community Services Act 2004.
