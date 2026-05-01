@@ -1,6 +1,6 @@
-## Schedule 1 — Places where regulations 3(1) and 6 apply
-[r. 4(b), 5]
-[Heading inserted: Gazette 13 May 2003 p. 1665; amended: Gazette 17 Oct 2017 p. 5336.]
+## Schedule 1 — Places where regulation 6 applies
+[r. 5]
+[Heading inserted: SL 2026/41 r. 6.]
 Local government districts
 Albany | Greater Geraldton
 Augusta-Margaret River | Harvey
