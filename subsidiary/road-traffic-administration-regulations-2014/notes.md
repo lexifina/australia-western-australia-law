@@ -39,6 +39,7 @@ Road Traffic (Administration) Amendment Regulations 2024 | SL 2024/201 2 Oct 202
 Transport Regulations Amendment (Road Traffic) Regulations 2024 Pt. 2 | SL 2024/237 27 Nov 2024 | 1 Dec 2024 (see r. 2(b))
 Transport Regulations Amendment (Heavy Vehicle) Regulations 2025 Pt. 2 | SL 2025/20 22 Jan 2025 | 23 Jan 2025 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/65 30 Apr 2025 | 1 Jul 2025 (see r. 2(c))
+Road Traffic (Administration) Amendment Regulations 2026 | SL 2026/52 30 Apr 2026 | r. 1 and 2: 30 Apr 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -52,10 +53,12 @@ crossing attendant warden16(1)
 data storage device35(1)
 Department of the Premier and Cabinet8A(1)
 digital identity exchange8A(1)
-electric-powered vehicle9A(1)
+EC CEO7(2)
+electric-powered vehicle3
+electric powered-vehicle licence information8A(1)
 existing warden38(1)
 HVNL9(1), 10(1)
-hydrogen-powered vehicle9A(1)
+hydrogen-powered vehicle3
 identifier8(1)
 improvement notice34(1)
 improvement notice decision34(1)
@@ -75,7 +78,7 @@ transport inspection warden3
 transport investigation warden3
 transport warden3
 WOVR8(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
