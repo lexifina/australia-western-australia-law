@@ -1,15 +1,17 @@
 Notes
-This is a compilation of the Privacy and Responsible Information Sharing Act 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Privacy and Responsible Information Sharing Act 2024 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Privacy and Responsible Information Sharing Act 2024 Pt. 1, Pt. 2 Div. 12, Pt. 3 Div. 8, Pt. 4, Pt. 5 and Pt. 7 | 51 of 2024 | 6 Dec 2024 | Pt. 1 and 7: 6 Dec 2024 (see s. 2(a) and (b)(i)); Pt. 2 Div. 12, Pt. 3 Div. 8, Pt. 4 and 5: 1 Jul 2025 (see s. 2(c) and SL 2025/102 cl. 2)
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 4 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Privacy and Responsible Information Sharing Act 2024 Pt. 2 (other than Div. 12), Pt. 3 (other than Div. 8), Pt. 6 and Sch. 1 and 2 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
-Evidence Act 2025 Pt. 12 Div. 17 | 15 of 2025 | 25 Sep 2025 | Immediately after the Privacy and Responsible Information Sharing Act 2024 s. 158 comes into operation (see s. 2(d)(ii))
+Privacy and Responsible Information Sharing Act 2024 Pt. 2 (other than Div. 12), Pt. 3 (other than Div. 8), Pt. 6 (other than Div. 1) and Sch. 1 and 2 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
+Evidence Act 2025 Pt. 12 Div. 17 | 15 of 2025 | 25 Sep 2025 | Immediately after the Privacy and Responsible Information Sharing Act 2024 s. 158 comes into operation (see s. 2(d)(i))
 Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 13 | 19 of 2025 | 18 Dec 2025 | Immediately after the Privacy and Responsible Information Sharing Act 2024 s. 158 comes into operation (see s. 2(b)(ii))
-Education and Care Services National Law Application Act 2026 Pt. 6 Div. 4 | 2 of 2026 | 31 Mar 2026 | To be proclaimed (see s. 2(1)(d))
+Other notes
+The Privacy and Responsible Information Sharing Act 2024 Pt. 6 Div. 1 was deleted by the Education and Care Services National Law Application Act 2026 Pt. 6 Div. 4 before it purported to come into operation (see Act No. 2 of 2026 s. 2(1)(d) and (2) and SL 2026/50 cl. 2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
