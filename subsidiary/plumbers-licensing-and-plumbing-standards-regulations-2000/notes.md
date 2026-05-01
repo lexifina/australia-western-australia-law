@@ -57,6 +57,7 @@ Commerce Regulations Amendment (Plumbing) Regulations 2024 Pt. 2 | SL 2024/12 9 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 14 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Plumbers Licensing and Plumbing Standards Amendment Regulations 2025 | SL 2025/70 14 May 2025 | r. 1 and 2: 14 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2025 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 15 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Plumbers Licensing and Plumbing Standards Amendment Regulations 2026 | SL 2026/48 29 Apr 2026 | r. 1 and 2: 29 Apr 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2026 (see r. 2(b))
 Other notes
 The Country Towns Sewerage By-laws 1952 were repealed by the Water Services Legislation Amendment and Repeal Act 2012 s. 200(b).
 The citation was originally the Water Services Coordination (Plumbers Licensing) Regulations 2000 and was subsequently changed to the Water Services Licensing (Plumbers Licensing and Plumbing Standards) Regulations 2000 (see Gazette 28 June 2004 p. 2397-463). Now known as the Plumbers Licensing and Plumbing Standards Regulations 2000 (see note under r. 1).
@@ -212,7 +213,7 @@ water supply plumbing work3(1), 4(2) and (3)
 water supply service3(1)
 water supply system3(1)
 working day3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
