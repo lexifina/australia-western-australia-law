@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Community Titles Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Community Titles Regulations 2021 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Community Titles Regulations 2021 | SL 2021/70 18 Jun 2021 | r. 1 and 2: 18 Jun 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Jun 2021 (see r. 2(b) and SL 2021/69 cl. 2)
@@ -14,6 +14,10 @@ Lands Regulations (Community and Strata Titles) Amendment Regulations (No. 3) 20
 Lands Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/85 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Lands Regulations (Community and Strata Titles) Amendment Regulations 2025 Pt. 2 | SL 2025/182 29 Oct 2025 | 30 Oct 2025 (see r. 2(b))
 Community Titles Amendment (State Development) Regulations 2026 | SL 2026/12 18 Feb 2026 | r. 1 and 2: 18 Feb 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Feb 2026 (see r. 2(b) and SL 2026/13 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Lands Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 2 | SL 2026/64 13 May 2026 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -127,4 +131,4 @@ works46(1)
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
-By Authority: ROGER JACOBS, Acting Government Printer
+By Authority: ANDREW JONES, Government Printer
