@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transport (Road Passenger Services) Regulations 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Transport (Road Passenger Services) Regulations 2020 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Transport (Road Passenger Services) Regulations 2020 | SL 2020/90 24 Jun 2020 | Pt. 1: 24 Jun 2020 (see r. 2(a)); Pt. 2-7, Pt. 8 (other than r. 110), Pt. 9-15, Sch. 1-5, Sch. 6 (other than it. 34 and 35) and Sch. 7: 1 Jul 2020 (see r. 2(c) and SL 2020/89 cl. 2); r. 110 and Sch. 6 it. 34 and 35: 1 Jul 2021 (see r. 2(b))
@@ -20,6 +20,10 @@ Transport (Road Passenger Services) Amendment Regulations (No. 5) 2024 | SL 2024
 Transport (Road Passenger Services) Amendment Regulations (No. 2) 2024 | SL 2024/286 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2024 (see r. 2(b))
 Transport (Road Passenger Services) Amendment Regulations (No. 4) 2024 | SL 2024/291 21 Dec 2024 | r. 1 and 2: 21 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 5 | SL 2025/65 30 Apr 2025 | 1 Jul 2025 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 4 | SL 2026/63 13 May 2026 | 1 Jul 2026 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -130,7 +134,7 @@ wheelchair accessible vehicle3
 wheelchair accessible vehicle booking58(1)
 WorkSafe Commissioner143(1)
 X%156(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
