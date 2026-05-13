@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Navigable Waters Regulations 1958 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Navigable Waters Regulations | 2 Apr 1958 p. 622-32 | 1 May 1958 (see r. 1)
@@ -161,6 +161,10 @@ Transport Regulations Amendment (Marine Safety Equipment) Regulations 2024 Pt. 2
 Transport Regulations Amendment (Prevention of Collisions in State Waters) Regulations 2025 Pt. 2 | SL 2025/68 30 Apr 2025 | 1 May 2025 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 5 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Transport Regulations Amendment (Removal of Obstructions) Regulations 2025 Pt. 2 | SL 2025/215 17 Dec 2025 | 19 Dec 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2026 Pt. 5 | SL 2026/62 13 May 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Now known as the Navigable Waters Regulations 1958; citation changed (see note under r. 1).
 The Navigable Waters Amendment Regulations 1992 r. 9 is a transitional provision that has no further effect.
@@ -253,7 +257,7 @@ vessel21
 water skier46(2)
 water ski-ing46(2)
 wave jumping50A(4)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: ROGER JACOBS, Acting Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
