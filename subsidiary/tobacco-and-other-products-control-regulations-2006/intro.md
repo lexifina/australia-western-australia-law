@@ -1,1 +1,1 @@
-Tobacco Products Control Regulations 2006
+Tobacco and Other Products Control Regulations 2006

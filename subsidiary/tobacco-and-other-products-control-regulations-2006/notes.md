@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Tobacco Products Control Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table..
+This is a compilation of the Tobacco and Other Products Control Regulations 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Tobacco Products Control Regulations 2006 | 25 Jul 2006 p. 2797-808 | 31 Jul 2006 (see r. 2)
@@ -35,10 +35,15 @@ Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 11 | SL 202
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 11 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 11 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Tobacco Products Control Amendment Regulations 2025 | SL 2025/105 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1, 2 and 5: 26 Jun 2025 (see r. 2(c)); r. 5: 1 Jul 2025 (see r. 2(b))
+Tobacco Products Control Amendment Regulations 2026 | SL 2026/59 12 May 2026 | 13 May 2026 (see r. 2)
+Other notes
+Now known as the Tobacco and Other Products Control Regulations 2006; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 adequate ventilation7
+appropriate licence57A
+appropriate permit57A
 approved Quitline logo30
 BNR Act3
 Business Names Register3
@@ -49,8 +54,14 @@ dispensing unit30
 enclosed public place7
 humidified room30
 liquor licensed premises3
+loose tobacco3
 non-smoking zone16A
+patient57C
+premises57F
+prescriber57A
 price ticket30
+professional authority57A
+reasonable excuse57I(1) and (2)
 representative3
 retailer30
 retail premises30
@@ -61,7 +72,7 @@ snuff57(1)
 specialist retailer3
 wall3
 within the prohibited distance15(1B)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
