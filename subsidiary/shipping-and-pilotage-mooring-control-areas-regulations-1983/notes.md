@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Shipping and Pilotage (Mooring Control Areas) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Shipping and Pilotage (Mooring Control Areas) Regulations 1983 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Shipping and Pilotage (Mooring Control Areas) Regulations 1983 | 28 Nov 1983 p. 4709-14 | 28 Nov 1983 (see r. 2 and Gazette 28 Nov 1983 p. 4707)
@@ -15,6 +15,10 @@ Transport Regulations Amendment (Mooring Control Areas) Regulations 2024 Pt. 2 |
 Transport Regulations Amendment (Marine Safety Equipment) Regulations 2024 Pt. 4 | SL 2024/191 18 Sep 2024 | 30 Sep 2024 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 7 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Transport Regulations Amendment (Prevention of Collisions in State Waters) Regulations 2025 Pt. 4 | SL 2025/68 30 Apr 2025 | 1 May 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2026 Pt. 6 | SL 2026/62 13 May 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Repealed by the Interpretation Act 1984.
 Defined terms
@@ -37,7 +41,7 @@ person3
 pre-commencement regulations25(1)
 relevant area7(1)
 written instrument3
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
