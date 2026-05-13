@@ -65,12 +65,12 @@ Directors’ Liability Reform Act 2023 Pt. 3 Div. 42 | 9 of 2023 | 4 Apr 2023 | 
 Misuse of Drugs (Amounts of Prohibited Drugs) Order 2023 (SL 2023/48) | cl. 1 and 2: 19 May 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 20 May 2023 (see cl. 2(b))
 Misuse of Drugs Amendment Act 2023 Pt. 2 | 16 of 2023 | 26 Jun 2023 | 27 Jun 2023 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2025 s. 28 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Tobacco Products Control Amendment Act 2026 Pt. 3 | 1 of 2026 | 17 Mar 2026 | 13 May 2026 (see s. 2(b) and SL 2026/58 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 16 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
 Misuse of Drugs Amendment Act 2023 Pt. 3 | 16 of 2023 | 26 Jun 2023 | 27 Jun 2028 (see s. 2(c))
-Tobacco Products Control Amendment Act 2026 Pt. 3 | 1 of 2026 | 17 Mar 2026 | To be proclaimed (see s. 2(b))
 Other notes
 The Poisons Act 1964 was repealed by the Medicines and Poisons Act 2014 s. 137.
 This provision was renumbered under the Reprints Act 1984 s. 7(5)(c)(ii).
@@ -192,4 +192,4 @@ young person at risk8H(2)
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
-By Authority: ROGER JACOBS, Acting Government Printer
+By Authority: ANDREW JONES, Government Printer
