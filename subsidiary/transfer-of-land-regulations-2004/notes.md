@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Transfer of Land Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Transfer of Land Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Transfer of Land Regulations 2004 | 2 Sep 2004 p. 3829-46 | 6 Sep 2004 (see r. 2)
@@ -41,6 +41,10 @@ Reprint 5: The Transfer of Land Regulations 2004 as at 19 Jan 2018 (includes ame
  | Lands Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/83 29 May 2024 | 1 Jul 2024 (see r. 2(b))
  | Lands Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 5 | SL 2025/85 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
  | Planning and Lands Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/178 15 Oct 2025 | 16 Oct 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Lands Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 5 | SL 2026/64 13 May 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Repealed by the Taxation Administration (Consequential Provisions) Act 2002.
 Defined terms
@@ -60,7 +64,7 @@ sender9AF(1), (2)
 single dwelling covenant8(1)
 suppressed information10(2)
 working day9AG(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
