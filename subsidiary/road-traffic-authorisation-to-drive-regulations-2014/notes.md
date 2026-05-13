@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Road Traffic (Authorisation to Drive) Regulations 2014 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Road Traffic (Authorisation to Drive) Regulations 2014 | 23 Dec 2014 p. 5011-101 | 27 Apr 2015 (see r. 2 and Gazette 17 Apr 2015 p. 1371)
@@ -38,6 +38,10 @@ Transport Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2
 Transport Regulations Amendment (Road Traffic) Regulations 2024 Pt. 3 | SL 2024/237 27 Nov 2024 | 1 Dec 2024 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2025/65 30 Apr 2025 | 1 Jul 2025 (see r. 2(c))
 Road Traffic (Authorisation to Drive) Amendment Regulations 2026 | SL 2026/32 18 Mar 2026 | r. 1 and 2: 18 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Apr 2026 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Transport Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 2 | SL 2026/63 13 May 2026 | 1 Jul 2026 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
