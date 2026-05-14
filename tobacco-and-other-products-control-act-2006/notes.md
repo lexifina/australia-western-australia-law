@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Tobacco and Other Products Control Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Tobacco and Other Products Control Act 2006 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
  | Short title | Number and year | Assent | Commencement
  | Tobacco Products Control Act 2006 | 5 of 2006 | 12 Apr 2006 | s. 1 and 2: 12 Apr 2006; Act other than s. 1-2, 16-25, 26(2), (3) and (4), Pt. 4 and s. 103(2), 105 and 113(3): 31 Jul 2006 (see s. 2 and Gazette 25 Jul 2006 p. 2701); s. 19-25, 26(2), (3) and (4), Pt. 4, s. 103(2), 105 and 113(3): 28 Feb 2007 (see s. 2 and Gazette 28 Feb 2007 p. 677); s. 16-18: 31 May 2007 (see s. 2 and Gazette 28 Feb 2007 p. 677)
@@ -18,10 +18,16 @@ Public Health (Consequential Provisions) Act 2016 Pt. 3 Div. 27 | 19 of 2016 | 2
 Tobacco Products Control Amendment Act 2018 | 21 of 2018 | 18 Sep 2018 | s. 1 and 2: 18 Sep 2018 (see s. 2(a)); Act other than s. 1, 2 and 4: 18 Mar 2019 (see s. 2(c)); s. 4: 18 Sep 2020 (see s. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 59 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Tobacco Products Control Amendment Act 2026 | 1 of 2026 | 17 Mar 2026 | Pt. 1: 17 Mar 2026 (see s. 2(a)); Pt. 2: 13 May 2026 (see s. 2(b) and SL 2026/58 cl. 2)
+Tobacco and Other Products Control Act 2006 with editorial changes as at 14 May 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+s. 73(5)(b)(ii) | s. 34(2) (s. 34(1) minor error para (f)) | 14 May 2026
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The provision in this Act repealing the Tobacco Control Act 1990 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
