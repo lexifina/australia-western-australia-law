@@ -28,6 +28,7 @@ Finance Regulations Amendment Regulations 2020 Pt. 4 | SL 2020/206 23 Oct 2020 |
 Finance Regulations Amendment (Interest Rates) Regulations 2023 Pt. 2 | SL 2023/70 16 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Finance Regulations Amendment (Interest Rates) Regulations 2024 Pt. 2 | SL 2024/82 29 May 2024 | 1 Jul 2024 (see r. 2(b))
 Finance Regulations Amendment (Disclosure of Information) Regulations 2024 Pt. 2 | SL 2024/151 24 Jul 2024 | 25 Jul 2024 (see r. 2(b))
+First Home Owner Grant Amendment Regulations 2026 | SL 2026/60 13 May 2026 | r. 1 and 2: 13 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2026 (see r. 2(b))
 Other notes
 Repealed by the Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015 Sch. 1, Part 1.
 Defined terms
@@ -49,7 +50,7 @@ relevant scheme11(3)
 State Housing Commission7(4)
 witness10(1)
 Yawuru Home Ownership Project7(4)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
