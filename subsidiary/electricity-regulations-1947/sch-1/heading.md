@@ -8,7 +8,6 @@ s. 25(1)(a) & 52 | Failing to maintain service apparatus in safe and fit conditi
 s. 25(1)(d) & 52 | Failing to maintain pressure within the limit of ± 6% of the declared pressure |  | $50 000
 s. 33B(2) & 33D | Selling or hiring, or exposing or advertising for sale or hire, prescribed appliance without approval | $1 250 | $5 000
 s. 33C(3) & 33D | Failing to comply with notice prohibiting sale, hire or use of unsafe or dangerous apparatus | $2 500 | $10 000
-s. 33F | Selling or hiring, or exposing or advertising for sale or hire apparatus or installation that does not comply with energy efficiency labelling regulations | $1 250 | $5 000
 Table 2 — Electricity Regulations 1947 offences
 Provision(s) | Description of offence under Electricity Regulations 1947 | Modified penalty
 For individual | For body corporate
@@ -54,8 +53,7 @@ r. 52(1a) | Failing to keep copy of notice of completion of notifiable work for 
 r. 52(2AC) | Failing to ensure that records of notifiable work comply with paragraph (a) | $500 | $2 000
 r. 52(2AC) | Failing to ensure that records of notifiable work are kept as required by paragraph (b) | $100 | $400
 r. 52(3) | Sending notice of completion of notifiable work in relation to uncompleted work | $1 000 | $4 000
-r. 52A(6) | Delivering a preliminary notice for proposed work in contravention of paragraph (a) | $1 250 | $5 000
-r. 52A(6) | Delivering a notice of completion for notifiable work in contravention of paragraph (b) | $1 250 | $5 000
+r. 52A(6) | Delivering a notice of completion for notifiable work that was not carried out, or caused to be carried out, by or under the direction of electrical contractor | $1 250 | $5 000
 r. 52B(1) | Failing to prepare and deliver electrical safety certificate for electrical installing work to person for whom work carried out | $500 | $2 000
 r. 52B(2) | Failing to keep copy of electrical safety certificate for electrical installing work for 5 years | $200 | $800
 r. 52B(4C) | Failing to ensure that records of electrical installing work comply with paragraph (a) | $500 | $2 000
@@ -88,4 +86,4 @@ r. 41(2) | Failure by network operator to inform Director and give details |  | 
 r. 41(3) | Failure by person who is to become network operator to inform Director and give details |  | $5 000
 r. 41(4) | Failure by person who is to cease to be network operator to inform Director and give details |  | $5 000
 r. 41(5) | Failure by network operator to give notice of change in name or contact details |  | $5 000
-[Schedule 1 inserted: Gazette 31 Dec 2010 p. 6888-92; amended: Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324; 5 Aug 2015 p. 3185-6; 2 Oct 2018 p. 3792; SL 2022/36 r. 19; SL 2024/211 r. 7.]
+[Schedule 1 inserted: Gazette 31 Dec 2010 p. 6888-92; amended: Gazette 13 Apr 2012 p. 1649-51; 14 Apr 2015 p. 1324; 5 Aug 2015 p. 3185-6; 2 Oct 2018 p. 3792; SL 2022/36 r. 19; SL 2024/211 r. 7; SL 2026/67 r. 37.]

@@ -73,6 +73,7 @@ Commerce Regulations Amendment (Community Titles) Regulations 2021 Pt. 2 | SL 20
 Energy Regulations Amendment (Electricity Licensing) Regulations 2022 Pt. 3 | SL 2022/36 15 Mar 2022 | 16 Mar 2022 (see r. 2(b))
 Short-Term Rental Accommodation Regulations 2024 r. 20 | SL 2024/123 26 Jun 2024 | 1 Jul 2024 (see r. 2 and SL 2024/88 cl. 2(a))
 Electricity Regulations Amendment (Licensing) Regulations 2024 Pt. 3 | SL 2024/211 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
+Commerce Regulations Amendment (Electricity) Regulations 2026 Pt. 3 | SL 2026/67 13 May 2026 | 14 May 2026 (see r. 2(c)
 Other notes
 The Electricity (Licensing) Regulations 1991 r. 49 commenced 1 Nov 1991.
 Footnote no longer applicable.
@@ -122,3 +123,7 @@ residential tenancy agreement12
 residual current device12
 short-term rental accommodation12
 transferred residential premises12
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

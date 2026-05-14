@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -64,6 +64,11 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 20
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Electricity Regulations Amendment (Licensing) Regulations 2024 Pt. 2 | SL 2024/211 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Commerce Regulations Amendment (Electricity) Regulations 2026 Pt. 2 (other than Div. 3) | SL 2026/67 13 May 2026 | 14 May 2026 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Electricity) Regulations 2026 Pt. 2 Div. 3 | SL 2026/67 13 May 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
@@ -114,13 +119,14 @@ electrical worker in training50AA(1)
 electrical worker’s licence3(1)
 electrician3(1)
 employee63(1)
-employer50AB, 63(1)
+employer50AB(2), 63(1)
 employer of an electrical worker in training50AA(1)
 endorsed electrician’s licence32A
 energised3(1)
+eNotice portal3(1)
 executive officer3(1)
 flexible cord19(1A)
-former apprentice50AB
+former apprentice50AB(1)
 holder of a licence46(1a), 47(1aa)
 in-house electrical installing work3(1)
 in-house electrical installing work licence3(1)
@@ -129,6 +135,7 @@ labour hire arrangement50AA(1) and (1A)
 licence3(1)
 licensed electrical worker3(1)
 licensed electrician32A
+licensing information63C(1)
 live3(1)
 main switchboard3(1)
 maintenance work3(1)
@@ -160,7 +167,7 @@ supervising electrical worker49C(1), 50(3)
 temporary builders supply52B(4A)
 transportable structure3(1)
 working days3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
