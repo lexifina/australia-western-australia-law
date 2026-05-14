@@ -74,6 +74,7 @@ Road Traffic Code Amendment Regulations (No. 3) 2021 | SL 2021/184 5 Nov 2021 | 
 Road Traffic Code Amendment Regulations (No. 4) 2021 | SL 2021/200 3 Dec 2021 | r. 1 and 2: 3 Dec 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Dec 2021 (see r. 2(b))
 Road Safety Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/36 5 Feb 2025 | Pt. 3 (other than Div. 3): 6 Feb 2025 (see r. 2(b)); Pt. 3 Div. 3: 31 Mar 2025 (see r. 2(c))
 Road Traffic Code Amendment Regulations 2025 | SL 2025/216 17 Dec 2025 | r. 1 and 2: 17 Dec 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2025 (see r. 2(b))
+Road Traffic Code Amendment Regulations (No. 2) 2026 | SL 2026/66 13 May 2026 | r. 1 and 2: 13 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 14 May 2026 (see r. 2(b))
 Other notes
 The Road Traffic Code Amendment Regulations 2003 r. 14(2) reads as follows:
 (2) On the commencement of these regulations, a person who is the subject of an authorised person declaration by the Director General is to continue as an authorised person as if the declaration had been made by the Commissioner of Police.
@@ -314,7 +315,7 @@ wheeled recreational device3(1)
 wheeled toy3(1)
 “when blank” sign11A(1)
 works zone3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: ROGER JACOBS, Acting Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
