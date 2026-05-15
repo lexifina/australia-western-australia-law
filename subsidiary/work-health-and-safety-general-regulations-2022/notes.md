@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Work Health and Safety (General) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Work Health and Safety (General) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Work Health and Safety (General) Regulations 2022 | SL 2022/31 11 Mar 2022 | Regulations other than r. 49(2), (3) and (4), 58, 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2022 (see r. 2(a) and SL 2022/18 cl. 2); r. 49(2), (3) and (4), 460(1), 473(2A), 475(2A), 477(1A) and 489(2): 31 Mar 2023 (see r. 2(c)); r. 58: 31 Mar 2024 (see r. 2(b))
@@ -14,6 +14,12 @@ Work Health and Safety (General) Amendment Regulations (No. 4) 2024 | SL 2024/22
 Work Health and Safety Regulations Amendment (E-cigarettes) Regulations 2025 Pt. 2 | SL 2025/61 16 Apr 2025 | 17 Apr 2025 (see r. 2(b))
 Work Health and Safety (General) (Fees) Amendment Regulations 2025 | SL 2025/88 11 Jun 2025 | r. 1 and 2: 11 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations (No. 2) 2026 Pt. 2 | SL 2026/14 18 Feb 2026 | 19 Feb 2026 (see r. 2(b))
+Work Health and Safety (General) Regulations 2022 with editorial changes as at 15 May 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+r. 50A def. tobacco product | s. 25(2) | 15 May 2026
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
