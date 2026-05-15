@@ -88,7 +88,7 @@ Street Collections (Regulation) Act 1940
 Swan and Canning Rivers Management Act 2006
 The Criminal Code
 Ticket Scalping Act 2021
-Tobacco Products Control Act 2006
+Tobacco and Other Products Control Act 2006
 Towing Services Act 2024
 Transport Co-ordination Act 1966 | 58A
 Transport (Road Passenger Services) Act 2018

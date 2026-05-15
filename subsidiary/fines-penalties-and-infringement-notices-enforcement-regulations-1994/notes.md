@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Fines, Penalties and Infringement Notices Enforcement Regulations 1994 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Fines, Penalties and Infringement Notices Enforcement Regulations 1994 | 30 Dec 1994 p. 7232-41 | 1 Jan 1995 (see r. 2 and Gazette 30 Dec 1992 p. 7211)
@@ -103,6 +103,12 @@ Attorney General Regulations Amendment (Firearms) Regulations (No. 2) 2024 Pt. 3
 Attorney General Regulations Amendment (Towing Services) Regulations 2024 Pt. 3 | SL 2024/260 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Gambling) Regulations 2025 Pt. 3 | SL 2025/2 8 Jan 2025 | 9 Jan 2025 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 9 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Fines, Penalties and Infringement Notices Enforcement Regulations 1994 with editorial changes as at 15 May 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+Sch. 1 | s. 25(2) | 15 May 2026
 Other notes
 Formerly referred to the Censorship Act 1996, the short title of which was changed to the Classification (Publications, Films and Computer Games) Enforcement Act 1996 by the Censorship Amendment Act 2006 s. 4(1). The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Formerly referred to the Curtin University of Technology Act 1966, the short title of which was changed to the Curtin University Act 1966 by the Universities Legislation Amendment Act 2016 s. 16. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -118,7 +124,7 @@ metropolitan region2A
 section2A
 warrant11B(1)
 WPI8AA(3), 8AC(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
