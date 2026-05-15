@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Western Australian Meat Industry Authority Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Western Australian Meat Industry Authority Regulations 1985 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Western Australian Meat Industry Authority Regulations 1985 | 7 Jun 1985 p. 1978-90 (erratum 14 Jun 1985 p. 2172) | 7 Jun 1985 (see r. 2)
@@ -54,6 +54,12 @@ Western Australian Meat Industry Authority Amendment Regulations 2022 | SL 2022/
 Western Australian Meat Industry Authority Amendment Regulations 2023 | SL 2023/4 27 Jan 2023 | r. 1 and 2: 27 Jan 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Jan 2023 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2023 | SL 2023/185 29 Nov 2023 | r. 1 and 2: 29 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2023 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2025 | SL 2025/132 9 Jul 2025 | r. 1 and 2: 9 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jul 2025 (see r. 2(b))
+Western Australian Meat Industry Authority Regulations 1985 with editorial changes as at 15 May 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+r. 33Q(3) | s. 25(2) | 15 May 2026
 Other notes
 Disallowed on 22 Oct 1991, see Gazette 25 Oct 1991 p. 5499.
 Defined terms
@@ -85,7 +91,7 @@ sign25
 stand25
 stock agent3(1), 25
 throughput feeSch. 6 cl. 1
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: GEOFF O. LAWN, Government Printer
