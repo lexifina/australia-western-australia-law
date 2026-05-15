@@ -11,11 +11,13 @@ Work Health and Safety Regulations Amendment (Workers Compensation) Regulations 
 Work Health and Safety (Mines) Amendment Regulations (No. 2) 2024 | SL 2024/233 13 Nov 2024 | r. 1 and 2: 13 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 14 Nov 2024 (see r. 2(b))
 Work Health and Safety Regulations Amendment (E-cigarettes) Regulations 2025 Pt. 3 | SL 2025/61 16 Apr 2025 | 17 Apr 2025 (see r. 2(b))
 Work Health and Safety Regulations Amendment Regulations (No. 2) 2026 Pt. 3 | SL 2026/14 18 Feb 2026 | 19 Feb 2026 (see r. 2(b))
+Work Health and Safety (Mines) Regulations 2022 with editorial changes as at 15 May 2026
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
-To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
 Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
-s. 698N(c) | s. 26(1) | 26 Mar 2024
+r. 698N(c) | s. 26(1) | 26 Mar 2024
+r. 50A def. tobacco product | s. 25(2) | 15 May 2026
 Other notes
 Formerly known as Australian Petroleum Production and Exploration Association Limited.
 Defined terms
