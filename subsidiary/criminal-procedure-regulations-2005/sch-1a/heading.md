@@ -48,7 +48,7 @@ Shipping and Pilotage Act 1967
 Short-Term Rental Accommodation Act 2024
 Street Collections (Regulation) Act 1940
 Ticket Scalping Act 2021
-Tobacco Products Control Act 2006
+Tobacco and Other Products Control Act 2006
 Towing Services Act 2024
 Transport (Road Passenger Services) Act 2018
 Water Services Act 2012
