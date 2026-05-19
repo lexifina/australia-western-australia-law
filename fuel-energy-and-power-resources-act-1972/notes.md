@@ -14,8 +14,19 @@ Courts Legislation Amendment and Repeal Act 2004 s. 141 | 59 of 2004 | 23 Nov 20
 Criminal Procedure and Appeals (Consequential and Other Provisions) Act 2004 s. 82 | 84 of 2004 | 16 Dec 2004 | 2 May 2005 (see s. 2 and Gazette 31 Dec 2004 p. 7129 (correction in Gazette 7 Jan 2005 p. 53))
 Reprint 2: The Fuel, Energy and Power Resources Act 1972 as at 13 Mar 2015 (includes amendments listed above)
 Statutes (Repeals and Minor Amendments) Act 2025 s. 25 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
-Repealed by the Interpretation Act 1984 s. 77(1).
-© State of Western Australia 2025.
+Fuel, Energy and Power Resources Amendment Act 2026 | 4 of 2026 | 18 May 2026 | s. 1 and 2: 18 May 2026 (see s. 2(a));; Act other than s. 1 and 2: 19 May 2026 (see s. 2(b))
+Defined terms
+[This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
+Defined termProvision(s)
+amendment Act63(1)
+amendment day63(1)
+approved officer49B(1)
+information notice56B(1)
+late application56(4)
+protected action54(1)
+protected entity54(1)
+relevant instrument54(1), 56(1)
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
