@@ -43,10 +43,11 @@ Magistrates Court Rules Amendment Rules 2023 Pt. 2 | SL 2023/148 20 Sep 2023 | 2
 Magistrates Court (Civil Proceedings) Amendment Rules 2024 | SL 2024/155 30 Jul 2024 | r. 1 and 2: 30 Jul 2024 (see r. 2(a)); Rules other than r. 1 and 2: 1 Sep 2024 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2025 | SL 2025/23 30 Jan 2025 | r. 1 and 2: 30 Jan 2025 (see r. 2(a)); Rules other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2025 Pt. 2 | SL 2025/42 11 Mar 2025 | 12 Mar 2025 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Amendment Rules 2026 | SL 2026/69 21 May 2026 | r. 1 and 2: 21 May 2026 (see r. 2(a)); Rules other than r. 1 and 2: 22 May 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Act4, 131B(1), 131CAA, 133AAA
+Act4, 131B(1), 131CAA, 131F(1), 133AAA
 administrative staff member99A
 amended Rules139
 applicant133AAD(1)
@@ -93,7 +94,7 @@ represented person116
 requesting party38(2)
 respondent131B(3)
 response4
-section131B(1), 131CAA, 133AAA
+section131B(1), 131CAA, 131F(1), 133AAA
 serve4
 serve personally4
 status conference4
@@ -108,7 +109,7 @@ video link123
 warehouseman133AAA
 warrant of commitment inquiry123
 working day4
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
