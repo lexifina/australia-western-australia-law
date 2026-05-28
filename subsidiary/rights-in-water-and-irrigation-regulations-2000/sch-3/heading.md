@@ -6,17 +6,17 @@ Water Agencies (Powers) Act 1984
 Application for a licence under the Rights in Water and Irrigation Act 1914 s. 26D
 Name of applicant
 Postal address for applicant
-Description of the land in respect of which the application is made [Land descriptions to be as they appear on Certificate of Title, certificate of Crown land title or TENGRAPH]
+Description of the land in respect of which the application is made [Land descriptions to be as they appear on certificate of title, certificate of Crown land title or TENGRAPH]
 Does the applicant own the land?
 If the applicant does not own the land, describe the interest that would entitle the applicant to hold a licence in respect of the land
 If there is another licence under section 26D in respect of the land, provide the licence number
 Purpose of application | new well/bore/excavation/soak enlargement or deepening of existing well/bore/excavation/soak other (describe)
 If the applicant is a water services licensee, specify water services provider name and licence number
 Is the application related to public water supply purposes?
-Is the application related to mining purposes? If so, include details as relevant: ·mining tenement number(s), mine name and mine field ·details of petroleum or geothermal title(s) ·petroleum pipeline licence number(s)
+Is the application related to mining purposes? If so, include details as relevant: ·mining tenement number(s), mine name and mine field ·details of petroleum, geothermal or GHG title(s) ·pipeline licence number(s)
 Proposed water use: ·specify whether the use is commercial or not ·specify volume of water to be used ·include detailed description of purposes for which water to be used ·specify duration of use and licence
-Declaration by applicant | I,apply for a licence under section 26D of the Rights in Water and Irrigation Act 1914. (signature or seal of applicant)
-[Form 1 amended: Gazette 23 Jun 2009 p. 2500; 30 Oct 2018 p. 4344-5.]
+Declaration by applicant | I, .................................apply for a licence under section 26D of the Rights in Water and Irrigation Act 1914. (signature or seal of applicant)
+[Form 1 inserted: SL 2026/83 r. 7.]
 Form 2
 [r. 39]
 Rights in Water and Irrigation Act 1914 Water Agencies (Powers) Act 1984

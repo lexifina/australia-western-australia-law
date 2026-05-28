@@ -26,6 +26,7 @@ Rights in Water and Irrigation Amendment Regulations 2019 | 8 Oct 2019 p. 3622-3
 Water Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 2 | SL 2020/173 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
 Water Regulations Amendment (Infringement Notices) Regulations 2021 Pt. 2 | SL 2021/173 8 Oct 2021 | 9 Oct 2021 (see r. 2(b))
 Water Regulations Amendment (Infringement Notices) Regulations 2025 Pt. 2 | SL 2025/91 11 Jun 2025 | 12 Jun 2025 (see r. 2(b))
+Rights in Water and Irrigation Amendment (Petroleum Legislation) Regulations 2026 | SL 2026/83 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
 Other notes
 These regulations have effect for the purposes of the Rights in Water and Irrigation Act 1914 but the formal power to make them is given by the Water Agencies (Powers) Act 1984 s. 37.
 Disallowed 22 Nov 2007 see Gazette 27 Nov 2007 p. 5910.
@@ -40,22 +41,28 @@ applicable allocation status58
 application58
 approved3
 clause47
+commencement day65(1)
 consumptive use58
 coordinate references41A
 Department3
 Department’s website58
 extraction operation58
 form3
+former Form 165(1)
+geothermal energy operation58
+GHG operation58
+GHG title65(1)
 Gnangara groundwater plan area41A
+greenhouse gas pipeline65(1)
 licence3, 32
 meter41A
 mining operations58
 mining tenement58
 new owner16(1)
 permit3
+petroleum, geothermal or GHG title58
 petroleum operation58
-petroleum or geothermal title58
-petroleum pipeline licence58
+pipeline licence58, 65(1)
 pipeline operation58
 private land58
 register47
@@ -68,7 +75,7 @@ water services licence58
 water supply service58
 water year41A
 well32
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
