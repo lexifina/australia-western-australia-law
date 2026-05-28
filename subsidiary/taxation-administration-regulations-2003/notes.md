@@ -48,6 +48,7 @@ Finance Regulations Amendment (Interest Rates) Regulations 2024 Pt. 3 | SL 2024/
 Finance Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 4 | SL 2024/134 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Finance Regulations Amendment (Disclosure of Information) Regulations 2024 Pt. 3 | SL 2024/151 24 Jul 2024 | 25 Jul 2024 (see r. 2(b))
 Finance Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/67 30 Apr 2025 | 1 May 2025 (see r. 2(b))
+Taxation Administration Amendment (Petroleum Legislation) Regulations 2026 | SL 2026/77 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 2.
 If a modification is to:
@@ -66,7 +67,6 @@ applicable subregulation14AA(2)
 Australian Building and Construction Commissioner13M(1)
 Building Commissioner13N(1)
 CEO (Landgate)13C(1)
-CEO (petroleum)13B(1)
 chief executive officer13G(1), 14BB(1)
 Commissioner for Consumer Protection2B
 corresponding law13E(1)
@@ -89,9 +89,11 @@ Pastoral Lands Board13(1)
 pastoral lessee13(1)
 proponent14BA(1)
 public sector agency13L(1)
+relevant CEO13B(1)
 relevant recipient14A(1)
 relevant scheme14B(1)
 relevant tax information14BB(1)
+relevant title13B(1)
 senior officer13Q(1)
 settlement agent14A(1)
 statutory authority14BA(1)
@@ -100,7 +102,7 @@ supplier13Q(1)
 tax information2B
 wages13G(1)
 WorkCover WA13J(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
