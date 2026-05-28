@@ -1,1 +1,1 @@
-Petroleum and Geothermal Energy Resources (Registration Fees) Regulations 1990
+Petroleum, Geothermal Energy and Greenhouse Gas Storage (Registration Fees) Regulations 1990

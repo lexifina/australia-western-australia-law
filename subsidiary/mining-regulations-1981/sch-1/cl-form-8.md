@@ -27,7 +27,7 @@ Mineral Field: Area, etc.:
 Being the land delineated on Survey Diagram No. and
 recorded in the Department.
 THIRD SCHEDULE
-All petroleum as defined in the Petroleum and Geothermal Energy Resources Act 1967 on or below the surface of the land the subject of this lease is reserved to the Crown in right of the State of Western Australia with the right of the Crown in right of the State of Western Australia and any person lawfully claiming thereunder or otherwise authorised to do so to have access to the land the subject of this lease for the purpose of searching for and for the operations of obtaining petroleum (as so defined) in any part of the land.
+All petroleum as defined in the Petroleum, Geothermal Energy and Greenhouse Gas Storage Act 1967 on or below the surface of the land the subject of this lease is reserved to the Crown in right of the State of Western Australia with the right of the Crown in right of the State of Western Australia and any person lawfully claiming thereunder or otherwise authorised to do so to have access to the land the subject of this lease for the purpose of searching for and for the operations of obtaining petroleum (as so defined) in any part of the land.
 FOURTH SCHEDULE
 Date of Commencement of the lease.
 FIFTH SCHEDULE
@@ -40,4 +40,4 @@ IN witness whereof the Minister has affixed his seal
 and set his hand hereto
 this ......................... day of ......................20...............
 MINISTER
-[Form 8 amended: Gazette 2 Oct 1987 p. 3828; 3 Feb 2006 p. 524 and 602; 15 Jan 2010 p. 121; 18 Mar 2011 p. 925.]
+[Form 8 amended: Gazette 2 Oct 1987 p. 3828; 3 Feb 2006 p. 524 and 602; 15 Jan 2010 p. 121; 18 Mar 2011 p. 925; SL 2026/82 r. 4.]

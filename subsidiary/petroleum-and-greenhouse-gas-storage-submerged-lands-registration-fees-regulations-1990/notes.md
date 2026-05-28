@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Registration Fees Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Petroleum and Greenhouse Gas Storage (Submerged Lands) Registration Fees Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Petroleum (Submerged Lands) Registration Fees Regulations 1990 | 28 Sep 1990 p. 5108-9 | 1 Oct 1990 (see r. 2 and Gazette 28 Sep 1990 p. 5099)
@@ -23,7 +23,10 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2019 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt. 10 | SL 2020/93 26 Jun 2020 | 1 Jul 2020 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2021 Pt. 14 | SL 2021/85 21 Jun 2021 | 1 Jul 2021 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 12 | SL 2023/36 5 May 2023 | 1 Jul 2023 (see r. 2(b))
-© State of Western Australia 2023.
+Mines and Petroleum Regulations Amendment Regulations 2026 Pt. 12 | SL 2026/82 27 May 2026 | 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
+Other notes
+Now known as the Petroleum and Greenhouse Gas Storage (Submerged Lands) Registration Fees Regulations 1990; citation changed (see note under r. 1).
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

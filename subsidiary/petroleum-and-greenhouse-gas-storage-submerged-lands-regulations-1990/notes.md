@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum (Submerged Lands) Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Petroleum and Greenhouse Gas Storage (Submerged Lands) Regulations 1990 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Petroleum (Submerged Lands) Regulations 1990 | 28 Sep 1990 p. 5105-8 | 1 Oct 1990 (see r. 2 and Gazette 28 Sep 1990 p. 5099)
@@ -36,18 +36,23 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 12 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 12 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Geocentric Datum) Regulations 2025 Pt. 5 | SL 2025/172 2 Oct 2025 | 3 Oct 2025 (see r. 2(b))
+Mines and Petroleum Regulations Amendment Regulations 2026 Pt. 13 | SL 2026/82 27 May 2026 | 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
+Other notes
+Now known as the Petroleum and Greenhouse Gas Storage (Submerged Lands) Regulations 1990; citation changed (see note under r. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 AGD2A
+amendment day15(1)
 dealing5(1)
+document2A
 federal duty8
 GDA2A
 Geocentric Datum of Australia 202010(1)
 GRS809(2)
 regulation 312(1)
 related dealing5(2)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

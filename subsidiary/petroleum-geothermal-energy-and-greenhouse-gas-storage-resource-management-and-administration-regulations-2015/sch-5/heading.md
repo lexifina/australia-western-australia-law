@@ -9,7 +9,7 @@ Item | Description of information
 6. | A description of the well activity.
 7. | A description of the work carried out.
 8. | The lithology of underground formations penetrated.
-9. | Details of any indication of petroleum or geothermal energy resources.
+9. | Details of any indication of petroleum, regulated substance or geothermal energy resources.
 10. | Treatment material losses.
 11. | A leak-off test or formation integrity test summary.
 12. | The geometry of the well bore.
@@ -25,3 +25,4 @@ Item | Description of information
 22. | The name and contact details of the person responsible for the well activity.
 23. | Drilling parameters (for example, rate of penetration, pump rate or pump pressure).
 24. | Pressure tests undertaken.
+[Schedule 5 amended: SL 2026/82 r. 63.]

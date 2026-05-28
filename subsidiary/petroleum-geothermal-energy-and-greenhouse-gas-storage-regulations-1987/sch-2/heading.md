@@ -1,8 +1,9 @@
-## Schedule 2
-[Regulation 4]
-Petroleum and Geothermal Energy Resources Act 1967
-Petroleum and Geothermal Energy Resources Regulations 1987
-Form of instrument of transfer of title under section 72 of Petroleum and Geothermal Energy Resources Act 1967
+## Schedule 2 — Form of instrument of transfer of title under Petroleum, Geothermal Energy and Greenhouse Gas Storage Act 1967 s. 72
+[r. 4]
+[Heading inserted: SL 2026/82 r. 25.]
+Petroleum, Geothermal Energy and Greenhouse Gas Storage Act 1967
+Petroleum, Geothermal Energy and Greenhouse Gas Storage Regulations 1987
+Form of instrument of transfer of title under section 72 of Petroleum, Geothermal Energy and Greenhouse Gas Storage Act 1967
 I/We (1)(2) ................................................................................................................ being the registered holder/holders (1) of (3) ........................................................... in consideration of (4) ............................................................................................ hereby transfer all right, title and interest in that (3) ............................................... to (5) .......................................................................................................................
 In witness of this transfer the parties to the transfer have affixed their respective common seals or signatures below on this ............................................................ day of ................................................... 20 ..........
 (6) (7)
@@ -13,4 +14,4 @@ In witness of this transfer the parties to the transfer have affixed their respe
 (5) Here insert the name and address of the transferee, or, if there are 2 or more transferees, the name and address of each transferee.
 (6) Here affix the common seal or signature of the transferor or of each transferor, as the case may be.
 (7) Here affix the common seal or signature of the transferee or of each transferee, as the case may be.
-[Schedule 2 inserted: Gazette 28 Sep 1990 p. 5102; amended: Gazette 23 Jun 2009 p. 2474.]
+[Schedule 2 inserted: Gazette 28 Sep 1990 p. 5102; amended: Gazette 23 Jun 2009 p. 2474; SL 2026/82 r. 26.]

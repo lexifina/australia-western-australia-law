@@ -1,24 +1,27 @@
 ## Schedule 13 — Processed survey data
 [r. 77(1)]
+[Heading inserted: SL 2026/82 r. 69.]
 ## Division 1 — 2D seismic surveys
-Item | Type of data | Standard media | Standard formats
-1. | Raw and final stacked data, including near/mid/far sub-stacks if generated | DVD, portable hard drive or 3592 cartridge | SEG-Y
-2. | Raw and final migrated data, including the following — (a)pre-stack time migration (PSTM); (b)pre-stack depth migration (PSDM); (c)near/mid/far sub-stacks | DVD, portable hard drive or 3592 cartridge | SEG-Y
-3. | Fully annotated image of final processed migrated data (onshore) | CD-ROM, DVD or portable hard drive | TIF
-4. | Final processed navigation, elevation and bathymetry data | CD-ROM, DVD or portable hard drive | UKOOA (P1/90 or later)
-5. | Shotpoint to common depth point (CDP) relationship | CD-ROM, DVD or portable hard drive | ASCII
-6. | Data for both stacked and migrated velocities, including the following — (a)line number; (b)shotpoint; (c)time versus root mean square (RMS) pairs | CD-ROM, DVD or portable hard drive | ASCII
-7. | Itemised process tape listing showing the following — (a)tape number; (b)survey name; (c)line number; (d)shotpoint range; (e)common depth points (CDPs); (f)data type | CD-ROM, DVD or portable hard drive | ASCII
+[Heading inserted: SL 2026/82 r. 69.]
+Item | Type of data | Standard submission method | Standard formats
+1. | All generated processed data including the following — (a)raw and final stacked data; (b)raw and final migrated data; (c)data generated from any other processing | Online or portable hard drive | SEG-Y with complete header information
+2. | Final processed navigation, elevation and bathymetry data | Online or portable hard drive | UKOOA with complete header information
+3. | Shotpoint to common depth point (CDP) relationship | Online or portable hard drive | ASCII
+4. | Data for both stacked and migrated velocities, including the following — (a)line number; (b)shotpoint or CDP; (c)time versus root mean square (RMS) pairs | Online or portable hard drive | ASCII or SEG-Y with complete header information
+[Division 1 inserted: SL 2026/82 r. 69.]
 ## Division 2 — 3D seismic surveys
-Item | Type of data | Standard media | Standard formats
-8. | Raw and final stacked data, including near/mid/far sub-stacks if generated | DVD, portable hard drive or 3592 cartridge | SEG-Y
-9. | Raw and final migrated data, including the following — (a)pre-stack time migration (PSTM); (b)pre-stack depth migration (PSDM); (c)near/mid/far sub-stacks | DVD, portable hard drive or 3592 cartridge | SEG-Y
-10. | Final processed navigation, elevation and bathymetry data | CD-ROM, DVD, portable hard drive or 3592 cartridge | UKOOA (P1/90 or later)
-11. | Final navigation data in the form of the following — (a)final processed (grid) bin coordinates; (b)polygonal position data (outline of the full fold area) | CD-ROM, DVD, portable hard drive or 3592 cartridge | UKOOA (P6/98 or later)
-12. | Data for both stacked and migrated velocities, including the following — (a)bin number; (b)time versus root mean square (RMS) pairs | CD-ROM, DVD, portable hard drive or 3592 cartridge | ASCII
-13. | 2D data subset, if production is required as a condition of the grant of a title | CD-ROM, DVD, portable hard drive or 3592 cartridge | SEG-Y
-14. | Itemised process tape listing showing the following — (a)tape number; (b)survey name; (c)in-lines and crosslines; (d)data type | CD-ROM, DVD or portable hard drive | ASCII
+[Heading inserted: SL 2026/82 r. 69.]
+Item | Type of data | Standard submission method | Standard formats
+5. | All generated processed data including the following — (a)raw and final stacked data; (b)raw and final migrated data; (c)data generated from any other processing | Online or portable hard drive | SEG-Y with complete header information
+6. | Final processed navigation, elevation and bathymetry data, including final processed (grid) bin coordinates | Online or portable hard drive | UKOOA with complete header information
+7. | Final navigation data in the form of the following — (a)final processed (grid) bin coordinates; (b)polygon showing the outline of the full fold area | Online or portable hard drive | Shapefile
+8. | Data for both stacked and migrated velocities, including the following — (a)bin number; (b)time versus root mean square (RMS) pairs | Online or portable hard drive | ASCII or SEG-Y with complete header information
+9. | 2D data subset, if the 3-dimensional survey collected data as non-exclusive data | Online or portable hard drive | SEG-Y with complete header information
+[Division 2 inserted: SL 2026/82 r. 69.]
 ## Division 3 — Other surveys
-Item | Type of data | Standard media | Standard formats
-15. | Final process data | CD-ROM, DVD or portable hard drive | ASCII or ASEG-GDF2
-16. | Final processed image | CD-ROM, DVD or portable hard drive | PDF
+[Heading inserted: SL 2026/82 r. 69.]
+Item | Type of data | Standard submission method | Standard formats
+10. | All generated processed data | Online or portable hard drive | ASCII or other industry-recognised standard non-proprietary binary format, with accompanying format description
+11. | Georeferenced final processed images | Online or portable hard drive | GeoPDF and GeoTIFF
+12. | Polygon showing the outline of the processed area | Online or portable hard drive | Shapefile
+[Division 3 inserted: SL 2026/82 r. 69.]

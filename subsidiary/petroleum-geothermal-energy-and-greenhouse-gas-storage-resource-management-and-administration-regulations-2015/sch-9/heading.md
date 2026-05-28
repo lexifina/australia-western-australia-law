@@ -2,23 +2,23 @@
 [r. 74(1)]
 Item | Description of information
 1. | The name and number of the well.
-2. | The Authorisation For Expenditure (AFE) cost of the well.
+2. | The Authorisation For Expenditure (AFE) cost and the final cost of the well.
 3. | The name of the instrument holder.
 4. | The name of the instrument area in which the well is located.
 5. | The purpose of the well activity (for example, development, appraisal, exploration, stratigraphy or geothermal energy recovery).
-6. | The status of the well (for example, producing, suspended or decommissioned).
-7. | The location of the well, in the form of — (a)the elevation, latitude and longitude of the well; and (b)the basin and sub-basin (if applicable) in which the well is located; and (c)the map sheet name and graticular block number; and (d)the seismic line location and shotpoint number or other geophysical location identifier (for example, gravity survey station).
+6. | The status of the well (for example, producing, injecting, suspended or decommissioned).
+7. | The location of the well, in the form of — (a)the geodetic datum, elevation, latitude and longitude of the well; and (b)the basin and sub-basin (if applicable) in which the well is located; and (c)the map sheet name and graticular block number; and (d)the seismic line location and shotpoint number or other geophysical location identifier (for example, gravity survey station).
 8. | The results of a check survey of the location of — (a)for a subsea well — the well-head; and (b)in any other case — the top of the casing supporting the blow-out preventer.
-9. | The spud date.
+9. | Either — (a)the spud date; or (b)if the well is a sidetrack — the kick-off date.
 10. | The rig release date.
-11. | What is being used as the depth reference for the well (for example, the Kelly bushing or the rig floor).
+11. | What is being used as the depth reference for the well (for example, the rotary table or the rig floor).
 12. | The height of the depth reference above sea level or the Australian Height Datum.
 13. | The water depth or ground depth at the well.
 14. | The measured depth of the well.
 15. | The true vertical depth of the well.
 16. | The measured depth and true vertical depth of marker horizons or formation tops.
-17. | If applicable, the coordinates and true vertical depth of the intersection of the well with the underground formation horizon.
-18. | If applicable, the depth of perforation in the petroleum pool or geothermal resources area.
+17. | If applicable, the coordinates and true vertical depth of the intersection of the well with the underground formation horizon or the storage formation.
+18. | If applicable, the depth of perforation in the resources pool, the geothermal resources area or the storage formation.
 19. | The date on which the total depth was reached.
 20. | The coordinates of the bottom of the well bore.
 21. | The surveyed path of the well.
@@ -40,7 +40,8 @@ Item | Description of information
 37. | Palynology reports and results.
 38. | Wireline formation analysis and processing results.
 39. | Petrographic descriptions.
-40. | Production test results.
-41. | If the well is an exploration well — the relevance of the observations and interpretations to the evaluation of the petroleum or geothermal potential of the instrument area.
-42. | Details of any indication of petroleum or geothermal energy resources.
+40. | Well test reporting and associated digital data.
+41. | If the well is an exploration well — the relevance of the observations and interpretations to the evaluation of the petroleum, regulated substance, geothermal or GHG storage potential of the instrument area.
+42. | Details of any indication of petroleum, a regulated substance or geothermal energy resources.
 43. | Raw pressure-time listings for any formation fluid sample tests and production tests.
+[Schedule 9 amended: SL 2026/82 r. 67.]

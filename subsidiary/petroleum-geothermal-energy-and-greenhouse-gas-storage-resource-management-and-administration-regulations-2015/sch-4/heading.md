@@ -14,6 +14,7 @@ Item | Description of information
 11. | Arrangements for the following — (a)monitoring, recording in writing and reporting on the geothermal licensee’s management of geothermal resources areas; (b)keeping records and other documents about the geothermal licensee’s management of geothermal resources areas.
 12. | Details of the following — (a)the surface connections and equipment to be used by the geothermal licensee; (b)any geothermal energy recovery through a well that is from more than one geothermal resources area; (c)any geothermal energy recovery from a geothermal resources area that is through more than one well.
 13. | Arrangements for the management of the following — (a)produced formation material; (b)waste fluid and other waste material produced from wells; (c)treatment material; (d)waste heat; (e)refuse from tanks and wells; (f)naturally occurring radioactive materials; (g)geological risk.
-14. | Arrangements for the disposal or flaring of any produced petroleum.
+14. | Arrangements for the disposal or flaring of any produced petroleum or regulated substance.
 15. | A description of the applicant’s plans for closure of the geothermal resources areas, including plans for decommissioning and rehabilitation.
 16. | A list of the principal Australian and international standards that apply in relation to the geothermal licensee’s operations and plant used in connection with those operations.
+[Schedule 4 amended: SL 2026/82 r. 62.]

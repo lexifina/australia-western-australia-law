@@ -1,12 +1,18 @@
 ## Schedule 10 — Survey acquisition data
 [r. 75(1)]
+[Heading inserted: SL 2026/82 r. 153.]
 ## Division 1 — Seismic surveys
-Item | Type of data | Standard media | Standard formats
-1. | Navigation data | CD-ROM, DVD, portable hard drive or 3592 cartridge | UKOOA (P1/90 or later)
-2. | Seismic field data | 3592 cartridge | SEG Standard
-3. | Observers’ logs and associated support data | CD-ROM, DVD or portable hard drive | PDF
-4. | Itemised field tape listing showing the following — (a)tape number; (b)survey name; (c)line number; (d)shotpoint range; (e)data type | CD-ROM, DVD or portable hard drive | ASCII
+[Heading inserted: SL 2026/82 r. 153.]
+Item | Type of data | Standard submission method | Standard formats
+1. | Navigation, elevation and bathymetry data | Online or portable hard drive | UKOOA with complete header information
+2. | Spatial data for the survey, in the form of — (a)for a 2-dimensional seismic survey — line ends and bends; or (b)for a 3-dimensional seismic survey — a polygon outline of the acquisition area. | Online or portable hard drive | For 2D — polyline shapefile For 3D — polygon shapefile
+3. | Seismic field data | Portable hard drive, LTO or 3592 cartridge | SEG-D or SEG-Y with complete header information
+4. | Seismic support data, including observers’ logs | Online or portable hard drive | PDF or XLSX
+[Division 1 inserted: SL 2026/82 r. 153.]
 ## Division 2 — Other surveys
-Item | Type of data | Standard media | Standard formats
-5. | Field data | CD-ROM, DVD or portable hard drive | ASCII
-6. | Field support and navigation data | CD-ROM, DVD or portable hard drive | ASCII
+[Heading inserted: SL 2026/82 r. 153.]
+Item | Type of data | Standard submission method | Standard formats
+5. | Field data | Online or portable hard drive | ASCII or other industry-recognised standard non-proprietary binary format, with accompanying format description
+6. | Field support and navigation data | Online or portable hard drive | ASCII
+7. | Spatial data for the survey, in the form of — (a)for other 2-dimensional surveys — line ends and bends; or (b)for other 3-dimensional surveys — a polygon outline of the acquisition area. | Online or portable hard drive | For 2D — polyline shapefile For 3D — polygon shapefile
+[Division 2 inserted: SL 2026/82 r. 153.]

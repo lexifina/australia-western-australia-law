@@ -1,1 +1,1 @@
-Petroleum and Geothermal Energy Resources Regulations 1987
+Petroleum, Geothermal Energy and Greenhouse Gas Storage Regulations 1987

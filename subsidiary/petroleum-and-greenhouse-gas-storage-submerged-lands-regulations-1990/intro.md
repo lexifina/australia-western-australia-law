@@ -1,1 +1,1 @@
-Petroleum (Submerged Lands) Regulations 1990
+Petroleum and Greenhouse Gas Storage (Submerged Lands) Regulations 1990

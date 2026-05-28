@@ -1,6 +1,41 @@
-## Schedule 16 — Monthly production report
-[r. 78(1)]
+## Schedule 16 — Production and GHG injection reports
+[r. 78(1), 78A(1)]
+[Heading inserted: SL 2026/82 r. 157.]
+## Division 1 — Information for monthly production report from petroleum licensee
+[Heading inserted: SL 2026/82 r. 158(1).]
 Item | Description of information
-1. | For each well in the licence area — (a)the well’s identification name and number; and (b)a summary of all work that has been performed on the well during the month; and (c)the results of production tests for the well, including the parameters of the test; and (d)the well’s operational status at the end of the month; and (e)the number of days of production during the month; and (f)the cumulative quantities of water and of liquid and gaseous petroleum produced or injected as at the end of the month.
-2. | For the licence area — (a)the total quantities of each of the following for the month — (i)liquid and gaseous petroleum produced; (ii)liquid and gaseous petroleum used; (iii)liquid and gaseous petroleum injected; (iv)gaseous petroleum flared or vented; (v)liquid petroleum stored; (vi)liquid and gaseous petroleum delivered from the area; (vii)water produced; (viii)water injected;
- | and (b)the cumulative quantities of water and of liquid and gaseous petroleum produced or injected as at the end of the month.
+1. | For each well in the licence area — (a)the well’s identification name and number; and (b)a summary of all work that has been performed on the well during the month; and (c)the results of production tests for the well, including the parameters of the test; and (d)the well’s operational status at the end of the month; and (e)the number of days of production during the month; and (f)the cumulative quantities of water and of liquid and gaseous petroleum or regulated substances produced or injected as at the end of the month.
+2. | For the licence area — (a)the total quantities of each of the following for the month — (i)liquid and gaseous petroleum or regulated substances produced; (ii)liquid and gaseous petroleum or regulated substances used; (iii)liquid and gaseous petroleum or regulated substances injected; (iv)gaseous petroleum or regulated substances flared or vented; (v)liquid petroleum or regulated substances stored; (vi)liquid and gaseous petroleum or regulated substances delivered from the area; (vii)water produced; (viii)water injected;
+ | (b)the cumulative quantities of water and of liquid and gaseous petroleum and regulated substances produced or injected as at the end of the month.
+[Division 1 amended: SL 2026/82 r. 158(2) and (3).]
+## Division 2 — Information for monthly GHG injection report
+[Heading inserted: SL 2026/82 r. 158(4).]
+Item | Description of information
+3. | For each well in the licence area — (a)the well’s identification name and number; and (b)a summary of all work that has been performed on the well during the month; and (c)the results of any tests conducted during the month; and (d)the well’s operational status at the end of the month; and (e)the daily values during the month for pressure and temperature, at both the wellhead and the bottom of the well bore, and the injection rate; and (f)if the well was shut in at any time during the month — the shut-in wellhead pressure and temperature; and (g)the number of days of greenhouse gas injection during the month; and (h)the cumulative quantities of greenhouse gas substance injected, or each other substance produced or injected, as at the end of the month.
+4. | For the licence area — (a)the total quantities of greenhouse gas substance injected, and each other substance produced or injected, during the month; and (b)the average composition of each greenhouse gas substance injected during the month; and (c)the sources of greenhouse gas substance injected; and (d)the physical and chemical properties and amount of each other substance injected into or extracted from an underground formation during the month as part of any engineering enhancements.
+[Division 2 inserted: SL 2026/82 r. 158(4).]
+## Division 3 — Information for annual GHG injection report
+[Heading inserted: SL 2026/82 r. 158(4).]
+Item | Description of information
+5. | For all work, evaluations and studies carried out in relation to the licence — (a)the total expenditure on the work, evaluations and studies; and (b)the results of the work, evaluations and studies, including details about any potential GHG storage formations that have been assessed.
+6. | Details of any activities the licensee plans to undertake in the licence area in compliance with a condition of the licence.
+7. | A list of the reports submitted to the Minister in accordance with these regulations during the year.
+8. | Details of the licensee’s plans for further evaluation of the licence area, including work that is to be carried out in the licence area and is not covered by item 6.
+9. | For a year after the first year of the licence, the following information about each identified GHG storage formation situated in the licence area — (a)information about the chemical composition and physical properties of the injected greenhouse gas substance and any incidental GHG-related substances, including isotopic compositions; (b)the amount of each greenhouse gas substance injected; (c)information about the location and direction of movement of the GHG substances injected, including a comparison with the prediction set out in Part A of an approved site plan for that storage formation; (d)the results of maintenance operations and well-bore integrity tests; (e)an estimate of the remaining storage capacity of the formation at the end of the year; (f)an estimate of the pressure behaviour within the formation and, wherever available, information on pressure measurements, including the results of pressure transient tests.
+10. | The physical and chemical properties and amount of each substance injected into or extracted from an underground formation during the year as part of any engineering enhancements.
+11. | The amount of each substance flared or vented during the year.
+12. | All monitoring reports and data relevant to an approved site plan available to the licensee at the end of the year.
+13. | Any other information that is required to be included in accordance with a condition of the licence.
+[Division 3 inserted: SL 2026/82 r. 158(4).]
+## Division 4 — Information for monthly GHG accounting report
+[Heading inserted: SL 2026/82 r. 158(4).]
+Item | Description of information
+14. | A monthly GHG accounting report must contain — (a)the quantity of greenhouse gas substance that has been put into the system, as measured at — (i)the source of the greenhouse gas substance; or (ii)if the greenhouse gas substance becomes the responsibility of the licensee at a point other than its source, that point; and
+ | (b)the quantity of greenhouse gas substance measured at the last measuring point before injection; and (c)the average composition of each greenhouse gas substance injected; and (d)the maximum and minimum injection rates during the month; and (e)the quantity of the greenhouse gas substance lost, and emissions of additional greenhouse gases generated, in each of the following processes — (i)compression; (ii)transportation; (iii)injection; and
+ | (f)an explanation of how each of the quantities mentioned in paragraph (e) was worked out; and (g)the quantity of greenhouse gas substance lost from the well bore; and (h)the quantity of greenhouse gas substance lost from the storage formation; and (i)the quantity of greenhouse gases emitted from the discharge of produced formation fluids.
+[Division 4 inserted: SL 2026/82 r. 158(4).]
+## Division 5 — Information for annual GHG accounting report
+[Heading inserted: SL 2026/82 r. 158(4).]
+Item | Description of information
+15. | An annual GHG accounting report must contain — (a)the quantity of greenhouse gas substance injected into the storage formation during the year; and (b)the cumulative quantity of greenhouse gas substance that has been stored as at the end of the year; and (c)the quantity of greenhouse gas substance lost, and emissions of additional greenhouse gases generated, in each of the following processes — (i)compression; (ii)transportation; (iii)injection; and (d)the quantity of greenhouse gas substance lost from the well bore; and (e)the quantity of greenhouse gas substance lost from the storage formation; and (f)an explanation of how losses of the greenhouse gas substance were estimated or measured; and (g)an assessment of the accuracy of the measurement or estimation of the quantities of the greenhouse gas substance; and (h)a summary of the measurements made under the monitoring and verification plan contained in the approved site plan, including a summary of the interpretation of those measurements.
+[Division 5 inserted: SL 2026/82 r. 158(4).]

@@ -169,11 +169,12 @@ Mines and Petroleum Regulations Amendment (Transfer of Royalty Administration) R
 Mining Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/156 28 Aug 2025 | 9 Sep 2025 (see r. 2(b) and SL 2025/152 cl. 2)
 Mines and Petroleum Regulations Amendment (Geocentric Datum) Regulations 2025 Pt. 2 | SL 2025/172 2 Oct 2025 | 3 Oct 2025 (see r. 2(b))
 Mining Amendment Regulations 2025 | SL 2025/183 29 Oct 2025 | r. 1 and 2: 29 Oct 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2025 (see r. 2(b)(i))
+Mines and Petroleum Regulations Amendment Regulations 2026 Pt 2 | SL 2026/82 27 May 2026 | 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The Mining Amendment Act 1993 s. 28 commenced 1 Jul 1994.
-Formerly referred to the Petroleum Act 1967 the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. Reference changed under the Reprints Act 1984 s. 7(3)(gb).
+No longer required.
 The Acts Amendment (Australian Datum) Act 2000 s. 5 commenced 16 Dec 2000.
 The Mining Amendment Regulations (No. 6) 2001 r. 13 reads as follows:
 13.Saving
@@ -304,7 +305,7 @@ transitional application175
 transitional holder175
 transition period175
 working day2, 89AE(4)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

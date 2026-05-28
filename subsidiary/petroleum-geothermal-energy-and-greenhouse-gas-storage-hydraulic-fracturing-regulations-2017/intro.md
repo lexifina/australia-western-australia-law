@@ -1,1 +1,1 @@
-Petroleum and Geothermal Energy Resources (Hydraulic Fracturing) Regulations 2017
+Petroleum, Geothermal Energy and Greenhouse Gas Storage (Hydraulic Fracturing) Regulations 2017
