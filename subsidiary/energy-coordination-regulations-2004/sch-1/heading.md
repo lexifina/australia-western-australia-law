@@ -10,7 +10,7 @@
 (d) pricing and the calculations or processes underlying price movements, but only if the person or occupier is —
 (i) a licensee under the Act; or
 (ii) a licensee under the Electricity Industry Act 2004; or
-(iii) a licensee under the Petroleum Pipelines Act 1969; or
+(iii) a licensee under the Petroleum and Greenhouse Gas Pipelines Act 1969 in respect of a petroleum pipeline (as defined in section 4(1) of that Act); or
 (iv) a body established by the Electricity Corporations Act 2005 section 4(1) or a subsidiary of such a body under that Act; or
 (v) a person who is exempt under section 11H(1) of the Act from section 11G(2) of the Act; or
 (vi) a person who is exempt under the Electricity Industry Act 2004 section 8(1) from section 7(4) of that Act and who sells electricity to at least one customer who consumes not more than 160 MWh of electricity per annum;
@@ -39,4 +39,4 @@
 (a) the quality of that resource or reserve;
 (b) the anticipated amount of energy recoverable from that resource or reserve.
 7.Information relating to the emission of greenhouse gases from premises owned or occupied by the person or occupier.
-[Schedule 1 inserted: Gazette 25 May 2010 p. 2272-4.]
+[Schedule 1 inserted: Gazette 25 May 2010 p. 2272-4; amended: SL 2026/79 r. 4.]
