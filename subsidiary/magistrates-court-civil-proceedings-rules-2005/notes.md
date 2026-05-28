@@ -44,6 +44,7 @@ Magistrates Court (Civil Proceedings) Amendment Rules 2024 | SL 2024/155 30 Jul 
 Magistrates Court (Civil Proceedings) Amendment Rules 2025 | SL 2025/23 30 Jan 2025 | r. 1 and 2: 30 Jan 2025 (see r. 2(a)); Rules other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
 Magistrates Court Rules Amendment Rules 2025 Pt. 2 | SL 2025/42 11 Mar 2025 | 12 Mar 2025 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2026 | SL 2026/69 21 May 2026 | r. 1 and 2: 21 May 2026 (see r. 2(a)); Rules other than r. 1 and 2: 22 May 2026 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2026 | SL 2026/92 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Rules other than r. 1 and 2: 28 May 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -51,7 +52,7 @@ Act4, 131B(1), 131CAA, 131F(1), 133AAA
 administrative staff member99A
 amended Rules139
 applicant133AAD(1)
-application4, 123
+application4, 123, 132A
 approved form4
 approved user4
 audio link123
