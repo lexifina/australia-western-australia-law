@@ -39,6 +39,7 @@ Transport Regulations Amendment (Marine Safety Equipment) Regulations 2024 Pt. 3
 Mooring Amendment Regulations 2025 | SL 2025/18 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2025 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 4 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Transport Regulations Amendment (Removal of Obstructions) Regulations 2025 Pt. 3 | SL 2025/215 17 Dec 2025 | 19 Dec 2025 (see r. 2(b))
+Mooring Amendment (Petroleum Legislation) Regulations 2026 | SL 2026/72 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -66,6 +67,7 @@ damage7J(4)
 Division 2 mooring control area7(1)
 emergency mooring site2
 fee37
+GHG operation2
 identification sticker6(4)
 inspector31(1)
 length2
@@ -86,6 +88,7 @@ previous licensee21(1)
 recreational mooring site2
 register2
 registered mooring site2
+regulated substance2
 relevant mooring site9(2)
 rental mooring site2
 rental period7F(1), 7J(1)
