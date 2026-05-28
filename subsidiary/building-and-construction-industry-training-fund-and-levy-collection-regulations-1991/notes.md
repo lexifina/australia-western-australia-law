@@ -16,6 +16,7 @@ Building and Construction Industry Training Fund and Levy Collection Amendment R
 Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2012 | 13 Mar 2012 p. 1039-40 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b)(i) and Gazette 13 Mar 2012 p. 1033)
 Reprint 2: The Building and Construction Industry Training Fund and Levy Collection Regulations 1991 as at 1 Jun 2012 (includes amendments listed above)
 Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2018 | 28 Sep 2018 p. 3584-7 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
+Building and Construction Industry Training Fund and Levy Collection Amendment (Petroleum Legislation Regulations 2026 | SL 2026/76 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
@@ -29,6 +30,9 @@ construction work3(1)
 Cyclone Elaine3A(2)
 Cyclone Vance3A(2)
 geosequestration process3(2)
+GHG authorisation3(2)
+GHG operation3(2)
+GHG operational work3(2)
 government authority3(2)
 government work3(2)
 Index7(2)
@@ -37,7 +41,7 @@ residential or commercial facility3(2)
 resources3(2)
 resources facility3(2)
 resources operation3(2)
-resources operational work3(2), 3(3)
+resources operational work3(2) and (3)
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
