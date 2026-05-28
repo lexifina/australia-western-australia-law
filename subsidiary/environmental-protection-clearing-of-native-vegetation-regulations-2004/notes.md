@@ -21,6 +21,7 @@ Environmental Protection (Clearing of Native Vegetation) Amendment Regulations 2
 Environmental Protection Regulations Amendment (Publication and Confidentiality) Regulations 2021 Pt. 2 | SL 2021/178 22 Oct 2021 | 23 Oct 2021 (see r. 2(b) and SL 2021/176 cl. 2)
 Environment Regulations Amendment (Aboriginal Cultural Heritage) Regulations 2023 Pt. 3 | SL 2023/50 19 May 2023 | 1 Jul 2023 (see r. 2(b))
 Environment Regulations Amendment (Aboriginal Heritage) Regulations 2023 Pt. 3 | SL 2023/170 1 Nov 2023 | 15 Nov 2023 (see r. 2(b) and SL 2023/161 cl. 2)
+Environment Regulations Amendment (Petroleum Legislation) Regulations 2026 Pt. 2 | SL 2026/75 27 May 2026 | 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
 Other notes
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006 s. 4. See s. 8 of that Act in relation to the repeal of the Swan River Trust Act 1988.
 Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
@@ -31,7 +32,7 @@ Aboriginal person3
 Aboriginal site13(1)
 alienated land3
 application area7(1)
-authority areaSch. 1 cl. 2(3)
+authority areaSch. 1 cl. 2(4)
 biodiversity conservation4(2)
 bioregion3
 building3
@@ -68,7 +69,7 @@ utility3
 watercourse3
 water supply areaSch. 1 cl. 1
 wetland3
-© State of Western Australia 2023.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2023.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
