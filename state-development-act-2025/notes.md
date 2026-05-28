@@ -1,12 +1,8 @@
 Notes
-This is a compilation of the State Development Act 2025. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the State Development Act 2025. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-State Development Act 2025 | 21 of 2025 | 19 Dec 2025 | Pt. 1: 19 Dec 2025 (see s. 2(a)); Act other than Pt. 1 and s. 115-117: 19 Feb 2026 (see s. 2(e) and SL 2026/13 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
-Short title | Number and year | Assent | Commencement
-State Development Act 2025 s. 115-117 | 21 of 2025 | 19 Dec 2025 | s. 115: operative on commencement of 2024/017 s. 72 (see s. 2(b) and (e)); s. 116: operative on commencement of 2024/017 s. 199 (see s. 2(c) and (e)); s. 117: operative on commencement of 2024/017 s. 263 (see s. 2(d) and (e))
+State Development Act 2025 | 21 of 2025 | 19 Dec 2025 | Pt. 1: 19 Dec 2025 (see s. 2(a)); Act other than Pt. 1 and s. 115-117: 19 Feb 2026 (see s. 2(e) and SL 2026/13 cl. 2); s. 115-117: 28 May 2026 (see s. 2(b)-(d) and SL 2026/70 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -74,4 +70,4 @@ Western Australian Planning Commission4
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
-By Authority: ROGER JACOBS, Acting Government Printer
+By Authority: ANDREW JONES, Government Printer
