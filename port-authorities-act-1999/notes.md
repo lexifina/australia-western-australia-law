@@ -27,11 +27,11 @@ Ports Legislation Amendment Act 2014 | 9 of 2014 | 20 May 2014 | Heading to Pt. 
 Executive Officer Remuneration (Government Entities) Legislation Amendment Act 2016 Pt. 3 Div. 4 | 46 of 2016 | 7 Dec 2016 | 8 Dec 2016 (see s. 2(b))
 Ports Legislation Amendment Act 2019 Pt. 6 (other than s. 50(1) and (2)(a)-(c) and (e)) | 2 of 2019 | 26 Feb 2019 | Pt. 6 (other than s. 50): 27 Feb 2019 (see s. 2(b)); s. 50(2)(d) and (3): 1 Jul 2021 (see s. 2(e) and SL 2021/50 cl. 2)
 Government Trading Enterprises Act 2023 Pt. 12 Div. 5 | 13 of 2023 | 22 Jun 2023 | 1 Jul 2023 (see s. 2(b) and SL 2023/89 cl. 2)
+Petroleum Legislation Amendment Act 2024 s. 433-435 | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Ports Legislation Amendment Act 2019 s. 50(1) and (2)(a)-(c) and (e) | 2 of 2019 | 26 Feb 2019 | To be proclaimed (see s. 2(e))
-Petroleum Legislation Amendment Act 2024 s. 433(2), 434(2) and 435(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Ports and Marine Legislation Amendment Act 2003 s. 4(2) reads as follows:
 (2) The amendment made by subsection (1) does not affect the operation of the Port Authorities (Withdrawal and Revesting of Property) Order 2000 published in the Gazette on 2 June 2000.
@@ -159,7 +159,7 @@ under compulsory pilotage95(1)
 vessel3(1)
 vested3(1)
 vested land3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

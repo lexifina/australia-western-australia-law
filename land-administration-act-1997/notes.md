@@ -55,6 +55,7 @@ Biodiversity Conservation Act 2016 s. 318(1) and (2)(a) | 24 of 2016 | 21 Sep 20
 Reprint 7: The Land Administration Act 1997 as at 6 Oct 2017 (includes amendments listed above except those in the Biodiversity Conservation Act 2016 s. 318)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 9 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Land and Public Works Legislation Amendment Act 2023 Pt. 2 (other than s. 82 and 88) | 4 of 2023 | 24 Mar 2023 | Pt. 2 (other than s. 6, 29, 30, 31, 82 and 88): 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2); s. 6, 29, 30 and 31: 27 Jun 2024 (see s. 2(b) and SL 2024/120 cl. 2)
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 7 (other than s. 394, 396 and 399(1)) | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -64,7 +65,7 @@ Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 11 | 19 of 2016 | 2
 Biodiversity Conservation Act 2016 s. 318(2)(b) | 24 of 2016 | 21 Sep 2016 | To be proclaimed (see s. 2(b))
 Land and Public Works Legislation Amendment Act 2023 s. 82 and 88 | 4 of 2023 | 24 Mar 2023 | To be proclaimed (see s. 2(b))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 30 | 23 of 2023 | 24 Oct 2023 | Immediately after the Land and Public Works Legislation Amendment Act 2023 s. 82 comes into operation (see s. 2(c)(ii))
-Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 7 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 s. 394, 396 and 399(1) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Acts Amendment (Land Administration, Mining and Petroleum) Act 1998 s. 4 and 7, which had not come into operation on the date as at which this compilation was prepared (see endnotes 1a and 2), will be repealed by the Native Title (State Provisions) Act 1999 s. 7.3 (Sch. 2 Div. 1 cl. 3), which as at the date of this compilation had also not come into operation.
 The Land Administration Amendment Act 2000 s. 8(6), (7) and (8) read as follows:
@@ -185,8 +186,8 @@ appointed day3(1)
 appointed members97(1a)
 approved body corporate83(3)
 approved form3(1)
-approved land management accreditation system92I, 93
-assessor member231
+approved land management accreditation system93
+assessor member230(2)
 authorised land officer3(1)
 authorised stock93
 Board3(1)
@@ -215,7 +216,7 @@ corresponding quarter122G
 covenant3(1)
 CPI number122G
 Crown264(4)
-Crown land2(1)
+Crown land3(1)
 Crown land interest holder275A(1)
 Crown lease3(1)
 date of taking151(1)
@@ -226,7 +227,7 @@ Department3(1), 202(4)
 designate151(1)
 designated151(1)
 designation151(1)
-determination day123
+determination day123(1)
 determined annual rent124A(1)
 disclosure275A(5)
 diversification lease3(1), 92B(1)
@@ -242,9 +243,10 @@ final day143(6g)
 first Act200(2)
 first CPI determination day122G
 former section 113285(1)
-geothermal energy5(2)
-geothermal energy resources5(2)
+geothermal energy5(1)
+geothermal energy resources5(1)
 grantee143A
+greenhouse gas substance5(1)
 high water mark3(1)
 holding authority151(1)
 in accordance with the NTA153(3), 154(3)
@@ -272,7 +274,7 @@ management lessee50(6)
 management order3(1), 50(7)
 management plan3(1), 108A(2)
 metropolitan region274(6)
-mining, petroleum or geothermal energy right3(1)
+mining, petroleum, geothermal energy or greenhouse gas right3(1)
 Minister3(1)
 mortgage debt251(2)
 national park45(1)
@@ -324,6 +326,7 @@ registrable15(2)
 Registrar3(1)
 Registrar of Deeds151(1)
 Registrar of Titles3(1)
+regulated substance5(1)
 relevant interest51AA(1)
 relevant local government63
 relevant public authority30(2)
@@ -341,7 +344,7 @@ responsible entity270(1)
 responsible personSch. 2 cl. 45(1)
 return end date113(1)
 return period113(1)
-revocation order51(1)
+revocation order51AA(1)
 road3(1)
 scheme3(1)
 scheme by-laws72
@@ -358,7 +361,7 @@ strata company72
 strata lease72
 structure267(1)
 subject Crown land63
-subject land16(7), 52
+subject land16(7), 52(1)
 subsidiary certificate of Crown land title3(1)
 surrendered lease105A(1)
 survey mark268(3)
@@ -375,9 +378,9 @@ transitional period3(1)
 trustee261(3)
 unallocated Crown land3(1)
 unauthorised structure270(1)
-unmanaged reserve2(1)
+unmanaged reserve3(1)
 war service landSch. 2 cl. 30(2)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

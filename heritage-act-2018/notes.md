@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Heritage Act 2018 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Heritage Act 2018 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Heritage Act 2018 | 22 of 2018 | 18 Sep 2018 | Pt. 1 (other than s. 3-10): 18 Sep 2018 (see s. 2(a)); Act other than the heading to Pt. 1 and s. 1 and 2: 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
@@ -7,10 +7,7 @@ Swan Valley Planning Act 2020 Pt. 10 Div. 4 | 45 of 2020 | 9 Dec 2020 | 1 Aug 20
 Aboriginal Cultural Heritage Act 2021 s. 349 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 33 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 29 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 s. 433 | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -88,7 +85,7 @@ unallocated Crown land63
 unmanaged reserve63
 work prohibition152
 works79(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

@@ -1,6 +1,9 @@
 Western Australia
-Petroleum (Submerged Lands) Act 1982
-An Act to make provision with respect to the exploration for and the exploitation of the petroleum resources, and certain other resources, of certain submerged lands adjacent to the coast of Western Australia, to repeal the Petroleum (Submerged Lands) Act 1967, and for incidental and other purposes.
+Petroleum and Greenhouse Gas Storage (Submerged Lands) Act 1982
+An Act to make provision with respect to —
+·the exploration for and the exploitation of the petroleum resources, and certain other resources, of certain submerged lands adjacent to the coast of Western Australia; and
+·the injection and storage of greenhouse gas substances within certain submerged lands adjacent to the coast of Western Australia.
+[Long title inserted: No. 17 of 2024 s. 262.]
 Preamble
 Whereas in accordance with international law Australia as a coastal State has sovereign rights over the continental shelf beyond the limits of Australian territorial waters for the purpose of exploring it and exploiting its natural resources:
 And whereas Australia is a party to the Convention on the continental shelf signed at Geneva on 29 April 1958 in which those rights are defined:

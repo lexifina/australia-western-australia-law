@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Aboriginal Affairs Planning Authority Act 1972 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Aboriginal Affairs Planning Authority Act 1972 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Aboriginal Affairs Planning Authority Act 1972 | 24 of 1972 | 9 Jun 1972 | 1 Jul 1972 (see s. 2 and Gazette 30 Jun 1972 p. 2099)
@@ -36,10 +36,7 @@ Standardisation of Formatting Act 2010 s. 4 and 51 | 19 of 2010 | 28 Jun 2010 | 
 Aboriginal Affairs Planning Authority Amendment Act 2012 Pt. 2 | 38 of 2012 | 22 Nov 2012 | 7 Aug 2013 (see s. 2(b) and Gazette 6 Aug 2013 p. 3647)
 Reprint 5: The Aboriginal Affairs Planning Authority Act 1972 as at 18 Oct 2013 (includes amendments listed above)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 1 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 s. 433 | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, this Act must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 2 as if this Act had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 The provision in this Act repealing the Native Welfare Act 1963 has been omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -71,7 +68,7 @@ person of Aboriginal descent4
 repealed Act4
 reserved lands4
 Trust4
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

@@ -40,12 +40,12 @@ Conservation and Land Management Amendment Act 2015 s. 73 | 28 of 2015 | 2 Nov 2
 Associations Incorporation Act 2015 s. 232 | 30 of 2015 | 2 Nov 2015 | 1 Jul 2016 (see s. 2(b) and Gazette 24 Jun 2016 p. 2291-2)
 Reprint 5: The Fish Resources Management Act 1994 as at 4 Mar 2016 (includes amendments listed above except those in the Conservation and Land Management Amendment Act 2015 and the Associations Incorporation Act 2015)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 28 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
+Petroleum Legislation Amendment Act 2024 s. 433 and 435 | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007 s. 89 | 24 of 2007 | 12 Oct 2007 | To be proclaimed (see s. 2(1))
 Aquatic Resources Management Act 2016 s. 267 and Pt. 18 Div. 1 and 2 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Petroleum Legislation Amendment Act 2024 s. 433(2) and 435(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The amendment to s. 245(1) in the Public Sector Reform Act 2010 s. 89 is not included because the section it sought to amend was deleted by the Fish Resources Management Amendment Act 2009 s. 19.
 The Fish Resources Management Amendment Act 2002 s. 8(2)-(4) read as follows:
@@ -212,7 +212,7 @@ vehicle4(1)
 WA waters4(1)
 waters4(1)
 waterway254(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

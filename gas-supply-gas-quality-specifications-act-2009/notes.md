@@ -1,12 +1,9 @@
 Notes
-This is a compilation of the Gas Supply (Gas Quality Specifications) Act 2009 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Gas Supply (Gas Quality Specifications) Act 2009 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Gas Supply (Gas Quality Specifications) Act 2009 | 35 of 2009 | 3 Dec 2009 | Pt. 1: 3 Dec 2009 (see s. 2(a)); Act other than Pt. 1: 27 Mar 2010 (see s. 2(b) and Gazette 26 Mar 2010 p. 1133)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 6 and s. 433(2), 434(2), 435(2) and 436(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 6 and s. 433-436 | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -58,7 +55,7 @@ standard specification3(1)
 supply28(1)
 unpaid amounts28(4)
 user3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

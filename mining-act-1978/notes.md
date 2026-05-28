@@ -89,14 +89,14 @@ Mining Amendment Act (No. 2) 2022 | 39 of 2022 | 1 Nov 2022 | s. 1 and 2: 1 Nov 
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 8 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 41 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
 Mining Amendment Act 2023 | 27 of 2023 | 17 Nov 2023 | s. 1 and 2: 17 Nov 2023 (see s. 2(a)); Act other than s. 1 and 2: 18 Nov 2023 (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 8 | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Mining Amendment (Transfer of Royalty Administration) Act 2025 Pt. 2 | 7 of 2025 | 2 Jul 2025 | 1 Sep 2025 (see s. 2(b) and SL 2025/151 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
 Mining Legislation Amendment Act 2014 Pt. 2 | 4 of 2014 | 22 Apr 2014 | To be proclaimed (see s. 2(b))
 Aquatic Resources Management Act 2016 s. 369 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 8 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Repealed by the Interpretation Act 1984 s. 77(1).
 Repealed by the Mining Act 1978 s. 3(1).
@@ -461,7 +461,7 @@ vehicle8(1)
 warden8(1)
 warden’s court8(1)
 withdrawal of memorial103A
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

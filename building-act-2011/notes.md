@@ -9,12 +9,13 @@ Local Government Legislation Amendment Act 2016 Pt. 3 Div. 2 | 26 of 2016 | 21 S
 Heritage Act 2018 s. 183 | 22 of 2018 | 18 Sep 2018 | 1 Jul 2019 (see s. 2(b) and Gazette 27 Jun 2019 p. 2375)
 Strata Titles Amendment Act 2018 Pt. 3 Div. 1 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 1 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 2 (other than s. 375(1)) | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Statutes (Repeals and Minor Amendments) Act 2025 s. 13 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 2 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
-Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Petroleum Legislation Amendment Act 2024 s. 375(1) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 The provisions in this Act amending these Acts have been omitted under the Reprints Act 1984 s. 7(4)(e).
 The provisions in this Act repealing the Building Regulations 1989 and the Local Government (Prohibition on Dealings in Land) Regulations 1973 have been omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -122,7 +123,7 @@ uncertified application13
 underpinning consent185(1)
 work31, 51(1), 75
 works land75
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

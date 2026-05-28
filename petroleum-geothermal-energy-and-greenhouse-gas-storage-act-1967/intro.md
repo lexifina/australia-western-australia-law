@@ -1,4 +1,6 @@
 Western Australia
-Petroleum and Geothermal Energy Resources Act 1967
-An Act relating to the exploration for, and the exploitation of, petroleum resources, geothermal energy resources, and certain other resources, within certain lands of the State; to repeal the Petroleum Act 1936, and for incidental and other purposes.
-[Long title amended: No. 35 of 2007 s. 4.]
+Petroleum, Geothermal Energy and Greenhouse Gas Storage Act 1967
+An Act relating to —
+·the exploration for, and the exploitation of, petroleum resources, geothermal energy resources and certain other resources within certain lands of the State; and
+·the injection and storage of greenhouse gas substances within certain lands of the State.
+[Long title inserted: No. 17 of 2024 s. 71.]
