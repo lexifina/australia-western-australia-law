@@ -212,6 +212,7 @@ Fish Resources Management Amendment Regulations (No. 5) 2024 | SL 2024/234 13 No
 Fish Resources Management Amendment Regulations (No. 2) 2024 | SL 2024/263 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2024 (see r. 2(b))
 Fish Resources Management Regulations 1995 with editorial changes as at 26 Jun 2025
 Fish Resources Management Amendment Regulations (No. 4) 2025 | SL 2025/160 3 Sep 2025 | r. 1 and 2: 3 Sep 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2025 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 4) 2026 (other than r. 6-14) | SL 2026/85 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); r. 3-5: 28 May 2026 (see r. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
@@ -221,6 +222,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
 Citation | Published | Commencement
 Fish Resources Management Amendment Regulations (No. 3) 2026 r. 3 and 4 | SL 2026/65 13 May 2026 | 1 Jul 2026 (see r. 2(b))
+Fish Resources Management Amendment Regulations (No. 4) 2026 r. 6-14 | SL 2026/85 27 May 2026 | 1 Jun 2026 (see r. 2(c))
 Other notes
 Under the Public Sector Management Act 1994 the names of departments may be changed. At the time of this compilation the former Department of Conservation and Land Management is called the Department of Parks and Wildlife.
 Revoked by the West Coast Rock Lobster Management Plan Revocation Notice 2012 (see Gazette 21 Dec 2012 p. 6656).
@@ -261,7 +263,7 @@ Central West Zone38(1)
 certificate of health144A(1)
 charter boat3(1)
 chlorine tarping110(2)
-closed season38G, 45(1)
+closed season38G
 Cockburn Sound3(1)
 commencement point3(1)
 commercial fishing licence3(1)
