@@ -1,13 +1,14 @@
 Notes
-This is a compilation of the Gas Supply (Gas Quality Specifications) Regulations 2010 and includes the amendments made by the other written laws referred to in the following table. The table also contains information about any reprint.
+This is a compilation of the Gas Supply (Gas Quality Specifications) Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
-Citation | Gazettal | Commencement
+Citation | Published | Commencement
 Gas Supply (Gas Quality Specifications) Regulations 2010 | 26 Mar 2010 p. 1191-252 | 27 Mar 2010 (see r. 2 and Gazette 26 Mar 2010 p. 1133)
 Gas Supply (Gas Quality Specifications) Amendment Regulations 2012 | 14 Aug 2012 p. 3849-96 | r. 1 and 2: 14 Aug 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Aug 2012 (see r. 2(b))
 Gas Supply (Gas Quality Specifications) Amendment Regulations 2013 | 14 Jun 2013 p. 2236 | r. 1 and 2: 14 Jun 2013 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jun 2013 (see r. 2(b) and Gazette 28 Jun 2013 p. 2933)
 Gas Supply (Gas Quality Specifications) Amendment Regulations 2015 | 10 Mar 2015 p. 836-9 | r. 1 and 2: 10 Mar 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Mar 2015 (see r. 2(b))
 Reprint 1: The Gas Supply (Gas Quality Specifications) Regulations 2010 as at 23 Oct 2015 (includes amendments listed above)
 Gas Supply (Gas Quality Specifications) Amendment Regulations 2016 | 9 Dec 2016 p. 5558-67 | r. 1 and 2: 9 Dec 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Dec 2016 (see r. 2(b))
+Gas Supply (Gas Quality Specifications) Amendment (Petroleum Legislation) Regulations 2026 | SL 2026/73 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b)) and SL 2026/70 cl. 2
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -71,3 +72,7 @@ total of the claimable ongoing costs32(1), 36(2)
 Western Australian standard specification3(1)
 Wobbe index3(1)
 worst possible gas composition3(1)
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
