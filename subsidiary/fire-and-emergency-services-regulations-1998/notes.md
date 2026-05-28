@@ -20,6 +20,7 @@ Fire and Emergency Services Amendment Regulations (No. 2) 2017 | 15 Sep 2017 p. 
 Reprint 3: The Fire and Emergency Services Regulations 1998 as at 23 Feb 2018 (includes amendments listed above)
 Fire and Emergency Services Amendment Regulations 2018 | 22 Jun 2018 p. 2180-1 | r. 1 and 2: 22 Jun 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2018 (see r. 2(b))
 Fire and Emergency Services Amendment Regulations 2021 | SL 2021/114 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2021 (see r. 2(b))
+Fire and Emergency Services Amendment (Petroleum Legislation) Regulations 2026 | SL 2026/74 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
 Other notes
 Formerly referred to the Fire and Emergency Services Authority of Western Australia Act 1998, the short title of which was changed to the Fire and Emergency Services Act 1998 by the Fire and Emergency Services Legislation Amendment Act 2012 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Mining Act 1978.
@@ -33,3 +34,7 @@ permanent fire brigade6(7)
 private fire brigade6(7)
 volunteer fire brigade6(7)
 Western Australian Municipal Association3
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
