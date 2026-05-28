@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Soil and Land Conservation Act 1945 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Soil and Land Conservation Act 1945 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Soil Conservation Act 1945 | 15 of 1945 (9 and 10 Geo. VI No. 15) | 9 Jan 1946 | 1 Jul 1946 (see s. 1 and Gazette 28 Jun 1946 p. 789)
@@ -60,10 +60,7 @@ Reprint 9: The Soil and Land Conservation Act 1945 as at 12 Jul 2013 (includes a
 Biodiversity Conservation Act 2016 s. 320 | 24 of 2016 | 21 Sep 2016 | 1 Jan 2019 (see s. 2(b) and Gazette 14 Sep 2018 p. 3305)
 Swan Valley Planning Act 2020 Pt. 10 Div. 13 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Soil and Land Conservation Amendment Act 2022 Pt. 2 | 19 of 2022 | 24 Jun 2022 | 25 Jun 2022 (see s. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Petroleum Legislation Amendment Act 2024 s. 433(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 s. 433 | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Other notes
 The designation of Ministers may be altered by the Governor under the Alterations of Statutory Designations Act 1974. As at the date of this compilation the former Minister for Agriculture is known as the Minister for Agriculture and Food.
 Repealed by the Conservation and Land Management Act 1984 s. 147.
@@ -123,7 +120,7 @@ transition day49
 Treasurer4
 tree4A(1)
 unable to act4
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

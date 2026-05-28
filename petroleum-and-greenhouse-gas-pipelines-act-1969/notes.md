@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum Pipelines Act 1969 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Petroleum and Greenhouse Gas Pipelines Act 1969 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Pipelines Act 1969 | 112 of 1969 | 28 Nov 1969 | 12 Dec 1969 (see s. 2 and Gazette 12 Dec 1969 p. 4002)
@@ -33,11 +33,12 @@ Personal Property Securities (Consequential Repeals and Amendments) Act 2011 Pt.
 Statutes (Repeals and Minor Amendments) Act 2011 s. 15 and 16 | 47 of 2011 | 25 Oct 2011 | 26 Oct 2011 (see s. 2(b))
 Statutes (Repeals and Minor Amendments) Act 2014 s. 9 | 17 of 2014 | 2 Jul 2014 | 6 Sep 2014 (see s. 2(b) and Gazette 5 Sep 2014 p. 3213)
 Work Health and Safety Act 2020 Pt. 15 Div. 3 Subdiv. 3 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
+Petroleum Legislation Amendment Act 2024 Pt. 3 (other than s. 177(3)) | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/69 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 s. 7.3 | 60 of 1999 | 10 Jan 2000 | Operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Petroleum Legislation Amendment Act 2024 Pt. 3 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+ | Petroleum Legislation Amendment Act 2024 s. 177(3) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 Footnote no longer required.
 The Acts Amendment (Petroleum) Act 1990 s. 122(2) reads as follows:
@@ -110,36 +111,60 @@ The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repe
 Footnote no longer required.
 The Petroleum Legislation Amendment and Repeal Act 2005 s. 29(2) had not come into operation when it was deleted by the Statutes (Repeals and Minor Amendments) Act 2014 s. 31.
 The amendments in the Petroleum and Energy Legislation Amendment Act 2010 s. 182(11) and (12) are not included because the section they sought to amend had been deleted before the amendments purported to come into operation.
+Now known as the Petroleum and Greenhouse Gas Pipelines Act 1969; short title changed (see note under s. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-amending Act14(4)
+amending Act14(4), 68(2)
 approved4(1)
 Australian/New Zealand Standard66BB(4)
 Australian Standard66BB(4)
 CEO66BB(4)
 charge47(15)
 debenture47(15)
+Department4(1)
+electronic means4(1)
+excluded greenhouse gas pipeline4(1)
+GHG facility line4(1)
+GHG injection line4(1)
+GHG operation4(1)
+greenhouse gas facility4(1)
+greenhouse gas pipeline4(1)
+greenhouse gas substance4(1)
+identified GHG storage formation4(1)
 inspector4(1)
+instrument16(1)
+instrument of transfer44(1A)
+interstate Act56A(1)
+interstate land or waters56A(1)
 land19(3)
 licence4(1)
 licence area4(1)
 licensee4(1)
 Minister for Lands4(1)
+operative day68(4)
 owned4(1)
 owner4(1)
 partly cancelled4(1)
 petroleum4(1)
+petroleum exploration operation4(1)
+petroleum pipeline4(1)
 pipeline4(1)
 pipeline operation4(1)
 Principal Registrar59(2)
+publication day68(1)
 public authority4(1)
 register4(1)
 registered holder4(1)
 relinquished area4(1)
+secondary line4(1)
+specified68(1)
+terminal point4(1)
+transitional matter68(1)
+transitional regulations68(1)
 Under Secretary59(2)
 wholly cancelled4(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

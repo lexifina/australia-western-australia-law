@@ -1,0 +1,17 @@
+## Subdivision 5 — Long-term liabilities in respect of GHG storage
+[Heading inserted: No. 17 of 2024 s. 338.]
+### 74AZE. Closure assurance period
+(1) This section applies if —
+(a) a site closing certificate is in force in relation to an identified GHG storage formation; and
+(b) the Minister is satisfied that operations for the injection of a greenhouse gas substance into the formation ceased on a day (the cessation day) before the application for the site closing certificate was made; and
+(c) on a day (the decision day) that is at least 15 years after the issue of the site closing certificate, the Minister is satisfied that —
+(i) the greenhouse gas substance injected into the formation is behaving as predicted in Part A of an approved site plan for the formation; and
+(ii) there is no significant risk that a greenhouse gas substance injected into the formation will have a significant adverse impact on the geotechnical integrity of the whole or a part of a geological formation or geological structure; and
+(iii) there is no significant risk that a greenhouse gas substance injected into the formation will have a significant adverse impact on the environment; and
+(iv) there is no significant risk that a greenhouse gas substance injected into the formation will have a significant adverse impact on human health or safety; and
+(v) since the cessation day, there have not been any operations for the injection of a greenhouse gas substance into the formation.
+(2) The Minister may, by instrument in writing, declare that for the purposes of this Act the closure assurance period in relation to the formation is the period —
+(a) beginning at the end of the cessation day; and
+(b) ending at the end of the decision day.
+(3) A copy of a declaration under subsection (2) must be given to the holder of the site closing certificate.
+[Section 74AZE inserted: No. 17 of 2024 s. 338.]

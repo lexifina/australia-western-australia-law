@@ -85,13 +85,14 @@ COVID-19 Response and Economic Recovery Omnibus Act 2020 s. 102 | 34 of 2020 | 1
 Legal Profession Uniform Law Application Act 2022 s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Transfer of Land Amendment Act 2022 Pt. 2 | 21 of 2022 | 24 Jun 2022 | 7 Aug 2023 (see s. 2(b) and SL 2023/111 cl. 2)
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 12 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 13 (other than s. 424(4) | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Transfer of Land Amendment Act 2003 s. 43, 46, 56 and 57 | 6 of 2003 (as amended by No. 60 of 2006 s. 164) | 25 Mar 2003 | To be proclaimed (see s. 2)
 Community Titles Act 2018 s. 253 | 32 of 2018 | 19 Nov 2018 | To be proclaimed (see s. 2(b))
-Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 13 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
-Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Petroleum Legislation Amendment Act 2024 s. 424(4) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 Repealed by the Land Act 1933 which was repealed by the Land Administration Act 1997.
 The Land Valuers Licensing Act 1978 came into operation on 1 July 1979.
@@ -139,7 +140,7 @@ annuity4(1)
 approved form4(1), 81K
 Australian consular officer145(4)
 authorised land officer4(1)
-Authority4
+Authority4(1)
 burdened land104A
 carbon covenant4(1)
 carbon covenant form4(1)
@@ -152,7 +153,7 @@ commencement181(1a)
 commencement day248(1), 249(1)
 Commissioner81K
 conveyancing transaction4(1)
-counterpart4(1), 4(1b)
+counterpart4(1) and (1b)
 Crown land4(1)
 Crown land lease4(1)
 Crown lease4(1)
@@ -170,11 +171,12 @@ endorsed4(1)
 Examiner of Titles4(1)
 fees238B(4)
 first document192D(4)
-geothermal energy3(3)
-geothermal energy resources3(3)
+geothermal energy3(1A)
+geothermal energy resources3(1A)
 grant4(1)
 grantor4(1)
 graphic4(1)
+greenhouse gas substance3(1A)
 inspector of plans and surveys163(2)
 instrument4(1)
 interest4(1)
@@ -187,7 +189,7 @@ management body4(1)
 management order81K
 memorandum54(1)
 metropolitan region4(1)
-mining, petroleum or geothermal energy rights3(3)
+mining, petroleum, geothermal energy or greenhouse gas right3(1A)
 Minister for Lands4(1)
 ministerial order4(1)
 mortgage127A(1)
@@ -200,7 +202,7 @@ participation rules4(1)
 person4(1)
 plan136A
 plantation interest4(1)
-prescribed amount192(1), 238B(4)
+prescribed amount192(2), 238B(4)
 profit à prendre4(1)
 property (seizure and sale) order133(1)
 proprietor4(1)
@@ -211,6 +213,7 @@ record4(1)
 Register4(1)
 register133(1)
 registered disposition242(4)
+regulated substance3(1A)
 relevant authority129BB(1), 136J(1)
 relevant carbon right104A
 relevant graphic4(1)
@@ -226,7 +229,7 @@ sheriff’s dealing133(1)
 short form4(3)
 sign4(1)
 signature4(1)
-single dwelling covenant129C(1c)
+single dwelling covenant129C(1d)
 stamped81U(3)
 statutory declaration188(2)
 subscriber4(1)
@@ -235,7 +238,7 @@ transitional period81K
 transmission4(1)
 tree plantation agreement4(1)
 working day182B(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

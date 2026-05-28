@@ -67,12 +67,13 @@ Aboriginal Cultural Heritage Act 2021 s. 343 | 27 of 2021 | 22 Dec 2021 | 1 Jul 
 Conservation and Land Management Amendment Act 2022 | 27 of 2022 | 31 Aug 2022 | s. 1 and 2: 31 Aug 2022 (see s. 2(a)); Act other than s. 1 and 2: 1 Sep 2022 (see s. 2(b))
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 2 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 24 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 3 (other than s. 379(1) and 380(1) and (3)) | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Conservation and Land Management Amendment Act 2025 | 6 of 2025 | 24 Jun 2025 | s. 1 and 2: 24 Jun 2025 (see s. 2(a)); Act other than s. 1 and 2: 25 Jun 2025 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 Pt. 19 Div. 3 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 3 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 s. 379(1) and 380(1) and (3) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Land Act 1933 was repealed by the Land Administration Act 1997 s. 281.
 The Forests Act 1918 was repealed by s. 147(1) of this Act.
@@ -222,7 +223,7 @@ The requirement to establish the Department of Conservation and Land Management 
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
-Aboriginal3
+Aboriginal body corporate3
 Aboriginal customary purpose103A(1)
 Aboriginal person3
 agency23(1)
@@ -238,7 +239,6 @@ authorised person81
 authorised purpose121(1)
 biodiversity3
 biodiversity components3
-body corporate3
 business undertaking34A(3)
 CEO3
 chief executive officer23(1)
@@ -285,8 +285,8 @@ Forests Department145
 former Act157
 former authority145
 former provision148(4)
-geothermal energy13C(1aa)
-geothermal energy resources13C(1aa)
+geothermal energy13C(1A)
+geothermal energy resources13C(1A)
 infected81
 information25(4)
 inspection purposes121(1)
@@ -295,7 +295,7 @@ joint responsible body3
 land3, 17(8), 53, 98(2)
 Land Administration Minister3
 land to which this Act applies3
-land to which this Part applies102(1) and (1A)
+land to which this Part applies102(1)
 lease13E(1)
 licence13E(1), 87(1)
 managed land103A(1)
@@ -348,6 +348,7 @@ ranger3
 recreational fishing3
 recreation area13B(1A)
 regional3
+regulated substance13C(1A)
 relevant act103A(1)
 relevant offence124(7)
 relevant official166(1)
@@ -383,7 +384,7 @@ vested7(1A), 8AA(1)
 Western Australian waters13(8)
 Western Australian Wildlife Authority145
 wildlife officer3
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

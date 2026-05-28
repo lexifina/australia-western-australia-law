@@ -4,11 +4,12 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Work Health and Safety Act 2020 | 36 of 2020 | 10 Nov 2020 | Pt. 1 (other than Div. 2-5): 10 Nov 2020 (see s. 2(1)(a)); Pt. 14 (other than Div. 1-3): 11 Nov 2020 (see s. 2(1)(b)); Act other than Pt. 1 Div. 1 and Pt. 14 Div. 4: 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Industrial Relations Legislation Amendment Act 2021 Pt. 7 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and (2) and SL 2022/79 cl. 2)
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 15 (other than s. 428-430 and 431(2)) | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Industrial Relations Legislation Amendment Act 2024 s. 160 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 15 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 s. 428-430 and 431(2) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Industrial Relations Legislation Amendment Act 2021 Pt. 7 Div. 1 Subdiv. 2 was deleted when s. 5(2) of that Act came into operation (see Pt. 7 Div. 2 and SL 2022/18 cl. 2).
 Defined terms
@@ -167,7 +168,7 @@ worker4, 7(1) and (3)
 work group4
 Work Health and Safety Commission4
 workplace4, 8(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

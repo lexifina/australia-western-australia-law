@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Resources Act 1967 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Petroleum, Geothermal Energy and Greenhouse Gas Storage Act 1967 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum Act 1967 | 72 of 1967 | 11 Dec 1967 | 5 Sep 1969 (see s. 2 and Gazette 5 Sep 1969 p. 2540)
@@ -44,16 +44,17 @@ Reprint 8: The Petroleum and Geothermal Energy Resources Act 1967 as at 15 Jan 2
 Petroleum Legislation Amendment Act 2017 Pt. 2 | 7 of 2017 | 14 Sep 2017 | 15 Nov 2017 (see s. 2(b) and Gazette 14 Nov 2017 p. 5597)
 Work Health and Safety Act 2020 Pt. 15 Div. 3 Subdiv. 1 | 36 of 2020 | 10 Nov 2020 | 31 Mar 2022 (see s. 2(1)(c) and SL 2022/18 cl. 2)
 Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 10 | 4 of 2023 | 24 Mar 2023 | 10 Aug 2023 (see s. 2(b) and SL 2023/132 cl. 2)
+Petroleum Legislation Amendment Act 2024 Pt. 2 (other than s. 17, 33, 34(2), 42(1) and (3), 54, 59(2) and (3)) | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Native Title (State Provisions) Act 1999 Sch. 2 Div. 7 | 60 of 1999 | 10 Jan 2000 | s. 7.3 operative on earliest of commencement of Pt. 2 (except s. 2.2), Pt. 3 (except s. 3.1) and Pt. 4
-Petroleum Legislation Amendment Act 2024 Pt. 2 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 s. 17, 33, 34(2), 42(1) and (3), 54, 59(2) and (3)) | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
 Other notes
 The Petroleum Act 1936 was repealed by this Act, s. 3.
 The Interpretation Act 1918 was repealed by the Interpretation Act 1984.
 The amendment in the Petroleum Safety Act 1999 s. 92 is not included as it was deleted by the Petroleum Legislation Amendment and Repeal Act 2005 s. 51 before it came into operation.
-Now known as the Petroleum and Geothermal Energy Resources Act 1967; short title changed (see note under s. 1).
+Footnote no longer required.
 The Schedule to the Metric Conversion Act 1972 was redesignated as the First Schedule by the Metric Conversion Act Amendment Act 1973.
 The Acts Amendment (Mining) Act 1981 s. 34(2) and (3) are transitional provisions that are of no further effect.
 The Acts Amendment (Petroleum) Act 1990 s. 26(2) reads as follows:
@@ -134,6 +135,7 @@ relevant licence means a production licence for petroleum in force under Part II
 The Acts Amendment (Mining and Petroleum) Act 1999 s. 26(5) reads as follows:
 (5) Despite the amendments made by this section, section 43F of the Petroleum Act 1967 continues to apply to and in relation to the extension of a drilling reservation in force on the commencement of this section.
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+Now known as the Petroleum, Geothermal Energy and Greenhouse Gas Storage Act 1967; short title changed (see note under s. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -142,12 +144,14 @@ access authority area7A(2), 7B(2)
 affected area6A(3)
 affected lessee24(1)
 amending Act154(3), Sch. 2 cl. 1
+amendment daySch. 2 cl. 4(1), 5(1) and 6(1)
 applicable document150A
 application for a primary licence5(1)
 application for a secondary licence5(1)
 apportionment provision7B(8) and (12)
 approved5(1)
 approved development plan5(1)
+approved site plan5(1)
 area to which the surrender relates98(5)
 Australian/New Zealand Standard126A(4)
 Australian Standard126A(4)
@@ -156,7 +160,9 @@ Barrow Island lease5(1), 128
 block5(1)
 boundary-change permit5(1)
 CEO126A(4)
+cessation day69HW(1)
 charge75(15)
+closure assurance period5(1)
 commencement150A
 commencement day41(9), 42A(1), 56(9)
 commencing day128
@@ -167,33 +173,43 @@ Commonwealth licence5(1)
 Commonwealth permit5(1)
 Commonwealth title97A(1)
 compensable lessee21(1)
-construct3(1)
+construct5(1)
 construction5(1)
-court125(2)
+court126(2)
 Crown land5(1)
-dealing68(10)
+dealing69(10)
 debenture75(15)
+decision day69HW(1)
+Department5(1)
+detection agent5(1)
 diversification lease5(1)
 document5(1)
 documentary information150A
 drilling reservation5(1)
 drilling reservation application43DA(1)
+drilling reservation area5(1)
+electronic means5(1)
+eligible GHG storage formation5(1), 6C(1)
 exclusion zone112A(1)
-explore for29(3)
+explore for29(1AA)
 facility 5(1)
 federal duty144A(3)
 fixed-term WA petroleum production licence97A(1)
 former area133(2)
 former provisions128
-Gazettal day154(1)
+fundamental suitability determinants5(1), 6C(9)
+geological formation5(1)
 geothermal access authority5(1)
 geothermal drilling reservation5(1)
+geothermal drilling reservation area5(1)
 geothermal energy5(1)
 geothermal energy operation5(1)
 geothermal energy resources5(1)
+geothermal exploration operation5(1)
 geothermal exploration permit5(1)
 geothermal lease area5(1)
 geothermal lessee5(1)
+geothermal licence area5(1)
 geothermal licensee5(1)
 geothermal permit area5(1)
 geothermal permittee5(1)
@@ -201,26 +217,57 @@ geothermal production licence5(1)
 geothermal resources area5(1)
 geothermal retention lease5(1)
 geothermal special prospecting authority5(1)
-geothermal title69A(1), 106(13)
-good oil-field practice3(1)
+geothermal title69A(1)
+GHG5(1), 6E(1)
+GHG access authority5(1)
+GHG drilling reservation5(1)
+GHG drilling reservation area5(1)
+GHG exploration operation5(1)
+GHG exploration permit5(1)
+GHG injection licence5(1)
+GHG injection operation5(1)
+GHG lease area5(1)
+GHG lessee5(1)
+GHG licence69HH(5) and (6)
+GHG licence area5(1)
+GHG licensee5(1)
+GHG operation5(1)
+GHG permit area5(1)
+GHG permittee5(1)
+GHG retention lease5(1)
+GHG special prospecting authority5(1)
+GHG title69A(1)
+good oil-field practice5(1)
 granted5(1)
 graticular section5(1)
+greenhouse gas substance5(1), 6E(1)
 holder91B(1)
 holder of a drilling reservation5(1)
-inshore area6A
+identified GHG storage formation5(1)
+incidental greenhouse gas-related substance5(1), 6D(2)
+inshore area6A(1)
 inspector5(1)
+instrument of consent5(1), 116(1)
+instrument of transfer72(1A)
+interstate Act86B(1)
+interstate land or waters86B(1)
 Joint Authority7B(7), 69(1A)
 lease5(1)
 lease area5(1)
 lessee5(1), 128
 licence5(1)
+licence application50AA(3)
 licence area5(1)
 licensee5(1)
 location5(1)
 marine reserve28A(3)
 mining sample150A
 Minister of another jurisdiction150A
+national geothermal title106(1AA)
+national GHG title106(1AA)
+national petroleum title106(1AA)
 native title holders24A(3)
+notional site closing certificate time6C(8)
 offshore area5(1), 69(1A)
 oil shale5(1)
 operations area92(1)
@@ -229,9 +276,9 @@ operative day154(5)
 operator5(1), 92(1)
 original licence61(1)
 original permit37A(1)
-other area7B(8) and (12)
+other area7B(8), 7B(12)
 partly cancelled5(1)
-partly determined5
+partly determined5(1)
 pastoral lease5(1)
 permit5(1)
 permit application32(1A)
@@ -240,45 +287,68 @@ permittee5(1)
 petroleum5(1)
 petroleum access authority5(1)
 petroleum drilling reservation5(1)
+petroleum drilling reservation area5(1)
+petroleum exploration operation5(1)
 petroleum exploration permit5(1)
+petroleum lease69HH(5)
 petroleum lease area5(1)
 petroleum lessee5(1)
+petroleum licence69HH(6)
+petroleum licence area5(1)
 petroleum licensee5(1)
 petroleum operation5(1)
+petroleum or geothermal operation86B(1)
 petroleum permit area5(1)
 petroleum permittee5(1)
-petroleum pool5(1)
 petroleum production licence5(1)
 petroleum retention lease5(1)
 petroleum special prospecting authority5(1)
-petroleum title69A(1), 97A(1), 106(13)
+petroleum title69A(1), 91C(1), 97A(1), Sch. 2 cl. 5(1)
+potential GHG injection site5(1)
+potential GHG storage formation5(1), 6B(1)
+pre-certificate notice5(1), 69HL(2)
 prescribed instrument128
 primary entitlement5(1)
+primary greenhouse gas substance5(1)
 primary licence5(1)
 private land5(1)
+publication day154(1)
 recovery5(1)
 Register5(1)
-registered holder5(1)
+registered holder5(1), 86A
+regulated substance5(1)
 regulation 3Sch. 2 cl. 1
 regulations5(1)
 relevant area37B(2), 41(7), 48CD(2), 56(7), 61A(2), 97A(2)
 relevant petroleum title97A(5) and (6)
 relevant section 27 blocks37B(5) and (6), 48CD(2), 61A(2)
 relevant time37B(3) and (4), 48CD(3) and (4), 61A(3) and (4), 97A(3) and (4)
+relevant title holder30A(1)
 relinquished area5(1)
+renewed91C(1)
+report5(1)
+required period48H(3A), 54(2A)
 reservoir16(2)
+resources pool5(1)
 royalty period5(1)
 royalty value5(1)
 second affected area6A(5)
 secondary licence5(1)
-section 27 block37B(1), 47(1A), 48CD(1), 61A, 97A(1)
+section 27 block37B(1), 47(1A), 48CD(1), 61A(1), 97A(1)
+serious situation69HB
+site closing certificate5(1), 69HP(2)
+site plan5(1)
+spatial extent5(1), 6C(2)
 special prospecting authority5(1)
+specified154(1)
 State26
 structure5(1)
 tight gas52(4A)
-title69J, 127A(5)
+title69J, 127A(5), Sch. 2 cl. 6(1)
+title holder147(1)
 transitional matter154(1)
 transitional regulations154(1)
+unallocated Crown land11(1A)
 unit development69(1)
 unused area48CA(1) and (2)
 variation agreement128
@@ -287,7 +357,7 @@ water113(2)
 well5(1)
 wholly cancelled5(1)
 wholly determined5(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

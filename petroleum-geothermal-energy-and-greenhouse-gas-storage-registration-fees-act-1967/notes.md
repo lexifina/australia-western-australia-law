@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Petroleum and Geothermal Energy Resources (Registration Fees) Act 1967 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Petroleum, Geothermal Energy and Greenhouse Gas Storage (Registration Fees) Act 1967 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Petroleum (Registration Fees) Act 1967 | 77 of 1967 | 11 Dec 1967 | 5 Sep 1969 (see s. 2 and Gazette 5 Sep 1969 p. 2540)
@@ -12,22 +12,19 @@ Acts Amendment (Petroleum) Act 1994 Pt. 5 | 28 of 1994 | 29 Jun 1994 | 22 Jul 19
 Corporations (Consequential Amendments) Act (No. 2) 2003 Pt. 17 | 20 of 2003 | 23 Apr 2003 | 15 Jul 2001 (see s. 2(1) and Cwlth Gazette 13 Jul 2001 No. S285)
 Reprint 3: The Petroleum (Registration Fees) Act 1967 as at 19 Sep 2003 (includes amendments listed above)
 Petroleum Amendment Act 2007 s. 103 | 35 of 2007 | 21 Dec 2007 | 19 Jan 2008 (see s. 2(b) and Gazette 18 Jan 2008 p. 147)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 9 | 17 of 2024 | 14 May 2024 | To be proclaimed (see s. 2(b))
+Petroleum Legislation Amendment Act 2024 Pt. 5 Div. 9 | 17 of 2024 | 14 May 2024 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl. 2)
 Other notes
 The Petroleum (Registration Fees) Amendment Act 1990 s. 6 reads as follows:
 “
 6.Application of principal Act
 The principal Act continues to apply in relation to transfers to which section 72 of the Petroleum Act 1967 continues to apply by virtue of the operation of section 56(3) of the Acts Amendment (Petroleum) Act 1990.
 ”.
-Now known as the Petroleum and Geothermal Energy Resources (Registration Fees) Act 1967; short title changed (see note under s. 1)
+Now known as the Petroleum, Geothermal Energy and Greenhouse Gas Storage (Registration Fees) Act 1967; short title changed (see note under s. 1)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 title4(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
