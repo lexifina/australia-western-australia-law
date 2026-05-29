@@ -13,6 +13,7 @@ Metropolitan Region Scheme | 9 Aug 1963 p. 2318-25 | 30 Oct 1963 (see Gazette 1 
 [Note: subsequent amendments before the following item are not included]
 Planning and Development Amendment (Metropolitan Region Scheme) Act 2024 assented to 29 Oct 2024 | 31 Mar 2025 (see s. 2(b) and SL 2024/251 cl. 2)
 Metropolitan Region Scheme Amendment 1344/57 (Minor) | 9 Sep 2025 p. 1547-51 | 9 Sep 2025 (see Gazette 9 Sep 2025 p. 1547)
+Metropolitan Region Scheme Amendment 1388/57 (Minor) | 29 May 2026 p. 878-84 | 29 May 2026 (see Gazette 29 May 2026 p. 878)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -42,7 +43,7 @@ SCRM Minister45(1)
 Swan Canning development control area7, 45(1)
 Trust45(1)
 zoned land7
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
