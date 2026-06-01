@@ -5,28 +5,27 @@
 [Heading inserted: Gazette 4 Oct 2019 p. 3555.]
 ## Subdivision 1 — Regions other than West Coast Region
 [r. 65A]
-[Heading inserted: Gazette 4 Oct 2019 p. 3555; amended: SL 2023/2 r. 21.]
-Fish | Species bag limit for one day | Grouped bag limit of all species of demersal finfish for one day
-Boarfish | 3 | 5 (excluding Redfish, Bight (Red Snapper, Nannygai), Redfish, Yelloweye and Swallowtail in South Coast region)
-Cod, Barramundi | 3
+[Heading inserted: SL 2026/85 r. 9.]
+Fish | Species bag limit for 1 day | Grouped bag limit of all species of demersal finfish for 1 day
+Boarfish | 4 | 4 (excluding Redfish, Bight (Red Snapper, Nannygai), Redfish, Yelloweye and Swallowtail in South Coast region)
+Cod, Barramundi | 4
 Coral Trout | 1
 Coronation Trout | 1
-Dhufish, West Australian | 2
+Dhufish, West Australian | 1
 Dory, John and Mirror | 3
-Emperor and Seabream, all species except Grass Emperor | 3
-Emperor, Grass | 5
-Foxfish | 3
-Groper, Baldchin and Tuskfish | 3
+Emperor and Seabream | 4
+Emperor, Red | 2
+Foxfish | 4
+Groper, Baldchin and Tuskfish | 2
 Groper, Western Blue | 1
-Hapuku, Bass Groper and Trevalla(s), Blue-Eye | 3
-Pearl Perch | 3
-Rockcod, all species except Chinaman Rockcod, Coral Trout and Coronation Trout | 3
-Snapper (Pink Snapper), except in the waters of the Shark Bay western gulf or the waters of the Shark Bay eastern gulf | 3
-Snapper (Pink Snapper), in the waters of the Shark Bay western gulf or the waters of the Shark Bay eastern gulf | 2
-Snapper, Queen | 3
-Tropical Snapper, all species except Golden Snapper (Fingermark), Mangrove Jack and Stripey Snapper | 3
-Redfish, Bight (Red Snapper, Nannygai), Redfish, Yelloweye and Swallowtail in South Coast region | 8
-[Subdivision 1 inserted: Gazette 4 Oct 2019 p. 3555-6; amended: SL 2023/2 r. 22; SL 2024/263 r. 21(1).]
+Hapuku, Bass Groper and Trevalla(s), Blue-Eye | 4
+Pearl Perch | 4
+Rockcod, all species except Chinaman Rockcod, Coral Trout and Coronation Trout | 4
+Snapper (Pink Snapper) | 2
+Snapper, Queen | 4
+Tropical Snapper, all species except Golden Snapper (Fingermark), Mangrove Jack, Stripey Snapper and Red Emperor | 4
+Redfish, Bight (Red Snapper, Nannygai), Redfish, Yelloweye and Swallowtail in South Coast region | 4 | No grouped bag limit applies
+[Subdivision 1 inserted: SL 2026/85 r. 9.]
 ## Subdivision 2 — West Coast Region other than Abrolhos Islands Fish Habitat Protection Area
 [r. 65B]
 [Heading inserted: Gazette 4 Oct 2019 p. 3556; amended: SL 2023/2 r. 23.]
@@ -39,13 +38,13 @@ Emperor and Seabream | 2
 Foxfish | 2
 Groper, Baldchin and Tuskfish | 2
 Groper, Western Blue | 1
-Hapuku, Bass Groper, Eightbar Grouper and Trevalla(s), Blue-Eye | 2
-Redfish, Bight (Red Snapper, Nannygai) and Swallowtail | 2
-Rockcod, all species except Coral Trout and Coronation Trout | 2
+Hapuku, Bass Groper and Trevalla(s), Blue-Eye | 2
+Redfish, Bight (Red Snapper, Nannygai), Redfish, Yelloweye and Swallowtail | 2
+Rockcod, all species except Chinaman Rockcod, Coral Trout and Coronation Trout | 2
 Snapper (Pink Snapper) | 2
 Snapper, Queen | 2
 Tropical Snapper, all species except Golden Snapper (Fingermark), Mangrove Jack and Stripey Snapper | 2
-[Subdivision 2 inserted: Gazette 4 Oct 2019 p. 3556-7; amended: SL 2023/2 r. 24; SL 2024/263 r. 21(2).]
+[Subdivision 2 inserted: Gazette 4 Oct 2019 p. 3556-7; amended: SL 2023/2 r. 24; SL 2024/263 r. 21(2); SL 2026/85 r. 10.]
 ## Subdivision 3 — Abrolhos Island Fish Habitat Protection Area
 [r. 65BA]
 [Heading inserted: SL 2023/2 r. 25.]
@@ -55,21 +54,21 @@ Coral Trout and Coronation Trout | 1
 Dhufish, West Australian | 1
 Dory, John and Mirror | 1
 Emperor and Seabream | 1
-Foxfish, Western and Pigfish | 1
+Foxfish | 1
 Groper, Baldchin and Tuskfish | 1
 Groper, Western Blue | 1
-Hapuku, Bass Groper, Eightbar Grouper and Trevalla(s), Blue-Eye | 1
-Redfish, Bight (Red Snapper, Nannygai) and Swallowtail | 1
-Rockcod, all species except Coral Trout and Coronation Trout | 1
+Hapuku, Bass Groper and Trevalla(s), Blue-Eye | 1
+Redfish, Bight (Red Snapper, Nannygai), Redfish, Yelloweye and Swallowtail | 1
+Rockcod, all species except Chinaman Rockcod, Coral Trout and Coronation Trout | 1
 Snapper (Pink Snapper) | 1
 Snapper, Queen | 1
 Tropical Snapper, all species except Golden Snapper (Fingermark), Mangrove Jack and Stripey Snapper | 1
-[Subdivision 3 inserted: SL 2023/2 r. 25.]
+[Subdivision 3 inserted: SL 2023/2 r. 25; amended: SL 2026/85 r. 11.]
 ## Division 2 — Bag limits — large pelagic finfish
-[r. 65C]
-[Heading inserted: Gazette 4 Oct 2019 p. 3557.]
+[Heading inserted: Gazette 4 Oct 2019 p. 3557; amended: SL 2026/85 r. 12(1).]
 ## Subdivision 1 — Regions other than Abrolhos Island Fish Habitat Protection Area
-[Heading inserted: SL 2023/2 r. 26.]
+[r. 65C]
+[Heading inserted: SL 2023/2 r. 26; amended: SL 2026/85 r. 12(2).]
 Fish | Species bag limit for one day | Grouped bag limit of all species of large pelagic finfish for one day
 Amberjack, Samsonfish and Yellowtail Kingfish | 3 | 3
 Barracouta | 3
@@ -78,10 +77,9 @@ Billfish (Marlin, Sailfish) and Swordfish | 1
 Cobia | 3
 Dolphinfish (Mahi Mahi) | 3
 Mackerel (Grey, School, Shark, Spanish, Spotted) and Wahoo | 3
-Sharks and Rays | 3
 Trevally, Giant and Golden | 3
 Tuna (Bigeye, Longtail, Mackerel, Skipjack, Southern Bluefin, Yellowfin and Dogtooth) | 3
-[Subdivision 1 (formerly Division 2) inserted: Gazette 4 Oct 2019 p. 3557-8; amended: SL 2024/263 r. 21(3).]
+[Subdivision 1 (formerly Division 2) inserted: Gazette 4 Oct 2019 p. 3557-8; amended: SL 2024/263 r. 21(3); SL 2026/85 r. 12(3).]
 ## Subdivision 2 — Abrolhos Island Fish Habitat Protection Area
 [r. 65CA]
 [Heading inserted: SL 2024/263 r. 21(4).]
@@ -93,10 +91,15 @@ Billfish (Marlin, Sailfish) and Swordfish | 1
 Cobia | 3
 Dolphinfish (Mahi Mahi) | 3
 Mackerel (Grey, School, Shark, Spanish, Spotted) and Wahoo | 3
-Sharks and Rays | 3
 Trevally, Giant and Golden | 3
 Tuna (Bigeye, Longtail, Mackerel, Skipjack, Southern Bluefin, Yellowfin and Dogtooth) | 3
-[Subdivision 2 inserted: SL 2024/263 r. 21(4).]
+[Subdivision 2 inserted: SL 2024/263 r. 21(4); amended: SL 2026/85 r. 12(4).]
+## Subdivision 3 — Sharks and rays
+[r. 65CB]
+[Heading inserted: SL 2026/85 r. 13.]
+Fish | Grouped bag limit of all species of sharks and rays for 1 day
+Sharks and Rays | 3
+[Subdivision 3 inserted: SL 2026/85 r. 13.]
 ## Division 3 — Bag limits — nearshore or estuarine finfish
 [r. 65D]
 [Heading inserted: Gazette 4 Oct 2019 p. 3558.]

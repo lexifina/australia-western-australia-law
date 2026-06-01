@@ -39,6 +39,7 @@ Emperor | Lethrinus spp.
 Emperor, Bluespotted | Lethrinus punctulatus
 Emperor, Grass | Lethrinus laticaudis
 Emperor, Red | Lutjanus sebae
+Emperor, Redthroat | Lethrinus miniatus
 Emperor, Spangled | Lethrinus nebulosus
 Flathead | Platycephalus spp.
 Flathead, Longspine | Platycephalus grandispinis
@@ -161,7 +162,7 @@ Whiting, Yellowfin | Sillago schomburgkii
 Wrasse | Subfamily Labrinae
 Wrasse, Humphead Maori | Cheilinus undulatus
 Yellowtail Kingfish | Seriola lalandi
-[Division 1 inserted: SL 2024/263 r. 24.]
+[Division 1 inserted: SL 2024/263 r. 24; amended: SL 2026/85 r. 14.]
 ## Division 2 — Freshwater fish
 [Heading inserted: Gazette 4 Oct 2019 p. 3595.]
 Common name | Scientific name
