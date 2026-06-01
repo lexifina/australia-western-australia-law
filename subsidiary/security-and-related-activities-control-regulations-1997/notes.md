@@ -60,6 +60,7 @@ Security and Related Activities (Control) Amendment Regulations 2024 | SL 2024/1
 Police Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 3 | SL 2024/172 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Police Regulations Amendment (Firearms) Regulations 2024 Pt. 2 | SL 2024/296 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Police Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 4 | SL 2025/86 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Security and Related Activities (Control) Amendment Regulations 2026 | SL 2026/89 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2026 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
@@ -67,10 +68,9 @@ Defined terms
 Defined termProvision(s)
 accountant13A(1)
 analyst44
-ANZS3(2)
 approved testing equipment44
 approved training course3(1)
-AS3(2)
+Australian Standard17A(1)
 blood sampling equipment44
 business3(1)
 business activitySch. 1 cl. 1A
@@ -96,8 +96,7 @@ section3(1)
 Superintendent3(1)
 technologist44
 urine sampling equipment44
-written examination17(3)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
