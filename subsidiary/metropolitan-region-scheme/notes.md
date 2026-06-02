@@ -13,7 +13,7 @@ Metropolitan Region Scheme | 9 Aug 1963 p. 2318-25 | 30 Oct 1963 (see Gazette 1 
 [Note: subsequent amendments before the following item are not included]
 Planning and Development Amendment (Metropolitan Region Scheme) Act 2024 assented to 29 Oct 2024 | 31 Mar 2025 (see s. 2(b) and SL 2024/251 cl. 2)
 Metropolitan Region Scheme Amendment 1344/57 (Minor) | 9 Sep 2025 p. 1547-51 | 9 Sep 2025 (see Gazette 9 Sep 2025 p. 1547)
-Metropolitan Region Scheme Amendment 1388/57 (Minor) | 29 May 2026 p. 878-84 | 29 May 2026 (see Gazette 29 May 2026 p. 878)
+Metropolitan Region Scheme Amendment 1388/57 (Minor) | 29 May 2026 p. 878-84 (correction 2 Jun 2026 p. 912) | 29 May 2026 (see Gazette 29 May 2026 p. 878)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
