@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Dangerous Goods Safety (Explosives) Regulations 2007 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Dangerous Goods Safety (Explosives) Regulations 2007 | 31 Dec 2007 p. 6541-717 | r. 1 and 2: 31 Dec 2007 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2008 (see r. 2(b) and Gazette 29 Feb 2008 p. 669)
@@ -37,6 +37,10 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2023 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Dangerous Goods Safety (Explosives) Amendment Regulations 2024 | SL 2024/295 21 Dec 2024 | r. 1 and 2: 21 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Industrial Relations Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 2 | SL 2026/94 10 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -216,7 +220,7 @@ unsupervised access authorisation3
 UNTC3
 use3
 vessel111A(2)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
