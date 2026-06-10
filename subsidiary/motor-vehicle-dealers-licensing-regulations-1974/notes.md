@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Motor Vehicle Dealers (Licensing) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Motor Vehicle Dealers (Licensing) Regulations 1974 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Motor Vehicle Dealers (Licensing) Regulations 1974 | 29 Mar 1974 p. 1103-21 | 5 Apr 1974 (see Gazette 5 Apr 1974 p. 1180)
@@ -61,11 +61,15 @@ Commerce Regulations Amendment (Motor Vehicle Dealers and Repairers) Regulations
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 13 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 12 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 13 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 13 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 related company9(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
