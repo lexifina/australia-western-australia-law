@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Liquor Control Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Liquor Control Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Liquor Licensing Regulations 1989 | 27 Jan 1989 p. 209-61 | 1 Feb 1989 (see r. 2 and Gazette 27 Jan 1989 p. 263)
@@ -168,6 +168,10 @@ Liquor Control Amendment Regulations 2025 | SL 2025/9 22 Jan 2025 | r. 1 and 2: 
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 2) 2025 Pt. 4 | SL 2025/143 6 Aug 2025 | 7 Aug 2025 (see r. 2(b))
 Liquor Control Amendment Regulations (No. 2) 2025 | SL 2025/149 20 Aug 2025 | r. 1 and 2: 20 Aug 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Aug 2025 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 6 | SL 2025/187 12 Nov 2025 | 1 Jan 2026 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Liquor Control Regulations Amendment Regulations 2026 Pt. 2 | SL 2026/98 10 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Repealed by the Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 (Cwlth).
@@ -178,7 +182,7 @@ The Liquor Licensing Amendment Regulations (No. 2) 2001 r. 2(3) and (4) are tran
 The amendments in the Liquor Licensing Amendment Regulations 2004 r. 3 and 5 are not included because of an error in the reference to the provisions to be amended.
 The Liquor Control Amendment Regulations (No. 2) 2007 r. 12 could not have effect as the reference to the Liquor Licensing Act 1988 was changed to the Liquor Control Act 1988 under the Reprints Act 1984 s. 7(3)(gb) (see note above).
 Disallowed on 13 Sep 2012, see Gazette 18 Sep 2012 p. 4411.
-The Liquor Commission Amendment Regulations (No. 2) 2023 Pt. 4 will not come into operation because the Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 31 was deleted by the Liquor Control Amendment Act 2025 s. 128 before it purported to come into operation (see SL 2023/196 r. 2(d)).
+The Liquor Control Amendment Regulations (No. 2) 2023 Pt. 4 will not come into operation because the Liquor Control Amendment (Banned Drinkers Register) Act 2023 s. 31 was deleted by the Liquor Control Amendment Act 2025 s. 128 before it purported to come into operation (see SL 2023/196 r. 2(d)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -273,4 +277,4 @@ works canteen9A(3)
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
-By Authority: ROGER JACOBS, Acting Government Printer
+By Authority: ANDREW JONES, Government Printer
