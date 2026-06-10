@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Control of Vehicles (Off-road Areas) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Control of Vehicles (Off-road Areas) Regulations 1979 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Control of Vehicles (Off-road Areas) Regulations 1979 | 5 Oct 1979 pp.3127-41 | 5 Oct 1979
@@ -16,6 +16,10 @@ Control of Vehicles (Off-road Areas) Amendment Regulations 2015 | 18 Sep 2015 p.
  | Control of Vehicles (Off-road Areas) Amendment Regulations 2019 | 10 May 2019 p. 1403-4 | r. 1 and 2: 10 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2019 (see r. 2(b))
  | Control of Vehicles (Off-road Areas) Amendment Regulations 2020 | SL 2020/41 17 Apr 2020 | r. 1 and 2: 17 Apr 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2020 (see r. 2(b))
  | Local Government Regulations Amendment Regulations (No. 2) 2020 Pt. 3 | SL 2020/213 6 Nov 2020 | 7 Nov 2020 (see r. 2(b) and SL 2020/212 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Control of Vehicles (Off-road Areas) Amendment Regulations 2026 | SL 2026/100 10 Jun 2026 | 28 Jun 2026 (see r. 2)
 Other notes
 Under the Alteration of Statutory Designations Order 1984, references to the Department of Public Health are to be read as references to the Health Department.
 Defined terms
@@ -40,3 +44,7 @@ standard A23(1)
 standard B23(1)
 subregulation2
 the Act2
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
