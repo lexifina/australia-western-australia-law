@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Co-operatives Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Co-operatives Regulations 2010 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Co-operatives Regulations 2010 | 13 Aug 2010 p. 3765-970 | r. 1 and 2: 13 Aug 2010 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2010 (see r. 2(b) and Gazette 13 Aug 2010 p. 3975)
@@ -23,6 +23,10 @@ Commerce Regulations Amendment (Legal Profession) Regulations 2022 Pt. 3 | SL 20
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 6 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 6 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 6 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -50,7 +54,7 @@ scheme creditorSch. 7 cl. 1
 scheme memberSch. 7 cl. 1
 special resolutionSch. 1 cl. 1, Sch. 2 cl. 1, Sch. 3 cl. 1
 surplusSch. 1 cl. 63(4), Sch. 2 cl. 72(4), Sch. 3 cl. 72(7)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
