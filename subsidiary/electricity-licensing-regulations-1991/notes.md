@@ -69,6 +69,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
 Citation | Published | Commencement
 Commerce Regulations Amendment (Electricity) Regulations 2026 Pt. 2 Div. 3 | SL 2026/67 13 May 2026 | 1 Jul 2026 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 8 | SL 2026/95 10 Jun 2026 | Operative immediately after the Commerce Regulations Amendment (Electricity) Regulations 2026 r. 35 comes into operation (see r. 2(b))
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
@@ -78,7 +79,7 @@ Now called the Tradespersons’ Rights Regulation Act 1946 (Cwlth).
 The Electricity (Licensing) Amendment Regulations 2007 r. 5(4) reads as follows:
 5.Regulation 5 amended and transitional
 (4) For the purposes of the appointment of a person in accordance with the Electricity (Licensing) Regulations 1991 regulation 5(2)(b)(i) and (d)(i), as amended by this regulation, regard may be had to any period during which the person was the holder of an “A” grade licence for electrical installing work issued under the Electricity (Licensing) Regulations 1991, as in force before the commencement of this regulation.
-The Electricity (Licensing) Amendment Regulations 2018 were repealed by the Electricity (Licensing) Amendment Regulations (No. 3) 2018 regulation 10 before they came into operation, see Gazette 7 June 2018 p. 1824.
+The Electricity (Licensing) Amendment Regulations 2018 were repealed by the Electricity (Licensing) Amendment Regulations (No. 3) 2018 r. 10 before they came into operation, see Gazette 7 June 2018 p. 1824.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
