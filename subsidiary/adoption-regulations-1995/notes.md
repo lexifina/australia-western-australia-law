@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Adoption Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Adoption Regulations 1995 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Adoption Regulations 1995 | 29 Dec 1994 p. 7171-208 | 1 Jan 1995 (see r. 2 and Gazette 25 Nov 1994 p. 5905)
@@ -26,6 +26,10 @@ Child Protection Regulations Amendment (Fees and Payments) Regulations 2023 Pt. 
 Child Protection Regulations Amendment (Fees and Payments) Regulations 2024 Pt. 2 | SL 2024/108 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Adoption Amendment Regulations 2025 | SL 2025/96 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Adoption Amendment Regulations 2026 | SL 2026/37 1 Apr 2026 | r. 1 and 2: 1 Apr 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2026 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
+Citation | Published | Commencement
+Adoption Amendment Regulations (No.2) 2026 r. 3 and 4 | SL 2026/93 10 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Repealed by the Adoption Act 1994.
 Repealed by the Adoption Rules 1995.
