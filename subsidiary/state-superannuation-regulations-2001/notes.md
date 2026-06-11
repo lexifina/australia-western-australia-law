@@ -75,6 +75,8 @@ State Superannuation Amendment Regulations (No. 2) 2025 | SL 2025/59 16 Apr 2025
 State Superannuation Amendment Regulations (No. 3) 2025 | SL 2025/113 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 State Superannuation Amendment Regulations (No. 4) 2025 | SL 2025/131 9 Jul 2025 | r. 1 and 2: 9 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jul 2025 (see r. 2(b))
 State Superannuation Amendment Regulations 2026 | SL 2026/29 18 Mar 2026 | r. 1 and 2: 18 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2026 (see r. 2(b) and SL 2026/28 cl. 2)
+State Superannuation Amendment Regulations (No. 3) 2026 | SL 2026/96 10 Jun 2026 | r. 1 and 2: 10 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jun 2026 (see r. 2(b))
+State Superannuation Amendment Regulations (No. 2) 2026 | SL 2026/102 10 Jun 2026 | r. 1 and 2: 10 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Jun 2026 (see r. 2(b))
 Other notes
 The Superannuation and Family Benefits Act 1938 was repealed by the State Superannuation Act 2000 s. 39 but its provisions continue to apply to and in relation to certain schemes because of the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26, and those provisions may be amended by regulations under s. 26(3). Part 9 of these regulations sets out amendments to those provisions. The text of the Superannuation and Family Benefits Act 1938 as continued and amended under the State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 26 may be viewed at the following website: www.legislation.wa.gov.au.
 Footnote no longer applicable.
@@ -110,14 +112,13 @@ adjustment day12, Sch. 3 cl. 5
 AFCA scheme3(1)
 allocated pension fund171
 annual reporting day220
-ASICSch. 2 cl. 12
+ASICSch. 2 cl. 13
 ASIC workerSch. 2 cl. 13
 assessment notice49A(6), 81A(6)
 Australian Financial Complaints Authority3(1)
 average contribution rate12, 13(1)
 average Part 6 contribution rateSch. 2 cl. 17
-binding death benefit nomination48(1A), 80(1A), 121(1A),
-194(3), 196U(3), 219(1A)
+binding death benefit nomination48(1A), 80(1A), 121(1A), 194(3), 196U(3), 219(1A)
 casual worker12
 charge percentage3(1)
 close of nominations225
@@ -148,8 +149,7 @@ covered risk benefits Member50(1), 69G, 113A(1)
 covert allowance12
 CPI rate3(1)
 currentSch. 3 cl. 1(1)
-death benefit48(1), 49B(1), 80(1), 81B(1), 121(1), 126A(1),
-194(2), 196AE(1), 196U(2), 219(1), 219AE(1)
+death benefit48(1), 49B(1), 80(1), 81B(1), 121(1), 126A(1), 194(2), 196AE(1), 196U(2), 219(1), 219AE(1)
 default plan69A, 105, 183, 196J, 211
 deferred contributions option35(2)
 dependant3(1)
@@ -182,6 +182,7 @@ flag lifting agreement219A(2)
 former member3(1)
 former MemberSch. 3 cl. 55(2)
 former temporary resident3(1)
+fortnightly pay day171
 gainfully employed50(1), 83(1)
 GESB Super account3(1), 83(1)
 GESB Super Member3(1)
@@ -189,7 +190,7 @@ GESB Super (Retirement Access) Member3(1)
 GESB Super (Retirement Access) Scheme3(1)
 GESB Super Scheme3(1)
 GESB withdrawal benefit83(1)
-Gold State Super Member2(1)
+Gold State Super Member3(1)
 Gold State Super Scheme3(1)
 GSS withdrawal benefit12, Sch. 3 cl. 2
 health condition12, 50(1), 111A
@@ -201,6 +202,7 @@ inactive west state account3(1), 50(1B)
 industrial commissionerSch. 2 cl. 17
 insurance cover83(1), 220
 investment powers246B(4)
+Keystart3(1)
 Kiwisaver scheme83(1)
 life expectancy196P(4)
 limited binding death benefit nomination246C(1)
@@ -213,7 +215,7 @@ member contribution rate12, Sch. 3 cl. 5
 Member’s assets69E(3), 109(3), 187(4), 196N(4), 215(3)
 non-contributory periodSch. 2 cl. 7
 non-government contribution3(1)
-notice of inactivity2(1), 50(1B), 83(1B)
+notice of inactivity3(1), 50(1B), 83(1B)
 notional funded amount44D(4)
 notional unfunded amount44D(4)
 notional unreduced amount44D(4)
@@ -274,7 +276,7 @@ restricted non-preserved benefit3(1)
 retirement access account201
 retirement income account171
 Retirement Income (Lump Sum) Member194(1)
-Retirement Income Member2(1)
+Retirement Income Member3(1)
 Retirement Income Scheme3(1)
 retrenched19(2)
 retrenched transfereeSch. 2 cl. 1(1)
@@ -302,14 +304,14 @@ splittable contribution50(1), 83(1)
 splitting instrument219A(1)
 splitting order219A(2)
 statutory GESB Super Member83(1)
-statutory WSS Member50(1)
+statutory WSS Member3(1), 50(1)
 suffering permanent incapacity76(4), 118(5)
 suffers from a terminal medical condition3(1)
 superannuation agreement219A(2)
 superannuation fund3(1)
 superannuation interest219A(1)
 superannuation salary in respect of a contribution period26(1)
-tax saving amount2(1)
+tax saving amount3(1)
 temporarily incapacitated72(1), 116(1)
 term12G(1)
 term allocated pension196A
@@ -326,8 +328,9 @@ transferred contributor for limited benefitsSch. 2 cl. 5(1)
 transferred serviceSch. 2 cl. 1(1)
 unclaimed money3(1)
 UnionsWA225
-UniversitySch. 2 cl. 6(2) and 15
-University staff memberSch. 2 cl. 14(2)
+unique superannuation identifier12B(1)
+UniversitySch. 2 cl. 6(2), Sch. 2 cl. 15
+University staff memberSch. 2 cl. 15
 unpaid leave12
 unrecognised unpaid leave12
 unrestricted condition of release3(1)
@@ -336,7 +339,7 @@ unsplittable interest219A(2)
 value219A(1)
 voluntary GESB Super Member83(1)
 voluntary transfereeSch. 2 cl. 1(1)
-voluntary WSS Member50(1)
+voluntary WSS Member3(1), 50(1)
 west state account3(1), 50(1)
 West State Super Member3(1)
 West State Super Scheme3(1)
@@ -346,4 +349,4 @@ WSS withdrawal benefit50(1), Sch. 3 cl. 2
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
-By Authority: ROGER JACOBS, Acting Government Printer
+By Authority: ANDREW JONES, Government Printer

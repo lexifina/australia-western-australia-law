@@ -73,6 +73,7 @@
 27.Insurance Commission of Western Australia continued under the Insurance Commission of Western Australia Act 1986
 27A.Kalgoorlie-Boulder Cemetery Board established under the Cemeteries Act 1986
 28.Keep Australia Beautiful Council (W.A.) established under the Litter Act 1979
+28A.Keystart established under the Keystart Act 2024
 29.Legal Aid Commission of Western Australia established under the Legal Aid Commission Act 1976
 29A.Legal Practice Board established under the Legal Profession Uniform Law Application Act 2022
 29B.Local Health Authorities Analytical Committee established under the Health (Miscellaneous Provisions) Act 1911
@@ -109,4 +110,4 @@
 [67.deleted]
 68.WorkCover WA established by the Workers Compensation and Injury Management Act 2023
 69.Zoological Parks Authority established under the Zoological Parks Authority Act 2001
-[Division 2 amended: Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; Act No. 43 of 2006 s. 7; Gazette 13 Apr 2007 p. 1610; Act No. 10 of 2007 s. 43; No. 28 of 2008 s. 16; Gazette 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; 8 Nov 2019 p. 4006; SL 2021/181 r. 5; SL 2022/173 r. 5; SL 2024/133 r. 20; SL 2025/28 r. 4; SL 2025/59 r. 28; SL 2026/29 r. 4.]
+[Division 2 amended: Gazette 15 Aug 2003 p. 3692; 26 Aug 2003 p. 3757; 30 Dec 2003 p. 5725-6; 25 Jun 2004 p. 2232 and 2234; 1 Dec 2004 p. 5717; 31 Mar 2006 p. 1354; Act No. 43 of 2006 s. 7; Gazette 13 Apr 2007 p. 1610; Act No. 10 of 2007 s. 43; No. 28 of 2008 s. 16; Gazette 11 May 2012 p. 2064; 23 Jul 2013 p. 3312-13; 27 Dec 2013 p. 6479; 10 Jun 2014 p. 1806-7; 1 Jul 2016 p. 2750; 26 Aug 2016 p. 3668; 10 Jan 2017 p. 157; 8 Nov 2019 p. 4006; SL 2021/181 r. 5; SL 2022/173 r. 5; SL 2024/133 r. 20; SL 2025/28 r. 4; SL 2025/59 r. 28; SL 2026/29 r. 4; SL 2026/102 r. 26.]
