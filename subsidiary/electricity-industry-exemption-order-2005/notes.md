@@ -33,6 +33,7 @@ Electricity Industry Exemption Amendment Order 2023 | SL 2023/80 20 Jun 2023 | c
 Electricity Industry Exemption Amendment Order 2024 | SL 2024/3 10 Jan 2024 | cl. 1 and 2: 10 Jan 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Jan 2024 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 2) 2024 | SL 2024/85 29 May 2024 | cl. 1 and 2: 29 May 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 30 May 2024 (see cl. 2(b))
 Electricity Industry Exemption Amendment Order (No. 3) 2024 | SL 2024/182 4 Sep 2024 | cl. 1 and 2: 4 Sep 2024 (see cl. 2(a)); Order other than cl. 1 and 2: 5 Sep 2024 (see cl. 2(b))
+Electricity Industry Exemption Amendment Order 2026 | SL 2026/101 10 Jun 2026 | cl. 1 and 2: 10 Jun 2026 (see cl. 2(a)); Order other than cl. 1 and 2: 11 Jun 2026 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -57,8 +58,11 @@ Eucla15(1)
 exempt supplier6(1), 6A(1)
 FMG entity30(1)
 Fremantle Port Authority14(1)
+Hamersley Iron31(1)
 Hazelmere25(1)
 internet network26(1)
+Jinbi generating works31(1)
+Jinbi Project31(1)
 Karakin Wind Farm20(1)
 Kwinana site23(1)
 life support equipment6A(1)
@@ -74,13 +78,14 @@ property3A
 registered property6A(1)
 relevant Aboriginal community premises7A(1)
 relevant agreement10(1)
+relevant State agreement31(1)
 residential property3A
-retailer6(1)
+retailer6A(1)
 supplier4A(1) and (2), 4B
 supply address6A(1)
 SWIS3A
 Woodside Energy27(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
