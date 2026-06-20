@@ -24,7 +24,7 @@
 5. | Medicines, for each item —
  | (a)for holders of an entitlement card | no charge
  | (b)for other people who are — (i)veterans who hold a Gold Card or a White Card; or (ii)pensioners; or (iii)concessional beneficiaries | no more than $7.70
- | (c)for all other people (other than ineligible out-patients) — (i)at a participating hospital for an item on the PBS list (ii)at a participating hospital for an item not on the PBS list (iii)at a hospital that is not a participating hospital | PBS price up to a maximum of $31.60 no more than $25.30 no more than $25.30
+ | (c)for all other people (other than ineligible out-patients) | no more than $25
 ## Subdivision 4 — Same day patients
 [Heading inserted: SL 2024/104 cl. 5.]
 6. | Same day health service, other than a service subject to a charge set out in this Schedule and associated with the provision of such service —
@@ -35,7 +35,7 @@
 ## Subdivision 5 — Other services
 [Heading inserted: SL 2024/104 cl. 5.]
 7. | Accommodation for persons accompanying patients (except when parent accompanies sick child for medical wellbeing of sick child or breastfeeding, or when breastfed child accompanies sick mother) | $45 per day
-[Division 1 inserted: SL 2024/104 cl. 5; amended: SL 2024/170 cl. 4; SL 2024/235 cl. 4; SL 2025/75 cl. 4; SL 2025/126 cl. 4; SL 2025/219 cl. 4.]
+[Division 1 inserted: SL 2024/104 cl. 5; amended: SL 2024/170 cl. 4; SL 2024/235 cl. 4; SL 2025/75 cl. 4; SL 2025/126 cl. 4; SL 2025/219 cl. 4; SL 2026/105 cl. 5(1).]
 ## Division 2 — Compensable patients
 [Heading inserted: SL 2024/104 cl. 5.]
 ## Subdivision 1 — Compensable in-patients
@@ -49,14 +49,14 @@
 ## Subdivision 2 — Compensable out-patients
 [Heading inserted: SL 2024/104 cl. 5.]
 7. | For radiological service — for each item of service | $391
-8. | For medicines, subject to item 9, for each item — (a)at a participating hospital for an item on the PBS list (b)at a participating hospital for an item not on the PBS list (c)at a hospital that is not a participating hospital | PBS price up to a maximum of $31.60 $25.30 $25.30
+8. | For medicines, subject to item 9, for each item | no more than $25
 9. | For each other individual service (with any medicines supplied at the time of the initial service being treated as included in that service) | $391
 ## Subdivision 3 — Compensable same day patients
 [Heading inserted: SL 2024/104 cl. 5.]
 10. | Same day treatment in hospitals, other than day hospitals, nursing homes and nursing posts — (a)for a patient, not being a patient mentioned in paragraph (b), in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
  | (b)for a patient in Perth Children’s Hospital in respect of whose health services the Motor Vehicle (Third Party Insurance) Act 1943 applies or prima facie appears to apply | no charge
  | (c)for any other patient | $4 173 per day
-[Division 2 inserted: SL 2024/104 cl. 5; amended: SL 2024/170 cl. 5; SL 2025/126 cl. 4.]
+[Division 2 inserted: SL 2024/104 cl. 5; amended: SL 2024/170 cl. 5; SL 2025/126 cl. 4; SL 2026/105 cl. 5(2).]
 ## Division 3 — Magnetic resonance imaging
 Charges for magnetic resonance imaging services
 Item | Service | Charge (per study)

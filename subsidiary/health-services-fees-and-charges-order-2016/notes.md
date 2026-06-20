@@ -46,6 +46,7 @@ Health Services (Fees and Charges) Amendment Order (No. 6) 2024 | SL 2024/235 19
 Health Services (Fees and Charges) Amendment Order 2025 | SL 2025/75 19 May 2025 | cl. 1 and 2: 19 May 2025 (see cl. 2(a)); Order other than cl. 1 and 2: 20 May 2025 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 2) 2025 | SL 2025/126 27 Jun 2025 | cl. 1 and 2: 27 Jun 2025 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2025 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 3) 2025 | SL 2025/219 22 Dec 2025 | cl. 1 and 2: 22 Dec 2025 (see cl. 2(a)); Order other than cl. 1 and 2: 23 Dec 2025 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order 2026 | SL 2026/105 19 Jun 2026 | cl. 1 and 2: 19 Jun 2026 (see cl. 2(a)); Order other than cl. 1 and 2: 20 Jun 2026 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -92,9 +93,6 @@ nursing home bed3(1)
 nursing home type patient3(1)
 nursing home type private patient3(1)
 out-patient3(1)
-participating hospital3(1)
-PBS list3(1)
-PBS price3(1)
 pensioner3(1)
 pensioner concession card3(1)
 private in-patient3(1)
@@ -109,7 +107,7 @@ same day patient3(1)
 surgically implanted prosthesis 3(1)
 veteran3(1)
 White Card3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: ROGER JACOBS, Acting Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
