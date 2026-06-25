@@ -12,6 +12,7 @@ Education Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2
 Teacher Registration Regulations Amendment Regulations 2023 Pt. 2 | SL 2023/194 13 Dec 2023 | 19 Dec 2023 (see r. 2(b))
 Teacher Registration (Accreditation of Initial Teacher Education Programs) Amendment Regulations (No. 2) 2024 | SL 2024/240 27 Nov 2024 | r. 1 and 2: 27 Nov 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 28 Nov 2024 (see r. 2(b))
 Teacher Registration (Accreditation of Initial Teacher Education Programs) Amendment Regulations 2025 | SL 2025/161 3 Sep 2025 | r. 1 and 2: 3 Sep 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2025 (see r. 2(b))
+Teacher Registration (Accreditation of Initial Teacher Education Programs) Amendment Regulations 2026 | SL 2026/126 24 Jun 2026 | r. 1 and 2: 24 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2026 (see r. 2(b))
 Other notes
 1Now known as the Teacher Registration (Accreditation of Initial Teacher Education Programs) Regulations 2012; citation changed (see note under r. 1).
 Defined terms
@@ -23,8 +24,10 @@ AITSL 3
 applicant24(1)
 application3
 education provider3
+level10(1A)
 program3
-© State of Western Australia 2025.
+Southern Cross University4(1A)
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
