@@ -65,6 +65,7 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 20
 Electricity Regulations Amendment (Licensing) Regulations 2024 Pt. 2 | SL 2024/211 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Commerce Regulations Amendment (Electricity) Regulations 2026 Pt. 2 (other than Div. 3) | SL 2026/67 13 May 2026 | 14 May 2026 (see r. 2(c))
+Electricity (Licensing) Amendment Regulations 2026 | SL 2026/134 24 Jun 2026 | r. 1 and 2: 24 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2026 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
 Citation | Published | Commencement
