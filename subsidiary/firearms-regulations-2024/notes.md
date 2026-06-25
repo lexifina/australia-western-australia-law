@@ -4,6 +4,7 @@ Compilation table
 Citation | Published | Commencement
 Firearms Regulations 2024 | SL 2024/301 21 Dec 2024 | 31 Mar 2025 (see r. 2 and SL 2024/289 cl. 2)
 Firearms Amendment Regulations 2025 | SL 2025/33 5 Feb 2025 | 31 Mar 2025 (see r. 2 and SL 2024/289 cl. 2)
+Police Regulations Amendment (Significant Defence Events) Regulations 2026 Pt. 2 | SL 2026/127 24 Jun 2026 | 25 Jun 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -23,6 +24,7 @@ AS 4806:2006268(1)
 AS 4806.2:2006268(1)
 AS/NZS 2201.1:2007267(1)
 AS/NZS 3809:19983
+associated person212
 Association22(3)
 authorised apprentice166
 authorised entity190(4), (5) and (6)
@@ -37,7 +39,7 @@ business plan149
 business premises323(1)
 cartridge package177(1)
 class 1 accessory3
-close associate227(3), 228(4), 229(4)
+close associate215K(1), 227(3), 228(4), 229(4)
 club firearm131
 collected item120(4), 121(4)
 commencement day306
@@ -57,6 +59,8 @@ compliant strongroom requirements3, 266
 Crown land34A(1)
 current firearm25(8)
 customer81(2), 194(1)
+defence event212
+defence event activity212
 designated Agriculture/aquaculture Business Licence82
 diversification lease34A(1)
 eligible agreement172(2)
@@ -92,7 +96,7 @@ inert ammunition59
 large calibre handgun3
 law enforcement195, 198(3)
 Law Enforcement Licence195, 198(5)
-level 1 container3, 261
+level 1 container3, 261(1)
 level 1 storage3, 261(1) and (2)
 level 2 container3, 262(1)
 level 2 storage3, 262(1) and (2)
@@ -144,6 +148,7 @@ proposed range149, 152(1)
 protected hinges3
 range firearm149
 recipient183(2), 294(1) and (2)
+registered attendee212
 registered native title body corporate34A(1)
 registered native title claimant34A(1)
 registered shooting competition3, 141(3)
@@ -158,14 +163,14 @@ relevant discipline131, 133(2)
 relevant firearm122(3), 232(1)
 relevant firearm safety training course224(3)
 relevant information255(1)
-relevant item120(3), 121(3), 174(3), 181(1), 182(1), 183(1), 184(2)
+relevant item120(3), 121(3), 174(3), 181, 182(1), 183(1), 184(2)
 relevant part123(3)
 relevant person227(4), 228(5), 229(5)
 relevant production64(1)
 relevant service47
 relevant shooting activity150
 relevant training course49
-remote use device256
+remote use device3
 reputable shooting organisation25(1)
 required information48(1), 209(1)
 revolving rifle3
@@ -178,6 +183,7 @@ shooting area149
 shooting discipline3
 shooting gallery3
 significant ammunition124(3)
+significant defence event212
 significant firearm122(3)
 significant part123(3)
 significant structural change72(5)
@@ -190,6 +196,7 @@ storer3, 279
 student93(1)
 student of arms115
 suitable apprentice170(3)
+suitable for215G(1)
 supplier294(1) and (2)
 temporary hunting permission30
 theatrical performance59
@@ -215,7 +222,7 @@ unoccupied3
 unverified person237
 use120(1), 121(1)
 visitor157(1), 175(4), 176(4), 282(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

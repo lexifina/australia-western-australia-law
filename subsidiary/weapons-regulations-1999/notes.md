@@ -25,6 +25,7 @@ Citation | Published | Commencement
  | Weapons Amendment Regulations 2024 | SL 2024/267 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Dec 2024 (see r. 2(b))
  | Police Regulations Amendment (Edged Weapons and Move On Orders) Regulations 2024 Pt. 3 | SL 2024/282 18 Dec 2024 | 20 Dec 2024 (see r. 2(b))
  | Police Regulations Amendment (Firearms) Regulations 2024 Pt. 3 | SL 2024/296 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
+ | Police Regulations Amendment (Significant Defence Events) Regulations 2026 Pt. 3 | SL 2026/127 24 Jun 2026 | 25 Jun 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -34,15 +35,21 @@ aviation security inspector12A(1)
 baton3
 capsicum spray weapon3
 catapult3
+Commissioner15(1)
 crossbow14(1)
 custodial officer10A(1)
+defence event activity15(1)
 discharge3
 dramatic production13(1)
+exempt activity15(1)
 exempt arbalest14(1)
 exempt collector9(6)
 exempt event11(1)
-exemption notice13(1)
+exemption notice13(1), 15(1)
+exempt person15(1)
 exempt production13(1)
+exempt weapon15(1)
+exhibitor15(2)
 extendable baton8(2)
 injure or disable3
 maritime security inspector12A(1)
@@ -50,13 +57,15 @@ martial arts weapon3
 missile3
 participant11(1)
 possess11(1)
+registered attendee15(1)
 relevant date9(6)
 Secretary12A(1)
+significant defence event15(1)
 specified prohibited weapon9(6)
 specified weapon13(1)
 spray weapon3
 WA Disabled Sports Association (Inc.) member11(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
