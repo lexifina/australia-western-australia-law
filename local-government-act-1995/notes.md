@@ -77,14 +77,15 @@ Compilation table
  | Local Government Amendment Act 2023 Pt. 2 (other than s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85) | 11 of 2023 | 18 May 2023 | s. 3, 60, 86, 87 and 99: 19 May 2023 (see s. 2(1)(b)); s. 5(2) and (4), 7-11, 13-16, 19(1)-(3), 24 and 89: 21 Jun 2023 (see s. 2(1)(d) and SL 2023/77 cl. 2); s. 4, 5(1) and (3), 6, 12, 18, 19(4), 20, 21, 25 to 28, 31(2) and (3), 33 to 39, 40(1) and (2), 42 to 54, 56, 57, 71, 76(2), 77(3), 88 and 90 to 98: 1 Jul 2023 (see s. 2(1)(d) and SL 2023/92 cl. 2(a)); s. 58, 66, 70, 79(1) and 82: 19 Oct 2023 (see s. 2(1)(d) and SL 2023/157 cl. 2(a)); s. 17, 29, 30, 31(1), 32, 40(3), 41, 79(2) and 80: 1 Jan 2024 (see s. 2(1)(d), SL 2023/92 cl. 2(b) and SL 2023/157 cl. 2(b)); s. 23: 1 Jul 2024 (see s. 2(1)(d) and SL 2023/92 cl. 2(c))
 Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 10 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Electoral Amendment (Finance and Other Matters) Act 2023 Pt. 4 | 30 of 2023 | 11 Dec 2023 | 1 Jul 2024 (see s. 2(c))
-Local Government Amendment Act 2024 Pt. 2 (other than s. 27, 46-49, 51, 52(2), 53, 60, 65, 73, 76-83, 85, 88 and 137) 1 | 47 of 2024 | 6 Dec 2024 | s. 3, 4(3), 5-7, 14(1) and (3), 15, 18-26, 28-31, 34, 35, 37-39, 41-43, 50, 58, 59(2), 72(2), 84, 89, 115(2), 126-128, 130, 132, 135, 138, 141, 144, 152-154 and 159-161: 7 Dec 2024 (see s. 2(1)(b)); s. 8(2), 9, 10, 32, 33, 54, 62, 63, 145 and 158: 1 Feb 2025 (see s. 2(1)(i) and SL 2025/8 cl. 2); s. 143 and 146-151: 24 Jul 2025 (see s. 2(1)(i) and SL 2025/140 cl. 2); s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 36, 40, 44, 45, 52(1), 55-57, 59(1), 61, 64, 66-71, 72(1) and (3), 74, 75, 86, 87, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 139, 140, 142 and 155-157: 1 Jan 2026 (see s. 2(1)(e)(ii), (f)(ii) and (i) and (2), SL 2025/203 cl. 2 and SL 2025/207 cl. 2)
+Local Government Amendment Act 2024 Pt. 2 (other than s. 27, 46-49, 51, 52(2), 53, 60, 65, 73, 76-83, 85, 88 and 137) | 47 of 2024 | 6 Dec 2024 | s. 3, 4(3), 5-7, 14(1) and (3), 15, 18-26, 28-31, 34, 35, 37-39, 41-43, 50, 58, 59(2), 72(2), 84, 89, 115(2), 126-128, 130, 132, 135, 138, 141, 144, 152-154 and 159-161: 7 Dec 2024 (see s. 2(1)(b)); s. 8(2), 9, 10, 32, 33, 54, 62, 63, 145 and 158: 1 Feb 2025 (see s. 2(1)(i) and SL 2025/8 cl. 2); s. 143 and 146-151: 24 Jul 2025 (see s. 2(1)(i) and SL 2025/140 cl. 2); s. 4(1) and (2), 8(1), 11-13, 14(2), 16, 17, 36, 40, 44, 45, 52(1), 55-57, 59(1), 61, 64, 66-71, 72(1) and (3), 74, 75, 86, 87, 90-114, 115(1), 116-125, 129, 131, 133, 134, 136, 139, 140, 142 and 155-157: 1 Jan 2026 (see s. 2(1)(e)(ii), (f)(ii) and (i) and (2), SL 2025/203 cl. 2 and SL 2025/207 cl. 2)
 Petroleum Legislation Amendment Act 2024 s. 433 | 17 of 2024 | 14 May 2026 | 28 May 2026 (see s. 2(b) and SL 2026/70 cl 2
+Local Government Amendment (Rating of Certain Mining Licences) Act 2026 (other than s. 10) | 7 of 2026 | 25 Jun 2026 | s. 1 and 2: 25 Jun 2026 (see s. 2(1)(a)); s. 3-9: 26 Jun 2026 (see s. 2(1)(b)(i) and (c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Local Government Amendment Act 2023 s. 22, 55, 59, 61-65, 67-69, 72-75, 76(1), 77(1) and (2), 78, 81 and 83-85 | 11 of 2023 (as amended by No. 47 of 2024 s. 172) | 18 May 2023 | To be proclaimed (see s. 2(1)(d), (2) and (3))
 Local Government Amendment Act 2024 s. 27, 46-49, 51, 52(2), 53, 60, 65, 73, 76-83, 85, 137 and Pt. 3 Div. 4 | 47 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(1)(c), (d), (h) and (i))
-Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 Under the Local Government Act 1995 s. 10.3, modifications to s. 5.27, 5.28, 5.94, 6.2, 6.13, 6.33, 6.34, 6.35, 6.36, 6.45, 6.51 and 9.51 are prescribed in the Local Government (COVID-19 Response) Order 2020 (see SL 2020/57 published in Gazette 8 May 2020).
 Footnote no longer applicable.
@@ -258,7 +259,8 @@ References to the Executive Director were replaced by references to the Departme
 The superseded provisions as defined in the Local Government Amendment (Auditing) Act 2017 s. 22(1) were deleted on 1 Jan 2026 (see s. 22(2) and SL 2025/210 cl. 2).
 The Local Government Legislation Amendment Act 2019 s. 39(2) had not come into operation when it was deleted 7 Dec 2024 by the Local Government Amendment Act 2024 s. 174.
 The Local Government Amendment Act 2023 s. 81 and 85 had not come into operation when they were deleted on 1 Jan 2026 by the Local Government Amendment Act 2023 (see s. 2 as amended by the Local Government Amendment Act 2024 s. 172).
-1The Local Government Amendment Act 2024 s. 88 had not come into operation when it was deleted on 1 Jan 2026 by the Local Government Amendment Act 2024 (see s. 2(3) and SL 2025/210 cl. 2).
+The Local Government Amendment Act 2024 s. 88 had not come into operation when it was deleted on 1 Jan 2026 by the Local Government Amendment Act 2024 (see s. 2(3) and SL 2025/210 cl. 2).
+The Local Government Amendment (Rating of Certain Mining Licences) Act 2026 s. 10 was deleted on 25 Jun 2026 because the provisions it purported to amend were amended by the Petroleum Legislation Amendment Act 2024 s. 433 (see s. 2(1)(a) and (2)).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -421,6 +423,7 @@ Government agreement6.25
 Government Statistician2.16B(8)
 gross rental value6.25
 group self-insurer licence5.49(1)
+imposed rate10.2(2)
 inaugural election1.4, 4.2(2)
 income5.80(4)
 Independent Inquiry1.4
@@ -449,6 +452,8 @@ lessee6.60(1)
 lessor6.60(1)
 liability6.14A
 liable8B.55(3)
+licence holder10.4(1)
+licence land10.1
 local government1.4, 9.15
 local government audit7.1
 local government property1.4
@@ -464,6 +469,8 @@ member1.4, 5.59, Sch. 2.5 cl. 1, Sch. 5.1 cl. 1
 member of a parliament2.20(2)
 metropolitan area1.4
 minimum payment6.1
+mining tenement1.4
+miscellaneous licence1.4
 misconduct8B.6(2), 8B.25(2)
 model code 5.102A
 model standards5.39B(1)
@@ -545,7 +552,7 @@ public facility9.46(4)
 publish4.88(4), 5.90(2)
 quotaSch. 4.1 cl. 7
 rate9.40(3)
-rate record6.25
+rate record6.25, 10.1
 recording5.23AA(5), 5.23A(1)
 recurrent breach1.4, 8A.3(4)
 recurrent suspension event2.25A(2)
@@ -557,6 +564,7 @@ reinstatement8.15D
 relative5.74(1)
 relevant district2.45(2)
 relevant election1.4A(2)
+relevant financial year10.1
 relevant gift 5.71B(1)
 relevant information4.52(1)
 relevant interest6.29(1)
@@ -585,6 +593,7 @@ service charge6.1, 6.42, 6.54, 6.63
 shared committee7.1CB(1)
 show cause notice8.15B(1)
 significant act3.73(1)
+small prospecting licence1.4
 specified3.38, 4.1C(2), 4.1D(2), 9.10(1), Sch. 9.3 cl. 54(1), 62(1), 81(1)
 specified area rate6.1
 specified breach1.4, 8A.4(1)
@@ -625,6 +634,7 @@ unsuccessful candidateSch. 4.1A cl. 4(1)
 use4.46A(1)
 vacancy daySch. 4.1A cl. 1, 2(1)
 vacant land6.25
+validation day10.1
 value5.62(2)
 vehicle3.38
 vehicle offence9.13(1)
