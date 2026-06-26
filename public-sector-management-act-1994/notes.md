@@ -116,6 +116,7 @@ Workers Compensation and Injury Management Act 2023 Pt. 15 Div. 3 Subdiv. 15 | 2
 Industrial Relations Legislation Amendment Act 2024 Pt. 4 Div. 4 | 43 of 2024 | 13 Nov 2024 | 31 Jan 2025 (see s. 2(c))
 Keystart Act 2024 Pt. 8 Div. 5 | 44 of 2024 | 13 Nov 2024 | Pt. 8 Div. 5 (other than s. 68): 14 Nov 2024 (see s. 2(b)(v)); s. 68: 19 Mar 2026 (see s. 2(c) and SL 2026/28 cl. 2)
 Public Sector Management (Act Amendment) Regulations 2025 (SL 2025/121) | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
+Public Sector Management Amendment Act 2026 | 8 of 2026 | 25 Jun 2026 | s. 1 and 2: 25 Jun 2026 (see s. 2(a)); Act other than s. 1 and 2: 26 Jun 2026 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -209,4 +210,4 @@ Tribunal57(2)
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
-By Authority: ROGER JACOBS, Acting Government Printer
+By Authority: ANDREW JONES, Government Printer
