@@ -44,18 +44,17 @@ Local Government Legislation Amendment Act 2019 Pt. 4 Div. 4 | 16 of 2019 | 5 Ju
 Swan Valley Planning Act 2020 Pt. 10 Div. 1 | 45 of 2020 | 9 Dec 2020 | 1 Aug 2021 (see s. 2(1)(e) and SL 2021/124 cl. 2)
 Aboriginal Cultural Heritage Act 2021 s. 345 | 27 of 2021 | 22 Dec 2021 | 1 Jul 2023 (see s. 2(e) and SL 2023/40 cl. 2(b))
 Aboriginal Heritage Legislation Amendment and Repeal Act 2023 s. 26 | 23 of 2023 | 24 Oct 2023 | 15 Nov 2023 (see s. 2(d) and SL 2023/161 cl. 2)
-Control of Vehicles (Off-road Areas) Amendment Act 2025 (other than s. 4, 5(1)-(3), 6, 7(1), 8 and 13) | 8 of 2025 | 22 Aug 2025 | s. 1 and 2: 22 Aug 2025 (see s. 2(a)); s. 3, 5(4), 7(2), 9-12, 14 and 15: 23 Aug 2025 (see s. 2(b))
+Control of Vehicles (Off-road Areas) Amendment Act 2025 | 8 of 2025 | 22 Aug 2025 | s. 1 and 2: 22 Aug 2025 (see s. 2(a)); s. 3, 5(4), 7(2), 9-12, 14 and 15: 23 Aug 2025 (see s. 2(b)); Act other than s. 1-3, 5(4), 7(2), 9-12, 14 and 15: 28 Jun 2026 (see s. 2(c) and SL 2026/99 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Control of Vehicles (Off-road Areas) Act 1978 s. 11 | 117 of 1978 (as amended by No. 7 of 2002 s. 7 and No. 8 of 2012 s. 65) | 12 Dec 1978 | To be proclaimed (see s. 2)
 Aquatic Resources Management Act 2016 s. 365 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Control of Vehicles (Off-road Areas) Amendment Act 2025 s. 4, 5(1)-(3), 6, 7(1), 8 and 13 | 8 of 2025 | 22 Aug 2025 | 28 Jun 2026 (see s. 2(c) and SL 2026/99 cl. 2)
-Evidence Act 2025 Pt. 12 Div. 8 | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
 Other notes
 The Machinery of Government (Planning and Infrastructure) Amendment Act 2002 s. 11(2) and (3) are transitional provisions that are of no further effect.
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 12 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
+The Evidence Act 2025 Pt. 12 Div. 8 will not come into operation as the section it purported to amend was deleted by the Control of Vehicles (Off-road Areas) Amendment Act 2025 s. 4(1) on 28 Jun 2026 (see s. 2(c) and SL 2026/99 cl. 2).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -84,7 +83,7 @@ road3(1)
 seat belt3(1)
 seat position3(1)
 vehicle3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ANDREW JONES, Government Printer
