@@ -4,11 +4,11 @@ Compilation table
 Citation | Published | Commencement
 Workers Compensation and Injury Management Regulations 2024 | SL 2024/36 20 Mar 2024 | 1 Jul 2024 (see r. 2)
 Workers Compensation and Injury Management Amendment Regulations 2024 | SL 2024/89 12 Jun 2024 | 1 Jul 2024 (see r. 2)
-Workers Compensation and Injury Management Amendment Regulations 2026 (other than r. 4 and 5) | SL 2026/35 1 Apr 2026 | 2 Apr 2026 (see r. 2(d))
+Workers Compensation and Injury Management Amendment Regulations 2026 (other than r. 4) | SL 2026/35 1 Apr 2026 | r. 1 and 2: 1 Apr 2026 (see r. 2(a)); Regulations other than r. 1, 2, 4 and 5: 2 Apr 2026 (see r. 2(d)); r. 5: 4 pm on 30 Jun 2026 (see r. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
 Citation | Published | Commencement
-Workers Compensation and Injury Management Amendment Regulations 2026 r. 4 and 5 | SL 2026/35 1 Apr 2026 | r. 5: 4 pm on 30 Jun 2026 (see r. 2(c)); r. 4: 1 Jul 2027 (see r. 2(b))
+Workers Compensation and Injury Management Amendment Regulations 2026 r. 4 | SL 2026/35 1 Apr 2026 | 1 Jul 2027 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -50,7 +50,6 @@ election document123
 electronic notification128(1)
 ENT specialist3, 47(1)
 financial year67(1)
-fishing vessel17(1)
 former Act100(1)
 former Act NIHL claim150(1)
 former regulations148
