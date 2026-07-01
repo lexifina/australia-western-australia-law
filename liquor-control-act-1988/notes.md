@@ -62,15 +62,13 @@ Directors’ Liability Reform Act 2023 Pt. 3 Div. 36 | 9 of 2023 | 4 Apr 2023 | 
 Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 (other than Div. 3) | 25 of 2023 | 10 Nov 2023 | 14 Dec 2023 (see s. 2(b) and SL 2023/191 cl. 2)
 Health Practitioner Regulation National Law Application Act 2024 Pt. 6 Div. 1 | 21 of 2024 | 14 May 2024 | 15 May 2024 (see s. 2(c))
 Statutes (Repeals and Minor Amendments) Act 2025 s. 8 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
-Liquor Control Amendment Act 2025 Pt. 2 | 20 of 2025 | 12 Dec 2025 | 13 Dec 2025 (see s. 2(b))
+Liquor Control Amendment Act 2025 Pt. 2 and 3 | 20 of 2025 | 12 Dec 2025 | Pt. 2: 13 Dec 2025 (see s. 2(b)); Pt. 3: 1 Jul 2026 (see s. 2(c) and SL 2026/87 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Prostitution Amendment Act 2008 s. 32 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
 Liquor Legislation Amendment Act 2015 s. 26 | 35 of 2015 | 2 Nov 2015 | To be proclaimed (see s. 2(b))
 Public Health (Consequential Provisions) Act 2016 Pt. 5 Div. 12 | 19 of 2016 | 25 Jul 2016 | To be proclaimed (see s. 2(1)(c))
-Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
-Liquor Control Amendment Act 2025 Pt. 3 | 20 of 2025 | 12 Dec 2025 | 1 Jul 2026 (see s. 2(c) and SL 2026/87 cl. 2)
 Other notes
 The provision in this Act repealing the Liquor Act 1970 has been omitted under the Reprints Act 1984 s. 7(4)(f).
 Repealed by the Public Sector Management Act 1994.
@@ -81,20 +79,21 @@ Now known as the Liquor Control Act 1988; short title changed (see note under s.
 The Courts Legislation Amendment Act 2000 s. 14 is a transitional provision that is of no further effect.
 The Liquor Licensing Amendment Act 2001 s. 5(2) and 6(2) are transitional provisions that are of no further effect.
 The Liquor Control Amendment (Banned Drinkers Register) Act 2023 Pt. 2 Div. 3 was deleted by the Liquor Control Amendment Act 2025 s. 128 before it purported to come into operation.
+The Evidence Act 2025 s. 492(1) Table which amends the Liquor Control Act 1988 s. 16(7) will not come into operation as the subsection it purported to amend was deleted by the Liquor Control Amendment Act 2025 s. 70 on 1 Jul 2026 (see s. 2(c) and SL 2026/87 cl. 2)
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 3 unrelated adults117(2b)
 ActSch. 1 cl. 1(1)
+advertised application3(1), 68(3)
 alcohol-related infringement notice152Y
 alcohol-related offence152Y
 alleged offence167(1)
 alleged offender167(1)
-applicable day65A(1)
 applicant152N, Sch. 1B cl. 4(1)
-application152W(1), Sch. 1 cl. 1(1)
+application65C, 152W(1), Sch. 1 cl. 1(1)
 appointed daySch. 1 cl. 1(1)
-approved form167(1)
+approved form3(1)
 approved form of identification152ZF(1)
 approved manager102A, Sch. 1B cl. 1
 approved restricted manager3(1)
@@ -116,7 +115,6 @@ casino complex agreement3(1)
 casino gaming licence3(1)
 casino liquor licence3(1)
 cellar door permit3(1), 61A(1)
-chairperson3(1)
 changed precinct details152NZO(2)
 change to a protected entertainment precinct152NZO(1)
 Chief Health Officer3(1)
@@ -124,7 +122,6 @@ club49(1), Sch. 2 cl. 1, Sch. 2 cl. 1
 club licence3(1)
 club restricted licence3(1)
 commencement daySch. 1A cl. 1, Sch. 1B cl. 1, Sch. 1C cl. 2(1) and 3(1), Sch. 1D cl. 1
-Commission3(1)
 Commissioner of Police3(1)
 Committee of ManagementSch. 2 cl. 1
 condition3(1)
@@ -141,6 +138,7 @@ custodial officer152NZQ(1)
 decision3(1)
 Department3(1)
 Department’s website3(1)
+designated authorised officer3(1)
 detainee152NZQ(1)
 dining area3(1)
 director3(1)
@@ -148,22 +146,25 @@ Director3(1)
 Director of Liquor Licensing3(1)
 disqualified3(1)
 document152NZP
+document under this ActSch. 1F cl. 11(2)
 driver109A(1)
 drunk3(1), 3A(1)
 electronic means152NZP
 employed152A
 employee3(7), 95(1A), 165(4)
-excluded offender152NC, 152NZJ.(2)
+excluded offender152NC, 152NZJ(2)
 exclusion order152NC
-exclusion period152NC, 152NZJ.(4)
+exclusion period152NC, 152NZJ(4)
 existingSch. 1F cl. 1(2)
 extended exclusion order152NC, Sch. 1D cl. 1
 extended exclusion order respondent152NC
 extended trading permit3(1)
+final annual reportSch. 1F cl. 13(1)
 first police BDO152Y, 152YD(1)
 former ActSch. 1A cl. 1
 function3(1)
 Gaming and Wagering Commission3(1)
+general submission3(1), 76G(1)
 geographical indication61A(1)
 gross turnover3(1)
 guest3(1)
@@ -172,10 +173,12 @@ host club48(5)
 hotel licence3(1)
 hotel restricted licence3(1)
 identification notice37B(1)
+identity card9(2)
 ID system152Y, 152ZI(1)
+information10(1)
 infringement notice167(1)
 inspector3(1)
-interested person25(1A)
+interested person3(1)
 interstate supplier59A(1)
 juvenile3(1)
 kind3(1)
@@ -183,12 +186,11 @@ LeagueSch. 2 cl. 1
 lease3(1)
 lessee3(1)
 lessor3(1)
-licence3(1), Sch. 1 cl. 1(1)
+licence3(1), Sch. 1 cl. 1(1), Sch. 3 cl. 1(2)
 licence fee3(1)
 licence period3(1)
 licensed premises3(1), 153(3), 154(4), Sch. 1 cl. 1(1)
 licensee3(1), Sch. 1 cl. 1(1)
-licensing authority3(1)
 liquor3(1)
 liquor accord64(1b), 174B(1)
 liquor merchant3(1)
@@ -197,8 +199,9 @@ liquor restriction declaration152N
 liquor store licence3(1)
 local packaged liquor requirements36B(1)
 lodger3(1)
+long-term extended hours permitSch. 3 cl. 2(2)
 manager3(1)
-manager’s approval102A
+manager’s approval102A, Sch. 3 cl. 13(1)
 meal3(1)
 medical practitioner152YQ(1)
 member3(1)
@@ -207,16 +210,20 @@ metropolitan area3(1)
 modified penalty167(1)
 named juvenile152NZP, 152NZQ(3)
 named person152NZP, 152NZQ(4)
-newSch. 1F cl. 1(1)
+newSch. 1F cl. 1(1) and 6
 new ActSch. 1A cl. 1
-new exclusion order152NZH(3)
 nightclub licence3(1)
 non-liquor business on licensed premises119A(1)
+objection3(1), 73(1), (2), (3), (4) and (5)
 occasional licence3(1)
 occupier152N
 officer164(2)
+official3(1), 76A
+official submission3(1), 76
+oldSch. 1F cl. 6
 old licence Sch. 1C cl. 2(1)
 old section 35BSch. 1B cl. 1
+original applicant172Q(2)
 original order152YJ(5), 152YW(6)
 owner3(1)
 packaged liquor3(1), 59A(1)
@@ -225,9 +232,10 @@ packaged liquor outlet36A(1)
 packaged liquor premises36B(1), 77A(1)
 Parliamentary Commissioner152NZV(1)
 Part 2 commencement daySch. 1F cl. 1(1)
-party to proceedings3(1)
+Part 3 commencement daySch. 1F cl. 6
 permit3(1), Sch. 1 cl. 1(1)
 permitted hours3(1)
+person aggrieved172O(3)
 personal details152NZM(1), 152YI(1)
 personal particulars115AC(1A), 152K(1A), 152NZC(1), 152NZT(1)
 petrol station36A(1), 65A(1)
@@ -252,18 +260,17 @@ reception3(1)
 reception area3(1)
 recipient152ZG(1)
 record3(1)
+referenceSch. 1F cl. 11(2)
 Register103AA(1)
 registered152Y
 regulated premises3(1)
 related body corporate3(1)
 relative3(1)
 relevant liquor57(1)
-relevant material152NZJ.(1)
-relevant matters69(8b)
+relevant material152NZJ(1)
 relevant period57(1), 93(1a)
-relevant person152A
+relevant person152A, 172N
 relevant power152NI(1)
-relevant written notice152NZB(1)
 removal3(1)
 repealed ActSch. 1 cl. 1(1)
 responsible person3(1)
@@ -271,7 +278,9 @@ restaurant3(1)
 restaurant licence3(1)
 restriction order152NZF(1)
 retail section36B(1), 77A(1)
-reviewable decision25(1A)
+reviewable decision172O(2)
+reviewable short-term exclusion orderSch. 3 cl. 20(3)
+review applicant172Q(1)
 sample3(1)
 second police BDO152Y, 152YD(2)
 Secretary3(1)
@@ -292,13 +301,14 @@ special event notice126E(1)
 special facility licence3(1)
 specified31(8), 40(3), 53(2), 59(6), 60(9), 99(5), 115AA(1), 126E(1), 172(12)
 specified exception152NZI(1)
-specified offence152NZJ.(1), Sch. 1D cl. 1
+specified offence152NZJ(1), Sch. 1D cl. 1
 spirits3(1)
 sports arena110(4B)
 State Branch HeadquartersSch. 2 cl. 1
 State ExecutiveSch. 2 cl. 1
 subject person152NC
-submission72A(1)
+submission69(1)
+submission deadline3(1), 68(4)
 subsequent police BDO152Y, 152YD(3)
 substance3(1)
 superintendent152NZQ(1)
@@ -309,9 +319,10 @@ tavern restricted licence3(1)
 the required day62(4)
 this Act3(1)
 townsite3(1)
+transfer daySch. 1F cl. 14
 transitional regulationsSch. 1A cl. 10(1)
 transitioned approvalSch. 1B cl. 3(1)
-Tribunal25A(1)
+Tribunal3(1)
 trustee3(1)
 undertaking permitted travel152NZK(2)
 vehicle3(1), 109A(1)
@@ -320,7 +331,7 @@ wholesaler’s licence3(1)
 wine3(1)
 wine producing region61A(1)
 working day152NZR(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ANDREW JONES, Government Printer
