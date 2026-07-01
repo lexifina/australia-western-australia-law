@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -64,19 +64,12 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 20
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 7 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Electricity Regulations Amendment (Licensing) Regulations 2024 Pt. 2 | SL 2024/211 16 Oct 2024 | 17 Oct 2024 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
-Commerce Regulations Amendment (Electricity) Regulations 2026 Pt. 2 (other than Div. 3) | SL 2026/67 13 May 2026 | 14 May 2026 (see r. 2(c))
+Commerce Regulations Amendment (Electricity) Regulations 2026 | SL 2026/67 13 May 2026 | Pt. 2 (other than Div. 3): 14 May 2026 (see r. 2(c)); Pt. 2 Div. 3: 1 Jul 2026 (see r. 2(b))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 8 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations 2026 | SL 2026/134 24 Jun 2026 | r. 1 and 2: 24 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2026 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
-Citation | Published | Commencement
-Commerce Regulations Amendment (Electricity) Regulations 2026 Pt. 2 Div. 3 | SL 2026/67 13 May 2026 | 1 Jul 2026 (see r. 2(b))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 8 | SL 2026/95 10 Jun 2026 | Operative immediately after the Commerce Regulations Amendment (Electricity) Regulations 2026 r. 35 comes into operation (see r. 2(b))
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
-Repealed by the Training Legislation Amendment and Repeal Act 2008 s. 50.
-The Training Legislation Amendment and Repeal Act 2008 Pt. 2 came into operation 10 June 2009.
-Now called the Tradespersons’ Rights Regulation Act 1946 (Cwlth).
 The Electricity (Licensing) Amendment Regulations 2007 r. 5(4) reads as follows:
 5.Regulation 5 amended and transitional
 (4) For the purposes of the appointment of a person in accordance with the Electricity (Licensing) Regulations 1991 regulation 5(2)(b)(i) and (d)(i), as amended by this regulation, regard may be had to any period during which the person was the holder of an “A” grade licence for electrical installing work issued under the Electricity (Licensing) Regulations 1991, as in force before the commencement of this regulation.
@@ -88,13 +81,15 @@ agent50AA(1)
 apprentice3(1)
 approved5(1a)
 approved CPR course32A
+approved form3(1)
 AS3(1)
 AS/NZS3(1)
 Australian/New Zealand Wiring Rules3(1)
 Board3(1)
 casual vacancy8(4)
 chairperson3(1)
-commencement day32A, 49(2B), 67(1)
+commencement day32A, 49(2B), 67(1), 68(1)
+competency test29(1)
 competent person54A(1)
 completion period32A
 construction project52BB(1)
@@ -126,9 +121,9 @@ employer of an electrical worker in training50AA(1)
 endorsed electrician’s licence32A
 energised3(1)
 eNotice portal3(1)
-executive officer3(1)
 flexible cord19(1A)
 former apprentice50AB(1)
+former register68(1)
 holder of a licence46(1a), 47(1aa)
 in-house electrical installing work3(1)
 in-house electrical installing work licence3(1)
@@ -149,6 +144,8 @@ nominee3(1)
 notice of completion52A(1)
 notifiable work3(1), 52BB(2)
 notifiable work of an electrical contractor52BB(1)
+original document60(1)
+original expiry day26(2C), 26A(1)
 permit3(1)
 person47(1ab), 47A(1a)
 person employing an electrical worker in training50AA(1)
@@ -158,13 +155,16 @@ pressure3(1)
 private generating plant3(1), 4AA(1)
 professionally qualified engineer19(1A)
 Regional Power Corporation3(1)
+register3(1)
 relevant licence45A(1)
 relevant network operator3(1)
 relevant training contract19(1A)
+replacement document60(2)
 required time51(3)
 revenue meter52BB(1)
 risk assessment54A(1)
 servicing19(1A)
+specified person45A(1)
 supervising electrical worker49C(1), 50(3)
 temporary builders supply52B(4A)
 transportable structure3(1)
