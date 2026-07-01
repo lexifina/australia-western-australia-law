@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Education and Care Services National Law Application Act 2026. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Education and Care Services National Law Application Act 2026 (other than Pt. 6 Div. 1 and 2) | 2 of 2026 | 31 Mar 2026 | Pt. 1 (but only s. 1 and 2): 31 Mar 2026 (see s. 2(1)(a)); Act other than s. 1 and 2 and Pt. 6 Div. 1 and 2: 1 May 2026 (see s. 2(1)(d) and (2) and SL 2026/50 cl. 2)
+Education and Care Services National Law Application Act 2026 (other than Pt. 6 Div. 2) | 2 of 2026 | 31 Mar 2026 | Pt. 1 (but only s. 1 and 2): 31 Mar 2026 (see s. 2(1)(a)); Act other than s. 1 and 2 and Pt. 6 Div. 1 and 2: 1 May 2026 (see s. 2(1)(d) and (2) and SL 2026/50 cl. 2); Pt. 6 Div. 1: 1 Jul 2026 (see s. 2(1)(b) and SL 2026/128 cl. 2(d))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Education and Care Services National Law Application Act 2026 Pt. 6 Div. 1 and 2 | 2 of 2026 | 31 Mar 2026 | Pt. 6 Div. 1: if 2024/051 Sch. 1 comes into operation on or before s. 30 of this Act: immediately after s. 30 of this Act comes into operation, otherwise on the day on which 2024/051 Sch. 1 comes into operation (see s. 2(1)(b)); Pt. 6 Div. 2: if the Early Childhood Legislation Amendment (Child Safety) Act 2025 (Vic) has effect for the purposes of Pt. 2 under s. 7(2), on the last day on which a provision of that Act comes into operation under s. 8 (see s. 2(1)(c))
+Education and Care Services National Law Application Act 2026 Pt. 6 Div. 2 | 2 of 2026 | 31 Mar 2026 | 1 Nov 2026 (see SL 2026/211 cl. 2(2))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
