@@ -37,6 +37,7 @@ Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2024 | SL 2
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 3) 2024 | SL 2024/248 5 Dec 2024 | bl. 1 and 2: 5 Dec 2024 (see bl. 2(a)); By-laws other than bl. 1 and 2: 20 Dec 2024 (see bl. 2(b) and SL 2024/277 cl. 2)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2025 | SL 2025/39 27 Feb 2025 | bl. 1 and 2: 27 Feb 2025 (see bl. 2(a)); By-laws other than bl. 1 and 2: 31 Mar 2025 (see bl. 2(b) and SL 2024/289 cl. 2)
 Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws (No. 2) 2025 | SL 2025/127 30 Jun 2025 | bl. 1 and 2: 30 Jun 2025 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2025 (see bl. 2(b))
+Queen Elizabeth II Medical Centre (Delegated Site) Amendment By-laws 2026 | SL 2026/139 26 Jun 2026 | bl. 1 and 2: 26 Jun 2026 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2026 (see bl. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Citation | Published | Commencement
@@ -79,7 +80,7 @@ ticket3(1)
 ticket parking area26AA(1)
 ticket vending machine3(1)
 vehicle3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
