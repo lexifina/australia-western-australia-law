@@ -17,6 +17,7 @@ Health Services (Conduct and Traffic) Amendment Regulations 2024 | SL 2024/281 1
 Health Regulations Amendment (Firearms) Regulations 2024 Pt. 2 | SL 2024/297 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Health Services (Conduct and Traffic) Amendment Regulations 2025 | SL 2025/1 8 Jan 2025 | r. 1 and 2: 8 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jan 2025 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 4 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 4 | SL 2026/121 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -52,7 +53,7 @@ ticket parking area19(1)
 ticket parking feeSch. 1 cl. 1(1)
 ticket vending machine3(1)
 vehicle3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

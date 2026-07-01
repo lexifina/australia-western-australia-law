@@ -22,6 +22,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Health (Pesticides) Amendment Regulations 2025 | SL 2025/44 19 Mar 2025 | r. 1 and 2: 19 Mar 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Mar 2025 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2024/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 3 | SL 2026/121 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -93,7 +94,7 @@ under personal supervision3
 undertake3
 used pesticide container81
 verge81
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

@@ -71,6 +71,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 9 | SL 2023
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 9 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Health Regulations Amendment (Firearms) Regulations 2024 Pt. 3 | SL 2024/297 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 9 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 10 | SL 2026/121 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Footnote no longer applicable.
 The Standards Association of Australia has changed its corporate status and its name. It is now Standards Australia International Limited (ACN 087 326 690). It also trades as Standards Australia.
@@ -195,7 +196,7 @@ user5(7)
 veterinary surgeon3(1)
 x-ray operator3(1)
 x-rays3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

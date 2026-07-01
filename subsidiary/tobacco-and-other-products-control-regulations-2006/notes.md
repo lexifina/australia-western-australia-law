@@ -36,6 +36,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 11 | SL 202
 Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 11 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Tobacco Products Control Amendment Regulations 2025 | SL 2025/105 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1, 2 and 5: 26 Jun 2025 (see r. 2(c)); r. 5: 1 Jul 2025 (see r. 2(b))
 Tobacco Products Control Amendment Regulations 2026 | SL 2026/59 12 May 2026 | 13 May 2026 (see r. 2)
+Health Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 12 | SL 2026/121 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Now known as the Tobacco and Other Products Control Regulations 2006; citation changed (see note under r. 1).
 Defined terms

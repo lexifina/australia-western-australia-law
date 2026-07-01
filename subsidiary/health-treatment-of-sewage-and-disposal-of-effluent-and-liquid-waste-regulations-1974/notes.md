@@ -55,6 +55,7 @@ Health Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 5 | SL 2022
 Health Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 5 | SL 2023/96 30 Jun 2023 | 1 Jul 2023 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 5 | SL 2024/91 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 5 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Health Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 5 | SL 2026/121 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005 s. 4.
 Repealed by the Environmental Protection (Liquid Waste) Repeal Regulations 2003.
@@ -104,7 +105,7 @@ sedimentation tank3
 septic tank3
 single dwelling3
 wastewater3
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

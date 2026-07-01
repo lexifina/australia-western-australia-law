@@ -4,7 +4,7 @@
 ItemDescription | Fee
  | $
 1.Application for the approval of an apparatus by local government under regulation 4 .......................................... | 118.00
-2.Application for the approval of an apparatus by the Chief Health Officer under regulation 4A — (a)with a local government report ................................. (b)without a local government report under regulation 4A(4) ....................................................... | 110.00 110.00
+2.Application for the approval of an apparatus by the Chief Health Officer under regulation 4A — (a)with a local government report ................................. (b)without a local government report under regulation 4A(4) ....................................................... | 120.00 110.00
 3.Fee for the grant of a permit to use an apparatus under regulation 10(2) ................................................................. | 118.00
-[Schedule 1 inserted: Gazette 18 May 2007 p. 2253; amended: Gazette 4 Apr 2008 p. 1309; 15 May 2009 p. 1631; 13 Aug 2010 p. 3976; 29 Apr 2011 p. 1531; 21 Jun 2013 p. 2448; 8 Apr 2014 p. 919; 28 Nov 2014 p. 4413; 5 May 2015 p. 1596; 17 Jun 2016 p. 2102; 10 Jan 2017 p. 287-8; 30 Jun 2017 p. 3569; 25 May 2018 p. 1634; 14 Jun 2019 p. 1885; SL 2020/97 r. 8; SL 2021/108 r. 8; SL 2022/136 r. 12; SL 2023/96 r. 11; SL 2024/91 r. 11; SL 2025/104 r. 12.]
+[Schedule 1 inserted: Gazette 18 May 2007 p. 2253; amended: Gazette 4 Apr 2008 p. 1309; 15 May 2009 p. 1631; 13 Aug 2010 p. 3976; 29 Apr 2011 p. 1531; 21 Jun 2013 p. 2448; 8 Apr 2014 p. 919; 28 Nov 2014 p. 4413; 5 May 2015 p. 1596; 17 Jun 2016 p. 2102; 10 Jan 2017 p. 287-8; 30 Jun 2017 p. 3569; 25 May 2018 p. 1634; 14 Jun 2019 p. 1885; SL 2020/97 r. 8; SL 2021/108 r. 8; SL 2022/136 r. 12; SL 2023/96 r. 11; SL 2024/91 r. 11; SL 2025/104 r. 12; SL 2026/121 r. 12.]
 [Schedule 2 deleted: Gazette 29 Jul 1997 p. 4084.]
