@@ -33,6 +33,7 @@ Citation | Published | Commencement
  | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2023 | SL 2023/85 27 Jun 2023 | bl. 1 and 2: 27 Jun 2023 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2023 (see bl. 2(b))
  | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2024 | SL 2024/102 14 Jun 2024 | bl. 1 and 2: 14 Jun 2024 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2024 (see bl. 2(b))
  | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2025 | SL 2025/124 26 Jun 2025 | bl. 1 and 2: 26 Jun 2025 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2025 (see bl. 2(b))
+ | Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2026 | SL 2026/140 29 Jun 2026 | bl. 1 and 2: 29 Jun 2026 (see bl. 2(a)); By-laws other than bl. 1 and 2: 1 Jul 2026 (see bl. 2(b))
 Other notes
 Now known as the Energy Operators (Electricity Generation and Retail Corporation) (Charges) By-laws 2006; citation changed (see note under bl. 1).
 The Energy Operators (Electricity Generation and Retail Corporation) (Charges) Amendment By-laws 2016, (row 5 of the table in by-law 5) was disallowed by the Legislative Council on 22 Nov 2016 (see Gazette 6 Dec 2016 p. 5492).
@@ -57,7 +58,7 @@ relevant period8(1)
 residential tariff3
 Tariff3
 unit3
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
