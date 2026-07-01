@@ -35,7 +35,7 @@ Mental Health Act 2014 s. 342(1), 468(10), 471(2), 576(2)
 Nuclear Activities Regulation Act 1978 s. 9(7)
 Police Act 1892 s. 16A(1), 31, 54, 54A(3), 59, 65, 66, 76F(3)(a), 82B(1), 82B(3), 97, 107, 124, 125, 128
 Prisons Act 1981 s. 49(2)
-Privacy and Responsible Information Sharing Act 2024 s. 208(2), 215
+Privacy and Responsible Information Sharing Act 2024 s. 117(1), 208(2), 215
 Prostitution Act 2000 s. 12 (first offence), 19(1)
 Real Estate and Business Agents Act 1978 s. 64(1), 64(2)
 Referendums Act 1983 s. 45(1), 48(2), 48(3)
