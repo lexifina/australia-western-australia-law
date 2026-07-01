@@ -25,6 +25,7 @@ Attorney General Regulations Amendment (Work Health and Safety) Regulations 2022
 Attorney General Regulations Amendment (Veterinary Practice) Regulations 2022 Pt. 2 | SL 2022/97 17 Jun 2022 | 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
 Attorney General Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 Pt. 2 | SL 2024/173 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Freedom of Information Amendment Regulations 2026 | SL 2026/30 18 Mar 2026 | r. 1 and 2: 18 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Mar 2026 (see r. 2(b) and SL 2026/28 cl. 2)
+Freedom of Information Amendment Regulations (No. 2) 2026 | SL 2026/125 24 Jun 2026 | r. 1 and 2: 24 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2026 (see r. 2(b)
 Other notes
 Footnote no longer applicable.
 Under the Public Sector Management Act 1994 the designations of departments can be altered. At the time of this compilation the designation of the Department for Child Protection has been altered to the Department for Child Protection and Family Support.
@@ -42,8 +43,9 @@ Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 non-personal information2A
+notice11(1)
 suitably qualified person7
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
-By Authority: ROGER JACOBS, Acting Government Printer
+By Authority: ANDREW JONES, Government Printer
