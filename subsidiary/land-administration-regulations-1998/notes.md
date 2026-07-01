@@ -47,6 +47,7 @@ Land Administration Amendment Regulations (No. 2) 2023 | SL 2023/128 | r. 1 and 
 Land Administration Amendment Regulations (No. 2) 2024 | SL 2024/115 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Land Administration Amendment Regulations 2024 | SL 2024/119 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Jun 2024 (see r. 2(b) and SL 2024/120 cl. 2)
 Land Administration Amendment Regulations 2025 | SL 2025/108 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
+Land Administration Amendment Regulations 2026 | SL 2026/116 24 Jun 2026 | r. 1 and 2: 24 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2026 (see r. 2(b))
 Other notes
 Repealed by the Planning and Development (Consequential and Transitional Provisions) Act 2005.
 Published again in Gazette 19 Nov 2004 p. 5081 but amendment of 19 Nov 2004 has no effect.
@@ -75,7 +76,7 @@ survey18
 survey mark3(1)
 surveyor at fault20(2)
 telecommunications network3(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
