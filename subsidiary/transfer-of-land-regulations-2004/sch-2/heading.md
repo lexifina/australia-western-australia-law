@@ -25,5 +25,6 @@
 11.An application to bring land under the Act.
 12.Lodgment of a plan that relates to an application to bring land under the Act.
 13.Withdrawal of a document that relates to an application to bring land under the Act from registration or recording.
-[Schedule 2 amended: Gazette 25 Jun 2007 p. 2978; 20 Jun 2008 p. 2717; 13 Apr 2012 p. 1659; 26 Jul 2013 p. 3349; 23 Jun 2017 p. 3185; SL 2023/117 r. 13; SL 2024/83 r. 11; SL 2025/178 r. 9.]
+14.An application to the Commissioner under section 184 of the Act to remove an expired lease of Crown land.
+[Schedule 2 amended: Gazette 25 Jun 2007 p. 2978; 20 Jun 2008 p. 2717; 13 Apr 2012 p. 1659; 26 Jul 2013 p. 3349; 23 Jun 2017 p. 3185; SL 2023/117 r. 13; SL 2024/83 r. 11; SL 2025/178 r. 9; SL 2026/64 r. 11.]
 [Schedule 3 deleted: Gazette 19 Jun 2009 p. 2241.]
