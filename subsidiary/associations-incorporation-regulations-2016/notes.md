@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Associations Incorporation Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Associations Incorporation Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Associations Incorporation Regulations 2016 | 24 Jun 2016 p. 2407-77 | 1 July 2016 (see r. 2 and Gazette 24 Jun 2016 p. 2291-2)
@@ -17,9 +17,6 @@ Associations Incorporation Amendment Regulations 2022 | SL 2022/142 12 Aug 2022 
 Commerce Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023/35 5 May 2023 | 1 Jul 2023 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 2 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

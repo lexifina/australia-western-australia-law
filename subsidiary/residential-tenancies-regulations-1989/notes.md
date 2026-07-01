@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Residential Tenancies Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Residential Tenancies Regulations 1989 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Residential Tenancies Regulations 1989 | 9 Aug 1989 p. 2563-85 (erratum 18 Aug 1989 p. 2751) | 1 Oct 1989 (see r. 2 and Gazette 18 Aug 1989 p. 2748)
@@ -58,15 +58,10 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 16 | SL 2
 Residential Tenancies Amendment Regulations (No. 2) 2024 | SL 2024/149 10 Jul 2024 | r. 1 and 2: 10 Jul 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Jul 2024 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 17 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Commerce Regulations Amendment (Residential Tenancies and Residential Parks) Regulations 2026 Pt. 3 | SL 2026/4 21 Jan 2026 | 28 Mar 2026 (see r. 2(b) and SL 2026/31 cl. 2(f))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 17 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(c))
 Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
-The Residential Tenancies Act 1987 Sch. 1 cl. 7 was deleted by the Residential Tenancies Amendment Act 2011 s. 87(16).
-Now called the Consolidated Account.
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)

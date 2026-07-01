@@ -51,11 +51,11 @@ Short-Term Rental Accommodation Regulations 2024 r. 19 | SL 2024/123 26 Jun 2024
 Building Amendment Regulations 2025 | SL 2025/34 5 Feb 2025 | r. 1 and 2: 5 Feb 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Feb 2025 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2025 | SL 2025/62 16 Apr 2025 | r. 1 and 2: 16 Apr 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 17 Apr 2025 (see r. 2(b))
 Building Amendment Regulations (No. 2) 2026 (other than r. 7 and 8(2)) | SL 2026/44 15 Apr 2026 | r. 1 and 2: 15 Apr 2026 (see r. 2(a)); r. 3 and 8(1), (3) and (4): 16 Apr 2026 (see r. 2(b)); r. 4, 5 and 6: 1 May 2026 (see r. 2(c))
+Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 4 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(c))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
 Citation | Published | Commencement
 Building Amendment Regulations (No. 2) 2026 r. 7 and 8(2) | SL 2026/44 15 Apr 2026 | 15 Apr 2027 (see r. 2(d))
-Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 4 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(c))
 Other notes
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
