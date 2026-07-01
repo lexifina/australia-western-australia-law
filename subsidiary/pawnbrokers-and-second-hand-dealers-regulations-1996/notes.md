@@ -49,6 +49,7 @@ Police Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 3 | SL 2023
 Police Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3 | SL 2024/94 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Pawnbrokers and Second-hand Dealers Amendment Regulations 2024 | SL 2024/127 26 Jun 2024 | r. 1 and 2: 26 Jun 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Police Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/86 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Police Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 3 | SL 2026/115 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Regulations 1989 the citation of which was changed to the Liquor Control Regulations 1989 by the Liquor Licensing Amendment Regulations 2007 r. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
@@ -67,7 +68,7 @@ State agency3
 telephone utility3
 traded goods5(2)
 transaction card13A(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

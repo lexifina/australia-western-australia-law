@@ -4,6 +4,7 @@ Compilation table
 Citation | Published | Commencement
 Firearms Regulations 2024 | SL 2024/301 21 Dec 2024 | 31 Mar 2025 (see r. 2 and SL 2024/289 cl. 2)
 Firearms Amendment Regulations 2025 | SL 2025/33 5 Feb 2025 | 31 Mar 2025 (see r. 2 and SL 2024/289 cl. 2)
+Police Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 2 | SL 2026/115 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Police Regulations Amendment (Significant Defence Events) Regulations 2026 Pt. 2 | SL 2026/127 24 Jun 2026 | 25 Jun 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]

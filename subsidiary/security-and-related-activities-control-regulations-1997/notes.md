@@ -61,6 +61,7 @@ Police Regulations Amendment (Criminal Law Mental Impairment) Regulations 2024 P
 Police Regulations Amendment (Firearms) Regulations 2024 Pt. 2 | SL 2024/296 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Police Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 4 | SL 2025/86 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Security and Related Activities (Control) Amendment Regulations 2026 | SL 2026/89 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jun 2026 (see r. 2(b))
+Police Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 5 | SL 2026/115 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Formerly referred to the Liquor Licensing Act 1988 the short title of which was changed to the Liquor Control Act 1988 by the Liquor and Gaming Legislation Amendment Act 2006 s. 4. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Defined terms
