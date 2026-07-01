@@ -49,6 +49,7 @@ Finance Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 4 | SL
 Finance Regulations Amendment (Disclosure of Information) Regulations 2024 Pt. 3 | SL 2024/151 24 Jul 2024 | 25 Jul 2024 (see r. 2(b))
 Finance Regulations Amendment Regulations 2025 Pt. 3 | SL 2025/67 30 Apr 2025 | 1 May 2025 (see r. 2(b))
 Taxation Administration Amendment (Petroleum Legislation) Regulations 2026 | SL 2026/77 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
+Taxation Administration Amendment Regulations 2026 | SL 2026/113 24 Jun 2026 | r. 1 and 2: 24 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2026 (see r. 2(b))
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 7 Div. 2.
 If a modification is to:
