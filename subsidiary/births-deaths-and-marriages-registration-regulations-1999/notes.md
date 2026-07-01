@@ -21,13 +21,14 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 2
 Attorney General Regulations Amendment (Births, Deaths and Marriages) Regulations 2025 Pt. 2 | SL 2025/82 28 May 2025 | 30 May 2025 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Births, Deaths and Marriages Registration Amendment Regulations 2025 | SL 2025/220 23 Dec 2025 | r. 1 and 2: 23 Dec 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Dec 2025 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 2 | SL 2026/114 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 10 year search3
 guardian6(1)
 represented person6(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: ROGER JACOBS, Acting Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

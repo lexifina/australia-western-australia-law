@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the State Administrative Tribunal Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the State Administrative Tribunal Regulations 2004 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 State Administrative Tribunal Regulations 2004 | 30 Dec 2004 p. 6747-848 | 1 Jan 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7129)
@@ -70,15 +70,13 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 1
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 11 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations 2025 | SL 2025/139 23 Jul 2025 | r. 1 and 2: 23 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Jul 2025 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations 2026 | SL 2026/20 5 Mar 2026 | r. 1 and 2: 5 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2026 (see r. 2(b))
+State Administrative Tribunal Amendment Regulations (No. 2) 2026 | SL 2026/97 10 Jun 2026 | r. 1 and 2: 10 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2026 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 11 | SL 2026/114 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
 Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
 Sch. 6 | s. 25(2) | 14 Jun 2024
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
-Citation | Published | Commencement
-State Administrative Tribunal Amendment Regulations (No. 2) 2026 | SL 2026/97 10 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
@@ -115,7 +113,7 @@ referring person3
 review application10(1)
 RWI Act61(1)
 ST Act63(1)
-time for making an application28(3)
+time for making an application28(3), 64(4)
 transfer day42
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.

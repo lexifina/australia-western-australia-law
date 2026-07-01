@@ -41,6 +41,7 @@ Attorney General Regulations Amendment (Legal Profession) Regulations 2022 Pt. 2
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 4 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 4 | SL 2024/113 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 4 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 4 | SL 2026/114 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Pt. 22 came into operation on 1 May 2005.
 Defined terms
@@ -72,7 +73,7 @@ small business104
 specified registry14(2), 62(2)
 subsidiary104
 working day9(3)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

@@ -45,6 +45,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 1
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 12 | SL 2024/113 26 Jun 2023 | 1 Jul 2024 (see r. 2(b))
 Court Fees Regulation Amendment Regulations 2024 Pt. 5 | SL 2024/174 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 12 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 12 | SL 2026/114 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -68,7 +69,7 @@ person3
 Rules3
 small business3
 subsidiary3
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

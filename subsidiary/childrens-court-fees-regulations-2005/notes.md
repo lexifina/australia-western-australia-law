@@ -39,6 +39,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 3
 Court Fees Regulation Amendment Regulations 2024 Pt. 2 | SL 2024/174 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Fees) Regulations 2024 Pt. 2 | SL 2024/254 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 3 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 3 | SL 2026/114 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -56,7 +57,7 @@ interim order6AA(1)
 prosecution notice3
 respondent6(2), 6AA(1)
 VRO6AA(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

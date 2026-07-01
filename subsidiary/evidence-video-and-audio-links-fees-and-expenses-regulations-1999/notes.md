@@ -29,11 +29,12 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2022 Pt. 8
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 8 | SL 2023/120 2 Aug 2023 | 3 Aug 2023 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 8 | SL 2024/113 26 Jun 2024 | 1 Jul 2024 (see. r 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Attorney General Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 8 | SL 2026/114 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Citation | Published | Commencement
-Evidence Act 2025 assented to 25 Sep 2025 s. 387(e) | To be proclaimed (see s. 2(e))
-© State of Western Australia 2025.
+Evidence Act 2025 assented to 25 Sep 2025 s. 387(e) | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
