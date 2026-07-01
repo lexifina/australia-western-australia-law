@@ -143,6 +143,7 @@ Merredin | 5 | 15
 Merredin Farmlands | 3 | 9
 Miling | 5 | 15
 Mingenew | 5 | 15
+Mingenew-Mullewa Farmlands | 4 | 13
 Moora | 2 | 3
 Moorine Rock | 5 | 15
 Morawa | 5 | 15
@@ -151,7 +152,6 @@ Mount Magnet | 5 | 15
 Mukinbudin | 5 | 15
 Mullalyup | 5 | 15
 Mullewa | 5 | 15
-Mullewa Farmlands | 4 | 13
 Munglinup | 5 | 15
 Muntadgin | 5 | 15
 Myalup | 5 | 15
@@ -235,4 +235,4 @@ Yealering | 5 | 15
 Yerecoin | 5 | 15
 York | 5 | 15
 Yuna | 5 | 15
-[Schedule 11 inserted: SL 2021/80 r. 9; amended: SL 2022/82 r. 22; SL 2023/66 r. 10; SL 2024/117 r. 11; SL 2025/101 r. 11.]
+[Schedule 11 inserted: SL 2021/80 r. 9; amended: SL 2022/82 r. 22; SL 2023/66 r. 10; SL 2024/117 r. 11; SL 2025/101 r. 11; SL 2026/111 r. 12.]
