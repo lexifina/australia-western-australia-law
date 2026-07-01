@@ -5,6 +5,7 @@ Item | Description | Fee $
 1. | Application for the grant or removal of a hotel licence, nightclub licence, casino liquor licence, special facility licence or liquor store licence | 4 129.50
 2. | Application for the grant or removal of a small bar licence, club licence, restaurant licence, producer’s licence or wholesaler’s licence | 1 058.50
 3. | Application for the transfer of a licence | 1 013.50
+3A. | Application under section 82A(1) to remove a party from a licence | 200.00
 4. | Licence fee for any licence other than a club restricted licence | 697.50
 5. | Licence fee for a club restricted licence | 342.00
 6. | Application for an occasional licence if the anticipated number of patrons is —
@@ -45,7 +46,7 @@ Item | Description | Fee $
  | (a)under licence other than club licence or club restricted licence | 188.00
  | (b)under club licence or club restricted licence | 128.50
 14. | Application for approval for alteration or redefinition of licensed premises | 475.00
-15. | Application for a protection order under section 87(1) | 276.00
+15. | Application for a business continuity order under section 87(1) | 276.00
 16. | Application for duplicate licence | 41.00
 17. | Application for approval of change of name of licensed premises | 86.50
 18. | Application to add, vary or cancel condition of licence or permit (other than club restricted licence) —
@@ -59,8 +60,7 @@ Item | Description | Fee $
 19. | Application to add, vary or cancel condition of club restricted licence | 51.50
 20. | Application under section 62(6) to vary any plans or specifications the subject of a condition | 329.00
 21. | Application for approval of agreement or arrangement | 276.00
-22. | Application under section 115AD for review of decision to give notice | 287.50
-23. | Application under section 152NH(2) for review of decision to make or vary short-term exclusion order | 287.50
+[22, 23deleted]
 24. | Application under section 119A for approval to conduct non-liquor business on licensed premises | 261.50
 25. | Application under section 152W(3), other than by an occupier of premises, for a liquor restriction declaration in relation to the premises | 314.00
 26. | Application under section 126A for approval of entertainment for juveniles on licensed premises | 75.00
@@ -69,14 +69,14 @@ Item | Description | Fee $
 29. | Supply of approved heading for advertising an application | 31.00
 30. | Supply of copy of plan — per sheet | 31.00 (up to a max. of 249.00)
 31. | Supply of certified copy of plan defining licensed premises | 46.50
-32. | Supply of copy of a licence, a permit or a decision of the Commission (or the former Liquor Licensing Court) or the Director | 31.00
-33. | Certification of a copy of a licence, a permit or a decision of the Commission (or the former Liquor Licensing Court) or the Director [In addition to the fee under item 32] | 31.00
+32. | Supply of copy of — (a)a licence; or (b)a permit; or (c)a decision of — (i)the Director; or (ii)the former Liquor Commission; or (iii)the former Liquor Licensing Court. | 31.00
+33. | Certification of a copy of — (a)a licence; or (b)a permit; or (c)a decision of — (i)the Director; or (ii)the former Liquor Commission; or (iii)the former Liquor Licensing Court. [In addition to the fee under item 32] | 31.00
 34. | Supply of copy of documentation, other than that already prescribed — per page | 4.00
-35. | Issue of a summons to a witness | 25.50
+[35.deleted]
 36. | Search of the database of records of licences — per licence | 46.50
 37. | Full search of a licence record | 59.50
 38. | Search of postcodes —
  | (a)1 to 10 postcodes | 46.50
  | (b)more than 10 postcodes | 103.50
 39. | For each person who is a party to an application under the Act and in relation to whom a background check is sought from the Police Service | 175.00
-[Schedule 3 inserted: SL 2025/187 r. 14.]
+[Schedule 3 inserted: SL 2025/187 r. 14; amended: SL 2026/98 r. 36.]
