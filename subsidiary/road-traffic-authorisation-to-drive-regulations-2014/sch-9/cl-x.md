@@ -19,12 +19,12 @@ theory test means a theory test to satisfy the CEO that the applicant has a reas
  | (b)if the motor vehicle is of class HC or MC | 300.50
 [5.deleted]
 6. | Grant of a driver’s licence whether or not by way of renewal —
- | (a)for one year | 48.20
- | (b)for 5 years | 168.00
+ | (a)for one year | 49.40
+ | (b)for 5 years | 172.00
  | (c)for any other period | for each year or part of a year, 20% of the fee under par. (b)
 7. | First car hazard perception test in respect of a driver’s licence application | 29.90
 8. | First motor cycle hazard perception test in respect of a driver’s licence application | 29.90
 9. | Each additional hazard perception test in respect of a driver’s licence application | 24.10
 10. | Fee for hard copy version of logbook referred to in regulation 16A(2)(b)(ii) | 10.70
 11. | Copy of excessive demerit points notice as defined in section 40(1) previously given to a person | 23.30
-[Schedule 9 inserted: SL 2023/45 r. 24; amended: SL 2024/58 r. 9; SL 2025/65 r. 7; SL 2026/32 r. 6.]
+[Schedule 9 inserted: SL 2023/45 r. 24; amended: SL 2024/58 r. 9; SL 2025/65 r. 7; SL 2026/32 r. 6; SL 2026/63 r. 4.]

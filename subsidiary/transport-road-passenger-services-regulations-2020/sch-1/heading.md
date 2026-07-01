@@ -23,20 +23,20 @@ Table
 16. | Fee for handling the following transactions in person or over the phone in relation to passenger transport authorisations — (a)changes to existing records (except changes of address) (b)late renewal of annual authorisations (c)manual search of records | $20.70
 [Division 1 inserted: SL 2024/58 r. 25; amended: SL 2025/65 r. 17.]
 ## Division 2 — Authorisation fees for on-demand booking service authorisations
-[Heading inserted: SL 2025/65 r. 18.]
+[Heading inserted: SL 2026/63 r. 14.]
 Table
 Number of vehicles to be covered by the authorisation | Fee
-1 | $283.00
-2 to 5 | $531.80
-6 to 15 | $1 561.30
-16 to 30 | $3 111.10
-31 to 50 | $5 091.00
-51 to 90 | $8 371.80
-91 to 150 | $13 915.20
-151 to 250 | $22 626.00
-251 to 500 | $37 333.00
-More than 500 | $73 532.50
-[Division 2 inserted: SL 2025/65 r. 18.]
+1 | $291.00
+2 to 5 | $548.00
+6 to 15 | $1 608.00
+16 to 30 | $3 204.00
+31 to 50 | $5 244.00
+51 to 90 | $8 623.00
+91 to 150 | $14 333.00
+151 to 250 | $23 305.00
+251 to 500 | $38 453.00
+More than 500 | $75 738.00
+[Division 2 inserted: SL 2026/63 r. 14.]
 ## Division 3 — Authorisation fee for passenger transport driver authorisation
 [Heading inserted: SL 2023/45 r. 45.]
 The authorisation fee for a passenger transport driver authorisation is $99.00.
