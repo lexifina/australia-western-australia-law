@@ -2,10 +2,12 @@
 [r. 66]
 Offence | Modified penalty for individual | Modified penalty for body corporate
 Offences under the Towing Services Regulations 2025
+1A. | r. 9C | Failure to ensure compliant security at storage yard | $1 800 | $9 000
+1B. | r. 9D(2) | Failure to ensure compliant signage at storage yard | $1 000 | $5 000
 1. | r. 11(2) | Failure to give notice of moving of stored vehicle | $750 | $3 750
-2. | r. 13(1) | Failure to keep records in relation to regulated towing business | $1 800 | $9 000
+[2deleted]
 3. | r. 17(4) | Failure to comply with notice requiring records to be produced or provided | $1 800 | $9 000
-4. | r. 21(2) | Failure to carry Australian driver licence or foreign driving authorisation | $750
+4. | r. 21(2) | Failure to carry Australian driver licence | $750
 5. | r. 24(3) | Failure to move, or move vehicle, so that authorised officer or emergency worker is not obstructed | $1 350
 6. | r. 24(4) | Failure to move, or move vehicle, so that provision of first aid or medical treatment is not obstructed | $1 350
 7. | r. 25(2) | Stopping tow truck in manner that obstructs loading of vehicle onto or departure of other tow truck | $1 350
@@ -21,4 +23,4 @@ Offences under the Towing Services Regulations 2025
 17. | r. 61(7) | Contravention of safety standard: prohibited driving and stopping | $1 350
 Offence under the Towing Services Act 2024
 18. | s. 40(2) | Towing vehicle without authorisation | $1 800
-[Schedule 1 amended: SL 2025/78 r. 4.]
+[Schedule 1 amended: SL 2025/78 r. 4; SL 2026/53 r. 24.]
