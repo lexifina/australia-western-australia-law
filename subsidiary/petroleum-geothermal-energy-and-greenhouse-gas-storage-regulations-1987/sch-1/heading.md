@@ -20,10 +20,10 @@ Column 1 Item | Column 2 Provision of Act | Column 3 Amount of prescribed fee ($
 16. | s. 61(2)(e) | 8 740.00
 17. | s. 64(2)(d) | 8 320.00
 18. | s. 69HI(1)(g) | 8 250.00
-19. | s. 73(2) | 167.00
+19. | s. 73(2) | 171.00
 20. | s. 73(3)(b) | 156.00
 21. | s. 80(1) | 149.00
 22. | s. 81(3) | 142.00
 23. | s. 105(2)(d) | 8 740.00
 24. | s. 137(a) | 2 400.00
-[Schedule 1 inserted: SL 2026/82 r. 24.]
+[Schedule 1 inserted: SL 2026/82 r. 24; amended: SL 2026/124 r. 18.]

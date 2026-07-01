@@ -11,6 +11,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2020 Pt
 Mines and Petroleum Regulations Amendment (Royalty Information) Regulations 2022 Pt. 3 | SL 2022/1 14 Jan 2022 | 15 Jan 2022 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Transfer of Royalty Administration) Regulations 2025 Pt. 3 | SL 2025/153 28 Aug 2025 | 1 Sep 2025 (see r. 2(b))
 Mines and Petroleum Regulations Amendment Regulations 2026 Pt. 7 | SL 2026/82 27 May 2026 | 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 8 | SL 2026/124 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Now known as the Petroleum, Geothermal Energy and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2015; citation changed (see note under r. 1).
 Defined terms

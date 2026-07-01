@@ -39,6 +39,7 @@ Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt
 Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 10 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Mines and Petroleum Regulations Amendment (Geocentric Datum) Regulations 2025 Pt. 4 | SL 2025/172 2 Oct 2025 | 3 Oct 2025 (see r. 2(b))
 Mines and Petroleum Regulations Amendment Regulations 2026 Pt. 6 | SL 2026/82 27 May 2026 | 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 7 | SL 2026/124 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 The Acts Amendment (Petroleum) Act 1990 (other than s. 32) came into operation 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Now known as the Petroleum, Geothermal Energy and Greenhouse Gas Storage Regulations 1987; citation changed (see note under r. 1).

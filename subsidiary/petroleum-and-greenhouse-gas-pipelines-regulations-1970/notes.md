@@ -35,6 +35,7 @@ Citation | Published | Commencement
  | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 11 | SL 2024/97 12 Jun 2024 | 1 Jul 2024 (see r. 2(b))
  | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 11 | SL 2025/90 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
  | Mines and Petroleum Regulations Amendment Regulations 2026 Pt. 9 | SL 2026/82 27 May 2026 | 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
+ | Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 4 | SL 2026/124 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 The day fixed under the Acts Amendment (Petroleum) Act 1990 s. 2(1) was 1 Oct 1990 (see Gazette 28 Sep 1990 p. 5099).
 Now known as the Petroleum and Greenhouse Gas Pipelines Regulations 1970; citation changed (see note under r. 1).

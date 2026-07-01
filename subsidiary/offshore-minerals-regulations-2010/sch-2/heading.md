@@ -8,12 +8,12 @@ Item | Description | Fee ($)
 4. | Works licence — (a)licence application (s. 272(1)) (b)renewal application (s. 292(1)) | 3 000.00 600.00
 5. | Special purpose consent application (s. 319(1)) | 300.00
 6. | Inspection of register and documents (s. 332(1)) | 27.00
-7. | Registration of transfer (s. 338(1)(f)) | 82.00
-8. | Registration of other dealing (s. 339(1)(d)) | 185.00
-9. | Devolution of licence (s. 340(1)(d)) | 194.00
-10. | Caveat (s. 344) | 194.00
-11. | Certified copy of or extract from register (s. 357(4)) (per page) | 6.60
+7. | Registration of transfer (s. 338(1)(f)) | 84.00
+8. | Registration of other dealing (s. 339(1)(d)) | 190.00
+9. | Devolution of licence (s. 340(1)(d)) | 199.00
+10. | Caveat (s. 344) | 199.00
+11. | Certified copy of or extract from register (s. 357(4)) (per page) | 6.50
 12. | Certified copy of document (s. 358(1)) (per page) | 7.50
-13. | Certificate (s. 359(1)) | 66.00
-14. | Approval of transfer application (s. 363(6)) | 185.00
-[Schedule 2 inserted: SL 2025/90 r. 19.]
+13. | Certificate (s. 359(1)) | 67.00
+14. | Approval of transfer application (s. 363(6)) | 190.00
+[Schedule 2 inserted: SL 2025/90 r. 19; amended: SL 2026/124 r. 8.]

@@ -170,6 +170,7 @@ Mining Regulations Amendment Regulations 2025 Pt. 2 | SL 2025/156 28 Aug 2025 | 
 Mines and Petroleum Regulations Amendment (Geocentric Datum) Regulations 2025 Pt. 2 | SL 2025/172 2 Oct 2025 | 3 Oct 2025 (see r. 2(b))
 Mining Amendment Regulations 2025 | SL 2025/183 29 Oct 2025 | r. 1 and 2: 29 Oct 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Nov 2025 (see r. 2(b)(i))
 Mines and Petroleum Regulations Amendment Regulations 2026 Pt 2 | SL 2026/82 27 May 2026 | 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
+Mines and Petroleum Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 2 | SL 2026/124 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 The Mining Amendment Act 1990 commenced 28 Jun 1991.
 Formerly referred to the Licensed Surveyors (Guidance of Surveyors) Regulations 1961, the citation of which was changed to the Licensed Surveyors (General Surveying Practice) Regulations 1961 by the Licensed Surveyors (Guidance of Surveyors) Amendment Regulations 2013. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
