@@ -47,6 +47,7 @@ Health Services (Fees and Charges) Amendment Order 2025 | SL 2025/75 19 May 2025
 Health Services (Fees and Charges) Amendment Order (No. 2) 2025 | SL 2025/126 27 Jun 2025 | cl. 1 and 2: 27 Jun 2025 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2025 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order (No. 3) 2025 | SL 2025/219 22 Dec 2025 | cl. 1 and 2: 22 Dec 2025 (see cl. 2(a)); Order other than cl. 1 and 2: 23 Dec 2025 (see cl. 2(b))
 Health Services (Fees and Charges) Amendment Order 2026 | SL 2026/105 19 Jun 2026 | cl. 1 and 2: 19 Jun 2026 (see cl. 2(a)); Order other than cl. 1 and 2: 20 Jun 2026 (see cl. 2(b))
+Health Services (Fees and Charges) Amendment Order (No. 2) 2026 | SL 2026/142 29 Jun 2026 | cl. 1 and 2: 29 Jun 2026 (see cl. 2(a)); Order other than cl. 1 and 2: 1 Jul 2026 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
