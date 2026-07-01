@@ -1,12 +1,9 @@
 Notes
-This is a compilation of the Health Practitioner Regulation National Law Application Act 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Health Practitioner Regulation National Law Application Act 2024 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Short title | Number and year | Assent | Commencement
 Health Practitioner Regulation National Law Application Act 2024 | 21 of 2024 | 14 May 2024 | Pt. 1: 14 May 2024 (see s. 2(a)); Pt. 2 and 3 (other than s. 29) and Pt. 4-6: 15 May 2024 (see s. 2(c)); s. 29: 1 Jul 2024 (see s. 2(b)(ii))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
-Short title | Number and year | Assent | Commencement
-Privacy and Responsible Information Sharing Act 2024 Pt. 6 Div. 4 | 51 of 2024 | 6 Dec 2024 | To be proclaimed (see s. 2(c))
+Privacy and Responsible Information Sharing Act 2024 Pt. 6 Div. 4 | 51 of 2024 | 6 Dec 2024 | 1 Jul 2026 (see s. 2(c) and SL 2026/128 cl. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -38,7 +35,7 @@ subsidiary provision14(1)
 this jurisdiction18(1)
 transitional matter49(1)
 transitional regulations49(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
