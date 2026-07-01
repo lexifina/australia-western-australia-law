@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Building and Construction Industry Training Fund and Levy Collection Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Building and Construction Industry Training Fund and Levy Collection Regulations 1991 | 28 Jun 1991 p. 3122-5 | 1 Jul 1991 (see r. 2 and Gazette 28 Jun 1991 p. 3101)
@@ -16,11 +16,8 @@ Building and Construction Industry Training Fund and Levy Collection Amendment R
 Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2012 | 13 Mar 2012 p. 1039-40 | r. 1 and 2: 13 Mar 2012 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Apr 2012 (see r. 2(b)(i) and Gazette 13 Mar 2012 p. 1033)
 Reprint 2: The Building and Construction Industry Training Fund and Levy Collection Regulations 1991 as at 1 Jun 2012 (includes amendments listed above)
 Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2018 | 28 Sep 2018 p. 3584-7 | r. 1 and 2: 28 Sep 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Oct 2018 (see r. 2(b))
+Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2026 | SL 2026/45 15 Apr 2026 | r. 1 and 2: 15 Apr 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2026 (see r. 2(b))
 Building and Construction Industry Training Fund and Levy Collection Amendment (Petroleum Legislation Regulations 2026 | SL 2026/76 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Building and Construction Industry Training Fund and Levy Collection Amendment Regulations 2026 r. 3 and 4 | SL 2026/45 15 Apr 2026 | 1 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
