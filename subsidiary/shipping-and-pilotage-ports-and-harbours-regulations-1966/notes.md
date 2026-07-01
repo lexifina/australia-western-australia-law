@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Shipping and Pilotage (Ports and Harbours) Regulations 1966 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Shipping and Pilotage (Ports and Harbours) Regulations 1966 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Gazettal | Commencement
 Ports and Harbours Regulations | 3 Feb 1966 p. 277-92 | 3 Feb 1966
@@ -111,9 +111,6 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2022 Pt. 
 Transport Regulations Amendment (Fees and Charges) Regulations 2023 Pt. 9 | SL 2023/45 19 May 2023 | 1 Jul 2023 (see r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2024 Pt. 5 | SL 2024/57 1 May 2024 | 1 Jul 2024 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 8 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2026 Pt. 7 | SL 2026/62 13 May 2026 | 1 Jul 2026 (see r. 2(b))
 Other notes
 Repealed by the Workplace and Other Legislation Amendment Act 1996 Sch. 19. That Act was then repealed by the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth).

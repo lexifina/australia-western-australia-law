@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Mooring Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Mooring Regulations 1998 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Mooring Regulations 1998 | 11 Dec 1998 p. 6659-78 | 11 Dec 1998
@@ -39,11 +39,8 @@ Transport Regulations Amendment (Marine Safety Equipment) Regulations 2024 Pt. 3
 Mooring Amendment Regulations 2025 | SL 2025/18 22 Jan 2025 | r. 1 and 2: 22 Jan 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jan 2025 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 4 | SL 2025/64 30 Apr 2025 | 1 Jul 2025 (see r. 2(b))
 Transport Regulations Amendment (Removal of Obstructions) Regulations 2025 Pt. 3 | SL 2025/215 17 Dec 2025 | 19 Dec 2025 (see r. 2(b))
-Mooring Amendment (Petroleum Legislation) Regulations 2026 | SL 2026/72 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2026 Pt. 4 | SL 2026/62 13 May 2026 | 1 Jul 2026 (see r. 2(b))
+Mooring Amendment (Petroleum Legislation) Regulations 2026 | SL 2026/72 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
 Other notes
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).
