@@ -1,9 +1,15 @@
 Notes
-This is a compilation of the Work Health and Safety (Petroleum and Geothermal Energy Operations) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Work Health and Safety (Petroleum and Geothermal Energy Operations) Regulations 2022 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Work Health and Safety (Petroleum and Geothermal Energy Operations) Regulations 2022 | SL 2022/30 11 Mar 2022 | 31 Mar 2022 (see r. 2 and SL 2022/18 cl. 2)
 Work Health and Safety Regulations Amendment (Workers Compensation) Regulations 2024 Pt. 4 | SL 2024/135 26 Jun 2024 | 1 Jul 2024 (see r. 2(b))
+Work Health and Safety (Petroleum and Geothermal Energy Operations) Regulations 2022 with editorial changes as at 2 Jul 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+r. 4 def. geothermal energy resources and vessel, r. 5(1) def. geothermal energy, r. 104 Table and r. 173(1) def. petroleum industry | s. 25(2) | 2 Jul 2026
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -159,7 +165,7 @@ vehicle126
 vessel4
 well4
 workers38(2)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
