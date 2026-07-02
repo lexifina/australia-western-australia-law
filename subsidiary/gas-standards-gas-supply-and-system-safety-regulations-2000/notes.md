@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gas Standards (Gas Supply and System Safety) Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Gas Standards (Gas Supply and System Safety) Regulations 2000 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Gas Standards (Gas Supply and System Safety) Regulations 2000 | 4 Jul 2000 p. 3475-540 | 1 Aug 2000 (see r. 2)
@@ -14,6 +14,12 @@ Reprint 2: The Gas Standards (Gas Supply and System Safety) Regulations 2000 as 
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2016 | 11 Oct 2016 p. 4532-6 | r. 1 and 2: 11 Oct 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 12 Oct 2016 (see r. 2(b))
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2018 | 2 Oct 2018 p. 3782-3 | r. 1 and 2: 2 Oct 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Oct 2018 (see r. 2(b))
 Gas Standards (Gas Supply and System Safety) Amendment Regulations 2023 | SL 2023/7 10 Feb 2023 | r. 1 and 2: 10 Feb 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 11 Feb 2023 (see r. 2(b))
+Gas Standards (Gas Supply and System Safety) Regulations 2000 with editorial changes as at 2 Jul 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+r. 3(1) def. gas plant | s. 25(2) | 2 Jul 2026
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -84,3 +90,7 @@ sub-network17A
 tempered LPG4(1)
 transferee26A(2)
 utilised3(1)
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
