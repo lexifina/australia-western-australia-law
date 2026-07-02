@@ -203,22 +203,22 @@ Applicant | Signature: | Date:
 [Form 2 inserted: Gazette 20 Jun 2017 p. 2996-3004; amended: Gazette 24 Nov 2017 p. 5674; SL 2020/54 r. 10; SL 2020/141 r. 11, 23 and 24; SL 2022/106 r. 4; SL 2022/188 r. 4(2); SL 2023/148 r. 6; SL 2025/23 r. 4(1).]
 Form 3 — Conduct agreement order
 Part A — Conduct agreement order
- | Restraining Orders Act 1997 s. 10H and 43 Conduct agreement order |  | Number:
- | Jurisdiction:
- | Location:
- | Person who has agreed to be bound by this order | Family name: | Date of birth:
- | Other names:
- | Homestreet: address:suburb:postcode:
- | Workstreet: address:suburb:postcode:
- | Phone nos.:work:home: mobile:
- | Person protected | Family name: | Date of birth:
- | Other names:
- | Type of order | This a final order.
- | Terms of this order
- | Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful:
+Restraining Orders Act 1997 s. 10H and 43 Conduct agreement order |  | Number:
+Jurisdiction:
+Location:
+Person who has agreed to be bound by this order | Family name: | Date of birth:
+Other names:
+Homestreet: address:suburb:postcode:
+Workstreet: address:suburb:postcode:
+Phone nos.:work:home: mobile:
+Person protected | Family name: | Date of birth:
+Other names:
+Type of order | This a final order.
+Terms of this order
+Information about unlawful behaviour and activities | In addition to the terms of this order, the court informs you that the following behaviour and activities are unlawful:
 THIS IS A NATIONALLY RECOGNISED ORDER
- | Order made | Date order made: | Time order made:
- | Registrar |  | Date:
+Order made | Date order made: | Time order made:
+Registrar |  | Date:
 Form 3 — Conduct agreement order
 Part B — Information to be on the copy of order given to the person who is bound by the order
 IMPORTANT INFORMATION FOR PERSON BOUND BY THIS ORDER

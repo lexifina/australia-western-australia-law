@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Magistrates Court (Civil Proceedings) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Magistrates Court (Civil Proceedings) Rules 2005 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Magistrates Court (Civil Proceedings) Rules 2005 | 28 Apr 2005 p. 1651-709 | 1 May 2005 (see r. 2 and Gazette 31 Dec 2004 p. 7127)
@@ -45,6 +45,12 @@ Magistrates Court (Civil Proceedings) Amendment Rules 2025 | SL 2025/23 30 Jan 2
 Magistrates Court Rules Amendment Rules 2025 Pt. 2 | SL 2025/42 11 Mar 2025 | 12 Mar 2025 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules 2026 | SL 2026/69 21 May 2026 | r. 1 and 2: 21 May 2026 (see r. 2(a)); Rules other than r. 1 and 2: 22 May 2026 (see r. 2(b))
 Magistrates Court (Civil Proceedings) Amendment Rules (No. 2) 2026 | SL 2026/92 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Rules other than r. 1 and 2: 28 May 2026 (see r. 2(b))
+Magistrates Court (Civil Proceedings) Rules 2005 with editorial changes as at 2 Jul 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+r. 124(1) Table | s. 25(2) | 2 Jul 2026
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
