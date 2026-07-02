@@ -72,11 +72,13 @@ State Administrative Tribunal Amendment Regulations 2025 | SL 2025/139 23 Jul 20
 State Administrative Tribunal Amendment Regulations 2026 | SL 2026/20 5 Mar 2026 | r. 1 and 2: 5 Mar 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Mar 2026 (see r. 2(b))
 State Administrative Tribunal Amendment Regulations (No. 2) 2026 | SL 2026/97 10 Jun 2026 | r. 1 and 2: 10 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2026 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 11 | SL 2026/114 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
+State Administrative Tribunal Regulations 2004 with editorial changes as at 2 Jul 2026
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
 Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
 Sch. 6 | s. 25(2) | 14 Jun 2024
+Sch. 3 | s. 25(2) | 2 Jul 2026
 Other notes
 1 Jan 2005.
 Deleted by the Local Government Act 1995 s. 9.70.
@@ -86,7 +88,6 @@ Deleted by the Building Act 2011 s. 174(6).
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1118(4).
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1116(1).
 Deleted by the State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 s. 1117(7).
-Formerly referred to the Petroleum Act 1967, the short title of which was changed to the Petroleum and Geothermal Energy Resources Act 1967 by the Petroleum Amendment Act 2007 s. 5. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 The amendment to r. 9(3) in the State Administrative Tribunal Amendment Regulations (No. 4) 2013 r. 4 is not included because it was deleted by the State Administrative Tribunal Amendment Regulations 2013 r. 6(3) before the State Administrative Tribunal Amendment Regulations (No. 4) 2013 had commenced.
 The amendment in the State Administrative Tribunal Amendment Regulations (No. 2) 2021 r. 4 (SL 2021/138) is not included because the regulation it sought to amend had been amended by the Attorney General Regulations Amendment (Fees and Charges) Regulations 2021 r. 20 (SL 2021/101) before the amendment purported to come into operation.
 Defined terms
