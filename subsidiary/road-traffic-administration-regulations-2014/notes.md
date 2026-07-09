@@ -41,6 +41,7 @@ Transport Regulations Amendment (Heavy Vehicle) Regulations 2025 Pt. 2 | SL 2025
 Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 2 | SL 2025/65 30 Apr 2025 | 1 Jul 2025 (see r. 2(c))
 Road Traffic (Administration) Amendment Regulations 2026 | SL 2026/52 30 Apr 2026 | r. 1 and 2: 30 Apr 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 May 2026 (see r. 2(b))
 Road Traffic (Administration) Amendment Regulations (No. 2) 2026 | SL 2026/122 24 Jun 2026 | r. 1 and 2: 24 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2026 (see r. 2(b))
+Road Traffic (Administration) Amendment Regulations (No. 3) 2026 | SL 2026/146 8 Jul 2026 | r. 1 and 2: 8 Jul 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
