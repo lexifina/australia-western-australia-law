@@ -133,21 +133,22 @@ Road Traffic (Drug Driving) Regulations 2007
 I, ............................................................................................................................, an authorised drug tester for the purposes of the Road Traffic Act 1974 section 65, certify that —
 1..................................................................................................
 (name)
-provided a sample of oral fluid collected in accordance with the regulations for analysis
+provided a sample of oral fluid collected in accordance with the regulations
 on .......................................................... (date)
 at ............................................................ (time)
 2.The sample provided is marked ...............................
 3.I was at the material time an authorised drug tester.
 4.The sample of oral fluid was collected using an approved device ..................................................................................................... (name of device used)
 operated by me in accordance with the regulations.
-5.The approved device indicated a result in the prescribed manner at the conclusion of the analysis.
-6.The analysis result obtained from the analysis referred to in this certificate was that the following prescribed illicit drugs were detected —
+5.The approved device indicated a result in the prescribed manner at the conclusion of the test.
+6.The result obtained from the test referred to in this certificate was that the following prescribed illicit drugs were detected —
 yes/notetrahydrocannabinol;
 yes/nomethylamphetamine;
-yes/no3, 4-methylenedioxy-n, alpha-dimethylphenylethylamine (MDMA).
+yes/no3, 4-methylenedioxy-n, alpha-dimethylphenylethylamine (MDMA);
+yes/nococaine.
 .............................................................
 (Authorised drug tester)
-[Form 5 amended: Gazette 25 Jan 2008 p. 217.]
+[Form 5 amended: Gazette 25 Jan 2008 p. 217; SL 2026/145 r. 7.]
 Form 6
 (r. 10(6))
 WESTERN AUSTRALIA

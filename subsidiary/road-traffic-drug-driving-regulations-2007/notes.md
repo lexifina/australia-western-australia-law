@@ -15,3 +15,8 @@ Road Traffic (Drug Driving) Amendment Regulations 2017 | 6 Oct 2017 p. 5185-6 | 
 Road Traffic (Drug Driving) Amendment Regulations 2018 | 14 Dec 2018 p. 4807 | r. 1 and 2: 14 Dec 2018 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Dec 2018 (see r. 2(b))
 Road Traffic (Drug Driving) Amendment Regulations 2020 | SL 2020/201 23 Oct 2020 | r. 1 and 2: 23 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 24 Oct 2020 (see r. 2(b))
 Road Safety Regulations Amendment and Repeal Regulations 2021 Pt. 4 | SL 2021/58 21 May 2021 | 1 Jul 2021 (see r. 2(b) and SL 2021/54 cl. 2(a))
+Road Traffic (Drug Driving) Amendment Regulations 2026 | SL 2026/145 8 Jul 2026 | r. 1 and 2: 8 Jul 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 9 Jul 2026 (see r. 2(b))
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
