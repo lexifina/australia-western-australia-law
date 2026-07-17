@@ -11,6 +11,7 @@ Railways (Access) Amendment Code 2011 | 20 Sep 2011 p. 3801-2 | s. 1 and 2: 20 S
 Railways (Access) Amendment Code 2013 | 19 Jul 2013 p. 3269-71 | s. 1 and 2: 19 Jul 2013 (see s. 2(a)); Code other than s. 1 and 2: 7 Aug 2013 (see s. 2(b) and Gazette 6 Aug 2013 p. 3677)
 Railways (Access) Amendment Code 2015 | 4 Dec 2015 p. 4846-7 | s. 1 and 2: 4 Dec 2015 (see s. 2(a)); Code other than s. 1 and 2: 5 Dec 2015 (see s. 2(b))
 Railways (Access) Amendment Code 2023 | SL 2023/207 18 Dec 2023 | Pt. 1: 18 Dec 2023 (see s. 2(a)); Code other than Pt. 1 and 3: 19 Dec 2023 (see s. 2(c)); Pt. 3: 18 Mar 2024 (see s. 2(b))
+Railways (Access) Amendment Code 2026 | SL 2026/148 16 Jul 2026 | s. 1 and 2: 16 Jul 2026 (see s. 2(a)); Code other than s. 1 and 2: 17 Jul 2026 (see s. 2(b))
 Other notes
 Under the Railway (Roy Hill Infrastructure Pty Ltd) Agreement Act 2010 Pt. 3, this Code must be applied with the modifications set out in that Part. Those modifications have effect on and from 15 Aug 2015 until that Part expires in accordance with s. 15 of that Act.
 The Railways (Access) Amendment Code 2004 s. 3(2) reads as follows:
@@ -50,7 +51,7 @@ costing principles47H(1)
 current regulatory asset base3, 3B
 depreciated optimised replacement cost3
 determination3
-determination period31(1)
+determination period31A(1)
 double counting of assets47B, 47F(2)
 economic life3
 efficient costs3
@@ -58,7 +59,7 @@ enhanced facilitiesSch. 4 cl. 7A(2)
 entity3
 error or deficiency47M(1)
 exempt information7BA(1)
-existing access agreement3, 8A(1)
+existing access agreement3, 8A(3)
 existing costing principles59(1)
 existing over-payment rules58(1)
 existing railway owner47B
@@ -70,18 +71,20 @@ former Code56
 foundation user16(1B)
 given50A(1)
 Government railway3
-gross tonne kilometres of freightSch. 2 1.
+gross tonnageSch. 2
+gross tonne kilometresSch. 2
 incremental costsSch. 4 cl. 1
 infrastructure capacity3
 initial regulatory asset base3, 47J(7)
 interim access agreement3, 8A(1)
 interim access proposal3, 8A(3)
+long-term access agreement33(6)
 matters determined by the Regulator29(3)
 necessary capital expenditure47O
 nominated day20(3)
 notification day26(2B), 47L(2)
 operating costs3
-operating expenditure2
+operating expenditure3
 operating expenditure statement3, 47R
 other entitiesSch. 4 cl. 5
 other party22
@@ -100,19 +103,19 @@ Regulator’s website3
 regulatory asset base review statement3, 47P
 related body corporate3
 relevant breachSch. 2A
-relevant day3, 3A(2), (3)
+relevant day3, 3A(2), (2A) and (3)
 relevant determination47O, 47U(1)
-relevant entity59(2)
+relevant entity60(2)
 relevant existing access agreementSch. 4 cl. 12A(3)
 relevant existing railway owner47B, 47D
 relevant period47N(4)
 relevant totalSch. 4 cl. 7(3)
 required information6
-resolved in the access seeker’s favour3A(4), (5)
+resolved in the access seeker’s favour3A(4) and (5)
 review period47O
 review year47O
 rolling stock3
-route3, Sch. 4 cl. 7(2), 8(3)
+route3, Sch. 4 cl. 7(2) and 8(3)
 route section3
 section 9B application3A(1)
 section 9C notice3A(1)
@@ -121,14 +124,14 @@ specified day24(4A)
 specified rail operations7G(1)
 specified route7G(1)
 standard access provisions47A(1)
-the other party25(1)
+the other party26(1)
 the over-payment rules47(1)
 the termination day20(2)
 the train management guidelines43(3)
 total costsSch. 4 cl. 1
 TPI Railway and Port Agreement3
 transition period60(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
