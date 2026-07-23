@@ -21,6 +21,7 @@ Transport (Road Passenger Services) Amendment Regulations (No. 2) 2024 | SL 2024
 Transport (Road Passenger Services) Amendment Regulations (No. 4) 2024 | SL 2024/291 21 Dec 2024 | r. 1 and 2: 21 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
 Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 5 | SL 2025/65 30 Apr 2025 | 1 Jul 2025 (see r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 4 | SL 2026/63 13 May 2026 | 1 Jul 2026 (see r. 2(c))
+Transport (Road Passenger Services) Amendment Regulations 2026 | SL 2026/158 22 Jul 2026 | r. 1 and 2: 22 Jul 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -29,6 +30,7 @@ Defined termProvision(s)
 2019 regulations reviewable decision198(1)
 aggregated journey data130J(1)
 agreement period156(2)
+ambulance service10(5)
 approved form200A(1)
 approved identification card3
 approved person3
@@ -87,6 +89,7 @@ non-cash payment3
 notifiable occurrence104
 on-demand charter vehicle3
 on-demand rank or hail vehicle3
+patient transport service 10(5)
 payment terminal3
 principal booking service39(1), 61(2), 131(2), 153(2)
 principal provider65(1)
@@ -111,7 +114,7 @@ required information31(1) and (3), 185(2)
 Road Safety Commissioner143(1)
 road traffic CEO3
 safety management system3
-Schedule 4 fare2
+Schedule 4 fare3
 Schedule 5 fare3
 school bus service3
 second provider58(3)
