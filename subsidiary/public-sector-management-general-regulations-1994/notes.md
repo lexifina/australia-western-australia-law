@@ -28,6 +28,7 @@ Public Sector Management (General) Amendment Regulations 2020 | SL 2020/2 24 Jan
 Public Sector Management (General) Amendment Regulations (No. 2) 2020 | SL 2020/189 9 Oct 2020 | r. 1 and 2: 9 Oct 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2020 (see r. 2(b))
 Public Sector Management (General) Amendment Regulations 2025 | SL 2025/116 25 Jun 2025 | r. 1 and 2: 25 Jun 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2025 (see r. 2(b))
 Public Sector Management Regulations Amendment Regulations (No. 2) 2025 Pt. 3 | SL 2025/122 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
+Public Sector Management (General) Amendment Regulations 2026 | SL 2026/149 22 Jul 2026 | r. 1 and 2: 22 Jul 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2026 (see r. 2(b))
 Other notes
 The Government Employees’ Housing Act 1964 s.15 was deleted by the Machinery of Government(Miscellaneous Amendments) Act 2006 s. 300.
 Repealed by the Country Housing Act 1998 s. 47.
@@ -42,7 +43,7 @@ SAT CEO8A(1)
 SAT class8A(1)
 SAT office8A(1)
 Tribunal8A(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
