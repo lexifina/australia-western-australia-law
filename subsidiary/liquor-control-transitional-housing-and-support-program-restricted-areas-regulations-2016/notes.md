@@ -1,14 +1,10 @@
 Notes
-This is a compilation of the Liquor Control (Transitional Housing and Support Program Restricted Areas) Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Liquor Control (Transitional Housing and Support Program Restricted Areas) Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Liquor Control (Transitional Housing and Support Program Restricted Areas) Regulations 2016 | 26 Jul 2016 p. 3163-72 | r. 1 and 2: 26 Jul 2016 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2016 (see r. 2(b))
 Liquor Control (Transitional Housing and Support Program Restricted Areas) Amendment Regulations 2021 | SL 2021/117 2 Jul 2021 | r. 1 and 2: 2 Jul 2021 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Jul 2021 (see r. 2(b))
-Liquor Control (Transitional Housing and Support Program Restricted Areas) Amendment Regulations 2026 (other than r. 5(2)) | SL 2026/157 22 Jul 2026 | r. 1 and 2: 22 Jul 2026 (see r. 2(a)); r. 3, 4 and 5(1): 23 Jul 2026 (see r. 2(c))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
-Liquor Control (Transitional Housing and Support Program Restricted Areas) Amendment Regulations 2026 r. 5(2) | SL 2026/157 22 Jul 2026 | 31 Jul 2026 (see r. 2(b))
+Liquor Control (Transitional Housing and Support Program Restricted Areas) Amendment Regulations 2026 | SL 2026/157 22 Jul 2026 | r. 1 and 2: 22 Jul 2026 (see r. 2(a)); r. 3, 4 and 5(1): 23 Jul 2026 (see r. 2(c)); r. 5(2): 31 Jul 2026 (see r. 2(b))
 Other notes
 These regulations expire at the close of 30 Jul 2036 (see r. 9).
 Defined terms
