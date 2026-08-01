@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Charitable Collections Regulations 1947 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Charitable Collections Regulations 1947 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Charitable Collections Regulations 1947 | 3 Apr 1947 p. 566-73 | 3 Apr 1947
@@ -23,10 +23,7 @@ Charitable Collections Amendment Regulations 2017 | 10 Mar 2017 p. 1567 | r. 1 a
 Consumer Protection Regulations Amendment Regulations 2019 Pt. 2 | 24 Dec 2019 p. 4416-20 | 1 Jan 2020 (see r. 2(b) and Gazette 24 Dec 2019 p. 4415)
 Charitable Collections Amendment Regulations 2020 | SL 2020/120 21 Jul 2020 | r. 1 and 2: 21 Jul 2020 (see r. 2(a)); Regulations other than r. 1 and 2: 22 Jul 2020 (see r. 2(b))
 Commerce Regulations Amendment (Infringement Notices) Regulations 2020 Pt. 7 | SL 2020/163 25 Sep 2020 | 29 Sep 2020 (see r. 2(b) and SL 2020/159 cl. 2(a))
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
-Citation | Published | Commencement
-Charitable Collections Amendment Regulations 2026 r. 3-14 | SL 2026/153 22 Jul 2026 | 1 Aug 2026 (see r. 2(b))
+Charitable Collections Amendment Regulations 2026 | SL 2026/153 22 Jul 2026 | r. 1 and 2: 22 Jul 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Aug 2026 (see r. 2(b))
 Other notes
 The Charitable Collections Amendment Regulations 2000 r. 12 reads as follows:
 12.Savings and transition
@@ -37,15 +34,15 @@ Defined terms
 Defined termProvision(s)
 ABN3(1)
 Act2
-approved2
+advisory committee2
 branch organisation2
 charitable organisation2
-collection2
+collection1
+collection recordsSch. 1A cl. 1(1)
 collector2
 commencement day20(1)
-Commissioner2
+commercial collectorSch. 1A cl. 1(1)
 executive officers2
-registered charity3(1)
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
