@@ -55,6 +55,7 @@ Western Australian Meat Industry Authority Amendment Regulations 2023 | SL 2023/
 Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2023 | SL 2023/185 29 Nov 2023 | r. 1 and 2: 29 Nov 2023 (see r. 2(a)); Regulations other than r. 1 and 2: 30 Nov 2023 (see r. 2(b))
 Western Australian Meat Industry Authority Amendment Regulations 2025 | SL 2025/132 9 Jul 2025 | r. 1 and 2: 9 Jul 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 10 Jul 2025 (see r. 2(b))
 Western Australian Meat Industry Authority Regulations 1985 with editorial changes as at 15 May 2026
+Western Australian Meat Industry Authority Amendment Regulations (No. 2) 2026 | SL 2026/159 5 Aug 2026 | r. 1 and 2: 5 Aug 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 6 Aug 2026 (see r. 2(b))
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
@@ -94,4 +95,4 @@ throughput feeSch. 6 cl. 1
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
 Attribute work as: © State of Western Australia 2026.
-By Authority: GEOFF O. LAWN, Government Printer
+By Authority: ANDREW JONES, Government Printer
