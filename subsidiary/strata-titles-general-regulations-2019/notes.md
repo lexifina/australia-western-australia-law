@@ -16,6 +16,7 @@ Lands Regulations (Community and Strata Titles) Amendment Regulations (No. 3) 20
 Lands Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 4 | SL 2025/85 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Lands Regulations (Community and Strata Titles) Amendment Regulations 2025 Pt. 3 | SL 2025/182 29 Oct 2025 | 30 Oct 2025 (see r. 2(b))
 Lands Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 4 | SL 2026/64 13 May 2026 | 1 Jul 2026 (see r. 2(b))
+Strata Titles (General) Amendment Regulations 2026 | SL 2026/171 19 Aug 2026 | r. 1 and 2: 19 Aug 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Aug 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -73,6 +74,7 @@ local legal practitioner3
 local planning scheme3
 lotSch. 3 cl. 2
 national criminal record check90
+National Register90
 pending registration application177(1)
 personal information3
 pre-commencement re-subdivision by-laws178(1)
