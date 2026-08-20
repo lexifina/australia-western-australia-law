@@ -20,10 +20,13 @@ Electricity Industry Amendment Act 2020 Pt. 2 | 9 of 2020 | 6 Apr 2020 | 7 Apr 2
 Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 2 Div. 1 | 1 of 2024 (as amended by No. 10 of 2024 s. 27) | 7 Mar 2024 | 6 Feb 2025 (see s. 2(b) and SL 2025/31 cl. 2)
 Electricity Industry Amendment (Alternative Electricity Services) Act 2024 Pt. 2 and s. 26(2) and (3) | 10 of 2024 | 22 Apr 2024 | Pt. 2: 23 Apr 2024 (see s. 2(1)(d))’ s. 26(2) and (3): 6 Feb 2025 (see s. 2(1)(b)(ii) and (c)(ii) and SL 2025/31 cl. 2)
 Statutes (Repeals and Minor Amendments) Act 2025 s. 8 and 21 | 14 of 2025 | 25 Sep 2025 | 26 Sep 2025 (see s. 2(b))
+Electricity Industry Amendment (Capital Charges) Act 2026 (other than Pt. 3) | 12 of 2026 | 19 Aug 2026 | Pt. 1: 19 Aug 2026 (see s. 2(a)); Act other than Pt. 1 and 3: 20 Aug 2026 (see s. 2(c))
+Electricity Industry Amendment (Capital Charges) Act (No. 2) 2026 | 13 of 2026 | 19 Aug 2026 | s. 1 and 2: 19 Aug 2026 (see s. 2(a)); Act other than s. 1 and 2: 20 Aug 2026 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Electricity Industry Amendment (Distributed Energy Resources) Act 2024 Pt. 3 Div. 1 | 1 of 2024 | 7 Mar 2024 | To be proclaimed (see s. 2(b))
+Electricity Industry Amendment (Capital Charges) Act 2026 Pt. 3 | 12 of 2026 | 19 Aug 2026 | Operative immediately after the Electricity Industry Amendment (Distributed Energy Resources) Act 2024 s. 53 comes into operation (see s. 2(b)(ii))
 Other notes
 The Electricity Corporation Act 1994 was renamed as the Electricity Transmission and Distribution Systems (Access) Act 1994 by the Electricity Corporations Act 2005 Sch. 5 cl. 9.
 The Electricity Corporations Act 2005 Sch. 5 cl. 11 came into operation on 1 Apr 2006, see Gazette 31 Mar 2006 p. 1153.
@@ -36,10 +39,12 @@ Defined termProvision(s)
 access3(1)
 access agreement103
 access arrangement39A(1), 103
-AES code of practice2(1)
+adjustment mechanism129V(1), 129X(1)
+AES code of practice3(1)
 AES customer contract3(1)
 affected person59B, 59U(1)
 alternative electricity service3(1)
+amendment Act147
 appropriate amendment53(3), 64(3)
 approved policy60
 approved scheme90
@@ -48,14 +53,15 @@ arrangement120ZF(1), 127(1)
 associate115(6), 120S(1)
 Authority3(1)
 Board3(1)
+capital charge129V(1), 129W(2)
 civil monetary liability120ZA(1), 126(1)
 class59B
 Code3(1), 107(1)
 code matter39(2c)
 code of conduct78
-commencement day46(1)
+commencement day46(1), 147
 committee78
-Competition Principles Agreement2(1)
+Competition Principles Agreement3(1)
 confer121(1)
 connect57
 connected facility3(1)
@@ -75,7 +81,7 @@ customer contract90
 daily amount118(3), 120V(3)
 designated area67
 distribution licence3(1)
-distribution system2(1), 124D
+distribution system3(1), 124D
 distribution system market124D
 distribution system market operator124D
 distribution system operator124D
@@ -96,6 +102,7 @@ electricity system3(1)
 electricity system and market rules3(1), 123(1)
 embedded network3(1)
 entity120ZA(1)
+existing instrument148(1)
 existing operator46(2)
 extension and expansion policy60
 gas pipelines access provisions130(1)
@@ -114,7 +121,7 @@ licence area3(1)
 licensee3(1), 45(5), 71(1), 90
 marketing78
 matter134(1)
-NBU129K
+NBU129L
 network infrastructure facilities3(1)
 network service provider103, 121(1)
 network user103, 124D
@@ -140,6 +147,7 @@ prescribed form of contract54A(1)
 prescribed period61(1)
 prescribed provision45(1)
 prescribed voltage3(1)
+publication day147
 public authority40(1)
 quality3(1)
 Regional Power Corporation3(1)
@@ -147,11 +155,13 @@ registration3(1)
 registration framework59B
 registration holder3(1)
 regulated retail tariffs129B
+related entity129W(1)
 relevant contract54A(1)
 relevant corporation45(5)
 relevant day39A(1), 54A(1)
-relevant instrument135
+relevant instrument129Z(1), 135, 149(1)
 relevant interest40(1)
+relevant network129V(1)
 reliability3(1)
 retail licence3(1), 67
 retail licensee47
@@ -179,13 +189,15 @@ temporary access contribution129L
 Temporary Access Contribution Account129L
 termination date129L
 total annual volume129L
-transitional matter136(1)
+transitional event147
+transitional matter136(1), 147
+transitional regulations147
 transmission licence3(1)
 transmission system3(1)
 user129B, 129F(5), 129L
-Western Power Corporation45(1)
+Western Power Corporation46(1)
 wholesale electricity market121(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
