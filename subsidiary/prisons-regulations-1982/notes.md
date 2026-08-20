@@ -50,6 +50,7 @@ Corrective Services Regulations Amendment (Firearms) Regulations 2022 Pt. 2 | SL
 Prisons Amendment Regulations (No. 2) 2022 | SL 2022/19718 Nov 2022 | r. 1 and 2: 18 Nov 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Nov 2022 (see r. 2(b))
 Prisons Amendment Regulations 2024 | SL 2024/275 18 Dec 2024 | r. 1 and 2: 18 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Dec 2024 (see r. 2(b))
 Corrective Services Regulations Amendment (Firearms) Regulations 2024 Pt. 2 | SL 2024/299 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
+Prisons Amendment Regulations 2026 | SL 2026/170 19 Aug 2026 | r. 1 and 2: 19 Aug 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 20 Aug 2026 (see r. 2(b))
 Other notes
 Under the Cross-border Justice Act 2008 section 14, in order to give effect to that Act, these Regulations must be applied with the modifications prescribed by the Cross-border Justice Regulations 2009 Part 3 Division 17 as if these Regulations had been altered in that way. If a modification is to replace or insert a numbered provision, the new provision is identified by the superscript 1M appearing after the provision number. If a modification is to replace or insert a definition, the new definition is identified by the superscript 1M appearing after the defined term.
 Regulation 5 disallowed on 15 Dec 1999 (see Gazette 21 Dec 1999 p. 6417).
@@ -98,7 +99,7 @@ summary of investigation30
 supervision2(1)
 sweat patch26
 test authorisation notice29A, 29F(2)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
