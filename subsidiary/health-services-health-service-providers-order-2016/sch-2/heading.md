@@ -16,6 +16,7 @@
 10.Armadale-Kelmscott Memorial Hospital
 11.Bentley Hospital
 12.Kalamunda District Community Hospital
+12A.Mount Lawley Hospital
 13.Royal Perth Hospital
 ## Division 4 — WA Country
 14.Albany Hospital
@@ -128,4 +129,4 @@
 121.Yalgoo Health Centre
 122.Yandeyarra Health Centre
 123.York Hospital
-[Schedule 2 amended: Gazette 14 Sep 2018 p. 3314; 19 Oct 2018 p. 4135; 30 Nov 2018 p. 4596; 15 Jan 2019 p. 57; SL 2024/167 cl. 4; SL 2024/215 cl. 5.]
+[Schedule 2 amended: Gazette 14 Sep 2018 p. 3314; 19 Oct 2018 p. 4135; 30 Nov 2018 p. 4596; 15 Jan 2019 p. 57; SL 2024/167 cl. 4; SL 2024/215 cl. 5; SL 2026/179 cl. 4.]
