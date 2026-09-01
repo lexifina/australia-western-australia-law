@@ -2,11 +2,11 @@ Notes
 This is a compilation of the Towing Services Act 2024. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Short title | Number and year | Assent | Commencement
-Towing Services Act 2024 Pt. 1, Pt. 2 Div. 1, 2 (other than s. 13), 3 and 4, Pt. 3 Div. 1 (but only s. 40), Pt. 4, Pt. 5 Div. 1, Div. 2 (but only s. 71 and 74) and Div. 3 (other than 78(3)), Pt. 6-8, Pt. 9 (but only s. 155-161), Pt. 10 and Pt. 11 (other than Div. 4) | 37 of 2024 | 29 Oct 2024 | Pt. 1: 29 Oct 2024 (see s. 2(a)); Pt. 4 (but only s. 68): 30 Oct 2024 (see s. 2(b)); Pt. 2 Div. 2 (but only s. 15 and 16), Pt. 3 Div. 1 (but only s. 40), s. 69, Pt. 5 Div. 1, Div. 2 (but only s. 71 and 74) and Div. 3 (other than 78(3)), Pt. 6-8, Pt. 9 (but only s. 155-161), Pt. 10 and Pt. 11 (other than Div. 4): 10 Jan 2025 (see s. 2(c) and SL 2025/3 cl. 2); Pt. 2 Div. 1, s. 14 and Pt. 2 Div. 3 and 4: 1 Jul 2026 (see s. 2(a) and SL 2026/49 cl. 2(a))
+Towing Services Act 2024 Pt. 1, Pt. 2, Pt. 3 Div. 1 (but only s. 40), Pt. 4, Pt. 5 Div. 1, Div. 2 (but only s. 71 and 74) and Div. 3 (other than 78(3)), Pt. 6-8, Pt. 9 (but only s. 155-161), Pt. 10 and Pt. 11 (other than Div. 4) | 37 of 2024 | 29 Oct 2024 | Pt. 1: 29 Oct 2024 (see s. 2(a)); Pt. 4 (but only s. 68): 30 Oct 2024 (see s. 2(b)); Pt. 2 Div. 2 (but only s. 15 and 16), Pt. 3 Div. 1 (but only s. 40), s. 69, Pt. 5 Div. 1, Div. 2 (but only s. 71 and 74) and Div. 3 (other than 78(3)), Pt. 6-8, Pt. 9 (but only s. 155-161), Pt. 10 and Pt. 11 (other than Div. 4): 10 Jan 2025 (see s. 2(c) and SL 2025/3 cl. 2); Pt. 2 Div. 1, s. 14 and Pt. 2 Div. 3 and 4: 1 Jul 2026 (see s. 2(c) and SL 2026/49 cl. 2(a)); s. 13: 1 Sep 2026 (see s. 2(c) and SL 2026/49 cl. 2(b))
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Towing Services Act 2024 s. 13, s. 41-45, Pt. 3 Div. 2 and 3, s. 72, 73, 75, 78(3) and 162, and Pt. 11 Div. 4 | 37 of 2024 | 29 Oct 2024 | To be proclaimed (see s. 2(c))
+Towing Services Act 2024 s. 41-45, Pt. 3 Div. 2 and 3, s. 72, 73, 75, 78(3) and 162, and Pt. 11 Div. 4 | 37 of 2024 | 29 Oct 2024 | To be proclaimed (see s. 2(c))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
