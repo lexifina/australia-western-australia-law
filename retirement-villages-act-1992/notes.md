@@ -30,12 +30,12 @@ Reprint 4: The Retirement Villages Act 1992 as at 5 Jul 2013 (includes amendment
 Strata Titles Amendment Act 2018 Pt. 3 Div. 19 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 19 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Directors’ Liability Reform Act 2023 Pt. 3 Div. 54 | 9 of 2023 | 4 Apr 2023 | 5 Apr 2023 (see s. 2(j))
-Retirement Villages Amendment Act 2024 | 42 of 2024 | 13 Nov 2024 | Pt. 1: 13 Nov 2024 (see s. 2(a)); Pt. 2 Div. 2: 14 Nov 2024 (see s. 2(b))
+Retirement Villages Amendment Act 2024 Pt. 2 (other than s. 7 and 28) | 42 of 2024 | 13 Nov 2024 | Pt. 2 Div. 2: 14 Nov 2024 (see s. 2(b)); Pt. 2 Div. 1 (other than s. 7 and 28): 1 Sep 2026 (see s. 2(c) and SL 2026/172 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 60(2) | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Retirement Villages Amendment Act 2024 Pt. 2 Div. 1 | 42 of 2024 | 13 Nov 2024 | Pt. 2 Div. 1 (other than s. 7 and 28): 1 Sep 2026 (see s. 2(c) and SL 2026/172 cl. 2); s. 7 and 28: to be proclaimed (see s. 2(c))
+Retirement Villages Amendment Act 2024 s. 7 and 28 | 42 of 2024 | 13 Nov 2024 | To be proclaimed (see s. 2(c))
 Other notes
 The Courts Legislation Amendment and Repeal Act 2004 Sch. 2 cl. 45 was repealed by the Criminal Law and Evidence Amendment Act 2008 s. 77(13).
 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with certain transitional issues some of which may be relevant for this Act.
@@ -52,57 +52,78 @@ The Retirement Villages Amendment Act 2012 s. 4(4) was repealed by the Statutes 
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+administer3(1)
 amending ActSch. 1 cl. 5(1) and 6
+amenity3(1)
 appointed75F(1)
 approved form3(1)
 assets75A
+authorised deposit-taking institution3(1)
+capital gain27(1)
+capital item41
+capital maintenance41
+capital maintenance fund41C(1)
+capital replacement41
 code3(1)
 commencement dateSch. 1 cl. 3(2)
 commencement daySch. 1 cl. 4(1) and 5(1)
 Commissioner3(1)
+community arrangements14B(1)
+community arrangements statement3(1)
 Department3(1)
 executive officer7A(3)
+exit entitlement3(1)
 external administration75G(1)
 external administrator75G(1)
-former resident23(1), 24(1)
 functions75A
-Gazettal daySch. 1 cl. 4(1)
+Gazettal daySch. 1 cl. 5(1)
 information11A(3)
+ingoing contribution3(1)
 inserted provisionSch. 1 cl. 9(1)
-levy2(1)
+judicial member3(1)
+levy3(1)
+modification41I
+modification plan41I, 41N(2)
 operative daySch. 1 cl. 5(5)
-operator3(1)
+operator3(1), 18(1A), 21A(1)
 other persons75D(1)
 owner3(1), 13(7)
-premium3(1)
+permanently vacated3(1) and (1A)
+prohibited term36(1)
 property75A
+prospective resident information statement3(1)
 publication daySch. 1 cl. 7(1)
 records75H(1)
 recurrent charge3(1)
-recurrent charges23(1), 24(1)
 Registrar of Titles3(1)
+reinstatement27(1)
 relevant75H(1)
 relevant information77B(1), Sch. 1 cl. 4(1)
 relevant personSch. 1 cl. 4(2)
+renovation27(1)
+renovation plan27(5)
+required term36(1)
 residence contract3(1)
 residence rules3(1)
-resident3(1), 9(8)
+resident3(1), 9(8), 26
 residential premises3(1)
 residential tenancy agreement3(1)
 retired person3(1)
 retirement village3(1)
 retirement village scheme3(1)
-service19(7)
 service contract3(1)
-special resolution57A(3)
+special resolution3(1)
 specifiedSch. 1 cl. 7(1)
 statutory manager11(1), 75A
 successor in title17(3)
+terminate22(1A)
+termination plan22(3)
 transitional matterSch. 1 cl. 5(1) and 7(1)
 transitional regulationsSch. 1 cl. 5(1) and 7(1)
 Tribunal3(1)
+village contract14A(1A)
 working day3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
