@@ -100,12 +100,11 @@ Work Health and Safety Act 2020 Pt. 15 Div. 4 Subdiv. 5 | 36 of 2020 | 10 Nov 20
 Police Amendment (Compensation Scheme) Act 2021 Pt. 3 | 26 of 2021 | 13 Dec 2021 | 1 Jan 2022 (see s. 2(b) and SL 2021/222 cl. 2)
 Industrial Relations Legislation Amendment Act 2021 Pt. 2 | 30 of 2021 | 22 Dec 2021 | 20 Jun 2022 (see s. 2(1)(b) and (2) and SL 2022/79 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 9 and s. 424 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(b)(i) and (c) and SL 2022/113 cl. 2)
-Industrial Relations Legislation Amendment Act 2024 Pt. 2 (other than s. 100-103) | 43 of 2024 | 13 Nov 2024 | s. 3-92: 31 Jan 2025 (see s. 2(c)); s. 93-99 and 104: 1 Jul 2025 (see s. 2(b) and SL 2025/97 cl. 2)
+Industrial Relations Legislation Amendment Act 2024 Pt. 2 | 43 of 2024 | 13 Nov 2024 | Pt. 2 (other than Div. 3): 31 Jan 2025 (see s. 2(c)); s. 93-99 and 104: 1 Jul 2025 (see s. 2(b) and SL 2025/97 cl. 2); s. 100-103: 1 Sep 2026 (see s. 2(b) and SL 2026/154 cl. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 State Superannuation (Transitional and Consequential Provisions) Act 2000 s. 75 | 43 of 2000 | 2 Nov 2000 | To be proclaimed (see s. 2(2))
-Industrial Relations Legislation Amendment Act 2024 s. 100-103 | 43 of 2024 | 13 Nov 2024 | 1 Sep 2026 (see s. 2(b) and SL 2026/154 cl. 2)
 Other notes
 Footnote no longer applicable.
 Repealed by the Fisheries Legislation (Consequential Provisions) Act 1991 (Cwlth). Now see the Fisheries Management Act 1991 s. 4(1) (Cwlth).
@@ -147,7 +146,7 @@ amended ActSch. 6 cl. 1
 amending ActSch. 6 cl. 1
 anti-discrimination legislation51BZD(1)
 appeal125(1)
-applicable order48A.(3)
+applicable order48A(3)
 applicant97WR
 application103(3)
 apprentice7(1)
@@ -158,6 +157,7 @@ Arbitrator124(1)
 area and scope provisions29A(1a)
 association7(1)
 auditor65
+Australian practising certificate97K(4)
 authorised representative49G(1)
 award7(1), 46(5), 97U(1), 97UG(7)
 bargaining agent97U(1)
@@ -194,7 +194,8 @@ contravene83(1A)
 contravention83EA(1), 84AA(1), 84K, 84O
 conviction49G(1)
 corporation96H(3)
-corresponding authority80ZI(3)
+corresponding authority80ZI(3), 97K(5)
+corresponding law97K(5)
 corresponding provision of this Act80BF(1)
 counterpart federal body52, 52A(2) and (3)
 Court7(1)
@@ -208,10 +209,12 @@ Department7(1)
 departmental officer7(1)
 deputy registrar7(1)
 designated deputy registrar95(3)
+designated local regulatory authority97K(5)
+designated tribunal97K(5)
 direct voting system52
 discriminatory action96E(4)
 dispute97WH
-disqualified person112A(3B)
+disqualified from legal practice97K(3) and (4)
 EEA7(1), 97WB(2)
 EEA dispute provisions97U(1)
 electronic means7(1)
@@ -226,6 +229,7 @@ employment law98(3)
 employment record7(1)
 employment services for persons with disabilities97U(1)
 enforceable undertaking84K
+engage in legal practice97K(5)
 enterprise72A(1)
 enterprise award7(1)
 enterprise order7(1), 42I(1)
@@ -250,7 +254,6 @@ fit and proper person criteria49G(1), 49P(2)
 flexible working arrangement dispute7(1), 51D
 flexible working arrangement order51C(1), 51G(5)
 flexible working arrangement request51C(1)
-foreign roll112A(3B)
 formerSch. 6 cl. 1
 former Act123(1), Sch. 6 cl. 5(1)
 former acting PresidentSch. 6 cl. 1 and 2(1)
@@ -265,6 +268,7 @@ general jurisdiction81AA
 General Manager80BE(1)
 Government Financial Projections Statement26(2B)
 government officer7(1), 36AB(1) and (2)
+grounds for disciplinary action97P(2)
 group training organisation7(1)
 guardianship order97WS(4)
 habitation premises49K(1)
@@ -272,6 +276,7 @@ health services employee7(1)
 human resource management activity36AI
 in connection with work7(1), 51BR(2)
 industrial action7(1)
+industrial advocacy services97I
 industrial agreement7(1)
 Industrial Gazette7(1)
 industrial inspector7(1), 84P
@@ -332,6 +337,7 @@ post-commencement behaviour123(1)
 post-secondary education institution7(1)
 pre-commencement behaviour123(1)
 premises7(1)
+prescribed97I
 prescribed amount29AA(5)
 prescribed period40C, 42A(1)
 prescribed procedures129(1)
@@ -361,6 +367,7 @@ recipient84B, 84V(1)
 reclassification7(1), 36AD(1)
 record7(1)
 record-related civil penalty provision7(1)
+registered industrial agent97I
 Registrar7(1), 96(1)
 Registrar’s Department7(1)
 Registrar’s Department officer7(1)
@@ -424,7 +431,7 @@ wage assessment tool7(1)
 WA Police51BF
 worker7(1), 51BH(1) and (3)
 work health and safety law49G(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
+Attribute work as: © State of Western Australia 2026.
 By Authority: ANDREW JONES, Government Printer
