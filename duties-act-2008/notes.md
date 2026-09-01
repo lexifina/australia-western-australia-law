@@ -37,13 +37,13 @@ Land and Public Works Legislation Amendment Act 2023 Pt. 4 Div. 3 | 4 of 2023 | 
 Duties Amendment (Off-the-Plan Concession and Foreign Persons Exemptions) Act 2023 | 29 of 2023 | 28 Nov 2023 | s. 1 and 2: 28 Nov 2023 (see 2(a)); Act other than s. 1 and 2: 29 Nov 2023 (see s. 2(b))
 Workers Compensation and Injury Management Act 2023 s. 709 | 21 of 2023 | 24 Oct 2023 | 1 Jul 2024 (see s. 2(d) and SL 2024/34 cl. 2)
 Duties Amendment (First Home Owner Concessions) Act 2024 | 27 of 2024 | 30 Aug 2024 | s. 1 and 2: 30 Aug 2024 (see s. 2(a)); Act other than s. 1 and 2: 31 Aug 2024 (see s. 2(b))
+Retirement Villages Amendment Act 2024 Pt. 3 | 42 of 2024 | 13 Nov 2024 | 1 Sep 2026 (see s. 2(c) and SL 2026/172 cl. 2)
 Duties Amendment Act 2025 | 5 of 2025 | 19 Jun 2025 | s. 1 and 2: 19 Jun 2025 (see s. 2(a)); Act other than s. 1 and 2: 20 Jun 2025 (see s. 2(b))
 Help to Buy (Commonwealth Powers) Act 2025 Pt. 4 Div. 1 | 22 of 2025 | 19 Dec 2025 | 19 Dec 2025 (see s. 2)
 Uncommenced provisions table
-To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Aquatic Resources Management Act 2016 s. 377 | 53 of 2016 | 29 Nov 2016 | To be proclaimed (see s. 2(b))
-Retirement Villages Amendment Act 2024 Pt. 3 | 42 of 2024 | 13 Nov 2024 | 1 Sep 2026 (see s. 2(c) and SL 2026/172 cl. 2)
 Other notes
 Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, modifications to State taxing laws may be prescribed. Modifications are prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations 2007 Pt. 2 Div. 1.
 If a modification is to:
@@ -525,7 +525,7 @@ voting power205C(1)
 Western Australian business9, 79
 Western Australian business asset9, 79
 wound up3
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: ROGER JACOBS, Acting Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
