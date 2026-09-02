@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Weapons Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Weapons Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
  | Weapons Regulations 1999 | 31 Aug 1999 p. 4225-32 | 1 Sep 1999 (see r. 2 and Gazette 31 Aug 1999 p. 4235)
@@ -26,6 +26,10 @@ Citation | Published | Commencement
  | Police Regulations Amendment (Edged Weapons and Move On Orders) Regulations 2024 Pt. 3 | SL 2024/282 18 Dec 2024 | 20 Dec 2024 (see r. 2(b))
  | Police Regulations Amendment (Firearms) Regulations 2024 Pt. 3 | SL 2024/296 21 Dec 2024 | 31 Mar 2025 (see r. 2(b) and SL 2024/289 cl. 2)
  | Police Regulations Amendment (Significant Defence Events) Regulations 2026 Pt. 3 | SL 2026/127 24 Jun 2026 | 25 Jun 2026 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Weapons Amendment Regulations 2026 r. 3-7 | SL 2026/185 2 Sep 2026 | 30 Nov 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
