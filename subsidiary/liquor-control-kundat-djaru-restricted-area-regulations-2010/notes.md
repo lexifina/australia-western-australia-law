@@ -11,13 +11,14 @@ Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 3) 202
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 4) 2023 Pt. 2 | SL 2023/140 6 Sep 2023 | 7 Sep 2023 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 4) 2024 Pt. 3 | SL 2024/157 7 Aug 2024 | 8 Aug 2024 (see r. 2(b))
 Racing and Gaming Regulations Amendment (Liquor Control) Regulations (No. 2) 2025 Pt. 3 | SL 2025/143 6 Aug 2025 | 7 Aug 2025 (see r. 2(b))
+Liquor Control (Kundat Djaru Restricted Area) Amendment Regulations 2026 | SL 2026/183 2 Sep 2026 | r. 1 and 2: 2 Sep 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Sep 2026 (see r. 2(b))
 Other notes
-These regulations expire at the close of 18 September 2026 (see r. 9).
+These regulations expire at the close of 18 September 2027 (see r. 9).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 Kundat Djaru Aboriginal Community3
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
