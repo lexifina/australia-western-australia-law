@@ -59,6 +59,7 @@ Residential Tenancies Amendment Regulations (No. 2) 2024 | SL 2024/149 10 Jul 20
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 17 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Commerce Regulations Amendment (Residential Tenancies and Residential Parks) Regulations 2026 Pt. 3 | SL 2026/4 21 Jan 2026 | 28 Mar 2026 (see r. 2(b) and SL 2026/31 cl. 2(f))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 17 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(c))
+Residential Tenancies Amendment Regulations 2026 | SL 2026/182 2 Sep 2026 | r. 1 and 2: 2 Sep 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Sep 2026 (see r. 2(b))
 Other notes
 Under the Land Administration Act 1997 s. 281(3), a reference in a written law to the Land Act 1933 is, unless the contrary intention appears, to be construed as if that reference were a reference to the Land Administration Act 1997.
 Repealed by the Biosecurity and Agriculture Management (Repeal and Consequential Provisions) Act 2007.
@@ -69,7 +70,7 @@ approved way11A(5)
 AS 5039-200812B(1)
 authorised notice12I(1)
 BondsOnline eTransactions3A
-commencement day5A(1A), 19(1), 20(1)
+commencement day5A(1A), 19(1), 20(1), 21(1)
 current agreement5ACA(1), 5E(1), 5F(1)
 dangerous dog12BB(1)
 deadlock12B(1)
@@ -80,6 +81,7 @@ draughtproofing7I(1)
 eligible person16(3)
 financially disadvantaged personSch. 3
 former regulation 15(2)20(1)
+former regulation 5AAA21(1)
 Foyer Oxford7D(1)
 Government employee5B(1)
 housing management agreement3A
@@ -89,11 +91,11 @@ person of Aboriginal descent5AD(1)
 premises5ACA(1), 5AD(2), 5AE(1), 5AF(1), 5AG(1), 5AH(1)
 previous agreement5ACA(1), 5AE(1), 5E(1), 5F(1)
 relevant bank accepted bills rate14(1)
+relevant student accommodation21(1)
 retirement village3(2)
 rural land7A(1)
 security bond15(10)
-specified power5(2)
-St Thomas More College5AAA(1)
+specified power5(2), 5D(2)
 Unclaimed Security Bond Account15(10)
 WA Country Health Service3A
 water-efficient shower head7I(1)
