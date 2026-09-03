@@ -48,6 +48,7 @@ Court Fees Regulation Amendment Regulations 2024 Pt. 4 | SL 2024/174 21 Aug 2024
 Attorney General Regulations Amendment (Fees) Regulations 2024 Pt. 3 | SL 2024/254 11 Dec 2024 | 12 Dec 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 10 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 10 | SL 2026/114 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
+Magistrates Court (Fees) Amendment Regulations 2026 | SL 2026/181 2 Sep 2026 | r. 1 and 2: 2 Sep 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 3 Sep 2026 (see r. 2(b))
 Other notes
 The Table to r. 4 of the Magistrates Court (Fees) Amendment Regulations (No. 2) 2011 included amendments to Schedule 1 Divisions 2 and 3. These amendments are not included because the instruction in r. 4 referred only to Schedule 1 Division 1.
 Defined terms

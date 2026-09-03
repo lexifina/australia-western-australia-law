@@ -106,7 +106,10 @@ Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee 
  | (c)an application under the Fines, Penalties and Infringement Notices Enforcement Act 1994 section 101, 101AA or 101A | 195.50 | 195.50 | 58.50
  | (d)an application under the Dividing Fences Act 1961 | 195.50 | 195.50 | 58.50
  | (e)an application under the Pawnbrokers and Second-hand Dealers Act 1994 | 195.50 | 195.50 | 58.50
-[Division 2 inserted: SL 2026/114 r. 21.]
+ | (f)an application for a final order under the Commonwealth Workplace Protection Orders Act 2025 (Cth) section 19 | N/A | 1 805.00 | N/A
+ | (g)an application for an interim order under the Commonwealth Workplace Protection Orders Act 2025 (Cth) section 13 | N/A | 650.00 | N/A
+ | (h)an application for an urgent interim order under the Commonwealth Workplace Protection Orders Act 2025 (Cth) section 16 | N/A | 650.00 | N/A
+[Division 2 inserted: SL 2026/114 r. 21; amended: SL 2026/181 r. 4.]
 ## Division 3 — Criminal jurisdiction
 [Heading inserted: SL 2026/114 r. 21.]
 Item | Matter | Column A Fee for individual or eligible entity $ | Column B Fee for entity $ | Column C Fee for eligible individual $
