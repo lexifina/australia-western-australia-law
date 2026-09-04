@@ -53,6 +53,7 @@ Transport Regulations Amendment (Heavy Vehicle) Regulations 2025 Pt. 3 | SL 2025
 Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 4 | SL 2025/65 30 Apr 2025 | Pt. 4 (other than Div. 3): 1 May 2025 (see r. 2(b)); Pt. 4 Div. 3: 1 Jul 2025 (see r. 2(c))
 Road Traffic (Vehicles) Amendment Regulations (No. 4) 2025 | SL 2025/164 17 Sep 2025 | r. 1 and 2: 17 Sep 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jan 2026 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 3 | SL 2026/63 13 May 2026 | Pt. 3 (other than Div. 3): 14 May 2026 (see r. 2(b)); Pt. 3 Div. 3: 1 Jul 2026 (see r. 2(c))
+Road Traffic (Vehicles) Amendment Regulations (No. 2) 2026 | SL 2026/188 2 Sep 2026 | r. 1 and 2: 2 Sep 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 4 Sep 2026 (see r. 2(b))
 Other notes
 The Road Traffic (Vehicles) Amendment Regulations (No. 2) 2017 r. 4(b) was disallowed by the Legislative Council on 27 Jun 2017 (see Gazette 30 Jun 2017 p. 3612).
 The Road Traffic (Vehicles) Amendment Regulations (No. 3) 2015 r. 2 and the Road Traffic (Vehicles) Amendment Regulations (No. 5) 2015 r. 2 read as follows:
