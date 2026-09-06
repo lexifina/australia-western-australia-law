@@ -41,6 +41,7 @@ Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2025 Pt. 
 Transport Regulations Amendment (Removal of Obstructions) Regulations 2025 Pt. 3 | SL 2025/215 17 Dec 2025 | 19 Dec 2025 (see r. 2(b))
 Transport Regulations Amendment (Fees and Charges) Regulations (No. 2) 2026 Pt. 4 | SL 2026/62 13 May 2026 | 1 Jul 2026 (see r. 2(b))
 Mooring Amendment (Petroleum Legislation) Regulations 2026 | SL 2026/72 27 May 2026 | r. 1 and 2: 27 May 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 28 May 2026 (see r. 2(b) and SL 2026/70 cl. 2)
+Transport and Major Infrastructure Regulations Amendment (Infringement Notices) Regulations 2026 Pt. 2 | SL 2026/189 2 Sep 2026 | 6 Sep 2026 (see r. 2(b))
 Other notes
 Formerly referred to the Navigable Waters Regulations the citation of which was changed to the Navigable Waters Regulations 1958 by the Navigable Waters Amendment Regulations (No. 2) 2005 r. 3. The reference was changed under the Reprints Act 1984 s. 7(3)(gb).
 Under the Financial Legislation Amendment and Repeal Act 2006 Sch. 2 cl. 13 a reference to the Consolidated Fund may, where the context so requires, be read as if it had been amended to be a reference to the Consolidated Account. This reference was changed under the Reprints Act 1984 s. 7(5)(a).

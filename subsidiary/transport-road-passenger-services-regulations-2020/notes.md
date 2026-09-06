@@ -22,6 +22,7 @@ Transport (Road Passenger Services) Amendment Regulations (No. 4) 2024 | SL 2024
 Transport Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 5 | SL 2025/65 30 Apr 2025 | 1 Jul 2025 (see r. 2(c))
 Transport Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 4 | SL 2026/63 13 May 2026 | 1 Jul 2026 (see r. 2(c))
 Transport (Road Passenger Services) Amendment Regulations 2026 | SL 2026/158 22 Jul 2026 | r. 1 and 2: 22 Jul 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 23 Jul 2026 (see r. 2(b))
+Transport and Major Infrastructure Regulations Amendment (Infringement Notices) Regulations 2026 Pt. 4 | SL 2026/189 2 Sep 2026 | 6 Sep 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
