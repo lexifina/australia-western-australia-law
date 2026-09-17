@@ -17,6 +17,7 @@ Swan and Canning Rivers Management Amendment Regulations (No. 2) 2023 | SL 2023/
 Swan and Canning Rivers Management Amendment Regulations 2024 | SL 2024/35 20 Mar 2024 | r. 1 and 2: 20 Mar 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 21 Mar 2024 (see r. 2(b))
 Swan and Canning Rivers Management Amendment Regulations (No. 2) 2024 | SL 2024/253 11 Dec 2024 | r. 1 and 2: 11 Dec 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 31 Mar 2025 (see r. 2(b))
 Swan and Canning Rivers Management Amendment Regulations (No. 2) 2025 | SL 2025/69 14 May 2025 | r. 1 and 2: 14 May 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 15 May 2025 (see r. 2(b))
+Swan and Canning Rivers Management Amendment Regulations 2026 Pt. 3 | SL 2026/194 16 Sep 2026 | 17 Sep 2026 (see r. 2(b))
 Other notes
 Repealed by the Swan and Canning Rivers (Consequential and Transitional Provisions) Act 2006.
 The regulation in these regulations repealing the Swan River Trust Regulations 1989 was omitted under the Reprints Act 1984 s. 7(4)(f).
@@ -55,7 +56,7 @@ undertake2
 vehicle2
 vessel2
 works12(1), 14A(1), 14(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
