@@ -28,26 +28,29 @@ Working with Children (Criminal Record Checking) Amendment Act 2022 Pt. 2 | 47 o
 Criminal Law (Mental Impairment) Act 2023 Pt. 15 Div. 28 and s. 412 | 10 of 2023 | 13 Apr 2023 | 1 Sep 2024 (see s. 2(b) and SL 2024/175 cl. 2)
 Western Australian Marine Amendment Act 2023 s. 38 | 31 of 2023 | 11 Dec 2023 | 21 Dec 2023 (see s. 2(c) and SL 2023/202 cl. 2(a))
 Education and Care Services National Law Application Act 2026 Pt. 6 Div. 6 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
+Working with Children (Screening) Amendment Act 2026 | 14 of 2026 | 25 Aug 2026 | s. 1 and 2: 25 Aug 2026 (see s. 2(a)); Act other than s. 1 and 2: 17 Sep 2026 (see s. 2(b) and SL 2026/191 cl. 2)
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
 Commissioner for Children and Young People Act 2006 s. 65 (Sch. 1 cl. 3) | 48 of 2006 | 4 Oct 2006 | To be proclaimed (see s. 2)
 Prostitution Amendment Act 2008 s. 35 | 13 of 2008 | 14 Apr 2008 | To be proclaimed (see s. 2(b))
-Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | To be proclaimed (see s. 2(e))
-Working with Children (Screening) Amendment Act 2026 s. 3-26 | 14 of 2026 | 25 Aug 2026 | To be proclaimed (see s. 2(b))
+Evidence Act 2025 s. 492(1) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Other notes
 1.Now known as the Working with Children (Screening) Act 2004; short title changed (see note under s. 1).
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
 2022 Amendment Act62
-ACC34G(1)
+ACC4
+adverse interstate WWC decision4, 8B(1)
+amended Act77
 another jurisdiction4
 approved4
 assessment notice4
 authorised entity34F(1)
 authorised officer4
 authorised purpose34J
+cancel8B(3)
 cancelled assessment notice32A
 CEO4
 CEO (Children and Community Services)34H(1)
@@ -65,7 +68,7 @@ child-related work4, 6(1)
 Class 1 offence4, 7(1)
 Class 2 offence4, 7(2)
 Class 3 offence4
-commencement day56, 62
+commencement day56, 62, 77
 Commissioner4
 conduct review authority4
 conduct review finding or outcome4
@@ -93,7 +96,7 @@ DPP34(1)
 educational institution for children4
 education provider4
 employee16(1)
-employer9B(5), 16(1), 22(1), 41(1), 43(1)
+employer 9B(5), 16(1), 22(1), 41(1), 43(1)
 entry warrant34J, 34V(1)
 external government agency4
 first notice20(2)
@@ -101,7 +104,9 @@ former classification provisions62
 give45D(1)
 government agency4
 interim negative notice4
+interstate negative notice4
 interstate screening agency34E(1)
+interstate working with children authority4
 investigation34J
 justice authority34ZA(1)
 law39A(1)
@@ -130,13 +135,16 @@ relevant authority45A(1)
 relevant conduct4
 relevant day60A
 relevant information34A(1)
+relevant person34GA(1)
 relevant processes66(1)
 relevant purpose34I(1)
 relevant record34J
-specified4, 61(4), 76(1)
-student4
-transitional matter76(1)
+specified4, 61(4), 76(1), 82(1)
+student3
+subject of4, 8B(2)
+transitional matter76(1), 82(1)
 work4
+WWC national reference system4
 WWC purpose4
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
