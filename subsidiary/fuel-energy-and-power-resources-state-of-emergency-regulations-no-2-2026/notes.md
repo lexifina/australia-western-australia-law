@@ -1,11 +1,8 @@
 Notes
-This is a compilation of the Fuel, Energy and Power Resources (State of Emergency) Regulations (No. 2) 2026. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
+This is a compilation of the Fuel, Energy and Power Resources (State of Emergency) Regulations (No. 2) 2026 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
 Compilation table
 Citation | Published | Commencement
 Fuel, Energy and Power Resources (State of Emergency) Regulations (No. 2) 2026 | SL 2026/56 30 Apr 2026 | 1 May 2026 (see r. 2)
-Uncommenced provisions table
-To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
-Citation | Published | Commencement
 Fuel, Energy and Power Resources Regulations Amendment (State of Emergency) Regulations 2026 Pt. 3 | SL 2026/196 16 Sep 2026 | 30 Sep 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
