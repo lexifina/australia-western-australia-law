@@ -57,6 +57,7 @@ Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
 Citation | Published | Commencement
 Building Amendment Regulations (No. 2) 2026 r. 7 and 8(2) | SL 2026/44 15 Apr 2026 | 15 Apr 2027 (see r. 2(d))
+Building Amendment Regulations (No. 3) 2026 r. 3-7 | SL 2026/199 1 Oct 2026 | 1 Nov 2026 (see r. 2(b))
 Other notes
 Part 9 (r. 63-68) expired on the day that is one year after 2 April 2012. Part 9 was omitted under the Reprints Act 1984 s. 7(4)(e).
 Defined terms
