@@ -46,6 +46,7 @@ Attorney General Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 1
 Court Fees Regulation Amendment Regulations 2024 Pt. 5 | SL 2024/174 21 Aug 2024 | 1 Sep 2024 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 12 | SL 2025/111 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Attorney General Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 12 | SL 2026/114 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
+Supreme Court (Fees) Amendment Regulations 2026 | SL 2026/205 1 Oct 2026 | r. 1 and 2: 1 Oct 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Oct 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
