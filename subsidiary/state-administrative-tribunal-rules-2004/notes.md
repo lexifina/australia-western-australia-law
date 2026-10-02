@@ -22,6 +22,7 @@ State Administrative Tribunal Amendment Rules 2021 | SL 2021/123 16 Jul 2021 | r
 State Administrative Tribunal Amendment Rules (No. 2) 2022 | SL 2022/73 10 Jun 2022 | r. 1 and 2: 10 Jun 2022 (see r. 2(a)); Rules other than r. 1 and 2: 1 Jul 2022 (see r. 2(b)) and SL 2022/113 cl. 2)
 State Administrative Tribunal Amendment Rules 2022 | SL 2022/219 30 Dec 2022 | r. 1 and 2: 30 Dec 2022 (see r. 2(a)); r. 3, 4 and 8-15: 31 Dec 2022 (see r. 2(c)); r. 5-7: 1 Jul 2023 (see r. 2(b))
 State Administrative Tribunal Amendment Rules 2025 | SL 2025/147 15 Aug 2025 | r. 1 and 2: 15 Aug 2025 (see r. 2(a)); Rules other than r. 1 and 2: 16 Aug 2025 (see r. 2(b))
+State Administrative Tribunal Amendment Rules 2026 | SL 2026/206 1 Oct 2026 | r. 1 and 2: 1 Oct 2026 (see r. 2(a)); Rules other than r. 1 and 2: 2 Oct 2026 (see r. 2(b))
 Other notes
 Schedule deleted by the State Administrative Tribunal Amendment Regulations (No. 2) 2007 r. 8 (see Gazette 26 June 2007 p. 2979-96).
 Repealed by the Medical Practitioners Act 2008, which was repealed by the Health Practitioner Regulation National Law (WA) Act 2010.
@@ -49,6 +50,7 @@ interim application14
 involuntary patient56(1)
 legally qualified person59(1)
 material12(1)
+material held by the Tribunal13A(1)
 nominated member43(1)
 notice of representation3
 notifiable person3
@@ -62,7 +64,7 @@ referring person3
 representative35(2)
 RV Act59(1)
 supervising psychiatrist56(1)
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
