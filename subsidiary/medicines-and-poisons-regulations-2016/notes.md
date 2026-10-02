@@ -19,6 +19,7 @@ Health Regulations Amendment (Medicines and Poisons) Regulations 2024 Pt. 2 | SL
 Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 7 | SL 2025/104 25 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Medicines and Poisons Amendment Regulations 2025 | SL 2025/212 17 Dec 2025 | r. 1 and 2: 17 Dec 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2025 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 7 | SL 2026/121 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
+Medicines and Poisons Amendment Regulations 2026 | SL 2026/202 1 Oct 2026 | r. 1 and 2: 1 Oct 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Oct 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
