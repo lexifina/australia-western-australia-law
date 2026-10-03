@@ -13,7 +13,6 @@ East Perth Child Health Clinic (CACH) | CAHS | 40 Moore Street, East Perth | 108
 Karrinyup Child Health Centre | CAHS | 20 Klein Street, Karrinyup | 449 | LR 3153 | 708 | 27984
 Hilton Child Health Centre | CAHS | 3/34 Paget St, Hilton | 300 | LR 3171 | 485 | 38196
 Balcatta Child Health Centre (Balcatta House) | CAHS | 338 Albert Street, Balcatta | 11227 | LR3010 | 581 | 41068
-Vacant Land - for Perth Hospice Construction | CAHS | 61 Clement Street, Swanbourne | 503 | LR 3173 | 280 | 53745
 Ambulatory Care Facility (Hospital in the Home) - Part site | EMHS | 144A Queens Road, South Guildford | 701 | 1468 | 774
 South Guildford Day Therapy Centre | EMHS | 144 Queens Road, South Guildford | 702 | 1468 | 775
 Royal Perth Hospital (Eastern Precinct) - Tunnel Access | EMHS | No Street Address | 1273 | LR 3127 | 616 | 46884
@@ -135,4 +134,4 @@ East Metropolitan Health Service | EMHS
 North Metropolitan Health Service | NMHS
 South Metropolitan Health Service | SMHS
 WA Country Health Service | WACHS
-[Schedule 2 inserted: Gazette 30 Jun 2023 p. 2213-20.]
+[Schedule 2 inserted: Gazette 30 Jun 2023 p. 2213-20; amended: SL 2026/207 cl. 5.]
