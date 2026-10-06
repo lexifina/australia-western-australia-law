@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 | 30 Jul 1999 p. 3499-539 | 30 Jul 1999 (see r. 2)
@@ -47,6 +47,12 @@ Commerce Regulations Amendment (Gas Standards) Regulations 2023 Pt. 2 | SL 2023/
 Commerce Regulations Amendment (Fees and Charges) Regulations 2024 Pt. 9 | SL 2024/96 12 Jun 2024 | 1 Jul 2024 (see r. 2(c))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 10 | SL 2025/89 11 Jun 2025 | 1 Jul 2025 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 10 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(c))
+Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 with editorial changes as at 6 Oct 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+Sch. 6 Div. 6 cl. 604A(1) def. child care centre | s. 25(4) | 6 Oct 2026
 Other notes
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
 Defined terms
