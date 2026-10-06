@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Planning and Development (Local Planning Schemes) Regulations 2015 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Planning and Development (Local Planning Schemes) Regulations 2015 | 25 Aug 2015 p. 3401-595 | r. 1 and 2: 25 Aug 2015 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Oct 2015 (see r. 2(b))
@@ -12,6 +12,12 @@ Planning and Development (Local Planning Schemes) Amendment Regulations (No. 3) 
 Planning and Development (Local Planning Schemes) Amendment Regulations 2024 | SL 2024/25 21 Feb 2024 | r. 1 and 2: 21 Feb 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Mar 2024 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment (Single House Development) Regulations 2024 | SL 2024/68 1 May 2024 | r. 1 and 2: 1 May 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2024 (see r. 2(b))
 Planning and Development (Local Planning Schemes) Amendment (Short-Term Rental Accommodation) Regulations 2024 | SL 2024/194 18 Sep 2024 | r. 1 and 2: 18 Sep 2024 (see r. 2(a)); Regulations other than r. 1 and 2: 19 Sep 2024 (see r. 2(b))
+Planning and Development (Local Planning Schemes) Regulations 2015 with editorial changes as at 6 Oct 2026
+Editorial changes table
+The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
+To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
+Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
+Sch. 1, Pt. 6 cl. 38 def. child care premises and family day care | s. 25(4) | 6 Oct 2026
 Other notes
 The Planning and Development (Local Planning Schemes) Amendment Regulations 2016 is of no effect as those amending regulations were made by the Governor. Regulations made under the Planning and Development Act 2005 Part 15 Division 1 must be made by the Minister. The amendments in the Planning and Development (Local Planning Schemes) Amendment Regulations 2016 are therefore not included in the compilation of the principal regulations.
 Defined terms
@@ -256,7 +262,7 @@ winerySch. 1 cl. 38
 workforce accommodationSch. 1 cl. 38
 worksSch. 2 cl. 1
 zoneSch. 2 cl. 1
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
