@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table.
+This is a compilation of the Electricity (Licensing) Regulations 1991 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Electricity (Licensing) Regulations 1991 | 14 Oct 1991 p. 5249-99 (corrigendum 1 Nov 1991 p. 5665) | 1 Nov 1991 (see r. 2)
@@ -67,6 +67,10 @@ Commerce Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 8 | SL 20
 Commerce Regulations Amendment (Electricity) Regulations 2026 | SL 2026/67 13 May 2026 | Pt. 2 (other than Div. 3): 14 May 2026 (see r. 2(c)); Pt. 2 Div. 3: 1 Jul 2026 (see r. 2(b))
 Commerce Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 8 | SL 2026/95 10 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Electricity (Licensing) Amendment Regulations 2026 | SL 2026/134 24 Jun 2026 | r. 1 and 2: 24 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 25 Jun 2026 (see r. 2(b))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Electricity and Gas Standards) Regulations 2026 Pt. 2 | SL 2026/217 14 Oct 2026 | 14 Jan 2027 (see r. 2(b))
 Other notes
 The Electricity (Licensing) Amendment Regulations (No. 2) 2003 r. 3(4) reads as follows:
 (4) Despite the amendments made to regulation 5 of the Electricity (Licensing) Regulations 1991 (the licensing regulations) by this regulation, a person holding office under those regulations as a member of the Electrical Licensing Board immediately before the day on which these regulations come into operation continues, subject to the licensing regulations, to hold that office on and after that day for the remainder of the period for which the person was appointed.
