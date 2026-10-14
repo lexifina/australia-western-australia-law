@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions affected by editorial changes see the editorial changes table.
+This is a compilation of the Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 and includes amendments made by other written laws. For provisions that have come into operation, and for information about any reprints, or versions that include editorial changes made under the Legislation Act 2021 Part 3, see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table. For provisions affected by editorial changes see the editorial changes table.
 Compilation table
 Citation | Published | Commencement
 Gas Standards (Gasfitting and Consumer Gas Installations) Regulations 1999 | 30 Jul 1999 p. 3499-539 | 30 Jul 1999 (see r. 2)
@@ -53,6 +53,10 @@ The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make edi
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA legislation website.
 Provision/s affected | Authorising provision of Legislation Act 2021 Part 3 | Effective date of change
 Sch. 6 Div. 6 cl. 604A(1) def. child care centre | s. 25(4) | 6 Oct 2026
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Commerce Regulations Amendment (Electricity and Gas Standards) Regulations 2026 Pt. 3 | SL 2026/217 14 Oct 2026 | 14 Jan 2027 (see r. 2(b))
 Other notes
 The Gas Standards (Gasfitting and Consumer Gas Installations) Amendment Regulations (No. 2) 2000 r. 16 is a transitional provision that is of no further effect.
 Defined terms
