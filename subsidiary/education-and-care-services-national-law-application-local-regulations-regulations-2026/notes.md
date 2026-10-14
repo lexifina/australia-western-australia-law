@@ -6,7 +6,8 @@ Education and Care Services National Law Application (Local Regulations) Regulat
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA legislation website.
 Citation | Published | Commencement
-Education and Care Services National Law Application (Local Regulations) Regulations 2026 Pt. 4 | SL 2026/51 30 Apr 2026 | Part 4 (other than r. 53-55): on the earlier of 1 Jul 2027 or the day on which r. 55 comes into operation (see r. 2(b) and (d)); r. 53 and 54: 1 Jul 2027 (see r. 2(c)); r. 55: if the Education and Care Services National Further Amendment Regulations 2025 have effect for the purposes of Pt. 2 of Act under s. 13(2) of the Act, on the day on which r. 62 of those regulations comes into operation under s. 14 of the Act (see r. 2(d))
+Education and Care Services National Law Application (Local Regulations) Regulations 2026 Pt. 4 | SL 2026/51 30 Apr 2026 | Pt. 4 (other than r. 53 and 54): 1 Nov 2026 (see r. 2(b)(ii) and (d) and SL 2026/211 cl. 3); r. 53 and 54: 1 Jul 2027 (see r. 2(c))
+Education and Care Services National Law Application (Local Regulations) Amendment Regulations 2026 r. 3-12 | SL 2026/212 14 Oct 2026 | 1 Nov 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
