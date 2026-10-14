@@ -5,6 +5,10 @@ Compilation table
 Short title | Number and year | Assent | Commencement
 Education and Care Services National Law (WA) |  |  | 1 May 2026 (see WA Act No. 2 of 2026 s. 2(1)(d) and SL 2026/50 cl. 2)
 Education and Care Services National Law Application Act 2026 Pt. 3 | 2 of 2026 | 31 Mar 2026 | 1 May 2026 (see s. 2(1)(d) and SL 2026/50 cl. 2)
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
+Short title | Number and year | Assent | Commencement
+Early Childhood Legislation Amendment (Child Safety) Act 2025 Pt. 2-4 | 53 of 2025 (published on Vic legislation website) |  | 1 Nov 2026 (see WA SL 2026/211 cl. 2(2))
 Other notes
 The Education and Care Services National Law (WA) has been formatted in accordance with WA drafting style. Editorial notes have been inserted as part of producing this compilation.
 Defined terms
