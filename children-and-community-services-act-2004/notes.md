@@ -30,7 +30,7 @@ Restraining Orders and Related Legislation Amendment (Family Violence) Act 2016 
 Health Practitioner Regulation National Law (WA) Amendment Act 2018 s. 102 | 4 of 2018 | 19 Apr 2018 | 1 Dec 2018 (see s. 2(d) and Gazette 13 Nov 2018 p. 4427-8)
 Reprint 5: The Children and Community Services Act 2004 as at 22 Mar 2019 (includes amendments listed above)
 High Risk Serious Offenders Act 2020 s. 121 | 29 of 2020 | 9 Jul 2020 | 26 Aug 2020 (see s. 2(1)(c) and SL 2020/131 cl. 2)
-Children and Community Services Amendment Act 2021 (other than s. 15, 32, 39 and 40) | 18 of 2021 | 19 Oct 2021 | s. 1 and 2: 19 Oct 2021 (see s. 2(a)); Act other than s. 1, 2, 15, 32, 39, 40 and 52-54: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2); s. 52(3), (8), (9) and (17)-(19), 53(1), (5), (10) and (11) and 54: 1 Nov 2022 (see s. 2(c) and SL 2022/167 cl. 2); s. 52(1), (4), (10), (11) and (13) and 53(2), (3) and (6): 1 Nov 2023 (see s. 2(c) and SL 2023/153 cl. 2); s. 52(5), (6), (14) and (15) and 53(7) and (8): 1 May 2024 (see s. 2(c) and SL 2024/45 cl. 2); s. 52(2) and (12) and 53(4): 1 Nov 2024 (see s. 2(c) and SL 2024/223 cl. 2); s. 52(7), (16) and (20) and 53(9): 1 May 2025 (see s. 2(c) and SL 2025/58 cl. 2)
+Children and Community Services Amendment Act 2021 (other than s. 32, 39 and 40) | 18 of 2021 | 19 Oct 2021 | s. 1 and 2: 19 Oct 2021 (see s. 2(a)); Act other than s. 1, 2, 15, 32, 39, 40 and 52-54: 1 May 2022 (see s. 2(b) and (c) and SL 2022/50 cl. 2); s. 52(3), (8), (9) and (17)-(19), 53(1), (5), (10) and (11) and 54: 1 Nov 2022 (see s. 2(c) and SL 2022/167 cl. 2); s. 52(1), (4), (10), (11) and (13) and 53(2), (3) and (6): 1 Nov 2023 (see s. 2(c) and SL 2023/153 cl. 2); s. 52(5), (6), (14) and (15) and 53(7) and (8): 1 May 2024 (see s. 2(c) and SL 2024/45 cl. 2); s. 52(2) and (12) and 53(4): 1 Nov 2024 (see s. 2(c) and SL 2024/223 cl. 2); s. 52(7), (16) and (20) and 53(9): 1 May 2025 (see s. 2(c) and SL 2025/58 cl. 2); s. 15: 15 Oct 2026 (see s. 2(c) and SL 2026/209 cl. 2)
 Legal Profession Uniform Law Application Act 2022 Pt. 17 Div. 2 | 9 of 2022 | 14 Apr 2022 | 1 Jul 2022 (see s. 2(c) and SL 2022/113 cl. 2)
 Firearms Amendment Act 2022 s. 82 | 13 of 2022 | 18 May 2022 | 19 Nov 2022 (see s. 2(c) and SL 2022/186 cl. 2)
 Firearms Act 2024 Pt. 17 Div. 3 Subdiv. 1 | 23 of 2024 | 27 Jun 2024 | 31 Mar 2025 (see s. 2(d) and SL 2024/289 cl. 2)
@@ -40,7 +40,7 @@ Education and Care Services National Law Application Act 2026 Pt. 6 Div. 7 | 2 o
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
-Children and Community Services Amendment Act 2021 s. 15, 32, 39 and 40 | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(c))
+Children and Community Services Amendment Act 2021 s. 32, 39 and 40 | 18 of 2021 | 19 Oct 2021 | To be proclaimed (see s. 2(c))
 Evidence Act 2025 Pt. 12 Div. 7 | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
 Assisted Reproductive Technology and Surrogacy Act 2025 Pt. 17 Div. 3 | 19 of 2025 | 18 Dec 2025 | To be proclaimed (see s. 2(c))
 Other notes
