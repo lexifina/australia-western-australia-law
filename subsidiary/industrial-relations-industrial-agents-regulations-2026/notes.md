@@ -4,6 +4,7 @@ Compilation table
 Citation | Published | Commencement
 Industrial Relations (Industrial Agents) Regulations 2026 | SL 2026/155 22 Jul 2026 | Pt. 1 (other than r. 3): 22 Jul 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2026 (see r. 2(b))
 Industrial Relations (Industrial Agents) Amendment Regulations 2026 | SL 2026/168 19 Aug 2026 | r. 1 and 2: 19 Aug 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Sep 2026 (see r. 2(b))
+Industrial Relations (Industrial Agents) Amendment Regulations (No. 2) 2026 | SL 2026/210 14 Oct 2026 | r. 1 and 2: 14 Oct 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Oct 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
