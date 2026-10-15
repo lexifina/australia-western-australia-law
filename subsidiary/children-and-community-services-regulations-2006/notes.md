@@ -44,6 +44,7 @@ Children and Community Services Amendment Regulations (No. 2) 2025 | SL 2025/159
 Children and Community Services Amendment Regulations (No. 3) 2025 | SL 2025/191 26 Nov 2025 | r. 1 and 2: 26 Nov 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 27 Nov 2025 (see r. 2(b))
 Children and Community Services Amendment Regulations (No. 2) 2026 | SL 2026/108 24 Jun 2026 | r. 1 and 2: 24 Jun 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 1 Jul 2026 (see r. 2(b))
 Children and Community Services Amendment Regulations 2026 | SL 2026/200 1 Oct 2026 | r. 1 and 2: 1 Oct 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Oct 2026 (see r. 2(b))
+Children and Community Services Amendment Regulations (No. 3) 2026 | SL 2026/214 14 Oct 2026 | r. 1 and 2: 14 Oct 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 15 Oct 2026 (see r. 2(b) and SL 2026/209 cl. 2)
 Editorial changes table
 The Legislation Act 2021 Part 3 authorises the Parliamentary Counsel to make editorial changes to laws. This power cannot be used to change the effect of a law. If an editorial change is made to a law, the law has effect as if the change had been made by another law that amended the law and commenced on the day on which the change is made.
 To see the editorial changes included in a version of a law, see the compare document for that version on the WA Legislation website.
@@ -61,6 +62,7 @@ bodily sample16A
 care plan5(2)
 commencement day24
 contact4BA(1)
+Department’s website3
 donor16A
 guardian16A
 HLA16A
@@ -75,6 +77,7 @@ personal material21B
 President3
 provisional care plan5(2)
 report16A, 16
+representative organisation function5B(1)
 represented person16A
 responsible person16A
 sample16A
