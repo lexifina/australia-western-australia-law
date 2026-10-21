@@ -13,6 +13,7 @@ To view the text of the uncommenced provisions see Acts as passed on the WA legi
 Short title | Number and year | Assent | Commencement
 Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 37-39, 106, 108, 110-112, 114-117, 119, 121, 124, 127, 138 and 139 | 20 of 2013 | 4 Nov 2013 | To be proclaimed (see s. 2(b))
 Evidence Act 2025 s. 492(2) | 15 of 2025 | 25 Sep 2025 | 18 Sep 2027 (see s. 2(e) and SL 2026/190 cl. 2)
+Retail Barring Orders Act 2026 Pt. 7 Div. 2 | 17 of 2026 | 21 Oct 2026 | To be proclaimed (see s. 2(b))
 Other notes
 The Courts and Tribunals (Electronic Processes Facilitation) Act 2013 s. 95 had not come into operation when it was deleted by the Fines, Penalties and Infringement Notices Enforcement Amendment Act 2020 s. 107.
 Defined terms
@@ -25,7 +26,7 @@ lodge5
 person5
 seal5
 writing5
-© State of Western Australia 2025.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2025.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
