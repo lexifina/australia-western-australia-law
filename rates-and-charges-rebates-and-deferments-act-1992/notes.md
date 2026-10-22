@@ -38,6 +38,7 @@ Public Health (Consequential Provisions) Act 2016 s. 101 | 19 of 2016 | 25 Jul 2
 Strata Titles Amendment Act 2018 Pt. 3 Div. 16 | 30 of 2018 | 19 Nov 2018 | 1 May 2020 (see s. 2(b) and SL 2020/39 cl. 2)
 Community Titles Act 2018 Pt. 14 Div. 16 | 32 of 2018 | 19 Nov 2018 | 30 Jun 2021 (see s. 2(b) and SL 2021/69 cl. 2)
 Retirement Villages Amendment Act 2024 Pt. 4 | 42 of 2024 | 13 Nov 2024 | 14 Nov 2024 (see s. 2(b))
+Finance Legislation Amendment (Housing Affordability) Act 2026 Pt. 4 | 18 of 2026 | 21 Oct 2026 | 22 Oct 2026 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA Legislation website.
 Short title | Number and year | Assent | Commencement
@@ -72,12 +73,15 @@ The Water Services Legislation Amendment and Repeal Act 2012 s. 226(4) was repea
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
+Additional Disablement AmountSch. 1 cl. 2(1)
 administrative authority3(1)
+amending provisionSch. 1 cl. 2(1)
 applicant3(1)
 caravan29B(1)
 caravan park29B(1)
 charged period3(1)
 child3(1)
+commencement daySch. 1 cl. 2(1)
 Commonwealth seniors health card3(1)
 deceased partner32A(1)
 de facto partner3(1)
@@ -86,6 +90,7 @@ dependant3(1)
 disabled person23(7)
 document11(4)
 eligibility3(1)
+eligibility daySch. 1 cl. 2(1) and (2)
 eligible pensioner3(1)
 eligible person3(1)
 eligible senior3(1)
@@ -106,6 +111,8 @@ pensioner concession card3(1)
 pension means test3(1)
 period 132A(2)
 period 232A(2)
+pre-commencement periodSch. 1 cl. 2(1)
+pre-registration periodSch. 1 cl. 2(1) and (3)
 prescribed charge3(1)
 prescribed licensee16(5)
 prescribed means test3(1)
@@ -134,7 +141,7 @@ surviving partner’s land32A(1)
 Water Corporation3(1)
 Water Corporation charge3(1)
 year3(1)
-© State of Western Australia 2024.
+© State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
-Attribute work as: © State of Western Australia 2024.
-By Authority: GEOFF O. LAWN, Government Printer
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer

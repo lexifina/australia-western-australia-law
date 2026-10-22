@@ -40,6 +40,7 @@ Duties Amendment (First Home Owner Concessions) Act 2024 | 27 of 2024 | 30 Aug 2
 Retirement Villages Amendment Act 2024 Pt. 3 | 42 of 2024 | 13 Nov 2024 | 1 Sep 2026 (see s. 2(c) and SL 2026/172 cl. 2)
 Duties Amendment Act 2025 | 5 of 2025 | 19 Jun 2025 | s. 1 and 2: 19 Jun 2025 (see s. 2(a)); Act other than s. 1 and 2: 20 Jun 2025 (see s. 2(b))
 Help to Buy (Commonwealth Powers) Act 2025 Pt. 4 Div. 1 | 22 of 2025 | 19 Dec 2025 | 19 Dec 2025 (see s. 2)
+Finance Legislation Amendment (Housing Affordability) Act 2026 Pt. 2 | 18 of 2026 | 21 Oct 2026 | 22 Oct 2026 (see s. 2(b))
 Uncommenced provisions table
 To view the text of the uncommenced provisions see Acts as passed on the WA legislation website.
 Short title | Number and year | Assent | Commencement
@@ -80,10 +81,12 @@ affected entity259(1)
 affected mining tenementSch. 3 cl. 73(3) and 74(5)
 aggregated group interest163(2), 205ZH(3)
 agreement by instalments33(1)
+amended Chapter 3A exemption provisionsSch. 3 cl. 89(1)
 amended Chapter 6ASch. 3 cl. 81
+amended Chapter 6ASch. 3 cl. 88(1)
 amended concession provisionsSch. 3 cl. 78
 amended exemption provisionsSch. 3 cl. 76(1)
-amended first home owner concession provisionsSch. 3 cl. 81
+amended first home owner concession provisionsSch. 3 cl. 81 and 87(1)
 amended provisionsSch. 3 cl. 37
 amended section 244ASch. 3 cl. 50(1)
 amending ActSch. 3 cl. 60(1)
@@ -91,13 +94,14 @@ amendment daySch. 3 cl. 60(1)
 apportioned transfer duty amount266N(2)
 appropriate reassessment officer244B(3)
 approved superannuation fund122(2)
-associate205A(1), 205B(1) and (2)
+associate205A(1), 205B(1), 205B(2)
 associated acquisition259(6)
 authorised trustee corporation63
 B44(2), 257(2)
 bankruptcy trustee108(1)
 bare trustee118(2)
 beneficiary43(4)
+building permit266J(1)
 business asset79
 business identity79
 business licence79
@@ -115,24 +119,30 @@ child128(1)
 chosen entity125(2)
 circuit layout right79
 commencementSch. 3 cl. 37
-commencement daySch. 3 cl. 46(1), 55(1), 75, 78 and 81
+commencement daySch. 3 cl. 46(1), 55(1), 75, 78, 81 and 85
 Commissioner113A(1)
 commodities79
 Commonwealth Act121
 community titles (building) scheme266E
+community titles (land) scheme266E
 company A12(3), 160A(1)
 company B12(3), 160A(1)
 company C12(4), 160A(2)
 completed91Q(2), Sch. 3 cl. 71(4)
 complying approved deposit fund121
 complying superannuation fund121
+concessional agreement provision266G(1A)
 concessional farm-in transaction9, 91K(1), 91L(3) and (4)
 concessional first home owner141(1)
 concessional off-the-plan agreement266E
-concessional pre-construction agreement266E, 266F(1), (2) and (3)
+concessional pre-construction agreement266E
+concessional pre-construction (building scheme) agreement266E, 266F(1), (2) and (3)
+concessional pre-construction (land scheme) agreement266E, 266FAA(1), (3) and (4)
 concessional rate9
 concessional transaction147(1)
-concessional under construction agreement266E, 266FA(1), (2) and (3)
+concessional under construction agreement266E
+concessional under construction (building scheme) agreement266E, 266FA(1), (2) and (3)
+concessional under construction (land scheme) agreement266E, 266FB(1), (3) and (4)
 concession amount266E
 concession day266E, 266H(1)
 conditional agreement9
@@ -182,10 +192,12 @@ dutiable value9, 205F(1), 231, 266E
 duties Act3
 duty3, 9, 148(1), 206, 228
 duty endorsed3, 272(1), (2) and (3)
-dwelling205A(1)
+dwelling205A(1), 266E
 earlier acquisition189(4) and (6)
 earlier instrumentSch. 3 cl. 10(1)
 electronic conveyancing instrument22A, 273A(1)
+eligible building scheme266E
+eligible land scheme266E
 eligible rollover fund121
 eligible scheme266E
 endorsed transaction118(1)
@@ -196,11 +208,12 @@ exempt body3
 exempt family farm transaction99(1)
 exemption257(1)
 exemption application262(1)
+exemption requirements205ZBB(1), 205ZQA(1)
 exempt transaction9
 existing agreementSch. 3 cl. 65(1)
 existing building266G(3)
 exploration91K(1), Sch. 3 cl. 64(5)
-exploration amount91K, 91N(5)
+exploration amount91K(1), 91N(5)
 exploration licence91K(1)
 exploration requirement9, 91K(1), 91N(1)
 family257(1)
@@ -232,10 +245,10 @@ fixed infrastructure control right3, 91A(1) and (4)
 fixed infrastructure statutory licence3, 91A(1) and (4)
 fixed infrastructure transaction91C(1)
 flag lifting agreement128(1)
-foreign acquirer205ZC(1), 205ZE(2), 205ZT
+foreign acquirer205ZD(1), 205ZE(2), 205ZT
 foreign corporation205A(1), 205C(2)
 foreign dutiable transaction3, 205H(1)
-foreign dutiable transactions205H(1) and (2)
+foreign dutiable transactions205H(2)
 foreign individual205A(1)
 foreign landholder acquisition205ZD(1), 205ZH(1)
 foreign landholder duty3
@@ -275,7 +288,7 @@ interstate duty206
 intervening transactions42(8)
 issue of title conditional agreement9
 issuing law91A(1)
-land3, 3A(1), (2) and (5), 148(1), Sch. 3 cl. 48(2), (3) and (4)
+land3, 3A(1), (2) and (5), 148(1), Sch. 3 cl. 48(2), 48(3) and (4)
 land asset148(1), 205ZE(2)
 landholder91A(1), 148(1)
 landholder duty3
@@ -289,7 +302,7 @@ listed landholder148(1)
 listed unit trust scheme148(1)
 local government3
 lodge3
-lot96, 266E
+lot96, 205A(1), 266E
 lower entity154A(1)
 madeSch. 3 cl. 61(1)
 main acquisition195B(1) and (3), 204G(1), 204H(1), 205ZKA(1)
@@ -300,8 +313,7 @@ majority shareholder3
 managed investment scheme9
 matrimonial instrument128(1)
 matrimonial property128(1)
-merging corporations12(4) and (5), 160A(1) and (3)
-metropolitan region141
+merging corporations12(4) and (5), 160A(2) and (3)
 minerals91K(1)
 mining91K(1)
 mining tenement3
@@ -313,9 +325,11 @@ motor cycle244A(1)
 motorised wheelchair244A(1)
 motor vehicle228
 multi-tiered scheme266E
-new agreement266F(2), 266FA(2), 266H(2)
-new dutiable property9, 17(1), 17(2)
+new agreement266F(2), 266FAA(3), 266FA(2), 266FB(3), 266H(2)
+new dutiable property9, 17(1) and (2)
 new dwelling266E, 266G(1) and (2)
+new dwelling lot205ZBA(2)
+new dwellings205ZA(2), 205ZBA(2), 205ZO(2)
 new lease18
 new mining tenement91M(8), Sch. 3 cl. 74(2)
 new record273(3)
@@ -326,6 +340,7 @@ nominal duty3
 non-prospecting dutiable transaction91U(4) and (5)
 non-prospecting interest91U(1)
 non-prospecting mining tenement91U(1)
+non-residential building205A(1)
 notifiable event257(1), 264(2) and (3)
 notional transfer167(1) and (5), 168(1) and (5), 205ZM(1) and (4)
 offshore risk insurance206
@@ -338,8 +353,9 @@ option property44(1)
 order3
 original dutiable property123(2)
 original equipment239(2)
+original time period205ZBB(1), 205ZQA(1)
 original transaction96C(8)
-original transfer118(1), 120, 120A(1)
+original transfer118(1), 120(1), 120A(1)
 original transferee120B(1)
 original transferor120A(1), 120B(1)
 other entities155(4)
@@ -351,7 +367,6 @@ partnership acquisition9
 partnership interest9
 pastoral lease3
 pastoral lessee3
-Peel region141(1)
 person154(1)
 person A91E(1), 91F(1), 91G(1), 91H(1)
 person B91E(1), 91F(1), 91G(1), 91H(1)
@@ -362,6 +377,7 @@ political party3
 pooled superannuation trust121
 potential voting power205C(1)
 pre-21 March 2025 agreementSch. 3 cl. 81 and 82(2)
+pre-7 May 2026 agreementSch. 3 cl. 86(2) and 87(1)
 pre-9 May 2024 agreementSch. 3 cl. 78 and 79(2)
 pre-commencement periodSch. 3 cl. 48(1)
 premium206, 211
@@ -380,7 +396,7 @@ produce animals101A(1)
 professional association3
 promote trade, industry or commerce3
 property122(3), 266B(1), 266C(1)
-proprietor45(1)
+proprietor45(2)
 proprietor of a business178(1)
 prospecting farm-in transaction91U(1)
 prospecting licence91K(1)
@@ -400,21 +416,23 @@ related person79, 148(1), 201(1)
 related transaction274(1)
 relevant acquisition148(1), 163(1), 266B(1), 266C(1), Sch. 3 cl. 1(1) and 37
 relevant activity91A(1)
-relevant agreement266F(3), 266FA(3)
+relevant agreement266F(3), 266FAA(4), 266FA(3), 266FB(4)
 relevant body3
+relevant concessional off-the-plan agreementSch. 3 cl. 88(1)
 relevant consideration91O(3)
 relevant consolidation transaction257(1), 259(2), (3), (4) and (5)
-relevant construction works266J(3)
+relevant construction works266J(1)
 relevant derivative mining right91K(1), 91M(1)
 relevant entity126(1), 155(4), 156A(1), 264A(1), 266A(1)
 relevant exempt transaction or acquisitionSch. 3 cl. 76(1)
-relevant first home owner concessional transactionSch. 3 cl. 78, 79(1) and (2),
-81, 82(1) and (2)
+relevant first home owner concessional transactionSch. 3 cl. 78, 79(1) and (2), 81, 82(1) and (2), 86(1) and (2), 87(1)
 relevant fixed infrastructure91C(2), 204A(2), 204B(1)
 relevant interest177(1)
+relevant land205ZBA(1)
 relevant land assets167(1), 168(1)
 relevant licence277(1)
 relevant mining tenement91K(1), 91M(1)
+relevant new dwelling266J(3)
 relevant partnership property78(1), 78A(1)
 relevant period29(3), 193(1), 194(6), 201(2), Sch. 3 cl. 33
 relevant person154(2)
@@ -436,6 +454,7 @@ replacement transaction107(1), 266E
 representative206
 represented person139A(2)
 required duty273(1)
+required period205ZBB(1), 205ZQA(1)
 residence96
 residential landholder205ZD(1)
 residential park site3
@@ -480,18 +499,20 @@ step-child6(1)
 strata lease3
 strata scheme266E
 subdivision conditional agreement9
+subdivision site works266J(1)
 subsale transaction107(1), 266E
 subsequent transaction104
 subsequent transfer118(1), 120A(2), 120B(1)
 subsidiary257(1)
-substantial refurbishment205ZA(1A), 205ZO(1A)
-substituted transferee141(3), Sch. 3 cl. 78 and 81
+substantial refurbishment205A(1)
+substituted transferee141(3), Sch. 3 cl. 78, 81 and 87(1)
 superannuation agreement128(1)
 superannuation fund121, 125(1), 128(1)
 supply3
 surplus property113A(1), 148(1)
 surplus receiving body113A(1)
 surrender9
+survey-strata scheme266E
 taker in default9
 Taxation Administration Act3
 tax avoidance scheme268(2)
@@ -524,6 +545,7 @@ Vehicles Act228
 voting power205C(1)
 Western Australian business9, 79
 Western Australian business asset9, 79
+works266J(1)
 wound up3
 © State of Western Australia 2026.
 This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
