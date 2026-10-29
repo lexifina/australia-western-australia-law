@@ -23,6 +23,8 @@ Hydroiodic acid | Hydrogen iodide | 250 ml
 4-Hydroxy pentanoic acid | Gamma Valerolactone
 Hypophosphorous acid | Phosphinic acid | 39 ml
 Iodine (including iodide salts) |  | 30 g
+Mercuric chloride | Mercury bichloride, Mercury (II) chloride | 0.1 g
+Mercury |  | 0.1 g
 Methcathinone | Ephedrone
 3, 4-Methylenedioxyphenylpropan-2-one
 N-Methyl ephedrine
@@ -45,7 +47,7 @@ Phosphorus red/white |  | 19 g
 Phosphorous acid | Phosphonic Acid
 Pseudoephedrine (including salts) |  | 37 g
 Pyridine
-[Division 1 inserted: Gazette 10 Dec 2004 p. 5974-5; amended: Gazette 23 Jun 2009 p. 2493; 28 May 2019 p. 1703.]
+[Division 1 inserted: Gazette 10 Dec 2004 p. 5974-5; amended: Gazette 23 Jun 2009 p. 2493; 28 May 2019 p. 1703; SL 2026/223 r. 4.]
 ## Division 2 — Things
 [Heading inserted: Gazette 23 Jun 2009 p. 2493.]
 Item | Description

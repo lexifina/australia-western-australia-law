@@ -29,6 +29,7 @@ Police Regulations Amendment (Poisons) Regulations 2016 Pt. 2 | 17 Jan 2017 p. 4
 Reprint 4: The Misuse of Drugs Regulations 1982 as at 17 Feb 2017 (includes amendments listed above)
 Misuse of Drugs Amendment Regulations 2019 | 28 May 2019 p. 1703 | r. 1 and 2: 28 May 2019 (see r. 2(a)); Regulations other than r. 1 and 2: 29 May 2019 (see r. 2(b))
 Misuse of Drugs Amendment Regulations 2022 | SL 2022/92 17 Jun 2022 | r. 1 and 2: 17 Jun 2022 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Jun 2022 (see r. 2(b) and SL 2022/81 cl. 2)
+Misuse of Drugs Amendment Regulations 2026 | SL 2026/223 28 Oct 2026 | r. 1 and 2: 28 Oct 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 29 Oct 2026 (see r. 2(b))
 Other notes
 The Drugs Act 1908 of South Australia was repealed on 1 Jul 2011 by the Controlled Substances Act 1984 of South Australia.
 Under the Alteration of Statutory Designations Order (No. 2) 2013 a reference in any law to the Department of Conservation and Land Managementis to be read and construed as a reference to the Department of Parks and Wildlife unless the context of the reference requires otherwise.
@@ -53,3 +54,7 @@ Schedule 4 poisonSch. 2A cl. 1
 Schedule 5 poisonSch. 2A cl. 1
 Schedule 6 poisonSch. 2A cl. 1
 sufficient samples7B(1)
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
