@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Electricity Industry (Solar Power Purchase Agreements) Exemption Order 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Electricity Industry (Solar Power Purchase Agreements) Exemption Order 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Electricity Industry (Solar Power Purchase Agreements) Exemption Order 2016 | 23 Dec 2016 p. 5900-3 | cl. 1 and 2: 23 Dec 2016 (see cl. 2(a)); Order other than cl. 1 and 2: 24 Dec 2016 (see cl. 2(b))
@@ -7,6 +7,11 @@ Electricity Industry (Solar Power Purchase Agreements) Exemption Amendment Order
 Electricity Industry (Solar Power Purchase Agreements) Exemption Amendment Order 2018 | 29 Mar 2018 p. 1093-4 | cl. 1 and 2: 29 Mar 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 30 Mar 2018 (see cl. 2(b))
 Electricity Industry (Solar Power Purchase Agreements) Exemption Amendment Order (No. 2) 2018 | 17 Aug 2018 p. 2895 | cl. 1 and 2: 17 Aug 2018 (see cl. 2(a)); Order other than cl. 1 and 2: 18 Aug 2018 (see cl. 2(b))
 Electricity Industry (Solar Power Purchase Agreements) Exemption Amendment Order 2023 | SL 2023/31 21 Apr 2023 | cl. 1 and 2: 21 Apr 2023 (see cl. 2(a)); Order other than cl. 1 and 2: 22 Apr 2023 (see cl. 2(b))
+Electricity Industry (Solar Power Purchase Agreements) Exemption Amendment and Repeal Order 2026 (other than cl. 5) | SL 2026/221 28 Oct 2026 | cl. 1 and 2: 28 Oct 2026 (see cl. 2(a)); Order other than cl. 1, 2 and 5: 29 Oct 2026 (see cl. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Electricity Industry (Solar Power Purchase Agreements) Exemption Amendment and Repeal Order 2026 cl. 5 | SL 2026/221 28 Oct 2026 | 1 Mar 2027 (see cl. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -16,3 +21,7 @@ financial year6(1)
 solar power purchase agreement3
 solar power system3
 supplier3
+© State of Western Australia 2026.
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au.
+Attribute work as: © State of Western Australia 2026.
+By Authority: ANDREW JONES, Government Printer
