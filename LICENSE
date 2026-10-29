@@ -1,0 +1,9 @@
+The legislation text in this repository is Copyright State of Western Australia, licensed under the Creative
+Commons Attribution 4.0 International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Based on content from the Western Australian Legislation website at 28 October 2026 to 29 October 2026. For the latest information on Western Australian legislation, visit www.legislation.wa.gov.au.
+
+Changes made: the text is split into one file per provision, with note-reference numbers, the cover page and the
+table of contents removed, and arranged as a git history.
+
+The arrangement, commit messages and tools are by Lexifina, offered under the same licence.
