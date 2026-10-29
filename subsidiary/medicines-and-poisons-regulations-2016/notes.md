@@ -1,5 +1,5 @@
 Notes
-This is a compilation of the Medicines and Poisons Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table.
+This is a compilation of the Medicines and Poisons Regulations 2016 and includes amendments made by other written laws. For provisions that have come into operation see the compilation table. For provisions that have not yet come into operation see the uncommenced provisions table.
 Compilation table
 Citation | Published | Commencement
 Medicines and Poisons Regulations 2016 | 17 Jan 2017 p. 443-586 | 30 Jan 2017 (see r. 2 and Gazette 17 Jan 2017 p. 403)
@@ -20,6 +20,11 @@ Health Regulations Amendment (Fees and Charges) Regulations 2025 Pt. 7 | SL 2025
 Medicines and Poisons Amendment Regulations 2025 | SL 2025/212 17 Dec 2025 | r. 1 and 2: 17 Dec 2025 (see r. 2(a)); Regulations other than r. 1 and 2: 18 Dec 2025 (see r. 2(b))
 Health Regulations Amendment (Fees and Charges) Regulations 2026 Pt. 7 | SL 2026/121 24 Jun 2026 | 1 Jul 2026 (see r. 2(b))
 Medicines and Poisons Amendment Regulations 2026 | SL 2026/202 1 Oct 2026 | r. 1 and 2: 1 Oct 2026 (see r. 2(a)); Regulations other than r. 1 and 2: 2 Oct 2026 (see r. 2(b))
+Medicines and Poisons Amendment Regulations (No. 2) 2026 (other than r. 9 and 10) | SL 2026/222 28 Oct 2026 | r. 1 and 2: 28 Oct 2026 (see r. 2(a)); r. 3-8: 29 Oct 2026 (see r. 2(c))
+Uncommenced provisions table
+To view the text of the uncommenced provisions see Subsidiary legislation as made on the WA Legislation website.
+Citation | Published | Commencement
+Medicines and Poisons Amendment Regulations (No. 2) 2026 r. 9 and 10 | SL 2026/222 28 Oct 2026 | 30 Nov 2026 (see r. 2(b))
 Defined terms
 [This is a list of terms defined and the provisions where they are defined. The list is not part of the law.]
 Defined termProvision(s)
@@ -54,6 +59,7 @@ dental hygienist37
 dental therapist37
 dental worker47(1)
 dentist3(1)
+designated registered nurse prescriber3(1)
 detection device94
 detoxification prescriber133
 detoxification treatment135(1)
@@ -117,7 +123,7 @@ racing yacht37
 real-time prescription monitoring system22A(1)
 recordable event144(1)
 register147(1)
-registered nurse37
+registered nurse3(1)
 regulated Australian vessel37
 relevant health professional22A(1)
 relevant medicine22A(1)
