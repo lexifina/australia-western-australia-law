@@ -1,5 +1,7 @@
 # Western Australia law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Western Australia, Australia, which global-law reads at `australia/western-australia/acts/`.
+
 Every Western Australian Act with a consolidated version on the WA Legislation website, 1286 Acts
 (811 in force and 475 repealed), and
 1538 instruments of subsidiary legislation (765 in force and 773 ceased: regulations, rules, by-laws, codes, orders and others),
